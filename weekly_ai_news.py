@@ -1231,6 +1231,45 @@ h1 {
   max-width: 760px;
 }
 
+.ai-illustration {
+  width: min(240px, 48vw);
+  aspect-ratio: 1;
+  align-self: center;
+  border-radius: 28px;
+  background:
+    linear-gradient(90deg, transparent 48%, rgba(20, 22, 26, 0.1) 48% 52%, transparent 52%),
+    linear-gradient(180deg, transparent 48%, rgba(20, 22, 26, 0.1) 48% 52%, transparent 52%),
+    var(--panel-blue);
+  box-shadow: var(--shadow);
+  position: relative;
+}
+
+.ai-illustration::before {
+  content: "AI";
+  position: absolute;
+  inset: 52px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(20, 22, 26, 0.08);
+  display: grid;
+  place-items: center;
+  font-size: 42px;
+  font-weight: 520;
+}
+
+.ai-illustration::after {
+  content: "";
+  position: absolute;
+  inset: 26px;
+  border: 1px solid rgba(20, 22, 26, 0.12);
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at 0 50%, var(--ink) 0 4px, transparent 5px),
+    radial-gradient(circle at 100% 50%, var(--ink) 0 4px, transparent 5px),
+    radial-gradient(circle at 50% 0, var(--ink) 0 4px, transparent 5px),
+    radial-gradient(circle at 50% 100%, var(--ink) 0 4px, transparent 5px);
+}
+
 .page-head .meta {
   align-self: center;
   background: var(--panel);
@@ -1594,6 +1633,15 @@ h2::before {
     font-size: 34px;
   }
 
+  .ai-illustration {
+    width: 180px;
+  }
+
+  .ai-illustration::before {
+    inset: 40px;
+    font-size: 34px;
+  }
+
   .news-item {
     grid-template-columns: 48px minmax(0, 1fr);
     gap: 12px;
@@ -1859,8 +1907,8 @@ def render_site_index(entries: List[Dict[str, Any]]) -> str:
     </div>
   </header>
   <main class="shell">
-    <section class="page-head">
-      <h1>按周查看相关新闻</h1>
+    <section class="page-head page-head-index">
+      <div class="ai-illustration" aria-label="AI 新闻资讯周报"></div>
       <div class="meta">点击日期区间进入当周内容。最后生成：{generated}</div>
     </section>
     <section class="week-list">
