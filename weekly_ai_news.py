@@ -33,6 +33,7 @@ ROOT = Path(__file__).resolve().parent
 CONFIG_FILE = ROOT / "config" / "settings.json"
 DATA_DIR = ROOT / "data"
 OUTPUT_DIR = ROOT / "outputs"
+FEEDBACK_DIR = ROOT / "feedback"
 INBOX_FILE = ROOT / "inbox" / "manual_items.jsonl"
 PROMPT_FILE = ROOT / "prompts" / "rewrite_prompt.md"
 SITE_DIR = ROOT / "site"
@@ -61,6 +62,7 @@ def load_settings() -> Dict[str, Any]:
 def ensure_dirs() -> None:
     DATA_DIR.mkdir(exist_ok=True)
     OUTPUT_DIR.mkdir(exist_ok=True)
+    FEEDBACK_DIR.mkdir(exist_ok=True)
     INBOX_FILE.parent.mkdir(exist_ok=True)
 
 
@@ -585,6 +587,67 @@ def hits(text: str, keywords: Iterable[str]) -> List[str]:
     return found
 
 
+def feedback_files() -> List[Path]:
+    if not FEEDBACK_DIR.exists():
+        return []
+    return sorted(FEEDBACK_DIR.glob("*.json"))
+
+
+def load_feedback() -> List[Dict[str, Any]]:
+    records: List[Dict[str, Any]] = []
+    for path in feedback_files():
+        try:
+            with path.open("r", encoding="utf-8") as f:
+                data = json.load(f)
+        except (OSError, json.JSONDecodeError):
+            continue
+        raw_records = data.get("records", []) if isinstance(data, dict) else data
+        if not isinstance(raw_records, list):
+            continue
+        for record in raw_records:
+            if isinstance(record, dict):
+                records.append(record)
+    return records
+
+
+def feedback_terms(records: List[Dict[str, Any]]) -> List[str]:
+    terms: List[str] = []
+    for record in records:
+        if not record.get("fit"):
+            continue
+        text = compact_text(" ".join(str(record.get(key, "")) for key in ("original", "rewrite", "sourceTitle")))
+        for term in re.findall(r"[A-Za-z][A-Za-z0-9.+-]{2,}|[\u4e00-\u9fff]{2,8}", text):
+            if term in {"6月", "AI", "相关", "正式", "推出", "上线", "发布", "能力", "功能", "产品"}:
+                continue
+            terms.append(term.lower())
+    seen: set[str] = set()
+    unique_terms: List[str] = []
+    for term in terms:
+        if term in seen:
+            continue
+        seen.add(term)
+        unique_terms.append(term)
+    return unique_terms[:80]
+
+
+def apply_feedback_to_items(items: List[Dict[str, Any]], records: List[Dict[str, Any]]) -> None:
+    rewrites = [
+        record
+        for record in records
+        if compact_text(record.get("rewrite", "")) and (record.get("sourceUrl") or record.get("original"))
+    ]
+    for item in items:
+        item_url = normalize_url(compact_text(item.get("url", "")))
+        item_text = haystack(item)
+        for record in rewrites:
+            record_url = normalize_url(compact_text(record.get("sourceUrl", "")))
+            original = compact_text(record.get("original", "")).lower()
+            if (item_url and record_url and item_url == record_url) or (original and original[:40] in item_text):
+                item["draft"] = compact_text(record.get("rewrite", ""))
+                item["feedback_rewrite"] = True
+                break
+
+
 def title_text(item: Dict[str, Any]) -> str:
     return compact_text(str(item.get("title", ""))).lower()
 
@@ -677,6 +740,7 @@ def score_item(item: Dict[str, Any], settings: Dict[str, Any]) -> Dict[str, Any]
     ecommerce_hits = hits(text, settings.get("ecommerce_keywords", []))
     product_hits = hits(text, settings.get("product_keywords", []))
     action_hits = hits(text, settings.get("action_keywords", []))
+    feedback_hits = hits(text, settings.get("feedback_terms", []))
 
     if priority_company_hits:
         score += 4
@@ -696,6 +760,10 @@ def score_item(item: Dict[str, Any], settings: Dict[str, Any]) -> Dict[str, Any]
     if action_hits:
         score += min(3, 1.0 * len(action_hits))
         reasons.append("发布动作：" + "、".join(action_hits[:4]))
+
+    if feedback_hits:
+        score += min(3, 0.8 * len(feedback_hits))
+        reasons.append("符合历史偏好：" + "、".join(feedback_hits[:4]))
 
     if is_question_or_analysis(item):
         score -= 5
@@ -1037,14 +1105,18 @@ def site_css() -> str:
     return """
 :root {
   color-scheme: light;
-  --bg: #f6f7f9;
+  --bg: #f4f7fb;
   --surface: #ffffff;
+  --surface-soft: #f8fbff;
   --ink: #1b1f24;
-  --muted: #657282;
-  --line: #dfe4ea;
-  --accent: #1f6feb;
-  --accent-soft: #e8f1ff;
-  --focus: #0f766e;
+  --muted: #66758a;
+  --line: #dce5ef;
+  --accent: #0f766e;
+  --accent-2: #2563eb;
+  --accent-soft: #e8f7f4;
+  --good: #14b8a6;
+  --warn: #b7791f;
+  --shadow: 0 14px 40px rgba(24, 39, 75, 0.08);
 }
 
 * {
@@ -1053,7 +1125,9 @@ def site_css() -> str:
 
 body {
   margin: 0;
-  background: var(--bg);
+  background:
+    linear-gradient(180deg, rgba(232, 247, 244, 0.72), rgba(244, 247, 251, 0) 260px),
+    var(--bg);
   color: var(--ink);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.65;
@@ -1064,13 +1138,17 @@ a {
 }
 
 .shell {
-  width: min(1040px, calc(100% - 32px));
+  width: min(1120px, calc(100% - 32px));
   margin: 0 auto;
 }
 
 .topbar {
-  background: var(--surface);
+  background: rgba(255, 255, 255, 0.82);
   border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(18px);
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 .topbar .shell {
@@ -1082,9 +1160,21 @@ a {
 }
 
 .brand {
-  font-size: 20px;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 18px;
   font-weight: 700;
   text-decoration: none;
+}
+
+.brand::before {
+  content: "";
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  background: var(--good);
+  box-shadow: 0 0 0 6px rgba(20, 184, 166, 0.14);
 }
 
 .meta {
@@ -1093,26 +1183,39 @@ a {
 }
 
 main {
-  padding: 28px 0 48px;
+  padding: 34px 0 56px;
 }
 
 .page-head {
   display: grid;
-  gap: 6px;
-  margin-bottom: 22px;
+  gap: 8px;
+  margin-bottom: 24px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid var(--line);
 }
 
 h1 {
   margin: 0;
-  font-size: 28px;
+  font-size: 32px;
   line-height: 1.25;
   letter-spacing: 0;
 }
 
 h2 {
-  margin: 28px 0 12px;
-  font-size: 18px;
+  margin: 32px 0 14px;
+  font-size: 16px;
   letter-spacing: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+h2::before {
+  content: "";
+  width: 4px;
+  height: 18px;
+  border-radius: 999px;
+  background: var(--accent);
 }
 
 .week-list {
@@ -1126,13 +1229,15 @@ h2 {
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 8px;
-  padding: 16px;
+  padding: 18px;
   text-decoration: none;
+  box-shadow: var(--shadow);
 }
 
 .week-link:hover {
   border-color: var(--accent);
-  background: var(--accent-soft);
+  background: var(--surface-soft);
+  transform: translateY(-1px);
 }
 
 .week-title {
@@ -1152,7 +1257,7 @@ h2 {
 
 .news-list {
   display: grid;
-  gap: 12px;
+  gap: 14px;
 }
 
 .news-item p {
@@ -1161,6 +1266,7 @@ h2 {
 
 .brief {
   font-size: 16px;
+  color: #16202c;
 }
 
 .source {
@@ -1190,6 +1296,140 @@ h2 {
   font-size: 14px;
 }
 
+.feedback-panel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px 14px;
+  box-shadow: var(--shadow);
+  margin-bottom: 22px;
+}
+
+.feedback-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.pill {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 4px 10px;
+  background: var(--surface-soft);
+}
+
+.feedback-actions,
+.item-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.button,
+.edit-toggle,
+.copy-feedback {
+  appearance: none;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  line-height: 1;
+  padding: 9px 12px;
+}
+
+.button:hover,
+.edit-toggle:hover,
+.copy-feedback:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.news-feedback {
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.fit-check {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.fit-check input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--accent);
+}
+
+.news-item.is-fit {
+  border-color: rgba(15, 118, 110, 0.38);
+  background: linear-gradient(180deg, #ffffff, #f7fffd);
+}
+
+.edit-area {
+  display: none;
+  margin-top: 14px;
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+}
+
+.news-item.is-editing .edit-area {
+  display: block;
+}
+
+.rewrite-input {
+  width: 100%;
+  min-height: 112px;
+  resize: vertical;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 12px;
+  color: var(--ink);
+  background: var(--surface-soft);
+  font: inherit;
+  line-height: 1.65;
+}
+
+.rewrite-input:focus {
+  outline: 2px solid rgba(15, 118, 110, 0.16);
+  border-color: var(--accent);
+}
+
+.feedback-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 22px;
+  transform: translateX(-50%);
+  background: #10201e;
+  color: #ffffff;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 13px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 180ms ease;
+  z-index: 20;
+}
+
+.feedback-toast.show {
+  opacity: 1;
+}
+
 .empty {
   background: var(--surface);
   border: 1px solid var(--line);
@@ -1200,7 +1440,9 @@ h2 {
 
 @media (max-width: 640px) {
   .topbar .shell,
-  .week-title {
+  .week-title,
+  .feedback-panel,
+  .news-feedback {
     align-items: flex-start;
     flex-direction: column;
   }
@@ -1209,6 +1451,162 @@ h2 {
     font-size: 24px;
   }
 }
+""".strip()
+
+
+def site_js() -> str:
+    return r"""
+(() => {
+  const items = [...document.querySelectorAll(".news-item")];
+  if (!items.length) return;
+
+  const pageKey = location.pathname.split("/").pop()?.replace(".html", "") || "current";
+  const storeKey = `ai-news-feedback:${pageKey}`;
+  const hash = (value) => {
+    let output = 0;
+    for (let index = 0; index < value.length; index += 1) {
+      output = (output * 31 + value.charCodeAt(index)) >>> 0;
+    }
+    return output.toString(36);
+  };
+  const load = () => {
+    try {
+      return JSON.parse(localStorage.getItem(storeKey) || "{}");
+    } catch (_) {
+      return {};
+    }
+  };
+  const save = (state) => localStorage.setItem(storeKey, JSON.stringify(state));
+  const state = load();
+
+  const toast = document.createElement("div");
+  toast.className = "feedback-toast";
+  document.body.appendChild(toast);
+  const showToast = (text) => {
+    toast.textContent = text;
+    toast.classList.add("show");
+    window.setTimeout(() => toast.classList.remove("show"), 1400);
+  };
+
+  const updateStats = () => {
+    const fitCount = Object.values(state).filter((entry) => entry?.fit).length;
+    const rewriteCount = Object.values(state).filter((entry) => entry?.rewrite?.trim()).length;
+    document.querySelector("[data-fit-count]").textContent = fitCount;
+    document.querySelector("[data-rewrite-count]").textContent = rewriteCount;
+  };
+
+  const exportFeedback = async () => {
+    const records = Object.entries(state).map(([id, entry]) => ({ id, ...entry }));
+    const payload = {
+      week: pageKey,
+      exportedAt: new Date().toISOString(),
+      records,
+    };
+    const text = JSON.stringify(payload, null, 2);
+    try {
+      await navigator.clipboard.writeText(text);
+      showToast("反馈已复制");
+    } catch (_) {
+      const blob = new Blob([text], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url;
+      link.download = `${pageKey}-feedback.json`;
+      link.click();
+      URL.revokeObjectURL(url);
+      showToast("反馈已导出");
+    }
+  };
+
+  const panel = document.createElement("section");
+  panel.className = "feedback-panel";
+  panel.innerHTML = `
+    <div class="feedback-stats">
+      <span class="pill">已勾选 <strong data-fit-count>0</strong></span>
+      <span class="pill">已润色 <strong data-rewrite-count>0</strong></span>
+    </div>
+    <div class="feedback-actions">
+      <button class="button copy-feedback" type="button">导出反馈</button>
+    </div>
+  `;
+  document.querySelector(".page-head")?.after(panel);
+  panel.querySelector(".copy-feedback").addEventListener("click", exportFeedback);
+
+  items.forEach((item, index) => {
+    const brief = item.querySelector(".brief")?.textContent.trim() || "";
+    const sourceLink = item.querySelector(".source a");
+    const sourceTitle = sourceLink?.textContent.trim() || "";
+    const sourceUrl = sourceLink?.href || "";
+    const id = hash(`${brief}|${sourceUrl}|${index}`);
+    const entry = state[id] || {
+      fit: false,
+      rewrite: "",
+      original: brief,
+      sourceTitle,
+      sourceUrl,
+    };
+    state[id] = entry;
+
+    const controls = document.createElement("div");
+    controls.className = "news-feedback";
+    controls.innerHTML = `
+      <label class="fit-check">
+        <input type="checkbox" ${entry.fit ? "checked" : ""}>
+        <span>符合</span>
+      </label>
+      <div class="item-actions">
+        <button class="edit-toggle" type="button" aria-expanded="false">修改</button>
+      </div>
+    `;
+
+    const editArea = document.createElement("div");
+    editArea.className = "edit-area";
+    const textarea = document.createElement("textarea");
+    textarea.className = "rewrite-input";
+    textarea.placeholder = "输入你的润色版本";
+    textarea.value = entry.rewrite || "";
+    editArea.append(textarea);
+    item.prepend(controls);
+    item.append(editArea);
+
+    const checkbox = controls.querySelector("input");
+    const button = controls.querySelector(".edit-toggle");
+
+    const syncVisual = () => item.classList.toggle("is-fit", Boolean(entry.fit));
+    syncVisual();
+
+    checkbox.addEventListener("change", () => {
+      entry.fit = checkbox.checked;
+      entry.original = brief;
+      entry.sourceTitle = sourceTitle;
+      entry.sourceUrl = sourceUrl;
+      state[id] = entry;
+      save(state);
+      syncVisual();
+      updateStats();
+    });
+
+    button.addEventListener("click", () => {
+      const open = !item.classList.contains("is-editing");
+      item.classList.toggle("is-editing", open);
+      button.setAttribute("aria-expanded", String(open));
+      if (open) textarea.focus();
+    });
+
+    textarea.addEventListener("input", () => {
+      entry.rewrite = textarea.value;
+      entry.original = brief;
+      entry.sourceTitle = sourceTitle;
+      entry.sourceUrl = sourceUrl;
+      state[id] = entry;
+      save(state);
+      updateStats();
+    });
+  });
+
+  save(state);
+  updateStats();
+})();
 """.strip()
 
 
@@ -1334,6 +1732,7 @@ def render_site_week(
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{label} AI 新闻资讯</title>
   <link rel="stylesheet" href="../assets/site.css">
+  <script src="../assets/site.js" defer></script>
 </head>
 <body>
   <header class="topbar">
@@ -1365,6 +1764,7 @@ def rebuild_site(items: List[Dict[str, Any]], excluded: List[Dict[str, Any]], se
     page_path = SITE_WEEKS_DIR / page_name
     page_path.write_text(render_site_week(items, excluded, settings, start, end), encoding="utf-8")
     (SITE_DIR / "assets" / "site.css").write_text(site_css() + "\n", encoding="utf-8")
+    (SITE_DIR / "assets" / "site.js").write_text(site_js() + "\n", encoding="utf-8")
 
     entries = [entry for entry in read_site_entries() if entry.get("week") != key]
     entries.append(
@@ -1421,6 +1821,8 @@ def command_draft(args: argparse.Namespace) -> int:
     if args.min_score is not None:
         settings["min_score"] = args.min_score
 
+    feedback_records = load_feedback()
+    settings["feedback_terms"] = feedback_terms(feedback_records)
     input_path = getattr(args, "input", None)
     candidate_file = Path(input_path).resolve() if input_path else latest_candidate_file()
     fetched_items = load_json_items(candidate_file) if candidate_file else []
@@ -1429,6 +1831,7 @@ def command_draft(args: argparse.Namespace) -> int:
     if not merged:
         print("No candidates available; keeping existing draft and site files unchanged.")
         return 0
+    apply_feedback_to_items(merged, feedback_records)
     scored = [score_item(item, settings) for item in merged]
 
     min_score = float(settings.get("min_score", 6))

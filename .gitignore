@@ -6,4 +6,5 @@ data/*.json
 data/*.log
 data/*.out.log
 data/*.err.log
+feedback/*.json
 .DS_Store
