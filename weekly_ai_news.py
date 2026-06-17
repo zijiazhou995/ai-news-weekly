@@ -1197,7 +1197,12 @@ main {
   pointer-events: none;
 }
 
-.page-head::before {
+.page-head-index::before,
+.page-head-index::after {
+  content: "";
+}
+
+.page-head-index::before {
   width: 148px;
   height: 68px;
   right: 334px;
@@ -1210,7 +1215,7 @@ main {
     rgba(255, 255, 255, 0.42);
 }
 
-.page-head::after {
+.page-head-index::after {
   width: 82px;
   height: 82px;
   right: 40px;
@@ -1244,16 +1249,44 @@ h1 {
   align-self: center;
   background: var(--panel);
   border-radius: 8px;
-  padding: 22px;
+  padding: 18px;
   color: var(--ink);
   font-size: 14px;
   box-shadow: var(--shadow);
 }
 
+.page-head-index .meta {
+  padding: 22px;
+}
+
+.page-head:not(.page-head-index) {
+  min-height: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.page-head:not(.page-head-index)::before,
+.page-head:not(.page-head-index)::after {
+  display: none;
+}
+
+.page-head:not(.page-head-index) .meta {
+  width: fit-content;
+  max-width: 100%;
+}
+
+.page-head:not(.page-head-index) h1 {
+  font-size: 30px;
+  line-height: 1.18;
+  max-width: none;
+}
+
 h2 {
-  margin: 34px 0 16px;
-  font-size: 19px;
-  font-weight: 560;
+  margin: 26px 0 12px;
+  font-size: 17px;
+  font-weight: 520;
   letter-spacing: 0;
   display: flex;
   align-items: center;
@@ -1320,7 +1353,7 @@ h2::before {
   grid-template-columns: 84px minmax(0, 1fr) auto;
   gap: 18px;
   align-items: start;
-  padding: 24px 0;
+  padding: 18px 0;
   border-bottom: 1px solid var(--line);
   text-decoration: none;
   position: relative;
@@ -1352,9 +1385,9 @@ h2::before {
 
 .brief {
   margin: 0;
-  font-size: clamp(15px, 1.2vw, 18px);
-  line-height: 1.62;
-  font-weight: 380;
+  font-size: clamp(14px, 1.05vw, 16px);
+  line-height: 1.55;
+  font-weight: 360;
   color: var(--ink);
 }
 
@@ -1549,7 +1582,7 @@ h2::before {
   display: flex;
   align-items: center;
   gap: 8px;
-  margin-top: 12px;
+  margin-top: 8px;
 }
 
 .score.is-visible {
@@ -1600,7 +1633,7 @@ h2::before {
   }
 
   h1 {
-    font-size: 34px;
+    font-size: 26px;
   }
 
   .ai-illustration {
@@ -1610,6 +1643,7 @@ h2::before {
   .news-item {
     grid-template-columns: 48px minmax(0, 1fr);
     gap: 12px;
+    padding: 16px 0;
   }
 
   .news-item::before {
