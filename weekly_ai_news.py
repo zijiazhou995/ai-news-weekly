@@ -545,6 +545,43 @@ def hits(text: str, keywords: Iterable[str]) -> List[str]:
     return found
 
 
+def title_text(item: Dict[str, Any]) -> str:
+    return compact_text(str(item.get("title", ""))).lower()
+
+
+def is_question_or_analysis(item: Dict[str, Any]) -> bool:
+    title = title_text(item)
+    weak_markers = [
+        "?",
+        "？",
+        "如何",
+        "为什么",
+        "背后",
+        "解读",
+        "观察",
+        "评论",
+        "盘点",
+        "周报",
+        "早报",
+        "晨报",
+        "战略",
+        "生态博弈",
+        "未来",
+        "要来了",
+        "不打算",
+        "优势和瓶颈",
+        "融合的这步",
+    ]
+    if len(title) <= 8 and not hits(title, ["发布", "上线", "开放", "新增", "推出"]):
+        return True
+    return any(marker.lower() in title for marker in weak_markers)
+
+
+def is_roundup(item: Dict[str, Any]) -> bool:
+    title = title_text(item)
+    return bool(re.search(r"\d+月\d+日.*(新产品讯息|早报|晨报|日报|周报)", title))
+
+
 def guess_company(item: Dict[str, Any], settings: Dict[str, Any]) -> str:
     if item.get("company"):
         return str(item["company"])
@@ -577,6 +614,13 @@ def score_item(item: Dict[str, Any], settings: Dict[str, Any]) -> Dict[str, Any]
         item["excluded"] = True
         item["exclude_reason"] = "排除词：" + "、".join(hard_exclude[:4])
         item["score"] = -10
+        item["score_reasons"] = []
+        return item
+
+    if is_roundup(item):
+        item["excluded"] = True
+        item["exclude_reason"] = "排除聚合/早报标题"
+        item["score"] = -8
         item["score_reasons"] = []
         return item
 
@@ -613,9 +657,17 @@ def score_item(item: Dict[str, Any], settings: Dict[str, Any]) -> Dict[str, Any]
         score += min(3, 1.0 * len(action_hits))
         reasons.append("发布动作：" + "、".join(action_hits[:4]))
 
+    if is_question_or_analysis(item):
+        score -= 5
+        reasons.append("标题像分析/评论，降权")
+
     if item.get("official_source"):
         score += 1.5
         reasons.append("官方来源")
+
+    if "aibase" in compact_text(item.get("source", "")).lower():
+        score += 1
+        reasons.append("AIbase 来源")
 
     if model_hits:
         score -= 1
@@ -677,6 +729,18 @@ def first_sentence(text: str, limit: int = 95) -> str:
     return compact_text(sentence, limit)
 
 
+def source_lead(text: str, limit: int = 180) -> str:
+    text = compact_text(text)
+    if not text:
+        return ""
+    parts = re.split(r"(?<=[。.!?？；;])\s*", text)
+    if len(parts) >= 2 and len(parts[0]) < 55:
+        lead = parts[0] + parts[1]
+    else:
+        lead = parts[0]
+    return compact_text(lead, limit)
+
+
 def clean_title_for_brief(title: str) -> str:
     title = compact_text(title, 120)
     title = re.sub(r"[_-](腾讯新闻|新浪财经|新浪网)$", "", title).strip()
@@ -694,13 +758,19 @@ def clean_title_for_brief(title: str) -> str:
 
 def guess_action(text: str) -> str:
     actions = [
-        ("发布", "发布"),
         ("正式发布", "发布"),
-        ("推出", "推出"),
+        ("发布", "发布"),
         ("正式推出", "推出"),
+        ("推出", "推出"),
+        ("正式上线", "上线"),
         ("上线", "上线"),
-        ("开放", "开放"),
+        ("开放接入", "开放接入"),
         ("接入", "开放接入"),
+        ("开放", "开放"),
+        ("新增", "新增"),
+        ("升级", "升级"),
+        ("内测", "开放内测"),
+        ("公测", "开放公测"),
         ("rolls out", "上线"),
         ("launches", "推出"),
         ("unveils", "发布"),
@@ -709,7 +779,7 @@ def guess_action(text: str) -> str:
     for marker, action in actions:
         if marker.lower() in lower:
             return action
-    return "更新"
+    return "报道"
 
 
 def make_brief(item: Dict[str, Any], settings: Dict[str, Any]) -> str:
@@ -719,13 +789,15 @@ def make_brief(item: Dict[str, Any], settings: Dict[str, Any]) -> str:
     item_date = compact_text(str(item.get("date", ""))) or date_cn(item.get("published_at"))
     company = item.get("company_guess") or guess_company(item, settings)
     title = clean_title_for_brief(item.get("title", ""))
-    summary = first_sentence(item.get("summary", ""), 110)
+    summary = source_lead(item.get("summary", ""), 180)
     action = guess_action(title)
-    if action == "更新":
+    if action == "报道":
         action = guess_action(summary)
 
     if summary and summary != title:
         return f"{item_date}，{company}{action}“{title}”。{summary}"
+    if action == "报道":
+        return f"{item_date}，{company}相关动态：“{title}”。"
     return f"{item_date}，{company}{action}“{title}”。"
 
 
@@ -763,35 +835,46 @@ def markdown_link(title: str, url: str) -> str:
     return f"[{title}]({url})"
 
 
-def render_draft(items: List[Dict[str, Any]], excluded: List[Dict[str, Any]], settings: Dict[str, Any]) -> str:
-    lookback_days = int(settings.get("lookback_days", 8))
-    start, end = week_range(lookback_days)
-    min_score = float(settings.get("min_score", 6))
+def is_strong_match(item: Dict[str, Any], settings: Dict[str, Any]) -> bool:
+    text = haystack(item)
+    score = float(item.get("score", 0))
+    has_priority = bool(hits(text, settings.get("priority_companies", [])))
+    has_commerce = bool(hits(text, settings.get("ecommerce_keywords", [])))
+    has_known = bool(hits(text, settings.get("known_companies", [])))
+    has_product = bool(hits(text, settings.get("product_keywords", [])))
+    has_action = bool(hits(text, settings.get("action_keywords", [])))
+    reliable_source = item.get("official_source") or "aibase" in compact_text(item.get("source", "")).lower()
+    return (
+        score >= float(settings.get("min_score", 6)) + 6
+        and has_product
+        and has_action
+        and (has_priority or has_commerce or (has_known and reliable_source))
+        and not is_question_or_analysis(item)
+    )
 
-    lines: List[str] = []
-    lines.append(f"# 本周 AI 产品/功能动态草稿（{week_key()}）")
-    lines.append("")
-    lines.append(f"生成时间：{now_cn().strftime('%Y-%m-%d %H:%M')}  ")
-    lines.append(f"覆盖范围：{start.strftime('%Y-%m-%d')} 至 {end.strftime('%Y-%m-%d')}  ")
-    lines.append(f"筛选阈值：{min_score:g} 分")
-    lines.append("")
-    lines.append("## 可直接复制版（请人工核验）")
-    lines.append("")
 
-    if not items:
-        lines.append("> 暂无达到阈值的候选。可以先运行 `python3 weekly_ai_news.py add` 手动补充重要链接，再重新生成草稿。")
-    for index, item in enumerate(items, start=1):
-        lines.append(f"{index}. {make_brief(item, settings)}")
+def split_featured_backup(items: List[Dict[str, Any]], settings: Dict[str, Any]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+    featured: List[Dict[str, Any]] = []
+    backup: List[Dict[str, Any]] = []
+    for item in items:
+        if is_strong_match(item, settings):
+            featured.append(item)
+        else:
+            backup.append(item)
+    return featured, backup
 
-    lines.append("")
-    lines.append("## 精选短讯（带来源和评分）")
-    lines.append("")
 
+def append_markdown_items(
+    lines: List[str],
+    items: List[Dict[str, Any]],
+    settings: Dict[str, Any],
+    start_index: int = 1,
+) -> int:
     grouped: Dict[str, List[Dict[str, Any]]] = {}
     for item in items:
         grouped.setdefault(item_category(item, settings), []).append(item)
 
-    index = 1
+    index = start_index
     for category in ("阿里 / 电商重点", "国内大厂", "海外大厂 / 知名产品"):
         category_items = grouped.get(category, [])
         if not category_items:
@@ -808,16 +891,50 @@ def render_draft(items: List[Dict[str, Any]], excluded: List[Dict[str, Any]], se
             lines.append(f"   评分：{item.get('score')}；理由：{reasons or '手动候选'}")
             lines.append("")
             index += 1
+    return index
 
-    for item in grouped.get("其他", []):
-        brief = make_brief(item, settings)
-        source_title = compact_text(item.get("title", "来源"), 80)
-        source_url_value = compact_text(item.get("url", ""))
-        reasons = "；".join(item.get("score_reasons", []))
-        lines.append(f"{index}. [ ] {brief}")
-        lines.append(f"   来源：{markdown_link(source_title, source_url_value)}")
-        lines.append(f"   评分：{item.get('score')}；理由：{reasons or '手动候选'}")
-        lines.append("")
+
+def render_draft(items: List[Dict[str, Any]], excluded: List[Dict[str, Any]], settings: Dict[str, Any]) -> str:
+    lookback_days = int(settings.get("lookback_days", 8))
+    start, end = week_range(lookback_days)
+    min_score = float(settings.get("min_score", 6))
+
+    lines: List[str] = []
+    lines.append(f"# 本周 AI 产品/功能动态草稿（{week_key()}）")
+    lines.append("")
+    lines.append(f"生成时间：{now_cn().strftime('%Y-%m-%d %H:%M')}  ")
+    lines.append(f"覆盖范围：{start.strftime('%Y-%m-%d')} 至 {end.strftime('%Y-%m-%d')}  ")
+    lines.append(f"筛选阈值：{min_score:g} 分")
+    lines.append("")
+    featured, backup = split_featured_backup(items, settings)
+    lines.append("## 更符合要求（请人工核验）")
+    lines.append("")
+
+    if not featured:
+        lines.append("> 暂无达到阈值的候选。可以先运行 `python3 weekly_ai_news.py add` 手动补充重要链接，再重新生成草稿。")
+    for index, item in enumerate(featured, start=1):
+        lines.append(f"{index}. {make_brief(item, settings)}")
+
+    lines.append("")
+    lines.append("## 备选线索（优先级较低）")
+    lines.append("")
+    if not backup:
+        lines.append("- 无")
+    for index, item in enumerate(backup, start=1):
+        lines.append(f"{index}. {make_brief(item, settings)}")
+
+    lines.append("")
+    lines.append("## 更符合要求（带来源和评分）")
+    lines.append("")
+    append_markdown_items(lines, featured, settings)
+
+    lines.append("")
+    lines.append("## 备选线索（带来源和评分）")
+    lines.append("")
+    if backup:
+        append_markdown_items(lines, backup, settings)
+    else:
+        lines.append("- 无")
 
     lines.append("## 候选池")
     lines.append("")
@@ -1112,17 +1229,15 @@ def render_site_week(
     start: dt.datetime,
     end: dt.datetime,
 ) -> str:
-    grouped: Dict[str, List[Dict[str, Any]]] = {}
-    for item in items:
-        grouped.setdefault(item_category(item, settings), []).append(item)
-
-    sections: List[str] = []
-    for category in ("阿里 / 电商重点", "国内大厂", "海外大厂 / 知名产品"):
-        category_items = grouped.get(category, [])
-        if not category_items:
-            continue
+    def render_group(title: str, group_items: List[Dict[str, Any]]) -> str:
+        if not group_items:
+            return f"""
+      <section>
+        <h2>{escape_html(title)}</h2>
+        <div class="empty">无</div>
+      </section>""".rstrip()
         rows: List[str] = []
-        for item in category_items:
+        for item in group_items:
             brief = escape_html(make_brief(item, settings))
             source_title = escape_html(item.get("title", "来源"))
             source_url = escape_html(item.get("url", ""))
@@ -1141,18 +1256,19 @@ def render_site_week(
           <p class="score">评分：{score} · {reasons}</p>
         </article>""".rstrip()
             )
-        sections.append(
-            f"""
+        return f"""
       <section>
-        <h2>{escape_html(category)}</h2>
+        <h2>{escape_html(title)}</h2>
         <div class="news-list">
 {chr(10).join(rows)}
         </div>
       </section>""".rstrip()
-        )
 
-    if not sections:
-        sections.append('<div class="empty">本周暂无达到筛选阈值的候选。</div>')
+    featured, backup = split_featured_backup(items, settings)
+    sections = [
+        render_group("更符合要求", featured),
+        render_group("备选线索", backup),
+    ]
 
     label = escape_html(range_label(start, end))
     full_range = escape_html(display_range(start, end))
