@@ -1,16 +1,17 @@
 :root {
   color-scheme: light;
-  --bg: #f7f7f5;
+  --bg: #0f1115;
   --surface: #ffffff;
-  --panel: #f1f3f2;
-  --panel-blue: #eef5ff;
+  --surface-soft: #f6f7f8;
+  --panel: #eef0f2;
+  --panel-blue: #e9f1ff;
   --ink: #14161a;
   --muted: #6f737a;
-  --line: #e6e6e2;
+  --line: #e2e6ea;
   --accent: #111318;
-  --accent-soft: #ecf7f4;
+  --accent-soft: #eef3f7;
   --good: #0d9488;
-  --shadow: 0 18px 48px rgba(15, 23, 42, 0.06);
+  --shadow: 0 18px 48px rgba(0, 0, 0, 0.14);
 }
 
 * {
@@ -20,10 +21,10 @@
 body {
   margin: 0;
   background:
-    radial-gradient(circle at 78% 18%, rgba(238, 245, 255, 0.96) 0 92px, transparent 94px),
-    radial-gradient(circle at 18% 34%, rgba(241, 243, 242, 0.92) 0 58px, transparent 60px),
+    radial-gradient(circle at 78% 18%, rgba(255, 255, 255, 0.05) 0 92px, transparent 94px),
+    radial-gradient(circle at 18% 34%, rgba(255, 255, 255, 0.04) 0 58px, transparent 60px),
     var(--bg);
-  color: var(--ink);
+  color: #f7f8fa;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.6;
 }
@@ -63,11 +64,11 @@ a {
   width: 8px;
   height: 8px;
   border-radius: 999px;
-  background: var(--ink);
+  background: #f7f8fa;
 }
 
 .meta {
-  color: var(--muted);
+  color: rgba(247, 248, 250, 0.7);
   font-size: 14px;
 }
 
@@ -78,7 +79,7 @@ main {
 .page-head {
   min-height: 260px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 240px;
+  grid-template-columns: 240px minmax(0, 1fr);
   gap: 28px;
   align-items: end;
   margin-bottom: 28px;
@@ -102,12 +103,12 @@ main {
   height: 68px;
   right: 334px;
   top: 40px;
-  border: 1px solid var(--line);
+  border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 8px;
   background:
-    linear-gradient(90deg, transparent 0 39%, rgba(20, 22, 26, 0.06) 39% 40%, transparent 40%),
-    linear-gradient(180deg, transparent 0 52%, rgba(20, 22, 26, 0.06) 52% 53%, transparent 53%),
-    rgba(255, 255, 255, 0.42);
+    linear-gradient(90deg, transparent 0 39%, rgba(255, 255, 255, 0.08) 39% 40%, transparent 40%),
+    linear-gradient(180deg, transparent 0 52%, rgba(255, 255, 255, 0.08) 52% 53%, transparent 53%),
+    rgba(255, 255, 255, 0.04);
 }
 
 .page-head-index::after {
@@ -115,11 +116,11 @@ main {
   height: 82px;
   right: 40px;
   bottom: 20px;
-  border: 1px solid var(--line);
+  border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 999px;
   background:
-    linear-gradient(90deg, transparent 49%, rgba(20, 22, 26, 0.08) 49% 51%, transparent 51%),
-    linear-gradient(180deg, transparent 49%, rgba(20, 22, 26, 0.08) 49% 51%, transparent 51%);
+    linear-gradient(90deg, transparent 49%, rgba(255, 255, 255, 0.1) 49% 51%, transparent 51%),
+    linear-gradient(180deg, transparent 49%, rgba(255, 255, 255, 0.1) 49% 51%, transparent 51%);
 }
 
 h1 {
@@ -129,23 +130,24 @@ h1 {
   font-weight: 520;
   letter-spacing: 0;
   max-width: 760px;
+  color: #f7f8fa;
 }
 
 .ai-illustration {
   width: min(210px, 42vw);
-  justify-self: end;
+  justify-self: start;
   align-self: center;
   display: block;
-  filter: drop-shadow(0 14px 26px rgba(15, 23, 42, 0.08));
+  filter: drop-shadow(0 14px 26px rgba(0, 0, 0, 0.22));
   transform: translateY(2px);
 }
 
 .page-head .meta {
   align-self: center;
-  background: var(--panel);
+  background: rgba(255, 255, 255, 0.08);
   border-radius: 8px;
   padding: 18px;
-  color: var(--ink);
+  color: rgba(247, 248, 250, 0.88);
   font-size: 14px;
   box-shadow: var(--shadow);
 }
@@ -160,6 +162,9 @@ h1 {
   grid-template-columns: minmax(0, 1fr);
   gap: 10px;
   margin-bottom: 18px;
+  background: var(--surface);
+  border-radius: 8px;
+  padding: 18px;
 }
 
 .page-head:not(.page-head-index)::before,
@@ -170,12 +175,28 @@ h1 {
 .page-head:not(.page-head-index) .meta {
   width: fit-content;
   max-width: 100%;
+  color: var(--muted);
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
 }
 
 .page-head:not(.page-head-index) h1 {
-  font-size: 30px;
+  font-size: 22px;
   line-height: 1.18;
   max-width: none;
+  color: var(--ink);
+}
+
+.week-page {
+  background: transparent;
+}
+
+.week-page .news-list {
+  background: var(--surface);
+  border-radius: 8px;
+  padding: 0 18px;
+  box-shadow: var(--shadow);
 }
 
 h2 {
@@ -208,7 +229,7 @@ h2::before {
 
 .week-link {
   display: block;
-  background: var(--panel);
+  background: var(--surface);
   border: 0;
   border-radius: 8px;
   padding: 28px;
@@ -217,7 +238,7 @@ h2::before {
 }
 
 .week-link:hover {
-  background: #ecefed;
+  background: var(--surface-soft);
   transform: translateY(-1px);
 }
 
@@ -240,6 +261,10 @@ h2::before {
   display: grid;
   gap: 0;
   border-top: 1px solid var(--line);
+  background: var(--surface);
+  border-radius: 8px;
+  padding: 0 18px;
+  box-shadow: var(--shadow);
 }
 
 .news-item {
@@ -252,6 +277,7 @@ h2::before {
   border-bottom: 1px solid var(--line);
   text-decoration: none;
   position: relative;
+  color: var(--ink);
 }
 
 .news-item::before {
@@ -259,7 +285,7 @@ h2::before {
   width: 54px;
   height: 54px;
   border-radius: 8px;
-  background: var(--panel);
+  background: var(--surface-soft);
   display: inline-grid;
   place-items: center;
   font-size: 18px;
@@ -331,7 +357,7 @@ h2::before {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  color: var(--muted);
+  color: rgba(247, 248, 250, 0.72);
   font-size: 13px;
 }
 
@@ -339,7 +365,7 @@ h2::before {
   border: 0;
   border-radius: 999px;
   padding: 6px 12px;
-  background: var(--panel);
+  background: rgba(255, 255, 255, 0.08);
 }
 
 .feedback-actions,
@@ -357,8 +383,8 @@ h2::before {
   appearance: none;
   border: 0;
   border-radius: 8px;
-  background: var(--panel);
-  color: var(--ink);
+  background: rgba(255, 255, 255, 0.08);
+  color: #f7f8fa;
   cursor: pointer;
   font: inherit;
   font-size: 0;
@@ -376,7 +402,7 @@ h2::before {
 .copy-feedback:hover,
 .source-link:hover,
 .score-toggle:hover {
-  background: #e8ecea;
+  background: rgba(255, 255, 255, 0.16);
 }
 
 .news-feedback {
@@ -393,12 +419,12 @@ h2::before {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: var(--ink);
+  color: #f7f8fa;
   cursor: pointer;
   width: 34px;
   height: 34px;
   border-radius: 8px;
-  background: var(--panel);
+  background: rgba(255, 255, 255, 0.08);
 }
 
 .fit-check input {
@@ -414,7 +440,7 @@ h2::before {
 .fit-check span::before {
   content: "✓";
   font-size: 16px;
-  color: var(--muted);
+  color: rgba(247, 248, 250, 0.62);
 }
 
 .fit-check input:checked + span::before {
@@ -464,7 +490,7 @@ h2::before {
   border-radius: 8px;
   padding: 14px;
   color: var(--ink);
-  background: var(--panel);
+  background: var(--surface-soft);
   font: inherit;
   line-height: 1.65;
 }
