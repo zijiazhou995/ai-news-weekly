@@ -1,0 +1,6 @@
+# 在这里手动补充你看到的重要资讯。每行是一条 JSON。
+# 支持字段：date、company、title、url、summary、draft。
+# 如果已经写好最终短讯，放到 draft 字段里，脚本会优先使用它。
+#
+# 示例：
+# {"date":"6月11日","company":"阿里云","title":"阿里云发布开源工具“秒悟 Meoo CLI”","url":"https://example.com","summary":"该工具实现本地 AI 项目一键部署上线，可自动完成数据库配置、登录与发布。"}

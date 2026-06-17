@@ -1,0 +1,9 @@
+.pycache/
+__pycache__/
+*.pyc
+data/*.json
+!data/site_weeks.json
+data/*.log
+data/*.out.log
+data/*.err.log
+.DS_Store
