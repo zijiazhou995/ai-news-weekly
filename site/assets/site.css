@@ -19,7 +19,10 @@
 
 body {
   margin: 0;
-  background: var(--bg);
+  background:
+    radial-gradient(circle at 78% 18%, rgba(238, 245, 255, 0.96) 0 92px, transparent 94px),
+    radial-gradient(circle at 18% 34%, rgba(241, 243, 242, 0.92) 0 58px, transparent 60px),
+    var(--bg);
   color: var(--ink);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.6;
@@ -51,7 +54,7 @@ a {
   align-items: center;
   gap: 10px;
   font-size: 15px;
-  font-weight: 700;
+  font-weight: 560;
   text-decoration: none;
 }
 
@@ -73,7 +76,7 @@ main {
 }
 
 .page-head {
-  min-height: 300px;
+  min-height: 260px;
   display: grid;
   grid-template-columns: minmax(0, 1fr) 300px;
   gap: 34px;
@@ -82,12 +85,45 @@ main {
   position: relative;
 }
 
+.page-head::before,
+.page-head::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+.page-head::before {
+  width: 148px;
+  height: 68px;
+  right: 334px;
+  top: 40px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background:
+    linear-gradient(90deg, transparent 0 39%, rgba(20, 22, 26, 0.06) 39% 40%, transparent 40%),
+    linear-gradient(180deg, transparent 0 52%, rgba(20, 22, 26, 0.06) 52% 53%, transparent 53%),
+    rgba(255, 255, 255, 0.42);
+}
+
+.page-head::after {
+  width: 82px;
+  height: 82px;
+  right: 40px;
+  bottom: 20px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background:
+    linear-gradient(90deg, transparent 49%, rgba(20, 22, 26, 0.08) 49% 51%, transparent 51%),
+    linear-gradient(180deg, transparent 49%, rgba(20, 22, 26, 0.08) 49% 51%, transparent 51%);
+}
+
 h1 {
   margin: 0;
-  font-size: clamp(64px, 14vw, 156px);
-  line-height: 0.9;
-  font-weight: 760;
+  font-size: clamp(42px, 8vw, 88px);
+  line-height: 1;
+  font-weight: 520;
   letter-spacing: 0;
+  max-width: 760px;
 }
 
 .page-head .meta {
@@ -102,8 +138,8 @@ h1 {
 
 h2 {
   margin: 34px 0 16px;
-  font-size: 22px;
-  font-weight: 730;
+  font-size: 19px;
+  font-weight: 560;
   letter-spacing: 0;
   display: flex;
   align-items: center;
@@ -148,8 +184,8 @@ h2::before {
   align-items: baseline;
   justify-content: space-between;
   gap: 12px;
-  font-weight: 700;
-  font-size: 18px;
+  font-weight: 560;
+  font-size: 17px;
 }
 
 .summary-line {
@@ -184,7 +220,7 @@ h2::before {
   background: var(--panel);
   display: inline-grid;
   place-items: center;
-  font-size: 24px;
+  font-size: 18px;
   line-height: 1;
 }
 
@@ -202,9 +238,9 @@ h2::before {
 
 .brief {
   margin: 0;
-  font-size: clamp(19px, 2vw, 25px);
-  line-height: 1.42;
-  font-weight: 650;
+  font-size: clamp(15px, 1.2vw, 18px);
+  line-height: 1.62;
+  font-weight: 380;
   color: var(--ink);
 }
 
@@ -341,7 +377,7 @@ h2::before {
 
 .fit-check input:checked + span::before {
   color: var(--good);
-  font-weight: 800;
+  font-weight: 560;
 }
 
 .edit-toggle::before {
@@ -450,7 +486,7 @@ h2::before {
   }
 
   h1 {
-    font-size: 54px;
+    font-size: 34px;
   }
 
   .news-item {
@@ -461,7 +497,7 @@ h2::before {
   .news-item::before {
     width: 40px;
     height: 40px;
-    font-size: 18px;
+    font-size: 15px;
   }
 
   .news-feedback {
