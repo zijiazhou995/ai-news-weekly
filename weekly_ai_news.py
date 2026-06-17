@@ -423,6 +423,46 @@ def parse_source(raw: bytes, source: Dict[str, Any], url: str) -> List[Dict[str,
     return parse_feed(raw, source)
 
 
+def first_article_lead(raw: bytes) -> str:
+    text = raw.decode("utf-8", errors="ignore")
+
+    meta_patterns = [
+        r'<meta[^>]+(?:name|property)=["\'](?:description|og:description)["\'][^>]+content=["\'](.*?)["\']',
+        r'<meta[^>]+content=["\'](.*?)["\'][^>]+(?:name|property)=["\'](?:description|og:description)["\']',
+    ]
+    for pattern in meta_patterns:
+        match = re.search(pattern, text, flags=re.I | re.S)
+        if match:
+            lead = clean_html_fragment(match.group(1), 260)
+            if len(lead) >= 35:
+                return lead
+
+    article_match = re.search(r"<article\b[^>]*>(.*?)</article>", text, flags=re.I | re.S)
+    search_area = article_match.group(1) if article_match else text
+    paragraphs = re.findall(r"<p\b[^>]*>(.*?)</p>", search_area, flags=re.I | re.S)
+    for paragraph in paragraphs:
+        lead = clean_html_fragment(paragraph, 260)
+        if len(lead) >= 35 and not re.search(r"版权|免责声明|广告|扫码|登录|关注|分享", lead):
+            return lead
+    return ""
+
+
+def enrich_article_leads(items: List[Dict[str, Any]], timeout_seconds: int = 6) -> None:
+    for item in items:
+        url = compact_text(item.get("url", ""))
+        if not url.startswith(("http://", "https://")):
+            continue
+        current = compact_text(item.get("summary", ""))
+        if current and len(current) >= 80 and not current.endswith(("..", "...", "…")):
+            continue
+        try:
+            lead = first_article_lead(fetch_url(url, timeout=timeout_seconds))
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError):
+            continue
+        if lead and len(lead) > len(current):
+            item["summary"] = lead
+
+
 def in_time_window(item: Dict[str, Any], start: dt.datetime, end: dt.datetime) -> bool:
     parsed = parse_dt(item.get("published_at"))
     if parsed is None:
@@ -741,6 +781,23 @@ def source_lead(text: str, limit: int = 180) -> str:
     return compact_text(lead, limit)
 
 
+def normalize_lead_for_brief(lead: str, item_date: str, limit: int = 220) -> str:
+    lead = compact_text(lead, limit)
+    if not lead:
+        return ""
+
+    lead = re.sub(r"^[,，。；;\s]+", "", lead)
+    lead = re.sub(r"^(据[^，。]{1,24}[，,]\s*)", "", lead)
+    lead = re.sub(r"^(今日|近日|最近|当前|目前|本周|同时|此外|另外|并且|并|后续|随后|据悉)[，,、\s]*", "", lead)
+
+    dated = re.match(r"^(\d{4}年)?\d{1,2}月\d{1,2}日[，,\s]*(.*)$", lead)
+    if dated:
+        rest = dated.group(2).strip()
+        return f"{item_date}，{rest}" if rest else item_date
+
+    return f"{item_date}，{lead}"
+
+
 def clean_title_for_brief(title: str) -> str:
     title = compact_text(title, 120)
     title = re.sub(r"[_-](腾讯新闻|新浪财经|新浪网)$", "", title).strip()
@@ -787,18 +844,14 @@ def make_brief(item: Dict[str, Any], settings: Dict[str, Any]) -> str:
         return compact_text(str(item["draft"]))
 
     item_date = compact_text(str(item.get("date", ""))) or date_cn(item.get("published_at"))
-    company = item.get("company_guess") or guess_company(item, settings)
     title = clean_title_for_brief(item.get("title", ""))
-    summary = source_lead(item.get("summary", ""), 180)
-    action = guess_action(title)
-    if action == "报道":
-        action = guess_action(summary)
+    summary = source_lead(item.get("summary", ""), 220)
 
     if summary and summary != title:
-        return f"{item_date}，{company}{action}“{title}”。{summary}"
-    if action == "报道":
-        return f"{item_date}，{company}相关动态：“{title}”。"
-    return f"{item_date}，{company}{action}“{title}”。"
+        return normalize_lead_for_brief(summary, item_date)
+    if title:
+        return normalize_lead_for_brief(title, item_date)
+    return item_date
 
 
 def item_category(item: Dict[str, Any], settings: Dict[str, Any]) -> str:
@@ -1339,6 +1392,12 @@ def command_fetch(args: argparse.Namespace) -> int:
         settings["lookback_days"] = args.days
     result = fetch_candidates(settings)
     output = DATA_DIR / f"candidates-{week_key()}.json"
+    if not result.items and result.errors and output.exists():
+        print(f"Fetched 0 items; keeping existing candidate file at {output}")
+        for error in result.errors:
+            print(" - " + error)
+        return 0
+
     payload = {
         "generated_at": now_cn().isoformat(),
         "items": result.items,
@@ -1367,6 +1426,9 @@ def command_draft(args: argparse.Namespace) -> int:
     fetched_items = load_json_items(candidate_file) if candidate_file else []
     manual_items = load_manual_items()
     merged = dedupe([*manual_items, *fetched_items])
+    if not merged:
+        print("No candidates available; keeping existing draft and site files unchanged.")
+        return 0
     scored = [score_item(item, settings) for item in merged]
 
     min_score = float(settings.get("min_score", 6))
@@ -1385,6 +1447,7 @@ def command_draft(args: argparse.Namespace) -> int:
             break
     selected = unique_selected
     excluded = [item for item in scored if item.get("excluded")]
+    enrich_article_leads(selected, timeout_seconds=int(settings.get("fetch_timeout_seconds", 8)))
 
     output = OUTPUT_DIR / f"{week_key()}-ai-news-draft.md"
     output.write_text(render_draft(selected, excluded, settings), encoding="utf-8")
