@@ -1105,18 +1105,17 @@ def site_css() -> str:
     return """
 :root {
   color-scheme: light;
-  --bg: #f4f7fb;
+  --bg: #f7f7f5;
   --surface: #ffffff;
-  --surface-soft: #f8fbff;
-  --ink: #1b1f24;
-  --muted: #66758a;
-  --line: #dce5ef;
-  --accent: #0f766e;
-  --accent-2: #2563eb;
-  --accent-soft: #e8f7f4;
-  --good: #14b8a6;
-  --warn: #b7791f;
-  --shadow: 0 14px 40px rgba(24, 39, 75, 0.08);
+  --panel: #f1f3f2;
+  --panel-blue: #eef5ff;
+  --ink: #14161a;
+  --muted: #6f737a;
+  --line: #e6e6e2;
+  --accent: #111318;
+  --accent-soft: #ecf7f4;
+  --good: #0d9488;
+  --shadow: 0 18px 48px rgba(15, 23, 42, 0.06);
 }
 
 * {
@@ -1125,12 +1124,10 @@ def site_css() -> str:
 
 body {
   margin: 0;
-  background:
-    linear-gradient(180deg, rgba(232, 247, 244, 0.72), rgba(244, 247, 251, 0) 260px),
-    var(--bg);
+  background: var(--bg);
   color: var(--ink);
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  line-height: 1.65;
+  line-height: 1.6;
 }
 
 a {
@@ -1138,17 +1135,12 @@ a {
 }
 
 .shell {
-  width: min(1120px, calc(100% - 32px));
+  width: min(1180px, calc(100% - 32px));
   margin: 0 auto;
 }
 
 .topbar {
-  background: rgba(255, 255, 255, 0.82);
-  border-bottom: 1px solid var(--line);
-  backdrop-filter: blur(18px);
-  position: sticky;
-  top: 0;
-  z-index: 10;
+  background: transparent;
 }
 
 .topbar .shell {
@@ -1156,25 +1148,24 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 16px;
-  min-height: 64px;
+  min-height: 76px;
 }
 
 .brand {
   display: inline-flex;
   align-items: center;
   gap: 10px;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: 700;
   text-decoration: none;
 }
 
 .brand::before {
   content: "";
-  width: 10px;
-  height: 10px;
+  width: 8px;
+  height: 8px;
   border-radius: 999px;
-  background: var(--good);
-  box-shadow: 0 0 0 6px rgba(20, 184, 166, 0.14);
+  background: var(--ink);
 }
 
 .meta {
@@ -1183,39 +1174,58 @@ a {
 }
 
 main {
-  padding: 34px 0 56px;
+  padding: 18px 0 64px;
 }
 
 .page-head {
+  min-height: 300px;
   display: grid;
-  gap: 8px;
-  margin-bottom: 24px;
-  padding-bottom: 18px;
-  border-bottom: 1px solid var(--line);
+  grid-template-columns: minmax(0, 1fr) 300px;
+  gap: 34px;
+  align-items: end;
+  margin-bottom: 28px;
+  position: relative;
 }
 
 h1 {
   margin: 0;
-  font-size: 32px;
-  line-height: 1.25;
+  font-size: clamp(64px, 14vw, 156px);
+  line-height: 0.9;
+  font-weight: 760;
   letter-spacing: 0;
+}
+
+.page-head .meta {
+  align-self: center;
+  background: var(--panel);
+  border-radius: 8px;
+  padding: 22px;
+  color: var(--ink);
+  font-size: 14px;
+  box-shadow: var(--shadow);
 }
 
 h2 {
-  margin: 32px 0 14px;
-  font-size: 16px;
+  margin: 34px 0 16px;
+  font-size: 22px;
+  font-weight: 730;
   letter-spacing: 0;
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
 }
 
 h2::before {
-  content: "";
-  width: 4px;
-  height: 18px;
+  content: "•";
+  width: 26px;
+  height: 26px;
   border-radius: 999px;
-  background: var(--accent);
+  background: var(--ink);
+  color: #ffffff;
+  display: inline-grid;
+  place-items: center;
+  font-size: 18px;
+  line-height: 1;
 }
 
 .week-list {
@@ -1223,20 +1233,18 @@ h2::before {
   gap: 12px;
 }
 
-.week-link,
-.news-item {
+.week-link {
   display: block;
-  background: var(--surface);
-  border: 1px solid var(--line);
+  background: var(--panel);
+  border: 0;
   border-radius: 8px;
-  padding: 18px;
+  padding: 28px;
   text-decoration: none;
   box-shadow: var(--shadow);
 }
 
 .week-link:hover {
-  border-color: var(--accent);
-  background: var(--surface-soft);
+  background: #ecefed;
   transform: translateY(-1px);
 }
 
@@ -1257,20 +1265,57 @@ h2::before {
 
 .news-list {
   display: grid;
-  gap: 14px;
+  gap: 0;
+  border-top: 1px solid var(--line);
 }
 
-.news-item p {
-  margin: 0;
+.news-item {
+  --symbol: "◇";
+  display: grid;
+  grid-template-columns: 84px minmax(0, 1fr) auto;
+  gap: 18px;
+  align-items: start;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--line);
+  text-decoration: none;
+  position: relative;
+}
+
+.news-item::before {
+  content: var(--symbol);
+  width: 54px;
+  height: 54px;
+  border-radius: 8px;
+  background: var(--panel);
+  display: inline-grid;
+  place-items: center;
+  font-size: 24px;
+  line-height: 1;
+}
+
+.news-item:nth-child(3n + 1) {
+  --symbol: "✦";
+}
+
+.news-item:nth-child(3n + 2) {
+  --symbol: "◌";
+}
+
+.news-item:nth-child(3n + 3) {
+  --symbol: "⌁";
 }
 
 .brief {
-  font-size: 16px;
-  color: #16202c;
+  margin: 0;
+  font-size: clamp(19px, 2vw, 25px);
+  line-height: 1.42;
+  font-weight: 650;
+  color: var(--ink);
 }
 
 .source {
-  margin-top: 10px;
+  display: none;
+  margin: 0;
   color: var(--muted);
   font-size: 14px;
 }
@@ -1285,7 +1330,8 @@ h2::before {
 }
 
 .score {
-  margin-top: 6px;
+  display: none;
+  margin-top: 10px;
   color: var(--muted);
   font-size: 13px;
 }
@@ -1301,12 +1347,11 @@ h2::before {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  background: var(--surface);
-  border: 1px solid var(--line);
+  background: transparent;
+  border: 0;
   border-radius: 8px;
-  padding: 12px 14px;
-  box-shadow: var(--shadow);
-  margin-bottom: 22px;
+  padding: 0;
+  margin: 0 0 18px;
 }
 
 .feedback-stats {
@@ -1318,10 +1363,10 @@ h2::before {
 }
 
 .pill {
-  border: 1px solid var(--line);
+  border: 0;
   border-radius: 999px;
-  padding: 4px 10px;
-  background: var(--surface-soft);
+  padding: 6px 12px;
+  background: var(--panel);
 }
 
 .feedback-actions,
@@ -1333,59 +1378,105 @@ h2::before {
 
 .button,
 .edit-toggle,
-.copy-feedback {
+.copy-feedback,
+.source-link,
+.score-toggle {
   appearance: none;
-  border: 1px solid var(--line);
+  border: 0;
   border-radius: 8px;
-  background: var(--surface);
+  background: var(--panel);
   color: var(--ink);
   cursor: pointer;
   font: inherit;
-  font-size: 13px;
+  font-size: 0;
   line-height: 1;
-  padding: 9px 12px;
+  padding: 0;
+  width: 34px;
+  height: 34px;
+  display: inline-grid;
+  place-items: center;
+  text-decoration: none;
 }
 
 .button:hover,
 .edit-toggle:hover,
-.copy-feedback:hover {
-  border-color: var(--accent);
-  color: var(--accent);
+.copy-feedback:hover,
+.source-link:hover,
+.score-toggle:hover {
+  background: #e8ecea;
 }
 
 .news-feedback {
-  margin-bottom: 12px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
+  justify-content: flex-end;
+  gap: 8px;
+  grid-column: 3;
+  grid-row: 1 / span 3;
+  margin: 0;
 }
 
 .fit-check {
   display: inline-flex;
   align-items: center;
-  gap: 8px;
-  color: var(--muted);
-  font-size: 14px;
+  justify-content: center;
+  color: var(--ink);
   cursor: pointer;
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  background: var(--panel);
 }
 
 .fit-check input {
-  width: 18px;
-  height: 18px;
-  accent-color: var(--accent);
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.fit-check span {
+  font-size: 0;
+}
+
+.fit-check span::before {
+  content: "✓";
+  font-size: 16px;
+  color: var(--muted);
+}
+
+.fit-check input:checked + span::before {
+  color: var(--good);
+  font-weight: 800;
+}
+
+.edit-toggle::before {
+  content: "✎";
+  font-size: 15px;
+}
+
+.copy-feedback::before {
+  content: "⇩";
+  font-size: 16px;
+}
+
+.score-toggle::before {
+  content: "ⓘ";
+  font-size: 16px;
+}
+
+.source-link::before {
+  content: "↗";
+  font-size: 16px;
 }
 
 .news-item.is-fit {
-  border-color: rgba(15, 118, 110, 0.38);
-  background: linear-gradient(180deg, #ffffff, #f7fffd);
+  background: linear-gradient(90deg, rgba(13, 148, 136, 0.08), rgba(13, 148, 136, 0));
 }
 
 .edit-area {
   display: none;
   margin-top: 14px;
-  border-top: 1px solid var(--line);
-  padding-top: 14px;
+  grid-column: 2 / 4;
 }
 
 .news-item.is-editing .edit-area {
@@ -1396,18 +1487,28 @@ h2::before {
   width: 100%;
   min-height: 112px;
   resize: vertical;
-  border: 1px solid var(--line);
+  border: 0;
   border-radius: 8px;
-  padding: 12px;
+  padding: 14px;
   color: var(--ink);
-  background: var(--surface-soft);
+  background: var(--panel);
   font: inherit;
   line-height: 1.65;
 }
 
 .rewrite-input:focus {
-  outline: 2px solid rgba(15, 118, 110, 0.16);
-  border-color: var(--accent);
+  outline: 2px solid rgba(17, 19, 24, 0.14);
+}
+
+.details-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.score.is-visible {
+  display: block;
 }
 
 .feedback-toast {
@@ -1431,8 +1532,8 @@ h2::before {
 }
 
 .empty {
-  background: var(--surface);
-  border: 1px solid var(--line);
+  background: var(--panel);
+  border: 0;
   border-radius: 8px;
   padding: 18px;
   color: var(--muted);
@@ -1442,13 +1543,41 @@ h2::before {
   .topbar .shell,
   .week-title,
   .feedback-panel,
-  .news-feedback {
+  .news-feedback,
+  .page-head {
     align-items: flex-start;
     flex-direction: column;
   }
 
+  .page-head {
+    display: flex;
+    min-height: auto;
+  }
+
   h1 {
-    font-size: 24px;
+    font-size: 54px;
+  }
+
+  .news-item {
+    grid-template-columns: 48px minmax(0, 1fr);
+    gap: 12px;
+  }
+
+  .news-item::before {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+  }
+
+  .news-feedback {
+    grid-column: 2;
+    grid-row: auto;
+    flex-direction: row;
+    margin-top: 12px;
+  }
+
+  .edit-area {
+    grid-column: 1 / 3;
   }
 }
 """.strip()
@@ -1491,8 +1620,10 @@ def site_js() -> str:
   const updateStats = () => {
     const fitCount = Object.values(state).filter((entry) => entry?.fit).length;
     const rewriteCount = Object.values(state).filter((entry) => entry?.rewrite?.trim()).length;
-    document.querySelector("[data-fit-count]").textContent = fitCount;
-    document.querySelector("[data-rewrite-count]").textContent = rewriteCount;
+    const fitTarget = document.querySelector("[data-fit-count]");
+    const rewriteTarget = document.querySelector("[data-rewrite-count]");
+    if (fitTarget) fitTarget.textContent = fitCount;
+    if (rewriteTarget) rewriteTarget.textContent = rewriteCount;
   };
 
   const exportFeedback = async () => {
@@ -1522,11 +1653,11 @@ def site_js() -> str:
   panel.className = "feedback-panel";
   panel.innerHTML = `
     <div class="feedback-stats">
-      <span class="pill">已勾选 <strong data-fit-count>0</strong></span>
-      <span class="pill">已润色 <strong data-rewrite-count>0</strong></span>
+      <span class="pill">✓ <strong data-fit-count>0</strong></span>
+      <span class="pill">✎ <strong data-rewrite-count>0</strong></span>
     </div>
     <div class="feedback-actions">
-      <button class="button copy-feedback" type="button">导出反馈</button>
+      <button class="button copy-feedback" type="button" title="导出反馈" aria-label="导出反馈">导出反馈</button>
     </div>
   `;
   document.querySelector(".page-head")?.after(panel);
@@ -1537,6 +1668,8 @@ def site_js() -> str:
     const sourceLink = item.querySelector(".source a");
     const sourceTitle = sourceLink?.textContent.trim() || "";
     const sourceUrl = sourceLink?.href || "";
+    const source = item.querySelector(".source");
+    const score = item.querySelector(".score");
     const id = hash(`${brief}|${sourceUrl}|${index}`);
     const entry = state[id] || {
       fit: false,
@@ -1550,14 +1683,38 @@ def site_js() -> str:
     const controls = document.createElement("div");
     controls.className = "news-feedback";
     controls.innerHTML = `
-      <label class="fit-check">
+      <label class="fit-check" title="标记符合">
         <input type="checkbox" ${entry.fit ? "checked" : ""}>
         <span>符合</span>
       </label>
       <div class="item-actions">
-        <button class="edit-toggle" type="button" aria-expanded="false">修改</button>
+        <button class="score-toggle" type="button" title="查看备注" aria-label="查看备注">备注</button>
+        <button class="edit-toggle" type="button" aria-expanded="false" title="修改文案" aria-label="修改文案">修改</button>
       </div>
     `;
+    const actions = controls.querySelector(".item-actions");
+    if (sourceUrl) {
+      const sourceButton = document.createElement("a");
+      sourceButton.className = "source-link";
+      sourceButton.href = sourceUrl;
+      sourceButton.target = "_blank";
+      sourceButton.rel = "noopener";
+      sourceButton.title = "打开来源";
+      sourceButton.setAttribute("aria-label", "打开来源");
+      sourceButton.textContent = "来源";
+      actions.prepend(sourceButton);
+    }
+
+    const details = document.createElement("div");
+    details.className = "details-row";
+    if (source) {
+      source.remove();
+      details.append(source);
+    }
+    if (score) {
+      score.remove();
+      details.append(score);
+    }
 
     const editArea = document.createElement("div");
     editArea.className = "edit-area";
@@ -1567,10 +1724,12 @@ def site_js() -> str:
     textarea.value = entry.rewrite || "";
     editArea.append(textarea);
     item.prepend(controls);
+    item.append(details);
     item.append(editArea);
 
     const checkbox = controls.querySelector("input");
     const button = controls.querySelector(".edit-toggle");
+    const scoreButton = controls.querySelector(".score-toggle");
 
     const syncVisual = () => item.classList.toggle("is-fit", Boolean(entry.fit));
     syncVisual();
@@ -1591,6 +1750,10 @@ def site_js() -> str:
       item.classList.toggle("is-editing", open);
       button.setAttribute("aria-expanded", String(open));
       if (open) textarea.focus();
+    });
+
+    scoreButton.addEventListener("click", () => {
+      score?.classList.toggle("is-visible");
     });
 
     textarea.addEventListener("input", () => {

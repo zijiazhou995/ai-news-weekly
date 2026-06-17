@@ -33,8 +33,10 @@
   const updateStats = () => {
     const fitCount = Object.values(state).filter((entry) => entry?.fit).length;
     const rewriteCount = Object.values(state).filter((entry) => entry?.rewrite?.trim()).length;
-    document.querySelector("[data-fit-count]").textContent = fitCount;
-    document.querySelector("[data-rewrite-count]").textContent = rewriteCount;
+    const fitTarget = document.querySelector("[data-fit-count]");
+    const rewriteTarget = document.querySelector("[data-rewrite-count]");
+    if (fitTarget) fitTarget.textContent = fitCount;
+    if (rewriteTarget) rewriteTarget.textContent = rewriteCount;
   };
 
   const exportFeedback = async () => {
@@ -64,11 +66,11 @@
   panel.className = "feedback-panel";
   panel.innerHTML = `
     <div class="feedback-stats">
-      <span class="pill">已勾选 <strong data-fit-count>0</strong></span>
-      <span class="pill">已润色 <strong data-rewrite-count>0</strong></span>
+      <span class="pill">✓ <strong data-fit-count>0</strong></span>
+      <span class="pill">✎ <strong data-rewrite-count>0</strong></span>
     </div>
     <div class="feedback-actions">
-      <button class="button copy-feedback" type="button">导出反馈</button>
+      <button class="button copy-feedback" type="button" title="导出反馈" aria-label="导出反馈">导出反馈</button>
     </div>
   `;
   document.querySelector(".page-head")?.after(panel);
@@ -79,6 +81,8 @@
     const sourceLink = item.querySelector(".source a");
     const sourceTitle = sourceLink?.textContent.trim() || "";
     const sourceUrl = sourceLink?.href || "";
+    const source = item.querySelector(".source");
+    const score = item.querySelector(".score");
     const id = hash(`${brief}|${sourceUrl}|${index}`);
     const entry = state[id] || {
       fit: false,
@@ -92,14 +96,38 @@
     const controls = document.createElement("div");
     controls.className = "news-feedback";
     controls.innerHTML = `
-      <label class="fit-check">
+      <label class="fit-check" title="标记符合">
         <input type="checkbox" ${entry.fit ? "checked" : ""}>
         <span>符合</span>
       </label>
       <div class="item-actions">
-        <button class="edit-toggle" type="button" aria-expanded="false">修改</button>
+        <button class="score-toggle" type="button" title="查看备注" aria-label="查看备注">备注</button>
+        <button class="edit-toggle" type="button" aria-expanded="false" title="修改文案" aria-label="修改文案">修改</button>
       </div>
     `;
+    const actions = controls.querySelector(".item-actions");
+    if (sourceUrl) {
+      const sourceButton = document.createElement("a");
+      sourceButton.className = "source-link";
+      sourceButton.href = sourceUrl;
+      sourceButton.target = "_blank";
+      sourceButton.rel = "noopener";
+      sourceButton.title = "打开来源";
+      sourceButton.setAttribute("aria-label", "打开来源");
+      sourceButton.textContent = "来源";
+      actions.prepend(sourceButton);
+    }
+
+    const details = document.createElement("div");
+    details.className = "details-row";
+    if (source) {
+      source.remove();
+      details.append(source);
+    }
+    if (score) {
+      score.remove();
+      details.append(score);
+    }
 
     const editArea = document.createElement("div");
     editArea.className = "edit-area";
@@ -109,10 +137,12 @@
     textarea.value = entry.rewrite || "";
     editArea.append(textarea);
     item.prepend(controls);
+    item.append(details);
     item.append(editArea);
 
     const checkbox = controls.querySelector("input");
     const button = controls.querySelector(".edit-toggle");
+    const scoreButton = controls.querySelector(".score-toggle");
 
     const syncVisual = () => item.classList.toggle("is-fit", Boolean(entry.fit));
     syncVisual();
@@ -133,6 +163,10 @@
       item.classList.toggle("is-editing", open);
       button.setAttribute("aria-expanded", String(open));
       if (open) textarea.focus();
+    });
+
+    scoreButton.addEventListener("click", () => {
+      score?.classList.toggle("is-visible");
     });
 
     textarea.addEventListener("input", () => {
