@@ -1390,10 +1390,12 @@ h2::before {
   width: 54px;
   height: 54px;
   border-radius: 8px;
-  background: var(--surface-soft);
+  background: #eef1f4;
+  border: 1px solid #cfd6dd;
+  color: #101318;
   display: inline-grid;
   place-items: center;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1;
 }
 
