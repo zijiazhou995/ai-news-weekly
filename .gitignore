@@ -1,5 +1,6 @@
-.pycache/
+node_modules/
 __pycache__/
+.pycache/
 *.pyc
 data/*.json
 !data/site_weeks.json
@@ -7,4 +8,7 @@ data/*.log
 data/*.out.log
 data/*.err.log
 feedback/*.json
+package.json
+package-lock.json
+npm-debug.log*
 .DS_Store

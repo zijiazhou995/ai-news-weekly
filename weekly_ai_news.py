@@ -18,6 +18,7 @@ import html
 import json
 import os
 import re
+import subprocess
 import sys
 import textwrap
 import urllib.error
@@ -186,6 +187,99 @@ def fetch_url(url: str, timeout: int = 20) -> bytes:
     opener = urllib.request.build_opener(urllib.request.ProxyHandler({}))
     with opener.open(request, timeout=timeout) as response:
         return response.read()
+
+
+def fetch_aibase_rendered_items(source: Dict[str, Any], timeout_seconds: int) -> List[Dict[str, Any]]:
+    scrolls = int(source.get("scrolls", 8))
+    max_items = int(source.get("max_rendered_items", 80))
+    wait_ms = int(source.get("render_wait_ms", 1200))
+    url = source.get("url", "https://www.aibase.com/zh/news")
+    script = r"""
+const { chromium } = require('playwright');
+
+const url = process.argv[1];
+const scrolls = Number(process.argv[2] || 8);
+const maxItems = Number(process.argv[3] || 80);
+const waitMs = Number(process.argv[4] || 1200);
+
+(async () => {
+  const browser = await chromium.launch({ headless: true });
+  const page = await browser.newPage({ viewport: { width: 1280, height: 1600 } });
+  await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 30000 });
+  await page.waitForTimeout(waitMs);
+  for (let index = 0; index < scrolls; index += 1) {
+    await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+    await page.waitForTimeout(waitMs);
+  }
+  const items = await page.$$eval('a[href*="/news/"]', (anchors, maxItems) => {
+    const seen = new Set();
+    const clean = (value) => (value || '').replace(/\s+/g, ' ').trim();
+    const output = [];
+    for (const anchor of anchors) {
+      const href = anchor.href;
+      if (!href || seen.has(href) || !/\/zh\/news\/\d+|\/news\/\d+/.test(href)) continue;
+      seen.add(href);
+      const heading = anchor.querySelector('h3');
+      const title = clean(heading ? heading.textContent : anchor.getAttribute('aria-label') || '');
+      const allText = clean(anchor.innerText || anchor.textContent || '');
+      let summary = allText;
+      if (title && summary.startsWith(title)) summary = clean(summary.slice(title.length));
+      summary = summary.replace(/^阅读文章:\s*/, '');
+      output.push({ title: title.replace(/^阅读文章:\s*/, ''), summary, url: href });
+      if (output.length >= maxItems) break;
+    }
+    return output;
+  }, maxItems);
+  console.log(JSON.stringify(items));
+  await browser.close();
+})().catch(async (error) => {
+  console.error(error && error.stack ? error.stack : String(error));
+  process.exit(1);
+});
+"""
+    try:
+        completed = subprocess.run(
+            [
+                "node",
+                "-e",
+                script,
+                url,
+                str(scrolls),
+                str(max_items),
+                str(wait_ms),
+            ],
+            check=True,
+            capture_output=True,
+            text=True,
+            timeout=max(timeout_seconds, 20) + scrolls * max(1, wait_ms // 1000),
+        )
+    except (FileNotFoundError, subprocess.CalledProcessError, subprocess.TimeoutExpired) as exc:
+        raise RuntimeError(
+            "AIbase rendered fetch failed. Install Playwright with: npm init -y && npm install playwright"
+        ) from exc
+
+    rendered = json.loads(completed.stdout or "[]")
+    items: List[Dict[str, Any]] = []
+    for item in rendered:
+        title = compact_text(item.get("title", ""), 140)
+        summary = compact_text(item.get("summary", ""), 520)
+        item_url = compact_text(item.get("url", ""))
+        if not title or not item_url.startswith("http"):
+            continue
+        published_at, display_date = parse_cn_news_datetime(summary)
+        items.append(
+            {
+                "title": title,
+                "summary": summary,
+                "url": item_url,
+                "published_at": published_at,
+                "date": display_date,
+                "source": source.get("name", "AIbase"),
+                "source_priority": source.get("priority", 0),
+                "official_source": False,
+            }
+        )
+    return items
 
 
 def atom_link(item: ET.Element) -> str:
@@ -361,12 +455,12 @@ def parse_so360_news(raw: bytes, source: Dict[str, Any], url: str) -> List[Dict[
 
 def parse_aibase_news(raw: bytes, source: Dict[str, Any], url: str) -> List[Dict[str, Any]]:
     text = raw.decode("utf-8", "replace")
-    blocks = re.findall(r'(<a[^>]+href="[^"]*/news/\d+[^"]*"[^>]*>.*?</a>)', text, flags=re.S | re.I)
+    blocks = re.findall(r'(<a[^>]+href="[^"]*/(?:zh/)?news/\d+[^"]*"[^>]*>.*?</a>)', text, flags=re.S | re.I)
     items: List[Dict[str, Any]] = []
     seen_urls: set[str] = set()
 
     for block in blocks:
-        href_match = re.search(r'href="([^"]*/news/\d+[^"]*)"', block, flags=re.S | re.I)
+        href_match = re.search(r'href="([^"]*/(?:zh/)?news/\d+[^"]*)"', block, flags=re.S | re.I)
         if not href_match:
             continue
         item_url = absolutize_url(href_match.group(1), url)
@@ -481,11 +575,24 @@ def fetch_one_source(
 ) -> Tuple[List[Dict[str, Any]], Optional[str], str]:
     try:
         url = source_url(source, lookback_days)
-        raw = fetch_url(url, timeout=timeout_seconds)
-        parsed = parse_source(raw, source, url)
+        if source.get("type") == "aibase_news" and source.get("render", False):
+            try:
+                parsed = fetch_aibase_rendered_items(source, timeout_seconds)
+            except RuntimeError as render_exc:
+                raw = fetch_url(url, timeout=timeout_seconds)
+                parsed = parse_source(raw, source, url)
+                filtered = [item for item in parsed if in_time_window(item, start, end)]
+                message = (
+                    f"Fetched {len(filtered):>3} items from {source.get('name')} "
+                    f"(render fallback: {render_exc})"
+                )
+                return filtered, str(render_exc), message
+        else:
+            raw = fetch_url(url, timeout=timeout_seconds)
+            parsed = parse_source(raw, source, url)
         filtered = [item for item in parsed if in_time_window(item, start, end)]
         return filtered, None, f"Fetched {len(filtered):>3} items from {source.get('name')}"
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, ET.ParseError, ValueError, OSError) as exc:
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, ET.ParseError, ValueError, OSError, RuntimeError, json.JSONDecodeError) as exc:
         error = f"{source.get('name', 'unknown source')}: {exc}"
         return [], error, f"Failed source: {source.get('name')} ({exc})"
 
@@ -540,9 +647,18 @@ def event_key(item: Dict[str, Any]) -> str:
         ("ai版支付宝", "alipay_ai_app"),
         ("ai 版支付宝", "alipay_ai_app"),
         ("阿宝", "alipay_ai_app"),
+        ("qoderwork", "alibaba_qoderwork_awareness"),
+        ("意识功能", "alibaba_qoderwork_awareness"),
+        ("技能进化", "alibaba_qoderwork_awareness"),
         ("agentar", "ant_agentar"),
         ("ai专属卡", "wechat_ai_payment_card"),
         ("微信支付测试ai支付", "wechat_ai_payment_card"),
+        ("workbuddy", "wechat_ai_payment_card"),
+        ("a2p2", "jd_a2p2"),
+        ("智能体自主支付", "jd_a2p2"),
+        ("自主支付协议", "jd_a2p2"),
+        ("任务模式", "doubao_task_mode"),
+        ("mimo claw", "xiaomi_mimo_claw"),
         ("微信ai生态", "wechat_ai_ecosystem"),
         ("微信 ai 生态", "wechat_ai_ecosystem"),
         ("开发者接入微信ai", "wechat_ai_ecosystem"),
@@ -559,7 +675,7 @@ def event_key(item: Dict[str, Any]) -> str:
 def dedupe(items: Iterable[Dict[str, Any]]) -> List[Dict[str, Any]]:
     seen: Dict[str, Dict[str, Any]] = {}
     for item in items:
-        key = item_key(item)
+        key = event_key(item)
         if key not in seen:
             seen[key] = item
             continue
