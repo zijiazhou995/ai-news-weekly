@@ -1488,10 +1488,10 @@ h2::before {
 .source-link,
 .score-toggle {
   appearance: none;
-  border: 0;
+  border: 1px solid #cbd3dc;
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.08);
-  color: #f7f8fa;
+  background: #eef1f4;
+  color: #111318;
   cursor: pointer;
   font: inherit;
   font-size: 0;
@@ -1509,7 +1509,9 @@ h2::before {
 .copy-feedback:hover,
 .source-link:hover,
 .score-toggle:hover {
-  background: rgba(255, 255, 255, 0.16);
+  background: #dfe5eb;
+  border-color: #aeb8c3;
+  color: #050608;
 }
 
 .news-feedback {
@@ -1526,12 +1528,13 @@ h2::before {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: #f7f8fa;
+  color: #111318;
   cursor: pointer;
   width: 34px;
   height: 34px;
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.08);
+  background: #eef1f4;
+  border: 1px solid #cbd3dc;
 }
 
 .fit-check input {
@@ -1547,11 +1550,11 @@ h2::before {
 .fit-check span::before {
   content: "✓";
   font-size: 16px;
-  color: rgba(247, 248, 250, 0.62);
+  color: #111318;
 }
 
 .fit-check input:checked + span::before {
-  color: var(--good);
+  color: #04756f;
   font-weight: 560;
 }
 
