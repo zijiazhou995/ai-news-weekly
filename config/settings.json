@@ -2,8 +2,10 @@
   "lookback_days": 7,
   "fetch_timeout_seconds": 8,
   "max_workers": 6,
-  "min_score": 6,
-  "max_items": 16,
+  "min_score": 9,
+  "max_featured_items": 7,
+  "max_backup_items": 8,
+  "max_items": 15,
   "priority_companies": [
     "阿里",
     "阿里云",
@@ -189,6 +191,9 @@
     "战略意图",
     "成功概率",
     "生态博弈",
+    "行业观察",
+    "趋势分析",
+    "观点",
     "加速布局",
     "点亮",
     "解密",
@@ -223,49 +228,57 @@
       "name": "搜狗新闻 - 阿里/电商 AI 产品",
       "type": "sogou_news",
       "query": "阿里 阿里云 QoderWork 淘宝 天猫 1688 支付宝 阿宝 AI版 AI 发布 上线 邀测 意识 工具 商家 电商",
-      "priority": 4
+      "priority": 4,
+      "enabled": false
     },
     {
       "name": "360资讯 - 阿里/电商 AI 产品",
       "type": "so360_news",
       "query": "阿里 阿里云 QoderWork 淘宝 天猫 1688 支付宝 阿宝 AI版 AI 发布 上线 邀测 意识 工具 商家 电商",
-      "priority": 4
+      "priority": 4,
+      "enabled": false
     },
     {
       "name": "搜狗新闻 - 微信/腾讯 AI 产品",
       "type": "sogou_news",
       "query": "微信 腾讯 微信支付 AI专属卡 WorkBuddy 小程序 AI 发布 上线 开放 接入 工具 功能 支付",
-      "priority": 3
+      "priority": 3,
+      "enabled": false
     },
     {
       "name": "360资讯 - 微信/腾讯 AI 产品",
       "type": "so360_news",
       "query": "微信 腾讯 微信支付 AI专属卡 WorkBuddy 小程序 AI 发布 上线 开放 接入 工具 功能 支付",
-      "priority": 3
+      "priority": 3,
+      "enabled": false
     },
     {
       "name": "搜狗新闻 - 国内大厂 AI 产品",
       "type": "sogou_news",
       "query": "百度 字节 豆包 任务模式 抖音 火山引擎 飞书 小红书 快手 华为 小米 MiMo Claw AI 发布 上线 工具 功能",
-      "priority": 2
+      "priority": 2,
+      "enabled": false
     },
     {
       "name": "360资讯 - 国内大厂 AI 产品",
       "type": "so360_news",
       "query": "百度 字节 豆包 任务模式 抖音 火山引擎 飞书 小红书 快手 华为 小米 MiMo Claw AI 发布 上线 工具 功能",
-      "priority": 2
+      "priority": 2,
+      "enabled": false
     },
     {
       "name": "搜狗新闻 - 电商/商家 AI",
       "type": "sogou_news",
       "query": "电商 商家 京东 A2P2 智能体自主支付 AI支付 AI 工具 客服 导购 营销 发布 上线 协议",
-      "priority": 3
+      "priority": 3,
+      "enabled": false
     },
     {
       "name": "360资讯 - 电商/商家 AI",
       "type": "so360_news",
       "query": "电商 商家 AI 工具 客服 导购 营销 发布 上线",
-      "priority": 3
+      "priority": 3,
+      "enabled": false
     },
     {
       "name": "Bing News - 阿里/电商 AI 产品",

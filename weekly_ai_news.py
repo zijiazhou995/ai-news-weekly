@@ -801,6 +801,42 @@ def is_roundup(item: Dict[str, Any]) -> bool:
     return bool(re.search(r"\d+月\d+日.*(新产品讯息|早报|晨报|日报|周报)", title))
 
 
+def quality_issue(item: Dict[str, Any]) -> str:
+    title = compact_text(item.get("title", ""))
+    summary = compact_text(item.get("summary", ""))
+    url = compact_text(item.get("url", ""))
+    source = compact_text(item.get("source", ""))
+    text = f"{title} {summary}"
+
+    generic_titles = [
+        "滚动",
+        "热点",
+        "艾媒网",
+        "首页",
+        "栏目",
+        "资讯",
+        "新闻",
+        "经济·科技",
+    ]
+    if any(marker in title for marker in generic_titles) and not re.search(r"AI|智能体|Agent|支付宝|淘宝|微信支付|京东|QoderWork|豆包|小米", title):
+        return "标题像栏目页/聚合页"
+
+    if re.search(r"/index\d*\.html$|/c\d+$", url):
+        return "链接像栏目页/列表页"
+
+    if len(summary) < 35 and "aibase" not in source.lower():
+        return "摘要过短，无法核验新闻主体"
+
+    stale_markers = ["2023年", "2024年", "2025年", "双11", "年货节"]
+    if any(marker in text for marker in stale_markers):
+        return "疑似旧闻或非本周事件"
+
+    if re.search(r"新京报以文字|为用户提供全天候热点新闻|本着品质源于责任|转自：|文 \|", summary):
+        return "摘要抓取到网站介绍/正文无关段落"
+
+    return ""
+
+
 def guess_company(item: Dict[str, Any], settings: Dict[str, Any]) -> str:
     if item.get("company"):
         return str(item["company"])
@@ -840,6 +876,14 @@ def score_item(item: Dict[str, Any], settings: Dict[str, Any]) -> Dict[str, Any]
         item["excluded"] = True
         item["exclude_reason"] = "排除聚合/早报标题"
         item["score"] = -8
+        item["score_reasons"] = []
+        return item
+
+    issue = quality_issue(item)
+    if issue:
+        item["excluded"] = True
+        item["exclude_reason"] = issue
+        item["score"] = -7
         item["score_reasons"] = []
         return item
 
@@ -1098,7 +1142,10 @@ def split_featured_backup(items: List[Dict[str, Any]], settings: Dict[str, Any])
             featured.append(item)
         else:
             backup.append(item)
-    return featured, backup
+    return (
+        featured[: int(settings.get("max_featured_items", 7))],
+        backup[: int(settings.get("max_backup_items", 8))],
+    )
 
 
 def append_markdown_items(
