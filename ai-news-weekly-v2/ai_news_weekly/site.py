@@ -198,12 +198,22 @@ function renderNewsCards(selector, items, label) {
     const article = item.article;
     const card = document.createElement('article');
     card.className = 'news-card';
+    const lead = item.lead_excerpt || item.summary;
+    const aiSummary = item.ai_summary || item.summary;
     card.innerHTML = `
       <div class="tag-row"><span>${escapeHtml(label)}</span><span>${escapeHtml(article.date)}</span></div>
       <h4>${escapeHtml(article.title)}</h4>
-      <p>${escapeHtml(item.summary)}</p>
+      <div class="dual-summary">
+        <div>
+          <label>原文摘录</label>
+          <p>${escapeHtml(lead)}</p>
+        </div>
+        <div>
+          <label>AI 概括</label>
+          <p>${escapeHtml(aiSummary)}</p>
+        </div>
+      </div>
       <div class="card-footer">
-        <span>${escapeHtml(shortReason(item.reason))}</span>
         <a href="${article.url}" target="_blank" rel="noreferrer">查看原文</a>
       </div>`;
     wrap.appendChild(card);
@@ -494,6 +504,34 @@ h4 {
   flex: 1;
 }
 
+.dual-summary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 14px 0 16px;
+}
+
+.dual-summary > div {
+  padding: 12px;
+  border-radius: 16px;
+  background: #faf8f0;
+  border: 1px solid rgba(47, 58, 77, .08);
+}
+
+.dual-summary label {
+  display: inline-block;
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.dual-summary p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
 .card-footer {
   display: flex;
   flex-direction: column;
@@ -579,6 +617,10 @@ a {
 
   .horizontal-list {
     grid-auto-columns: minmax(260px, 86vw);
+  }
+
+  .dual-summary {
+    grid-template-columns: 1fr;
   }
 }
 """

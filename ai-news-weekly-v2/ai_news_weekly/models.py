@@ -27,6 +27,8 @@ class EditedArticle:
     reason: str
     priority_score: int
     decision_source: str
+    ai_summary: str = ""
+    lead_excerpt: str = ""
     rule_hits: List[str] = field(default_factory=list)
     reject_reasons: List[str] = field(default_factory=list)
 

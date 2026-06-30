@@ -236,6 +236,34 @@ h4 {
   flex: 1;
 }
 
+.dual-summary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 14px 0 16px;
+}
+
+.dual-summary > div {
+  padding: 12px;
+  border-radius: 16px;
+  background: #faf8f0;
+  border: 1px solid rgba(47, 58, 77, .08);
+}
+
+.dual-summary label {
+  display: inline-block;
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.dual-summary p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
 .card-footer {
   display: flex;
   flex-direction: column;
@@ -321,5 +349,9 @@ a {
 
   .horizontal-list {
     grid-auto-columns: minmax(260px, 86vw);
+  }
+
+  .dual-summary {
+    grid-template-columns: 1fr;
   }
 }

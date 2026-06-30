@@ -89,12 +89,22 @@ function renderNewsCards(selector, items, label) {
     const article = item.article;
     const card = document.createElement('article');
     card.className = 'news-card';
+    const lead = item.lead_excerpt || item.summary;
+    const aiSummary = item.ai_summary || item.summary;
     card.innerHTML = `
       <div class="tag-row"><span>${escapeHtml(label)}</span><span>${escapeHtml(article.date)}</span></div>
       <h4>${escapeHtml(article.title)}</h4>
-      <p>${escapeHtml(item.summary)}</p>
+      <div class="dual-summary">
+        <div>
+          <label>原文摘录</label>
+          <p>${escapeHtml(lead)}</p>
+        </div>
+        <div>
+          <label>AI 概括</label>
+          <p>${escapeHtml(aiSummary)}</p>
+        </div>
+      </div>
       <div class="card-footer">
-        <span>${escapeHtml(shortReason(item.reason))}</span>
         <a href="${article.url}" target="_blank" rel="noreferrer">查看原文</a>
       </div>`;
     wrap.appendChild(card);

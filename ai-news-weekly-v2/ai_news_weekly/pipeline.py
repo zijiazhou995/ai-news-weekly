@@ -108,6 +108,8 @@ def flatten_verified(item: VerifiedArticle) -> Dict[str, Any]:
         "article": edited.article.to_dict(),
         "category": edited.category,
         "summary": edited.summary,
+        "ai_summary": edited.ai_summary,
+        "lead_excerpt": edited.lead_excerpt,
         "reason": edited.reason,
         "priority_score": edited.priority_score,
         "decision_source": edited.decision_source,
