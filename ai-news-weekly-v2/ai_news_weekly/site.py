@@ -54,39 +54,49 @@ def render_index_html(weeks: List[Dict[str, Any]], current: Dict[str, Any]) -> s
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <header class="hero">
-    <nav class="topbar">
-      <div class="brand">AI News Weekly</div>
-      <div class="source">AIbase-first</div>
-    </nav>
-    <section class="hero-inner">
-      <p class="eyebrow">每周四更新</p>
-      <h1>本周 AI 资讯</h1>
-      <p class="subtitle">聚焦大厂、平台型公司与重要 AI 产品的新产品、新功能、新工具和新接入能力。</p>
-      <div id="week-tabs" class="week-tabs" aria-label="周报列表"></div>
+  <main class="shell">
+    <section id="home-view" class="view home-view">
+      <header class="home-hero">
+        <div class="mini-badge">每周四更新</div>
+        <h1>AI 资讯周报</h1>
+        <p>点开一个日期盒子，查看那一周筛选后的 AI 产品与平台动态。</p>
+      </header>
+      <section class="week-board" aria-label="周报日期列表">
+        <div id="week-cards" class="week-cards"></div>
+      </section>
     </section>
-  </header>
-  <main class="content">
-    <section class="week-summary">
-      <div>
-        <p class="eyebrow dark">当前周报</p>
+
+    <section id="detail-view" class="view detail-view" hidden>
+      <button id="back-home" class="back-button" type="button">返回</button>
+      <header class="detail-hero">
+        <div class="mini-badge">本周 AI 资讯</div>
         <h2 id="week-title">加载中</h2>
-      </div>
-      <div id="week-meta" class="week-meta"></div>
-    </section>
-    <section class="columns">
-      <div>
-        <h3>更符合要求</h3>
-        <div id="preferred-list" class="card-list"></div>
-      </div>
-      <div>
-        <h3>备选线索</h3>
-        <div id="lead-list" class="card-list"></div>
-      </div>
-    </section>
-    <section class="review">
-      <h3>待确认 / 排除原因</h3>
-      <div id="review-list" class="review-list"></div>
+        <p id="week-meta"></p>
+      </header>
+
+      <section class="news-section">
+        <div class="section-heading">
+          <h3>符合要求</h3>
+          <span id="preferred-count"></span>
+        </div>
+        <div id="preferred-list" class="horizontal-list"></div>
+      </section>
+
+      <section class="news-section">
+        <div class="section-heading">
+          <h3>备选</h3>
+          <span id="lead-count"></span>
+        </div>
+        <div id="lead-list" class="horizontal-list"></div>
+      </section>
+
+      <section class="news-section other-section">
+        <div class="section-heading">
+          <h3>其他</h3>
+          <span id="other-count"></span>
+        </div>
+        <div id="other-list" class="other-list"></div>
+      </section>
     </section>
   </main>
   <script>window.INITIAL_WEEK = "{initial_week}";</script>
@@ -97,53 +107,91 @@ def render_index_html(weeks: List[Dict[str, Any]], current: Dict[str, Any]) -> s
 
 
 def render_app_js() -> str:
-    return r"""const state = { weeks: [], current: null };
+    return r"""const state = { weeks: [], current: null, counts: new Map() };
 
 async function loadWeeks() {
   const res = await fetch('./weeks.json', { cache: 'no-store' });
   state.weeks = await res.json();
-  const target = window.INITIAL_WEEK || state.weeks[0]?.week_id;
-  await loadWeek(target);
-  renderTabs();
+  await preloadCounts();
+  renderHome();
+
+  const hashWeek = new URLSearchParams(window.location.hash.replace(/^#\/?/, '')).get('week');
+  if (hashWeek) {
+    await openWeek(hashWeek);
+  }
 }
 
 async function loadWeek(weekId) {
   const res = await fetch(`./weeks/${weekId}.json`, { cache: 'no-store' });
-  state.current = await res.json();
-  window.INITIAL_WEEK = weekId;
-  renderWeek();
-  renderTabs();
+  return await res.json();
 }
 
-function renderTabs() {
-  const wrap = document.querySelector('#week-tabs');
+async function preloadCounts() {
+  await Promise.all(state.weeks.map(async week => {
+    try {
+      const data = await loadWeek(week.week_id);
+      state.counts.set(week.week_id, {
+        preferred: data.preferred.length,
+        leads: data.leads.length,
+        other: data.needs_review.length,
+      });
+    } catch {
+      state.counts.set(week.week_id, { preferred: 0, leads: 0, other: 0 });
+    }
+  }));
+}
+
+function renderHome() {
+  const wrap = document.querySelector('#week-cards');
   wrap.innerHTML = '';
   state.weeks.forEach(week => {
+    const counts = state.counts.get(week.week_id) || { preferred: 0, leads: 0, other: 0 };
     const button = document.createElement('button');
-    button.textContent = week.label;
-    button.className = week.week_id === window.INITIAL_WEEK ? 'active' : '';
-    button.addEventListener('click', () => loadWeek(week.week_id));
+    button.className = 'week-card';
+    button.type = 'button';
+    button.innerHTML = `
+      <span class="card-sticker">周报</span>
+      <strong>${escapeHtml(formatLabel(week.label))}</strong>
+      <span>${escapeHtml(formatDateRange(week))}</span>
+      <small>${counts.preferred} 条符合 · ${counts.leads} 条备选 · ${counts.other} 条其他</small>`;
+    button.addEventListener('click', () => openWeek(week.week_id));
     wrap.appendChild(button);
   });
 }
 
-function renderWeek() {
-  const week = state.current;
-  document.querySelector('#week-title').textContent = `${week.label} AI 资讯`;
-  document.querySelector('#week-meta').innerHTML = `
-    <span>${week.start_date} 至 ${week.end_date}</span>
-    <span>原始候选 ${week.raw_count} 条</span>
-    <span>生成时间 ${week.generated_at}</span>`;
-  renderCards('#preferred-list', week.preferred);
-  renderCards('#lead-list', week.leads);
-  renderReview(week);
+async function openWeek(weekId) {
+  state.current = await loadWeek(weekId);
+  window.location.hash = `week=${encodeURIComponent(weekId)}`;
+  document.querySelector('#home-view').hidden = true;
+  document.querySelector('#detail-view').hidden = false;
+  renderWeek();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-function renderCards(selector, items) {
+function showHome() {
+  document.querySelector('#detail-view').hidden = true;
+  document.querySelector('#home-view').hidden = false;
+  window.location.hash = '';
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function renderWeek() {
+  const week = state.current;
+  document.querySelector('#week-title').textContent = `${formatLabel(week.label)} AI 资讯`;
+  document.querySelector('#week-meta').textContent = `${week.start_date} 至 ${week.end_date}`;
+  document.querySelector('#preferred-count').textContent = `${week.preferred.length} 条`;
+  document.querySelector('#lead-count').textContent = `${week.leads.length} 条`;
+  document.querySelector('#other-count').textContent = `${week.needs_review.length} 条`;
+  renderNewsCards('#preferred-list', week.preferred, '符合要求');
+  renderNewsCards('#lead-list', week.leads, '备选');
+  renderOther(week.needs_review);
+}
+
+function renderNewsCards(selector, items, label) {
   const wrap = document.querySelector(selector);
   wrap.innerHTML = '';
   if (!items.length) {
-    wrap.innerHTML = '<p class="empty">本周暂无通过校验的内容。</p>';
+    wrap.innerHTML = '<p class="empty">这一栏暂时空空的。</p>';
     return;
   }
   items.forEach(item => {
@@ -151,39 +199,46 @@ function renderCards(selector, items) {
     const card = document.createElement('article');
     card.className = 'news-card';
     card.innerHTML = `
-      <div class="date">${escapeHtml(article.date)}</div>
+      <div class="tag-row"><span>${escapeHtml(label)}</span><span>${escapeHtml(article.date)}</span></div>
       <h4>${escapeHtml(article.title)}</h4>
       <p>${escapeHtml(item.summary)}</p>
       <div class="card-footer">
-        <span>${escapeHtml(item.reason)}</span>
-        <a href="${article.url}" target="_blank" rel="noreferrer">详情页</a>
+        <span>${escapeHtml(shortReason(item.reason))}</span>
+        <a href="${article.url}" target="_blank" rel="noreferrer">查看原文</a>
       </div>`;
     wrap.appendChild(card);
   });
 }
 
-function renderReview(week) {
-  const wrap = document.querySelector('#review-list');
-  const items = [
-    ...week.needs_review.map(item => ({ label: '待确认', item })),
-    ...week.excluded.map(item => ({ label: '已排除', item })),
-  ];
+function renderOther(items) {
+  const wrap = document.querySelector('#other-list');
   wrap.innerHTML = '';
   if (!items.length) {
-    wrap.innerHTML = '<p class="empty">没有待确认或排除项。</p>';
+    wrap.innerHTML = '<p class="empty">没有其他待看的线索。</p>';
     return;
   }
-  items.forEach(({ label, item }) => {
+  items.forEach(item => {
     const article = item.article;
     const row = document.createElement('article');
-    row.className = 'review-row';
+    row.className = 'other-card';
     row.innerHTML = `
-      <span>${label}</span>
       <strong>${escapeHtml(article.date)} ${escapeHtml(article.title)}</strong>
       <p>${escapeHtml([item.reason, ...(item.verifier_reasons || [])].filter(Boolean).join('；'))}</p>
       <a href="${article.url}" target="_blank" rel="noreferrer">查看原文</a>`;
     wrap.appendChild(row);
   });
+}
+
+function formatLabel(label) {
+  return String(label || '').replace('-', '～');
+}
+
+function formatDateRange(week) {
+  return `${week.start_date} / ${week.end_date}`;
+}
+
+function shortReason(reason) {
+  return String(reason || '').replace(/^符合优先级：/, '').replace(/^可作为备选线索：/, '');
 }
 
 function escapeHtml(value) {
@@ -192,9 +247,10 @@ function escapeHtml(value) {
   }[char]));
 }
 
+document.querySelector('#back-home').addEventListener('click', showHome);
+
 loadWeeks().catch(error => {
-  document.querySelector('#week-title').textContent = '加载失败';
-  document.querySelector('#week-meta').textContent = error.message;
+  document.querySelector('#week-cards').innerHTML = `<p class="empty">加载失败：${escapeHtml(error.message)}</p>`;
 });
 """
 
@@ -202,233 +258,327 @@ loadWeeks().catch(error => {
 def render_css() -> str:
     return r""":root {
   color-scheme: light;
-  --ink: #111827;
-  --muted: #657084;
-  --line: #e5e7eb;
-  --blue: #2563eb;
-  --cyan: #08a6c7;
-  --bg: #f5f7fb;
+  --ink: #243042;
+  --muted: #768196;
+  --line: #e8e2d9;
+  --blue: #6ea8fe;
+  --mint: #9de7d7;
+  --sun: #ffe59a;
+  --pink: #ffc7d6;
+  --paper: #fffdf8;
+  --bg: #faf7ef;
 }
 
 * { box-sizing: border-box; }
 
 body {
   margin: 0;
-  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: ui-rounded, "SF Pro Rounded", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background: var(--bg);
   color: var(--ink);
 }
 
-.hero {
-  min-height: 340px;
-  color: white;
-  background:
-    radial-gradient(circle at 20% 10%, rgba(8, 166, 199, .45), transparent 28%),
-    linear-gradient(135deg, #070b18 0%, #111827 48%, #0a2433 100%);
-}
-
-.topbar, .hero-inner, .content {
-  width: min(1120px, calc(100% - 32px));
+.shell {
+  width: min(1180px, calc(100% - 32px));
   margin: 0 auto;
+  padding: 44px 0 64px;
 }
 
-.topbar {
-  height: 72px;
-  display: flex;
+.view[hidden] {
+  display: none;
+}
+
+.home-hero,
+.detail-hero {
+  position: relative;
+  padding: 34px;
+  border: 2px solid #2f3a4d;
+  border-radius: 28px;
+  background:
+    linear-gradient(120deg, rgba(255, 229, 154, .72), rgba(157, 231, 215, .6)),
+    var(--paper);
+  box-shadow: 10px 10px 0 rgba(47, 58, 77, .12);
+  overflow: hidden;
+}
+
+.home-hero::after,
+.detail-hero::after {
+  content: "";
+  position: absolute;
+  right: 34px;
+  top: 32px;
+  width: 86px;
+  height: 86px;
+  border-radius: 50%;
+  background:
+    radial-gradient(circle at center, #fff 0 18%, transparent 19%),
+    conic-gradient(from 15deg, var(--pink), var(--sun), var(--mint), var(--blue), var(--pink));
+  opacity: .9;
+}
+
+.mini-badge {
+  display: inline-flex;
   align-items: center;
-  justify-content: space-between;
-  color: rgba(255, 255, 255, .76);
+  min-height: 32px;
+  padding: 6px 12px;
+  border: 2px solid #2f3a4d;
+  border-radius: 999px;
+  background: white;
+  color: #2f3a4d;
+  font-size: 13px;
+  font-weight: 800;
 }
 
-.brand {
-  color: white;
-  font-weight: 800;
+h1, h2, h3, h4, p {
   letter-spacing: 0;
 }
-
-.source {
-  border: 1px solid rgba(255, 255, 255, .22);
-  border-radius: 999px;
-  padding: 7px 12px;
-  font-size: 13px;
-}
-
-.hero-inner {
-  padding: 42px 0 44px;
-}
-
-.eyebrow {
-  margin: 0 0 12px;
-  color: #7dd3fc;
-  font-size: 13px;
-  font-weight: 700;
-}
-
-.eyebrow.dark { color: var(--cyan); }
 
 h1 {
-  margin: 0;
-  font-size: clamp(42px, 7vw, 76px);
-  line-height: 1;
-  letter-spacing: 0;
+  margin: 18px 0 12px;
+  font-size: clamp(42px, 8vw, 82px);
+  line-height: .96;
 }
 
-.subtitle {
-  max-width: 720px;
-  margin: 22px 0 28px;
-  color: rgba(255, 255, 255, .78);
+.home-hero p,
+.detail-hero p {
+  max-width: 680px;
+  margin: 0;
+  color: #596579;
   font-size: 18px;
   line-height: 1.7;
 }
 
-.week-tabs {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
+.week-board {
+  margin-top: 30px;
 }
 
-.week-tabs button {
-  border: 1px solid rgba(255, 255, 255, .24);
-  border-radius: 8px;
-  background: rgba(255, 255, 255, .08);
-  color: white;
-  padding: 10px 14px;
+.week-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 18px;
+}
+
+.week-card {
+  min-height: 172px;
+  border: 2px solid #2f3a4d;
+  border-radius: 24px;
+  background: var(--paper);
+  color: var(--ink);
+  padding: 20px;
+  text-align: left;
+  cursor: pointer;
+  box-shadow: 7px 7px 0 rgba(47, 58, 77, .1);
+  transition: transform .16s ease, box-shadow .16s ease;
+}
+
+.week-card:nth-child(3n + 1) { background: #fff8d7; }
+.week-card:nth-child(3n + 2) { background: #eafff9; }
+.week-card:nth-child(3n + 3) { background: #fff0f5; }
+
+.week-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 10px 10px 0 rgba(47, 58, 77, .14);
+}
+
+.week-card strong {
+  display: block;
+  margin: 18px 0 8px;
+  font-size: 34px;
+  line-height: 1;
+}
+
+.week-card span,
+.week-card small {
+  display: block;
+  color: var(--muted);
+}
+
+.card-sticker {
+  width: fit-content;
+  padding: 5px 10px;
+  border: 2px solid #2f3a4d;
+  border-radius: 999px;
+  background: white;
+  color: #2f3a4d !important;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.back-button {
+  margin: 0 0 18px;
+  border: 2px solid #2f3a4d;
+  border-radius: 999px;
+  background: white;
+  color: #2f3a4d;
+  padding: 9px 14px;
+  font-weight: 800;
   cursor: pointer;
 }
 
-.week-tabs button.active {
-  background: white;
-  color: #0f172a;
+h2 {
+  margin: 16px 0 10px;
+  font-size: clamp(34px, 6vw, 58px);
+  line-height: 1;
 }
 
-.content {
-  padding: 34px 0 56px;
+.news-section {
+  margin-top: 34px;
 }
 
-.week-summary {
+.section-heading {
   display: flex;
+  align-items: center;
   justify-content: space-between;
-  gap: 24px;
-  align-items: end;
-  margin-bottom: 24px;
+  margin-bottom: 14px;
 }
 
-h2, h3, h4 {
+.section-heading h3 {
   margin: 0;
-  letter-spacing: 0;
+  font-size: 24px;
 }
 
-h2 { font-size: 30px; }
-h3 { font-size: 20px; margin-bottom: 14px; }
-h4 { font-size: 18px; line-height: 1.45; }
-
-.week-meta {
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
+.section-heading span {
   color: var(--muted);
-  font-size: 14px;
-  text-align: right;
+  font-weight: 800;
 }
 
-.columns {
+.horizontal-list {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 22px;
-}
-
-.card-list, .review-list {
-  display: grid;
-  gap: 14px;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(280px, 360px);
+  gap: 16px;
+  overflow-x: auto;
+  padding: 0 0 14px;
+  scroll-snap-type: x proximity;
 }
 
 .news-card {
+  min-height: 330px;
+  display: flex;
+  flex-direction: column;
+  scroll-snap-align: start;
   background: white;
-  border: 1px solid var(--line);
-  border-radius: 8px;
+  border: 2px solid #2f3a4d;
+  border-radius: 22px;
   padding: 18px;
-  box-shadow: 0 12px 30px rgba(15, 23, 42, .06);
+  box-shadow: 7px 7px 0 rgba(47, 58, 77, .1);
 }
 
-.date {
-  color: var(--blue);
+.tag-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  color: var(--muted);
   font-weight: 800;
   font-size: 13px;
-  margin-bottom: 8px;
+}
+
+.tag-row span:first-child {
+  padding: 4px 9px;
+  border-radius: 999px;
+  background: #e8f4ff;
+  color: #2563a8;
+}
+
+h4 {
+  margin: 16px 0 0;
+  font-size: 19px;
+  line-height: 1.45;
 }
 
 .news-card p {
-  color: #374151;
-  line-height: 1.72;
+  color: #495569;
+  line-height: 1.7;
   margin: 12px 0 16px;
+  flex: 1;
 }
 
 .card-footer {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
   gap: 14px;
-  align-items: center;
+  align-items: flex-start;
   color: var(--muted);
   font-size: 13px;
 }
 
 a {
-  color: var(--blue);
+  color: #2563a8;
   text-decoration: none;
   font-weight: 700;
-  white-space: nowrap;
 }
 
-.review {
-  margin-top: 34px;
+.card-footer a,
+.other-card a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 34px;
+  padding: 7px 12px;
+  border-radius: 999px;
+  background: #2f3a4d;
+  color: white;
 }
 
-.review-row {
-  background: white;
+.other-section {
+  margin-top: 26px;
+}
+
+.other-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 12px;
+}
+
+.other-card {
+  background: rgba(255, 255, 255, .74);
   border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 14px 16px;
+  border-radius: 18px;
+  padding: 14px;
 }
 
-.review-row span {
-  display: inline-block;
-  margin-bottom: 8px;
-  color: #b45309;
-  font-size: 13px;
-  font-weight: 800;
-}
-
-.review-row strong {
+.other-card strong {
   display: block;
+  line-height: 1.45;
 }
 
-.review-row p {
+.other-card p {
   margin: 8px 0;
   color: var(--muted);
   line-height: 1.6;
+  font-size: 14px;
 }
 
 .empty {
   color: var(--muted);
-  background: rgba(255, 255, 255, .62);
-  border: 1px dashed var(--line);
-  border-radius: 8px;
+  background: rgba(255, 255, 255, .68);
+  border: 2px dashed var(--line);
+  border-radius: 18px;
   padding: 18px;
 }
 
 @media (max-width: 800px) {
-  .columns, .week-summary {
-    grid-template-columns: 1fr;
-    display: grid;
+  .shell {
+    width: min(100% - 22px, 1180px);
+    padding-top: 18px;
   }
 
-  .week-meta {
-    text-align: left;
+  .home-hero,
+  .detail-hero {
+    padding: 24px;
+    border-radius: 24px;
   }
 
-  .card-footer {
-    align-items: flex-start;
-    flex-direction: column;
+  .home-hero::after,
+  .detail-hero::after {
+    width: 58px;
+    height: 58px;
+    right: 18px;
+    top: 18px;
+  }
+
+  .horizontal-list {
+    grid-auto-columns: minmax(260px, 86vw);
   }
 }
 """

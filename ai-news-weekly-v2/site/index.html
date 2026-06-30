@@ -8,39 +8,49 @@
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <header class="hero">
-    <nav class="topbar">
-      <div class="brand">AI News Weekly</div>
-      <div class="source">AIbase-first</div>
-    </nav>
-    <section class="hero-inner">
-      <p class="eyebrow">每周四更新</p>
-      <h1>本周 AI 资讯</h1>
-      <p class="subtitle">聚焦大厂、平台型公司与重要 AI 产品的新产品、新功能、新工具和新接入能力。</p>
-      <div id="week-tabs" class="week-tabs" aria-label="周报列表"></div>
+  <main class="shell">
+    <section id="home-view" class="view home-view">
+      <header class="home-hero">
+        <div class="mini-badge">每周四更新</div>
+        <h1>AI 资讯周报</h1>
+        <p>点开一个日期盒子，查看那一周筛选后的 AI 产品与平台动态。</p>
+      </header>
+      <section class="week-board" aria-label="周报日期列表">
+        <div id="week-cards" class="week-cards"></div>
+      </section>
     </section>
-  </header>
-  <main class="content">
-    <section class="week-summary">
-      <div>
-        <p class="eyebrow dark">当前周报</p>
+
+    <section id="detail-view" class="view detail-view" hidden>
+      <button id="back-home" class="back-button" type="button">返回</button>
+      <header class="detail-hero">
+        <div class="mini-badge">本周 AI 资讯</div>
         <h2 id="week-title">加载中</h2>
-      </div>
-      <div id="week-meta" class="week-meta"></div>
-    </section>
-    <section class="columns">
-      <div>
-        <h3>更符合要求</h3>
-        <div id="preferred-list" class="card-list"></div>
-      </div>
-      <div>
-        <h3>备选线索</h3>
-        <div id="lead-list" class="card-list"></div>
-      </div>
-    </section>
-    <section class="review">
-      <h3>待确认 / 排除原因</h3>
-      <div id="review-list" class="review-list"></div>
+        <p id="week-meta"></p>
+      </header>
+
+      <section class="news-section">
+        <div class="section-heading">
+          <h3>符合要求</h3>
+          <span id="preferred-count"></span>
+        </div>
+        <div id="preferred-list" class="horizontal-list"></div>
+      </section>
+
+      <section class="news-section">
+        <div class="section-heading">
+          <h3>备选</h3>
+          <span id="lead-count"></span>
+        </div>
+        <div id="lead-list" class="horizontal-list"></div>
+      </section>
+
+      <section class="news-section other-section">
+        <div class="section-heading">
+          <h3>其他</h3>
+          <span id="other-count"></span>
+        </div>
+        <div id="other-list" class="other-list"></div>
+      </section>
     </section>
   </main>
   <script>window.INITIAL_WEEK = "2026-06-23_2026-06-29";</script>
