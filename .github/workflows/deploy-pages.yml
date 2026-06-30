@@ -1,9 +1,12 @@
-name: Deploy GitHub Pages
+name: Deploy AI News Weekly v2
 
 on:
   push:
     branches:
       - main
+    paths:
+      - "ai-news-weekly-v2/**"
+      - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
 permissions:
@@ -30,10 +33,10 @@ jobs:
         with:
           enablement: true
 
-      - name: Upload site
+      - name: Upload v2 site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: ai-news-weekly-v2/site
 
       - name: Deploy
         id: deployment

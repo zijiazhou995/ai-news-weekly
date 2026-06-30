@@ -1,0 +1,23 @@
+{
+  "crawler": {
+    "source": "AIbase",
+    "list_url": "https://www.aibase.com/zh/news",
+    "max_items": 30
+  },
+  "output": {
+    "preferred_min": 4,
+    "preferred_max": 7,
+    "leads_min": 6,
+    "leads_max": 8
+  },
+  "policy": {
+    "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+    "architecture": [
+      "crawler",
+      "extractor",
+      "editor",
+      "verifier",
+      "site"
+    ]
+  }
+}
