@@ -1,0 +1,704 @@
+{
+  "week_id": "2026-06-26_2026-07-02",
+  "label": "6.26-7.2",
+  "start_date": "2026-06-26",
+  "end_date": "2026-07-02",
+  "generated_at": "2026-07-02T02:19:54",
+  "source": "AIbase",
+  "preferred": [],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29320",
+        "url": "https://www.aibase.com/zh/news/29320",
+        "title": "Cloudflare 新规出炉，混合 AI 爬虫将批量遭拦截",
+        "date": "2026-07-02",
+        "lead": "Cloudflare 近期发布服务默认规则重大更新，给全行业 AI 企业定下 9 月 15 日整改期限。所有 AI 厂商必须拆分搜索爬虫与模型训练、AI 代理专用爬虫，未完成区分的混合爬虫访问带广告页面会被系统自动拦截。",
+        "first_paragraph": "新规覆盖范围十分广泛，新入驻平台客户、老用户新建站点以及全部免费用户网站均统一生效。网站管理员若想放行混合爬虫，只能手动修改后台配置，该调整直接改变 AI 企业获取网页训练素材的渠道。",
+        "description": "Cloudflare 近期发布服务默认规则重大更新，给全行业 AI 企业定下 9 月 15 日整改期限。所有 AI 厂商必须拆分搜索爬虫与模型训练、AI 代理专用爬虫，未完成区分的混合爬虫访问带广告页面会被系统自动拦截。新规覆盖范围十分广泛，新入驻平台客户、老用户新建站点以及全部免费用户网站均统一生效。网站管理员若想放",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29320.html",
+          "addtime": "2026-07-02T09:30:26.0362419+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-02，Cloudflare 近期发布服务默认规则重大更新，给全行业 AI 企业定下 9 月 15 日整改期限。所有 AI 厂商必须拆分搜索爬虫与模型训练、AI 代理专用爬虫，未完成区分的混合爬虫访问带广告页面会被系统自动拦截。",
+      "ai_summary": "2026-07-02，Cloudflare 近期发布服务默认规则重大更新，给全行业 AI 企业定下 9 月 15 日整改期限。所有 AI 厂商必须拆分搜索爬虫与模型训练、AI 代理专用爬虫，未完成区分的混合爬虫访问带广告页面会被系统自动拦截。",
+      "lead_excerpt": "Cloudflare 近期发布服务默认规则重大更新，给全行业 AI 企业定下 9 月 15 日整改期限。所有 AI 厂商必须拆分搜索爬虫与模型训练、AI 代理专用爬虫，未完成区分的混合爬虫访问带广告页面会被系统自动拦截。",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、产品/功能/工具/平台动作",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29324",
+        "url": "https://www.aibase.com/zh/news/29324",
+        "title": "苹果 Safari 预览版新增 MCP 服务，AI 智能体助力网页开发调试",
+        "date": "2026-07-02",
+        "lead": "苹果 WebKit 团队于 7 月 1 日发布公告，在 Safari 技术预览版 247 中上线 MCP 服务器功能，借助 AI 智能体简化前端开发与页面调试工作。",
+        "first_paragraph": "MCP 协议基础功能解析",
+        "description": "苹果 WebKit 团队于 7 月 1 日发布公告，在 Safari 技术预览版 247 中上线 MCP 服务器功能，借助 AI 智能体简化前端开发与页面调试工作。MCP 协议基础功能解析MCP 即模型上下文协议，是一套通用开放标准，能够让各类 AI 智能体对接外部工具、数据库、本地文件与浏览器开发工具。该协议可实现信",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29324.html",
+          "addtime": "2026-07-02T09:47:38.9650068+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-02，苹果 WebKit 团队于 7 月 1 日发布公告，在 Safari 技术预览版 247 中上线 MCP 服务器功能，借助 AI 智能体简化前端开发与页面调试工作。",
+      "ai_summary": "2026-07-02，苹果 WebKit 团队于 7 月 1 日发布公告，在 Safari 技术预览版 247 中上线 MCP 服务器功能，借助 AI 智能体简化前端开发与页面调试工作。",
+      "lead_excerpt": "苹果 WebKit 团队于 7 月 1 日发布公告，在 Safari 技术预览版 247 中上线 MCP 服务器功能，借助 AI 智能体简化前端开发与页面调试工作。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29323",
+        "url": "https://www.aibase.com/zh/news/29323",
+        "title": "谷歌全面扩容 Gemini API 免费额度：部分模型单分钟吞吐量翻至百万级",
+        "date": "2026-07-02",
+        "lead": "在生成式 AI 的激烈竞争中，算力与调用成本始终是开发者最为关注的“生命线”。近日，谷歌在开发者生态层面释放重磅利好:针对部分账户的Gemini API免费配额进行了大幅上调，部分模型的单分钟 Token 处理上限（TPM）已正式提升至100万大关。",
+        "first_paragraph": "根据测试反馈，此次调整的覆盖范围主要集中在 Gemini2.5系列模型。其中，Gemini2.5Flash 与 Flash-Lite 两款轻量化模型在部分账号中，已率先实现了100万 Token/分钟的超高吞吐能力。更为吸引人的是，这一免费层级依然保持了“免绑卡、不限总量”的极低门槛，为个人开发者和初创团队提供了极具竞争力的低成本试错空间。",
+        "description": "在生成式 AI 的激烈竞争中，算力与调用成本始终是开发者最为关注的“生命线”。近日，谷歌在开发者生态层面释放重磅利好:针对部分账户的Gemini API免费配额进行了大幅上调，部分模型的单分钟 Token 处理上限（TPM）已正式提升至100万大关。根据测试反馈，此次调整的覆盖范围主要集中在 Gemini2.5系列模型",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29323.html",
+          "addtime": "2026-07-02T09:46:15.0319329+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-02，在生成式 AI 的激烈竞争中，算力与调用成本始终是开发者最为关注的“生命线”。近日，谷歌在开发者生态层面释放重磅利好:针对部分账户的Gemini API免费配额进行了大幅上调，部分模型的单分钟 Token 处理上限（TPM）已正式提升至100万大关。",
+      "ai_summary": "2026-07-02，在生成式 AI 的激烈竞争中，算力与调用成本始终是开发者最为关注的“生命线”。近日，谷歌在开发者生态层面释放重磅利好:针对部分账户的Gemini API免费配额进行了大幅上调，部分模型的单分钟 Token 处理上限（TPM）已正式提升至100万大关。",
+      "lead_excerpt": "在生成式 AI 的激烈竞争中，算力与调用成本始终是开发者最为关注的“生命线”。近日，谷歌在开发者生态层面释放重磅利好:针对部分账户的Gemini API免费配额进行了大幅上调，部分模型的单分钟 Token 处理上限（TPM）已正式提升...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29319",
+        "url": "https://www.aibase.com/zh/news/29319",
+        "title": "微软 Teams 8 月上线 AI 助手 Facilitator，会议实时答疑提升沟通效率",
+        "date": "2026-07-02",
+        "lead": "外媒曝光微软将于今年 8 月为 Teams 推出全新 AI 会议辅助工具 Facilitator，依靠人工智能实时解析会议对话，解决参会人员沟通疑问。该功能主打会议实时辅助，能自动识别讨论中未被解答的问题、模糊表述，在会议聊天框推送贴合议题的补充信息，弥补多人讨论时信息传递不完整的问题。",
+        "first_paragraph": "功能使用与权限管控",
+        "description": "外媒曝光微软将于今年 8 月为 Teams 推出全新 AI 会议辅助工具 Facilitator，依靠人工智能实时解析会议对话，解决参会人员沟通疑问。该功能主打会议实时辅助，能自动识别讨论中未被解答的问题、模糊表述，在会议聊天框推送贴合议题的补充信息，弥补多人讨论时信息传递不完整的问题。功能使用与权限管控Facilit",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29319.html",
+          "addtime": "2026-07-02T09:25:48.3686828+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-02，外媒曝光微软将于今年 8 月为 Teams 推出全新 AI 会议辅助工具 Facilitator，依靠人工智能实时解析会议对话，解决参会人员沟通疑问。该功能主打会议实时辅助，能自动识别讨论中未被解答的问题、模糊表述，在会议聊天框推送贴合议题的补充信息，弥补多人讨论时信息传递不完整的问题。",
+      "ai_summary": "2026-07-02，外媒曝光微软将于今年 8 月为 Teams 推出全新 AI 会议辅助工具 Facilitator，依靠人工智能实时解析会议对话，解决参会人员沟通疑问。该功能主打会议实时辅助，能自动识别讨论中未被解答的问题、模糊表述，在会议聊天框推送贴合议题的补充信息，弥补多人讨论时信息传递不完整的问题。",
+      "lead_excerpt": "外媒曝光微软将于今年 8 月为 Teams 推出全新 AI 会议辅助工具 Facilitator，依靠人工智能实时解析会议对话，解决参会人员沟通疑问。该功能主打会议实时辅助，能自动识别讨论中未被解答的问题、模糊表述，在会议聊天框推送贴...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29314",
+        "url": "https://www.aibase.com/zh/news/29314",
+        "title": "桌面端 AI 再进化：Gemini Spark 助力 macOS 实现本地文件自动化管理",
+        "date": "2026-07-02",
+        "lead": "近日，谷歌正式为 macOS 版 Gemini 应用引入了全新的“Gemini Spark”功能。这一更新打破了传统 AI 助手仅能提供文本回复的局限，使其能够直接深入用户本地系统，执行诸如文件整理、数据提取等自动化任务，极大地拓展了 AI 在个人办公场景下的实用边界。",
+        "first_paragraph": "用户在更新后，只需在 Gemini 应用侧边栏找到“Spark”标签页，即可授权 AI 访问特定的本地文件夹。通过这套机制，AI 代理可以化身高效的数字助手：例如，自动整理下载文件夹中的 PDF 文档并分类归档，或者定期从本地发票文件中提取数据并同步更新至 Google Workspace 预算表。为了保障安全性，用户可以随时管理或撤销 AI 的文件夹访问权限，在效率与隐私之间保持平衡。",
+        "description": "近日，谷歌正式为 macOS 版 Gemini 应用引入了全新的“Gemini Spark”功能。这一更新打破了传统 AI 助手仅能提供文本回复的局限，使其能够直接深入用户本地系统，执行诸如文件整理、数据提取等自动化任务，极大地拓展了 AI 在个人办公场景下的实用边界。用户在更新后，只需在 Gemini 应用侧边栏找到",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29314.html",
+          "addtime": "2026-07-02T08:47:22.0764173+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-02，近日，谷歌正式为 macOS 版 Gemini 应用引入了全新的“Gemini Spark”功能。这一更新打破了传统 AI 助手仅能提供文本回复的局限，使其能够直接深入用户本地系统，执行诸如文件整理、数据提取等自动化任务，极大地拓展了 AI 在个人办公场景下的实用边界。",
+      "ai_summary": "2026-07-02，近日，谷歌正式为 macOS 版 Gemini 应用引入了全新的“Gemini Spark”功能。这一更新打破了传统 AI 助手仅能提供文本回复的局限，使其能够直接深入用户本地系统，执行诸如文件整理、数据提取等自动化任务，极大地拓展了 AI 在个人办公场景下的实用边界。",
+      "lead_excerpt": "近日，谷歌正式为 macOS 版 Gemini 应用引入了全新的“Gemini Spark”功能。这一更新打破了传统 AI 助手仅能提供文本回复的局限，使其能够直接深入用户本地系统，执行诸如文件整理、数据提取等自动化任务，极大地拓展了...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29310",
+        "url": "https://www.aibase.com/zh/news/29310",
+        "title": "ChatGPT全球用户激增：非英语用户占比过半，全面跨越早期圈层",
+        "date": "2026-07-01",
+        "lead": "人工智能巨头OpenAI今日发布了 2026 年第一季度最新数据分析报告，详细介绍了ChatGPT消费级产品的最新使用变化。数据显示，该产品的全球采用率正在持续深化，在用户年龄、性别以及地域分布等方面均呈现出更加多元的发展趋势。",
+        "first_paragraph": "在语言分布上，非英语的使用量随着全球用户增长同步扩大，目前主要使用英语以外语言的用户已占活跃用户总数的一半以上。其中，西班牙语、葡萄牙语和阿拉伯语高居非英语语种前三名，而非洲和亚洲则是周活跃用户相对增速最快的地区。",
+        "description": "人工智能巨头OpenAI今日发布了 2026 年第一季度最新数据分析报告，详细介绍了ChatGPT消费级产品的最新使用变化。数据显示，该产品的全球采用率正在持续深化，在用户年龄、性别以及地域分布等方面均呈现出更加多元的发展趋势。在语言分布上，非英语的使用量随着全球用户增长同步扩大，目前主要使用英语以外语言的用户已占活跃",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29310.html",
+          "addtime": "2026-07-01T17:10:42.5487624+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-01，人工智能巨头OpenAI今日发布了 2026 年第一季度最新数据分析报告，详细介绍了ChatGPT消费级产品的最新使用变化。数据显示，该产品的全球采用率正在持续深化，在用户年龄、性别以及地域分布等方面均呈现出更加多元的发展趋势。",
+      "ai_summary": "2026-07-01，人工智能巨头OpenAI今日发布了 2026 年第一季度最新数据分析报告，详细介绍了ChatGPT消费级产品的最新使用变化。数据显示，该产品的全球采用率正在持续深化，在用户年龄、性别以及地域分布等方面均呈现出更加多元的发展趋势。",
+      "lead_excerpt": "人工智能巨头OpenAI今日发布了 2026 年第一季度最新数据分析报告，详细介绍了ChatGPT消费级产品的最新使用变化。数据显示，该产品的全球采用率正在持续深化，在用户年龄、性别以及地域分布等方面均呈现出更加多元的发展趋势。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29308",
+        "url": "https://www.aibase.com/zh/news/29308",
+        "title": "孙正义再砸重金：软银完成对OpenAI百亿追加投资， 10 月将再投 100 亿",
+        "date": "2026-07-01",
+        "lead": "投资巨头软银集团今日对外发表官方声明，宣布已正式通过旗下的软银愿景基金二号，完成了对OpenAI总额达 100 亿美元的第二笔追加投资。为了顺利筹集本次注资所需的庞大资金，软银已于今日根据早前签署的过渡贷款协议，成功从外部借入了等额的 100 亿美元。",
+        "first_paragraph": "此次大手笔注资属于软银此前公布的 300 亿美元整体追加投资计划的一部分，该计划共分为三期执行。根据软银集团的规划，最后一笔同样为 100 亿美元的第三期投资，预计将于今年 10 月 1 日正式完成。",
+        "description": "投资巨头软银集团今日对外发表官方声明，宣布已正式通过旗下的软银愿景基金二号，完成了对OpenAI总额达 100 亿美元的第二笔追加投资。为了顺利筹集本次注资所需的庞大资金，软银已于今日根据早前签署的过渡贷款协议，成功从外部借入了等额的 100 亿美元。此次大手笔注资属于软银此前公布的 300 亿美元整体追加投资计划的一",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29308.html",
+          "addtime": "2026-07-01T16:23:33.8274174+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-01，投资巨头软银集团今日对外发表官方声明，宣布已正式通过旗下的软银愿景基金二号，完成了对OpenAI总额达 100 亿美元的第二笔追加投资。为了顺利筹集本次注资所需的庞大资金，软银已于今日根据早前签署的过渡贷款协议，成功从外部借入了等额的 100 亿美元。",
+      "ai_summary": "2026-07-01，投资巨头软银集团今日对外发表官方声明，宣布已正式通过旗下的软银愿景基金二号，完成了对OpenAI总额达 100 亿美元的第二笔追加投资。为了顺利筹集本次注资所需的庞大资金，软银已于今日根据早前签署的过渡贷款协议，成功从外部借入了等额的 100 亿美元。",
+      "lead_excerpt": "投资巨头软银集团今日对外发表官方声明，宣布已正式通过旗下的软银愿景基金二号，完成了对OpenAI总额达 100 亿美元的第二笔追加投资。为了顺利筹集本次注资所需的庞大资金，软银已于今日根据早前签署的过渡贷款协议，成功从外部借入了等额的...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29306",
+        "url": "https://www.aibase.com/zh/news/29306",
+        "title": "软银加码 AI 赛道：向 OpenAI 追加 100 亿美元投资",
+        "date": "2026-07-01",
+        "lead": "全球人工智能行业的资本角逐战再次升温。7 月 1 日，软银集团正式发布声明，宣布已通过旗下的愿景基金二号，完成了对 OpenAI 的 100 亿美元追加投资。",
+        "first_paragraph": "作为人工智能领域的领军企业，OpenAI 近期在模型研发与商业化进程上动作频频，持续吸引着全球顶级资本的目光。软银此次的重金加注，不仅体现了其对 OpenAI 长期技术路线的高度认可，也显示出软银正进一步巩固其在 AI 领域的核心投资布局。",
+        "description": "全球人工智能行业的资本角逐战再次升温。7 月 1 日，软银集团正式发布声明，宣布已通过旗下的愿景基金二号，完成了对 OpenAI 的 100 亿美元追加投资。作为人工智能领域的领军企业，OpenAI 近期在模型研发与商业化进程上动作频频，持续吸引着全球顶级资本的目光。软银此次的重金加注，不仅体现了其对 OpenAI 长",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29306.html",
+          "addtime": "2026-07-01T15:23:31+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-01，全球人工智能行业的资本角逐战再次升温。7 月 1 日，软银集团正式发布声明，宣布已通过旗下的愿景基金二号，完成了对 OpenAI 的 100 亿美元追加投资。",
+      "ai_summary": "2026-07-01，全球人工智能行业的资本角逐战再次升温。7 月 1 日，软银集团正式发布声明，宣布已通过旗下的愿景基金二号，完成了对 OpenAI 的 100 亿美元追加投资。",
+      "lead_excerpt": "全球人工智能行业的资本角逐战再次升温。7 月 1 日，软银集团正式发布声明，宣布已通过旗下的愿景基金二号，完成了对 OpenAI 的 100 亿美元追加投资。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29309",
+        "url": "https://www.aibase.com/zh/news/29309",
+        "title": "调研显示超半数企业后悔因AI裁员 福特IBM等多家巨头重新扩招人类员工",
+        "date": "2026-07-01",
+        "lead": "随着人工智能技术的大规模落地，部分企业激进裁员引发的负面效应正集中显现，行业正迎来从“完全取代人类”向“人机协作”的理性回归。",
+        "first_paragraph": "调研机构Orgvue发布的最新报告显示，在因部署人工智能而裁员的39%企业领导者中，高达55%的受访者承认裁员是一项错误决定。Intuition Labs的研究同样指出，仅聚焦技术替代而忽视员工技能培训，会导致团队因缺乏关键监督人员而无法有效利用AI。",
+        "description": "随着人工智能技术的大规模落地，部分企业激进裁员引发的负面效应正集中显现，行业正迎来从“完全取代人类”向“人机协作”的理性回归。调研机构Orgvue发布的最新报告显示，在因部署人工智能而裁员的39%企业领导者中，高达55%的受访者承认裁员是一项错误决定。Intuition Labs的研究同样指出，仅聚焦技术替代而忽视员工",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29309.html",
+          "addtime": "2026-07-01T16:44:22.4644597+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-07-01，随着人工智能技术的大规模落地，部分企业激进裁员引发的负面效应正集中显现，行业正迎来从“完全取代人类”向“人机协作”的理性回归。",
+      "ai_summary": "2026-07-01，随着人工智能技术的大规模落地，部分企业激进裁员引发的负面效应正集中显现，行业正迎来从“完全取代人类”向“人机协作”的理性回归。",
+      "lead_excerpt": "随着人工智能技术的大规模落地，部分企业激进裁员引发的负面效应正集中显现，行业正迎来从“完全取代人类”向“人机协作”的理性回归。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29326",
+        "url": "https://www.aibase.com/zh/news/29326",
+        "title": "气象探测新利器：纳睿雷达发布“睿宸”AI 气象大模型及相控阵雷达",
+        "date": "2026-07-02",
+        "lead": "在气象监测技术持续向高精度、智能化迈进的背景下，广东纳睿雷达科技股份有限公司于2026年7月1日正式对外发布了两项核心研发成果:自主研发的“WDSPT0152型”S 波段全极化多功能有源相控阵雷达，以及配套的“睿宸”超精细化短时临近 AI 气象大模型。",
+        "first_paragraph": "此次发布的“WDSPT0152型”雷达，通过 S 波段与全极化技术的结合，旨在提升对复杂天气过程的捕捉能力。而“睿宸”AI 气象大模型的引入，则标志着该公司在气象数据处理层面正式切入大模型应用赛道。该模型主要聚焦于“短时临近”这一气象业务中的核心难点，通过 AI 算法对海量气象数据进行深度挖掘与精细化模拟，以期实现对突发性天气变化的精准预警。",
+        "description": "在气象监测技术持续向高精度、智能化迈进的背景下，广东纳睿雷达科技股份有限公司于2026年7月1日正式对外发布了两项核心研发成果:自主研发的“WDSPT0152型”S 波段全极化多功能有源相控阵雷达，以及配套的“睿宸”超精细化短时临近 AI 气象大模型。此次发布的“WDSPT0152型”雷达，通过 S 波段与全极化技术的",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29326.html",
+          "addtime": "2026-07-02T10:18:57.3989329+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-02，在气象监测技术持续向高精度、智能化迈进的背景下，广东纳睿雷达科技股份有限公司于2026年7月1日正式对外发布了两项核心研发成果:自主研发的“WDSPT0152型”S 波段全极化多功能有源相控阵雷达，以及配套的“睿宸”超精细化短时临近 AI 气象大模型。",
+      "ai_summary": "2026-07-02，在气象监测技术持续向高精度、智能化迈进的背景下，广东纳睿雷达科技股份有限公司于2026年7月1日正式对外发布了两项核心研发成果:自主研发的“WDSPT0152型”S 波段全极化多功能有源相控阵雷达，以及配套的“睿宸”超精细化短时临近 AI 气象大模型。",
+      "lead_excerpt": "在气象监测技术持续向高精度、智能化迈进的背景下，广东纳睿雷达科技股份有限公司于2026年7月1日正式对外发布了两项核心研发成果:自主研发的“WDSPT0152型”S 波段全极化多功能有源相控阵雷达，以及配套的“睿宸”超精细化短时临近...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29325",
+        "url": "https://www.aibase.com/zh/news/29325",
+        "title": "Meta效仿SpaceX建立云业务:转售闲置AI算力，股价大涨10%",
+        "date": "2026-07-02",
+        "lead": "据彭博社报道，全球科技巨头 Meta 正在效仿 SpaceX 的商业模式，正式建立自己的云业务。这一战略动作的核心在于将其此前大量购买、目前处于闲置状态的 AI 计算资源转售给外部客户，同时，Meta 还计划在自身的基础设施上向外界开放 AI 模型的访问权限。",
+        "first_paragraph": "作为英伟达 GPU 的全球最大买家之一，Meta 近期经历多起裁员，旨在集中资金全面向人工智能基础设施倾斜，预计仅在今年一年的投入就将高达1450亿美元。尽管 Meta 在今年4月推出了由前 Scale AI 高管 Alexandr Wang 领导研发的首个大模型 Muse Spark，并将其视为 AI 业务彻底变革的开端，但剩余庞大算力的存在，表明其内部模型构建的需求尚未完全消耗其巨额的硬件投资。在此背景下，转售闲置计算资源不仅在经济上具备极高的合理性，更为 Meta 开辟了全新的 B 端变现路径。",
+        "description": "据彭博社报道，全球科技巨头 Meta 正在效仿 SpaceX 的商业模式，正式建立自己的云业务。这一战略动作的核心在于将其此前大量购买、目前处于闲置状态的 AI 计算资源转售给外部客户，同时，Meta 还计划在自身的基础设施上向外界开放 AI 模型的访问权限。作为英伟达 GPU 的全球最大买家之一，Meta 近期经历多",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29325.html",
+          "addtime": "2026-07-02T09:57:00.2956492+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-02，据彭博社报道，全球科技巨头 Meta 正在效仿 SpaceX 的商业模式，正式建立自己的云业务。这一战略动作的核心在于将其此前大量购买、目前处于闲置状态的 AI 计算资源转售给外部客户，同时，Meta 还计划在自身的基础设施上向外界开放 AI 模型的访问权限。",
+      "ai_summary": "2026-07-02，据彭博社报道，全球科技巨头 Meta 正在效仿 SpaceX 的商业模式，正式建立自己的云业务。这一战略动作的核心在于将其此前大量购买、目前处于闲置状态的 AI 计算资源转售给外部客户，同时，Meta 还计划在自身的基础设施上向外界开放 AI 模型的访问权限。",
+      "lead_excerpt": "据彭博社报道，全球科技巨头 Meta 正在效仿 SpaceX 的商业模式，正式建立自己的云业务。这一战略动作的核心在于将其此前大量购买、目前处于闲置状态的 AI 计算资源转售给外部客户，同时，Meta 还计划在自身的基础设施上向外界开...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等；疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29322",
+        "url": "https://www.aibase.com/zh/news/29322",
+        "title": "AI云平台Together AI完成8亿美元C轮融资，估值达83亿美元、年预订额超11亿",
+        "date": "2026-07-02",
+        "lead": "AI基础设施及云服务平台Together AI今日宣布完成8亿美元的C轮融资，估值飙升至83亿美元。本轮融资由沙特阿美创投（Aramco Ventures）领投，Vista Equity Partners、General Catalyst、Emergence Capital、英伟达、March Capital、和硕以及SentinelOne旗下的S Ventures等机构参投。",
+        "first_paragraph": "作为一家成立于2022年的“新云”（Neocloud）技术服务商，Together AI专注于提供英伟达GPU集群等AI专用基础设施的租赁服务。得益于企业级市场对高性能、低成本开源模型需求的爆发式增长，该公司上一季度的年度预订额已超过11.5亿美元，目前拥有包括Cursor、Cognition和Decagon在内的数千家付费客户。",
+        "description": "AI基础设施及云服务平台Together AI今日宣布完成8亿美元的C轮融资，估值飙升至83亿美元。本轮融资由沙特阿美创投（Aramco Ventures）领投，Vista Equity Partners、General Catalyst、Emergence Capital、英伟达、March Capital、和硕以及",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29322.html",
+          "addtime": "2026-07-02T09:36:45.8408586+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-02，AI基础设施及云服务平台Together AI今日宣布完成8亿美元的C轮融资，估值飙升至83亿美元。本轮融资由沙特阿美创投（Aramco Ventures）领投，Vista Equity Partners、General Catalyst、Emergence Capital、英伟达、March Capital、和硕以及SentinelOne旗下的S V...",
+      "ai_summary": "2026-07-02，AI基础设施及云服务平台Together AI今日宣布完成8亿美元的C轮融资，估值飙升至83亿美元。本轮融资由沙特阿美创投（Aramco Ventures）领投，Vista Equity Partners、General Catalyst、Emergence Capital、英伟达、March Capital、和硕以及SentinelOne旗下的S V...",
+      "lead_excerpt": "AI基础设施及云服务平台Together AI今日宣布完成8亿美元的C轮融资，估值飙升至83亿美元。本轮融资由沙特阿美创投（Aramco Ventures）领投，Vista Equity Partners、General Cataly...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29321",
+        "url": "https://www.aibase.com/zh/news/29321",
+        "title": "可灵AI将完成30亿美元融资腾讯参投，计划12个月内启动赴港IPO",
+        "date": "2026-07-02",
+        "lead": "据报道，快手旗下大模型产品可灵AI即将完成一轮30亿美元的全新融资，本轮融资吸引了腾讯等重量级投资方的参与。融资完成后，可灵AI的投后估值将达到180亿美元。据悉，快手已计划在未来12个月内正式启动可灵AI赴港IPO流程，上市募集的资金将主要用于算力与数据中心的扩建、核心技术人才的引进以及留存激励。",
+        "first_paragraph": "作为国内文生视频领域的头部产品，可灵AI近期展现出强劲的商业化变现能力。财务数据显示，2026年第一季度，可灵AI营业收入已突破6.5亿元人民币，同比增幅超300%;截至2026年3月，其年化收入运行率（ARR）已接近5亿美元。",
+        "description": "据报道，快手旗下大模型产品可灵AI即将完成一轮30亿美元的全新融资，本轮融资吸引了腾讯等重量级投资方的参与。融资完成后，可灵AI的投后估值将达到180亿美元。据悉，快手已计划在未来12个月内正式启动可灵AI赴港IPO流程，上市募集的资金将主要用于算力与数据中心的扩建、核心技术人才的引进以及留存激励。作为国内文生视频领域",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29321.html",
+          "addtime": "2026-07-02T09:34:59.0360476+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-02，据报道，快手旗下大模型产品可灵AI即将完成一轮30亿美元的全新融资，本轮融资吸引了腾讯等重量级投资方的参与。融资完成后，可灵AI的投后估值将达到180亿美元。据悉，快手已计划在未来12个月内正式启动可灵AI赴港IPO流程，上市募集的资金将主要用于算力与数据中心的扩建、核心技术人才的引进以及留存激励。",
+      "ai_summary": "2026-07-02，据报道，快手旗下大模型产品可灵AI即将完成一轮30亿美元的全新融资，本轮融资吸引了腾讯等重量级投资方的参与。融资完成后，可灵AI的投后估值将达到180亿美元。据悉，快手已计划在未来12个月内正式启动可灵AI赴港IPO流程，上市募集的资金将主要用于算力与数据中心的扩建、核心技术人才的引进以及留存激励。",
+      "lead_excerpt": "据报道，快手旗下大模型产品可灵AI即将完成一轮30亿美元的全新融资，本轮融资吸引了腾讯等重量级投资方的参与。融资完成后，可灵AI的投后估值将达到180亿美元。据悉，快手已计划在未来12个月内正式启动可灵AI赴港IPO流程，上市募集的资...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等；疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29318",
+        "url": "https://www.aibase.com/zh/news/29318",
+        "title": "国产大模型再迎“重磅炸弹”：Kimi K3 传本月发布，参数规模直指 2.5 万亿",
+        "date": "2026-07-02",
+        "lead": "大模型领域的竞速赛在 2026 年下半年开局便进入了白热化阶段。除了备受关注的 DeepSeek V4 正式版外，人工智能独角兽月之暗面旗下的新一代大模型 Kimi K3，也正式确认将于本月内发布。",
+        "first_paragraph": "虽然目前官方尚未披露 K3 的具体发布日期与详细技术文档，但据相关内部人士透露，这款新模型在性能上有着极为显著的跃升。预计其参数规模将高达 2.5 万亿，不仅大幅超越了 DeepSeek V4 Pro 的 1.6 万亿，也超过了百度此前发布的文心 5.0（2.4 万亿），有望成为当前国产大模型阵营中参数规模最大的“领跑者”。",
+        "description": "大模型领域的竞速赛在 2026 年下半年开局便进入了白热化阶段。除了备受关注的 DeepSeek V4 正式版外，人工智能独角兽月之暗面旗下的新一代大模型 Kimi K3，也正式确认将于本月内发布。虽然目前官方尚未披露 K3 的具体发布日期与详细技术文档，但据相关内部人士透露，这款新模型在性能上有着极为显著的跃升。预计",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29318.html",
+          "addtime": "2026-07-02T09:20:10.3636782+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-02，大模型领域的竞速赛在 2026 年下半年开局便进入了白热化阶段。除了备受关注的 DeepSeek V4 正式版外，人工智能独角兽月之暗面旗下的新一代大模型 Kimi K3，也正式确认将于本月内发布。",
+      "ai_summary": "2026-07-02，大模型领域的竞速赛在 2026 年下半年开局便进入了白热化阶段。除了备受关注的 DeepSeek V4 正式版外，人工智能独角兽月之暗面旗下的新一代大模型 Kimi K3，也正式确认将于本月内发布。",
+      "lead_excerpt": "大模型领域的竞速赛在 2026 年下半年开局便进入了白热化阶段。除了备受关注的 DeepSeek V4 正式版外，人工智能独角兽月之暗面旗下的新一代大模型 Kimi K3，也正式确认将于本月内发布。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29317",
+        "url": "https://www.aibase.com/zh/news/29317",
+        "title": "孙天祥入职百度出任基础模型研发部负责人，并进入模型委员会",
+        "date": "2026-07-02",
+        "lead": "AI大模型领域迎来重要人事变动，技术专家孙天祥已正式加入百度，出任基础模型研发部（BMU）负责人，并同步进入百度模型委员会(BMC)。 这一核心人才的加盟，标志着百度在AI组织架构和系统性人才梯队上的迭代布局更进一步，有望加速文心基础模型的研发与技术攻坚。",
+        "first_paragraph": "当前，百度已将大模型研发体系拆分为基础模型研发部（BMU）和应用模型研发部(AMU)，其中应用模型部由贾磊负责。这种“双轨驱动”的架构调整，旨在通过更明确的精细化分工提升大模型的迭代效率。过去一段时间，百度持续围绕基础模型深化年轻技术力量的引入。",
+        "description": "AI大模型领域迎来重要人事变动，技术专家孙天祥已正式加入百度，出任基础模型研发部（BMU）负责人，并同步进入百度模型委员会(BMC)。 这一核心人才的加盟，标志着百度在AI组织架构和系统性人才梯队上的迭代布局更进一步，有望加速文心基础模型的研发与技术攻坚。当前，百度已将大模型研发体系拆分为基础模型研发部（BMU）和应用",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29317.html",
+          "addtime": "2026-07-02T09:05:36.0541741+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-02，AI大模型领域迎来重要人事变动，技术专家孙天祥已正式加入百度，出任基础模型研发部（BMU）负责人，并同步进入百度模型委员会(BMC)。 这一核心人才的加盟，标志着百度在AI组织架构和系统性人才梯队上的迭代布局更进一步，有望加速文心基础模型的研发与技术攻坚。",
+      "ai_summary": "2026-07-02，AI大模型领域迎来重要人事变动，技术专家孙天祥已正式加入百度，出任基础模型研发部（BMU）负责人，并同步进入百度模型委员会(BMC)。 这一核心人才的加盟，标志着百度在AI组织架构和系统性人才梯队上的迭代布局更进一步，有望加速文心基础模型的研发与技术攻坚。",
+      "lead_excerpt": "AI大模型领域迎来重要人事变动，技术专家孙天祥已正式加入百度，出任基础模型研发部（BMU）负责人，并同步进入百度模型委员会(BMC)。 这一核心人才的加盟，标志着百度在AI组织架构和系统性人才梯队上的迭代布局更进一步，有望加速文心基础...",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29316",
+        "url": "https://www.aibase.com/zh/news/29316",
+        "title": "SpaceX展示纤薄AI设备原型，深度整合xAI技术并对标OpenAI",
+        "date": "2026-07-02",
+        "lead": "马斯克旗下的SpaceX公司近日向投资者和利益相关者展示了一款“类似手机”的人工智能（AI）设备原型，引发了市场对于航天巨头进军消费电子与移动无线业务的广泛猜测。",
+        "first_paragraph": "据透露，该原型机在设计上比iPhone更为纤薄时尚，介于小型触屏手机与Rabbit R1之间。尽管该项目目前仍处于早期阶段且设计存在变数，甚至马斯克本人公开回应称该报道“完全是捏造的”，但此举已明确释放出SpaceX试图打破传统智能手机生态、构建原生AI界面的战略信号。",
+        "description": "马斯克旗下的SpaceX公司近日向投资者和利益相关者展示了一款“类似手机”的人工智能（AI）设备原型，引发了市场对于航天巨头进军消费电子与移动无线业务的广泛猜测。据透露，该原型机在设计上比iPhone更为纤薄时尚，介于小型触屏手机与Rabbit R1之间。尽管该项目目前仍处于早期阶段且设计存在变数，甚至马斯克本人公开回",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29316.html",
+          "addtime": "2026-07-02T09:03:28.0092007+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-02，马斯克旗下的SpaceX公司近日向投资者和利益相关者展示了一款“类似手机”的人工智能（AI）设备原型，引发了市场对于航天巨头进军消费电子与移动无线业务的广泛猜测。",
+      "ai_summary": "2026-07-02，马斯克旗下的SpaceX公司近日向投资者和利益相关者展示了一款“类似手机”的人工智能（AI）设备原型，引发了市场对于航天巨头进军消费电子与移动无线业务的广泛猜测。",
+      "lead_excerpt": "马斯克旗下的SpaceX公司近日向投资者和利益相关者展示了一款“类似手机”的人工智能（AI）设备原型，引发了市场对于航天巨头进军消费电子与移动无线业务的广泛猜测。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29315",
+        "url": "https://www.aibase.com/zh/news/29315",
+        "title": "OpenAI 发布 GeneBench-Pro 基准测试，提升 AI 模型生物学分析能力！",
+        "date": "2026-07-02",
+        "lead": "在生物科技的快速发展中，如何高效且准确地分析复杂的生物数据成为了研究人员面临的一大挑战。为了帮助 AI 模型在这一领域展现更强的分析能力，OpenAI 近日推出了全新的 GeneBench-Pro 基准测试。这一基准专注于评估 AI 在基因组学、蛋白质组学等生物学任务中的实际研究能力，尤其是在面对混乱和不完整数据时的判断与决策能力。",
+        "first_paragraph": "GeneBench-Pro 与传统的基准测试有着显著的不同。传统测试往往侧重于模型的记忆能力和完成任务的固定流程，而 GeneBench-Pro 则更强调模型在真实科研环境中的实用性。测试任务设计时考虑了 “模糊、不完整和带有干扰” 的数据环境，让模型在这样的条件下进行数据探索和分析，从而更真实地反映其判断能力。",
+        "description": "在生物科技的快速发展中，如何高效且准确地分析复杂的生物数据成为了研究人员面临的一大挑战。为了帮助 AI 模型在这一领域展现更强的分析能力，OpenAI 近日推出了全新的 GeneBench-Pro 基准测试。这一基准专注于评估 AI 在基因组学、蛋白质组学等生物学任务中的实际研究能力，尤其是在面对混乱和不完整数据时的判",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29315.html",
+          "addtime": "2026-07-02T08:50:58.6596049+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-02，在生物科技的快速发展中，如何高效且准确地分析复杂的生物数据成为了研究人员面临的一大挑战。为了帮助 AI 模型在这一领域展现更强的分析能力，OpenAI 近日推出了全新的 GeneBench-Pro 基准测试。这一基准专注于评估 AI 在基因组学、蛋白质组学等生物学任务中的实际研究能力，尤其是在面对混乱和不完整数据时的判断与决策能力。",
+      "ai_summary": "2026-07-02，在生物科技的快速发展中，如何高效且准确地分析复杂的生物数据成为了研究人员面临的一大挑战。为了帮助 AI 模型在这一领域展现更强的分析能力，OpenAI 近日推出了全新的 GeneBench-Pro 基准测试。这一基准专注于评估 AI 在基因组学、蛋白质组学等生物学任务中的实际研究能力，尤其是在面对混乱和不完整数据时的判断与决策能力。",
+      "lead_excerpt": "在生物科技的快速发展中，如何高效且准确地分析复杂的生物数据成为了研究人员面临的一大挑战。为了帮助 AI 模型在这一领域展现更强的分析能力，OpenAI 近日推出了全新的 GeneBench-Pro 基准测试。这一基准专注于评估 AI...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29313",
+        "url": "https://www.aibase.com/zh/news/29313",
+        "title": "Anthropic Claude系列大模型正式登陆Microsoft Foundry并托管于Azure云",
+        "date": "2026-07-01",
+        "lead": "Anthropic旗下Claude系列大模型现已在Microsoft Foundry全面可用，并正式托管于微软Azure云环境。这一战略合作意味着企业客户能够通过现有的Azure账户直接调用Claude模型，全面复用微软成熟的身份认证、网络配置及治理体系，在大幅简化企业级采购与合规流程的同时，将Claude的使用量统一纳入Azure账单。",
+        "first_paragraph": "在功能层面，该服务不仅支持提示缓存与扩展思考等Claude核心能力，还赋予客户自主选择数据驻留区域的权限，以满足不同地域的合规需求。",
+        "description": "Anthropic旗下Claude系列大模型现已在Microsoft Foundry全面可用，并正式托管于微软Azure云环境。这一战略合作意味着企业客户能够通过现有的Azure账户直接调用Claude模型，全面复用微软成熟的身份认证、网络配置及治理体系，在大幅简化企业级采购与合规流程的同时，将Claude的使用量统一",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29313.html",
+          "addtime": "2026-07-01T17:43:04.7269911+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-01，Anthropic旗下Claude系列大模型现已在Microsoft Foundry全面可用，并正式托管于微软Azure云环境。这一战略合作意味着企业客户能够通过现有的Azure账户直接调用Claude模型，全面复用微软成熟的身份认证、网络配置及治理体系，在大幅简化企业级采购与合规流程的同时，将Claude的使用量统一纳入Azure账单。",
+      "ai_summary": "2026-07-01，Anthropic旗下Claude系列大模型现已在Microsoft Foundry全面可用，并正式托管于微软Azure云环境。这一战略合作意味着企业客户能够通过现有的Azure账户直接调用Claude模型，全面复用微软成熟的身份认证、网络配置及治理体系，在大幅简化企业级采购与合规流程的同时，将Claude的使用量统一纳入Azure账单。",
+      "lead_excerpt": "Anthropic旗下Claude系列大模型现已在Microsoft Foundry全面可用，并正式托管于微软Azure云环境。这一战略合作意味着企业客户能够通过现有的Azure账户直接调用Claude模型，全面复用微软成熟的身份认证...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29312",
+        "url": "https://www.aibase.com/zh/news/29312",
+        "title": "性能提升超两倍：英伟达发布 Nemotron-Labs-TwoTower 扩散语言模型",
+        "date": "2026-07-01",
+        "lead": "在追求大模型生成效率的道路上，英伟达近日给出了新的解法。7月1日，英伟达正式开源了旗下最新的Nemotron-Labs-TwoTower扩散语言模型，旨在通过架构创新打破传统自回归（AR）模型的吞吐量瓶颈。",
+        "first_paragraph": "传统的自回归模型在处理文本生成时，需要逐个 token 串行解码，这在面对大规模合成任务时显得效率不足。英伟达提出的“双塔”架构则另辟蹊径，将任务拆解为两个部分:一个是保持冻结状态的“上下文塔”，负责处理提示词并保留原有的语言理解能力;另一个则是经过特定训练的“去噪器塔”，专门负责并行生成并优化 token。",
+        "description": "在追求大模型生成效率的道路上，英伟达近日给出了新的解法。7月1日，英伟达正式开源了旗下最新的Nemotron-Labs-TwoTower扩散语言模型，旨在通过架构创新打破传统自回归（AR）模型的吞吐量瓶颈。传统的自回归模型在处理文本生成时，需要逐个 token 串行解码，这在面对大规模合成任务时显得效率不足。英伟达提出",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29312.html",
+          "addtime": "2026-07-01T17:22:10.0293264+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-01，在追求大模型生成效率的道路上，英伟达近日给出了新的解法。7月1日，英伟达正式开源了旗下最新的Nemotron-Labs-TwoTower扩散语言模型，旨在通过架构创新打破传统自回归（AR）模型的吞吐量瓶颈。",
+      "ai_summary": "2026-07-01，在追求大模型生成效率的道路上，英伟达近日给出了新的解法。7月1日，英伟达正式开源了旗下最新的Nemotron-Labs-TwoTower扩散语言模型，旨在通过架构创新打破传统自回归（AR）模型的吞吐量瓶颈。",
+      "lead_excerpt": "在追求大模型生成效率的道路上，英伟达近日给出了新的解法。7月1日，英伟达正式开源了旗下最新的Nemotron-Labs-TwoTower扩散语言模型，旨在通过架构创新打破传统自回归（AR）模型的吞吐量瓶颈。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29311",
+        "url": "https://www.aibase.com/zh/news/29311",
+        "title": "奥特曼 AI 创业故事搬上大银幕：Neon 拿下发行权，目标锁定奥斯卡",
+        "date": "2026-07-01",
+        "lead": "关于 OpenAI 首席执行官山姆·奥特曼及其公司崛起之路的电影《人工智能》（Artificial），近日有了重大进展。在亚马逊米高梅影业选择退出发行后，独立电影发行商 Neon 迅速出手，在经过激烈的多轮竞标后，成功将该片的全球发行权收入囊中。",
+        "first_paragraph": "这部影片由知名导演卢卡·瓜达尼诺执导，制作成本约4000万美元，目前已进入制作收尾阶段。在演员阵容方面，影片由安德鲁·加菲尔德饰演山姆·奥特曼，莫妮卡·巴巴罗、尤拉·鲍里索夫以及奥斯卡影帝马克·里朗斯联袂加盟，而饰演埃隆·马斯克的则是艾克·巴林霍尔茨。",
+        "description": "关于 OpenAI 首席执行官山姆·奥特曼及其公司崛起之路的电影《人工智能》（Artificial），近日有了重大进展。在亚马逊米高梅影业选择退出发行后，独立电影发行商 Neon 迅速出手，在经过激烈的多轮竞标后，成功将该片的全球发行权收入囊中。这部影片由知名导演卢卡·瓜达尼诺执导，制作成本约4000万美元，目前已进入",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-06-26_2026-07-02/29311.html",
+          "addtime": "2026-07-01T17:19:27.1387518+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-01，关于 OpenAI 首席执行官山姆·奥特曼及其公司崛起之路的电影《人工智能》（Artificial），近日有了重大进展。在亚马逊米高梅影业选择退出发行后，独立电影发行商 Neon 迅速出手，在经过激烈的多轮竞标后，成功将该片的全球发行权收入囊中。",
+      "ai_summary": "2026-07-01，关于 OpenAI 首席执行官山姆·奥特曼及其公司崛起之路的电影《人工智能》（Artificial），近日有了重大进展。在亚马逊米高梅影业选择退出发行后，独立电影发行商 Neon 迅速出手，在经过激烈的多轮竞标后，成功将该片的全球发行权收入囊中。",
+      "lead_excerpt": "关于 OpenAI 首席执行官山姆·奥特曼及其公司崛起之路的电影《人工智能》（Artificial），近日有了重大进展。在亚马逊米高梅影业选择退出发行后，独立电影发行商 Neon 迅速出手，在经过激烈的多轮竞标后，成功将该片的全球发行...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
