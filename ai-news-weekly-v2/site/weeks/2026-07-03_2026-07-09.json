@@ -1,0 +1,709 @@
+{
+  "week_id": "2026-07-03_2026-07-09",
+  "label": "7.3-7.9",
+  "start_date": "2026-07-03",
+  "end_date": "2026-07-09",
+  "generated_at": "2026-07-09T02:32:22",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29483",
+        "url": "https://www.aibase.com/zh/news/29483",
+        "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
+        "date": "2026-07-09",
+        "lead": "今天，字节跳动正式发布了多模态图像创作模型——Seedream5.0Pro，标志着AI图像创作从单纯的“生成”向更深层的“设计”迈进。",
+        "first_paragraph": "相比前代版本，Seedream5.0Pro在图文匹配、结构合理性、文字渲染及画面质感等方面均实现了显著提升，并重点突破了四大核心能力。",
+        "description": "今天，字节跳动正式发布了多模态图像创作模型——Seedream5.0Pro，标志着AI图像创作从单纯的“生成”向更深层的“设计”迈进。相比前代版本，Seedream5.0Pro在图文匹配、结构合理性、文字渲染及画面质感等方面均实现了显著提升，并重点突破了四大核心能力。首先是复杂信息的可视化能力。Seedream5.0P",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29483.html",
+          "addtime": "2026-07-09T10:03:10.84444+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-09，今天，字节跳动正式发布了多模态图像创作模型——Seedream5.0Pro，标志着AI图像创作从单纯的“生成”向更深层的“设计”迈进。",
+      "ai_summary": "2026-07-09，今天，字节跳动正式发布了多模态图像创作模型——Seedream5.0Pro，标志着AI图像创作从单纯的“生成”向更深层的“设计”迈进。",
+      "lead_excerpt": "今天，字节跳动正式发布了多模态图像创作模型——Seedream5.0Pro，标志着AI图像创作从单纯的“生成”向更深层的“设计”迈进。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29468",
+        "url": "https://www.aibase.com/zh/news/29468",
+        "title": "淘宝闪购高管炮轰行业现状：电商App没有AI交互能力，用户的真实需求被\"憋\"住了",
+        "date": "2026-07-08",
+        "lead": "2026 中国互联网大会开幕，淘宝闪购高级副总裁、超算团队负责人郏夹发表主题演讲，直言当前电商和即时零售行业的一大痛点。他指出，绝大多数电商和即时零售App至今没有原生的AI交互能力，用户只能用简短的商品关键词搜索，复杂、场景化的消费需求无法充分表达，真实消费诉求被严重压抑。",
+        "first_paragraph": "郏夹首先厘清了即时零售与传统零售的本质区别，将其核心三要素归纳为即时需求、即时履约和本地化供给。消费者需求具备强时效性，比如即时点餐、买菜购食材、应急购药等，普遍希望商品半小时至 1 小时送达。商品供给集中在用户周边 3 至 5 公里范围，主打就近配送，整体消费便捷度大幅提升。",
+        "description": "2026 中国互联网大会开幕，淘宝闪购高级副总裁、超算团队负责人郏夹发表主题演讲，直言当前电商和即时零售行业的一大痛点。他指出，绝大多数电商和即时零售App至今没有原生的AI交互能力，用户只能用简短的商品关键词搜索，复杂、场景化的消费需求无法充分表达，真实消费诉求被严重压抑。郏夹首先厘清了即时零售与传统零售的本质区别，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29468.html",
+          "addtime": "2026-07-08T16:29:54+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-08，2026 中国互联网大会开幕，淘宝闪购高级副总裁、超算团队负责人郏夹发表主题演讲，直言当前电商和即时零售行业的一大痛点。他指出，绝大多数电商和即时零售App至今没有原生的AI交互能力，用户只能用简短的商品关键词搜索，复杂、场景化的消费需求无法充分表达，真实消费诉求被严重压抑。",
+      "ai_summary": "2026-07-08，2026 中国互联网大会开幕，淘宝闪购高级副总裁、超算团队负责人郏夹发表主题演讲，直言当前电商和即时零售行业的一大痛点。他指出，绝大多数电商和即时零售App至今没有原生的AI交互能力，用户只能用简短的商品关键词搜索，复杂、场景化的消费需求无法充分表达，真实消费诉求被严重压抑。",
+      "lead_excerpt": "2026 中国互联网大会开幕，淘宝闪购高级副总裁、超算团队负责人郏夹发表主题演讲，直言当前电商和即时零售行业的一大痛点。他指出，绝大多数电商和即时零售App至今没有原生的AI交互能力，用户只能用简短的商品关键词搜索，复杂、场景化的消费...",
+      "reason": "符合优先级：阿里及相关主体、电商/交易/支付/商家工具相关、产品/功能/工具/平台动作",
+      "priority_score": 105,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29486",
+        "url": "https://www.aibase.com/zh/news/29486",
+        "title": "OpenAI语音助手大升级：GPT-Live全双工模型上线，ChatGPT终于能\"边听边说\"了",
+        "date": "2026-07-09",
+        "lead": "OpenAI正式发布基于GPT-Live架构的全新ChatGPT语音体验，标志着其语音技术迎来一次重大架构跃迁。相比 2024 年推出的Advanced Voice Mode，新版语音不再依赖传统语音系统，而是转向专为智能语音代理打造的实时音频模型。",
+        "first_paragraph": "早在今年 5 月，OpenAI就公布了迄今最先进的实时语音模型GPT-Realtime-2，将GPT- 5 级别的推理能力引入实时音频交互场景。这套模型能更好地处理复杂请求，更稳定地追踪长对话上下文，并在保持自然语速和语气的同时完成多步骤任务。如今基于GPT-Live架构的新一代语音体验进一步拉高了交互上限，让ChatGPT真正具备了\"同时说话、倾听和思考\"的能力。",
+        "description": "OpenAI正式发布基于GPT-Live架构的全新ChatGPT语音体验，标志着其语音技术迎来一次重大架构跃迁。相比 2024 年推出的Advanced Voice Mode，新版语音不再依赖传统语音系统，而是转向专为智能语音代理打造的实时音频模型。早在今年 5 月，OpenAI就公布了迄今最先进的实时语音模型GPT-",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29486.html",
+          "addtime": "2026-07-09T10:25:57.1353282+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-09，OpenAI正式发布基于GPT-Live架构的全新ChatGPT语音体验，标志着其语音技术迎来一次重大架构跃迁。相比 2024 年推出的Advanced Voice Mode，新版语音不再依赖传统语音系统，而是转向专为智能语音代理打造的实时音频模型。",
+      "ai_summary": "2026-07-09，OpenAI正式发布基于GPT-Live架构的全新ChatGPT语音体验，标志着其语音技术迎来一次重大架构跃迁。相比 2024 年推出的Advanced Voice Mode，新版语音不再依赖传统语音系统，而是转向专为智能语音代理打造的实时音频模型。",
+      "lead_excerpt": "OpenAI正式发布基于GPT-Live架构的全新ChatGPT语音体验，标志着其语音技术迎来一次重大架构跃迁。相比 2024 年推出的Advanced Voice Mode，新版语音不再依赖传统语音系统，而是转向专为智能语音代理打造...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29484",
+        "url": "https://www.aibase.com/zh/news/29484",
+        "title": "Cloudflare联手OpenAI，AI搜索技术迎来新突破",
+        "date": "2026-07-09",
+        "lead": "7月8日，云服务提供商Cloudflare与OpenAI正式宣布启动一项深度的研究试点项目。双方此次合作的核心目标，是探索如何通过Cloudflare庞大的全球网络数据，为AI搜索引擎提供更精准的索引支持，进而大幅提升AI检索内容的实时性与准确性。",
+        "first_paragraph": "随着生成式AI的飞速发展，如何让AI模型快速捕捉并理解网络上的最新动态，一直是技术研发的关键难点。此次合作中，Cloudflare将向OpenAI开放其独有的网络洞察信号。这些实时数据涵盖了网页内容的更新频率、流量趋势以及页面的变动轨迹，能够为AI系统提供更为直观的“网络风向标”。",
+        "description": "7月8日，云服务提供商Cloudflare与OpenAI正式宣布启动一项深度的研究试点项目。双方此次合作的核心目标，是探索如何通过Cloudflare庞大的全球网络数据，为AI搜索引擎提供更精准的索引支持，进而大幅提升AI检索内容的实时性与准确性。随着生成式AI的飞速发展，如何让AI模型快速捕捉并理解网络上的最新动态，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29484.html",
+          "addtime": "2026-07-09T10:14:08.8761468+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-09，7月8日，云服务提供商Cloudflare与OpenAI正式宣布启动一项深度的研究试点项目。双方此次合作的核心目标，是探索如何通过Cloudflare庞大的全球网络数据，为AI搜索引擎提供更精准的索引支持，进而大幅提升AI检索内容的实时性与准确性。",
+      "ai_summary": "2026-07-09，7月8日，云服务提供商Cloudflare与OpenAI正式宣布启动一项深度的研究试点项目。双方此次合作的核心目标，是探索如何通过Cloudflare庞大的全球网络数据，为AI搜索引擎提供更精准的索引支持，进而大幅提升AI检索内容的实时性与准确性。",
+      "lead_excerpt": "7月8日，云服务提供商Cloudflare与OpenAI正式宣布启动一项深度的研究试点项目。双方此次合作的核心目标，是探索如何通过Cloudflare庞大的全球网络数据，为AI搜索引擎提供更精准的索引支持，进而大幅提升AI检索内容的实...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29481",
+        "url": "https://www.aibase.com/zh/news/29481",
+        "title": "阶跃星辰将发布全球大模型厂商首款AI智能体手机",
+        "date": "2026-07-09",
+        "lead": "大模型独角兽阶跃星辰即将发布其全新AI终端品牌、智能体系统以及首款AI智能体手机。这一战略动作意味着阶跃星辰成为全球大模型厂商中率先迈出智能体硬件落地实质性一步的玩家。",
+        "first_paragraph": "当前，AI大模型正加速向端侧渗透，新一代AI终端已成为全球大厂攻坚的战略高地。此前，大模型巨头OpenAI已公开押注这一赛道，并计划于2027年上市其AI终端产品。阶跃星辰此次抢先落地AI智能体手机，不仅在时间节点上完成了对国际前沿厂商的卡位，也将大模型能力的竞争正式从云端软件延展至物理终端与原生系统的软硬件一体化生态。",
+        "description": "大模型独角兽阶跃星辰即将发布其全新AI终端品牌、智能体系统以及首款AI智能体手机。这一战略动作意味着阶跃星辰成为全球大模型厂商中率先迈出智能体硬件落地实质性一步的玩家。当前，AI大模型正加速向端侧渗透，新一代AI终端已成为全球大厂攻坚的战略高地。此前，大模型巨头OpenAI已公开押注这一赛道，并计划于2027年上市其A",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29481.html",
+          "addtime": "2026-07-09T09:58:01.4239259+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-09，大模型独角兽阶跃星辰即将发布其全新AI终端品牌、智能体系统以及首款AI智能体手机。这一战略动作意味着阶跃星辰成为全球大模型厂商中率先迈出智能体硬件落地实质性一步的玩家。",
+      "ai_summary": "2026-07-09，大模型独角兽阶跃星辰即将发布其全新AI终端品牌、智能体系统以及首款AI智能体手机。这一战略动作意味着阶跃星辰成为全球大模型厂商中率先迈出智能体硬件落地实质性一步的玩家。",
+      "lead_excerpt": "大模型独角兽阶跃星辰即将发布其全新AI终端品牌、智能体系统以及首款AI智能体手机。这一战略动作意味着阶跃星辰成为全球大模型厂商中率先迈出智能体硬件落地实质性一步的玩家。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29479",
+        "url": "https://www.aibase.com/zh/news/29479",
+        "title": "微软测试iPad版Word新版本:深度整合Copilot AI助手辅助文档编辑",
+        "date": "2026-07-09",
+        "lead": "微软于7月7日发布公告，正式邀请Microsoft365Insider项目成员参与iPad版Word2.109（Build26051516）的测试。本次更新的核心在于深度整合Copilot AI助手，旨在通过人工智能技术全面升级移动端文档的编辑体验。",
+        "first_paragraph": "通过此次功能升级，iPad端用户将能够直接利用Copilot将零散的想法与碎片化信息快速转化为结构完整的文档，大幅减少了在多种效率工具之间切换的频率。在文本优化方面，该AI助手支持根据用户指令精细化调整文本语气、自动添加标题并优化段落布局，从而确保文档整体格式的高效统一。",
+        "description": "微软于7月7日发布公告，正式邀请Microsoft365Insider项目成员参与iPad版Word2.109（Build26051516）的测试。本次更新的核心在于深度整合Copilot AI助手，旨在通过人工智能技术全面升级移动端文档的编辑体验。通过此次功能升级，iPad端用户将能够直接利用Copilo",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29479.html",
+          "addtime": "2026-07-09T09:21:07.7458263+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-09，微软于7月7日发布公告，正式邀请Microsoft365Insider项目成员参与iPad版Word2.109（Build26051516）的测试。本次更新的核心在于深度整合Copilot AI助手，旨在通过人工智能技术全面升级移动端文档的编辑体验。",
+      "ai_summary": "2026-07-09，微软于7月7日发布公告，正式邀请Microsoft365Insider项目成员参与iPad版Word2.109（Build26051516）的测试。本次更新的核心在于深度整合Copilot AI助手，旨在通过人工智能技术全面升级移动端文档的编辑体验。",
+      "lead_excerpt": "微软于7月7日发布公告，正式邀请Microsoft365Insider项目成员参与iPad版Word2.109（Build26051516）的测试。本次更新的核心在于深度整合Copilot AI助手，旨在通过人工智能技术全面升级移动端...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29474",
+        "url": "https://www.aibase.com/zh/news/29474",
+        "title": "全双工实时语音上线，ChatGPT彻底告别“对讲机”时代",
+        "date": "2026-07-09",
+        "lead": "OpenAI 近日正式向全球用户推出基于 GPT-Live 架构的全新 ChatGPT 语音体验。这不仅是语音技术路线的一次重要更迭，更标志着 AI 语音助手正从传统的“对讲机式”交互，全面转向更接近真人对话的全双工模式。",
+        "first_paragraph": "相比此前在2024年推出的 Advanced Voice Mode，GPT-Live 的核心进步在于彻底摆脱了传统语音系统的束缚。新架构允许模型在“说话、倾听和思考”之间实现真正的并行处理。这意味着当用户在对话时，ChatGPT 不再需要等到你完全讲完才能回应，而是能够实时捕捉你的语气与停顿，适时地给出诸如“嗯哼”或“okay”这样的自然反馈。如果用户需要思考时间，模型也会识趣地保持安静，整个交互过程不再有生硬的打断感。",
+        "description": "OpenAI 近日正式向全球用户推出基于 GPT-Live 架构的全新 ChatGPT 语音体验。这不仅是语音技术路线的一次重要更迭，更标志着 AI 语音助手正从传统的“对讲机式”交互，全面转向更接近真人对话的全双工模式。相比此前在2024年推出的 Advanced Voice Mode，GPT-Live 的核心进步在",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29474.html",
+          "addtime": "2026-07-09T08:52:41.9398952+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-09，OpenAI 近日正式向全球用户推出基于 GPT-Live 架构的全新 ChatGPT 语音体验。这不仅是语音技术路线的一次重要更迭，更标志着 AI 语音助手正从传统的“对讲机式”交互，全面转向更接近真人对话的全双工模式。",
+      "ai_summary": "2026-07-09，OpenAI 近日正式向全球用户推出基于 GPT-Live 架构的全新 ChatGPT 语音体验。这不仅是语音技术路线的一次重要更迭，更标志着 AI 语音助手正从传统的“对讲机式”交互，全面转向更接近真人对话的全双工模式。",
+      "lead_excerpt": "OpenAI 近日正式向全球用户推出基于 GPT-Live 架构的全新 ChatGPT 语音体验。这不仅是语音技术路线的一次重要更迭，更标志着 AI 语音助手正从传统的“对讲机式”交互，全面转向更接近真人对话的全双工模式。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29467",
+        "url": "https://www.aibase.com/zh/news/29467",
+        "title": "Meta超级智能实验室首发图像模型Muse Image：对话即可生成，Instagram和WhatsApp免费用",
+        "date": "2026-07-08",
+        "lead": "Meta正式推出全新AI图像生成模型Muse Image，这是其旗下Meta超级智能实验室发布的首个图像生成模型。该模型已通过Meta AI应用免费提供，并同步登陆Instagram和WhatsApp两大社交平台，用户只需用对话式语言描述需求，即可快速生成高质量图像，使用门槛大幅降低。",
+        "first_paragraph": "不只是\"画图\"，还能擦路人、渲染文字、重装房间",
+        "description": "Meta正式推出全新AI图像生成模型Muse Image，这是其旗下Meta超级智能实验室发布的首个图像生成模型。该模型已通过Meta AI应用免费提供，并同步登陆Instagram和WhatsApp两大社交平台，用户只需用对话式语言描述需求，即可快速生成高质量图像，使用门槛大幅降低。不只是\"画图\"",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29467.html",
+          "addtime": "2026-07-08T15:46:20+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-08，Meta正式推出全新AI图像生成模型Muse Image，这是其旗下Meta超级智能实验室发布的首个图像生成模型。该模型已通过Meta AI应用免费提供，并同步登陆Instagram和WhatsApp两大社交平台，用户只需用对话式语言描述需求，即可快速生成高质量图像，使用门槛大幅降低。",
+      "ai_summary": "2026-07-08，Meta正式推出全新AI图像生成模型Muse Image，这是其旗下Meta超级智能实验室发布的首个图像生成模型。该模型已通过Meta AI应用免费提供，并同步登陆Instagram和WhatsApp两大社交平台，用户只需用对话式语言描述需求，即可快速生成高质量图像，使用门槛大幅降低。",
+      "lead_excerpt": "Meta正式推出全新AI图像生成模型Muse Image，这是其旗下Meta超级智能实验室发布的首个图像生成模型。该模型已通过Meta AI应用免费提供，并同步登陆Instagram和WhatsApp两大社交平台，用户只需用对话式语言...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29466",
+        "url": "https://www.aibase.com/zh/news/29466",
+        "title": "Steam玩家对AI没那么抗拒：43%表示可以接受，仅8%绝对不碰",
+        "date": "2026-07-08",
+        "lead": "据外媒Gamesradar报道，市场调研机构GameDiscoverCo对 3800 名Steam玩家进行了一项关于AI参与游戏开发的调查，结果出乎不少人的意料。数据显示，相当比例的受访者对AI进入电子游戏并不反感，态度远比外界想象的开放。",
+        "first_paragraph": "具体来看，23.4%的玩家称自己\"完全不介意\"游戏中使用AI，另有19.6%表示\"可以接受\"，两者合计占比超过43%。占比最高的群体是中立派，25.6%的受访者对AI持\"中立\"态度。而真正抵触的玩家其实是少数：23.3%表示\"不是特别喜欢\"，只有8.1%的人态度最坚决，称无论什么情况都不会考虑游玩使用AI的游戏。",
+        "description": "据外媒Gamesradar报道，市场调研机构GameDiscoverCo对 3800 名Steam玩家进行了一项关于AI参与游戏开发的调查，结果出乎不少人的意料。数据显示，相当比例的受访者对AI进入电子游戏并不反感，态度远比外界想象的开放。具体来看，23.4%的玩家称自己\"完全不介意\"游戏中使用AI",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29466.html",
+          "addtime": "2026-07-08T15:29:16+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-07-08，据外媒Gamesradar报道，市场调研机构GameDiscoverCo对 3800 名Steam玩家进行了一项关于AI参与游戏开发的调查，结果出乎不少人的意料。数据显示，相当比例的受访者对AI进入电子游戏并不反感，态度远比外界想象的开放。",
+      "ai_summary": "2026-07-08，据外媒Gamesradar报道，市场调研机构GameDiscoverCo对 3800 名Steam玩家进行了一项关于AI参与游戏开发的调查，结果出乎不少人的意料。数据显示，相当比例的受访者对AI进入电子游戏并不反感，态度远比外界想象的开放。",
+      "lead_excerpt": "据外媒Gamesradar报道，市场调研机构GameDiscoverCo对 3800 名Steam玩家进行了一项关于AI参与游戏开发的调查，结果出乎不少人的意料。数据显示，相当比例的受访者对AI进入电子游戏并不反感，态度远比外界想象的开放。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29485",
+        "url": "https://www.aibase.com/zh/news/29485",
+        "title": "OpenAI人才流动：前研究员田永龙入职腾讯，深耕视觉语言模型研发",
+        "date": "2026-07-09",
+        "lead": "人工智能领域的人才流动近期引发关注。据最新消息，OpenAI前研究员田永龙（Yonglong Tian）已正式加盟腾讯，未来将进入腾讯大语言模型部工作，主要参与视觉语言模型（VLM）的相关研发任务。",
+        "first_paragraph": "作为AI领域的资深科研人员，田永龙此前的技术背景备受业界瞩目。此次他加入腾讯，被视为腾讯在多模态大模型技术布局上的又一重要引援。视觉语言模型作为大模型技术的前沿方向之一，旨在提升AI理解和处理复杂视觉信息的能力，是实现更高级人工智能的关键环节。",
+        "description": "人工智能领域的人才流动近期引发关注。据最新消息，OpenAI前研究员田永龙（Yonglong Tian）已正式加盟腾讯，未来将进入腾讯大语言模型部工作，主要参与视觉语言模型（VLM）的相关研发任务。作为AI领域的资深科研人员，田永龙此前的技术背景备受业界瞩目。此次他加入腾讯，被视为腾讯在多模态大模型技术布局上的又一重要",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29485.html",
+          "addtime": "2026-07-09T10:16:39.1758985+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-09，人工智能领域的人才流动近期引发关注。据最新消息，OpenAI前研究员田永龙（Yonglong Tian）已正式加盟腾讯，未来将进入腾讯大语言模型部工作，主要参与视觉语言模型（VLM）的相关研发任务。",
+      "ai_summary": "2026-07-09，人工智能领域的人才流动近期引发关注。据最新消息，OpenAI前研究员田永龙（Yonglong Tian）已正式加盟腾讯，未来将进入腾讯大语言模型部工作，主要参与视觉语言模型（VLM）的相关研发任务。",
+      "lead_excerpt": "人工智能领域的人才流动近期引发关注。据最新消息，OpenAI前研究员田永龙（Yonglong Tian）已正式加盟腾讯，未来将进入腾讯大语言模型部工作，主要参与视觉语言模型（VLM）的相关研发任务。",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 50,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29482",
+        "url": "https://www.aibase.com/zh/news/29482",
+        "title": "Anthropic 抢先冲击 IPO，AI 行业迎来千亿营收新格局",
+        "date": "2026-07-09",
+        "lead": "全球 AI 行业再度迎来关键节点。最新市场分析指出，人工智能初创公司 Anthropic 已于今年6月1日秘密提交了首次公开募股（IPO）申请。若该流程推进顺利，Anthropic 有望成为 AI 实验室领域迄今规模最大的上市企业。",
+        "first_paragraph": "据行业数据测算，Anthropic 预计在今年第三季度实现超过10亿美元的利润。目前，Anthropic 与 OpenAI 的年度经常性收入（ARR）合计已逼近1000亿美元。在 OpenAI 传出将 IPO 计划推迟至2027年的背景下，Anthropic 凭借 Claude Code 在软件开发领域的强劲表现，成功在 B2B 市场占据先机，实现了显著的盈利变现，正以盈利驱动的商业模式在赛道中加速突围。",
+        "description": "全球 AI 行业再度迎来关键节点。最新市场分析指出，人工智能初创公司 Anthropic 已于今年6月1日秘密提交了首次公开募股（IPO）申请。若该流程推进顺利，Anthropic 有望成为 AI 实验室领域迄今规模最大的上市企业。据行业数据测算，Anthropic 预计在今年第三季度实现超过10亿美元的利润。目前，A",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29482.html",
+          "addtime": "2026-07-09T10:00:22.9835976+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-09，全球 AI 行业再度迎来关键节点。最新市场分析指出，人工智能初创公司 Anthropic 已于今年6月1日秘密提交了首次公开募股（IPO）申请。若该流程推进顺利，Anthropic 有望成为 AI 实验室领域迄今规模最大的上市企业。",
+      "ai_summary": "2026-07-09，全球 AI 行业再度迎来关键节点。最新市场分析指出，人工智能初创公司 Anthropic 已于今年6月1日秘密提交了首次公开募股（IPO）申请。若该流程推进顺利，Anthropic 有望成为 AI 实验室领域迄今规模最大的上市企业。",
+      "lead_excerpt": "全球 AI 行业再度迎来关键节点。最新市场分析指出，人工智能初创公司 Anthropic 已于今年6月1日秘密提交了首次公开募股（IPO）申请。若该流程推进顺利，Anthropic 有望成为 AI 实验室领域迄今规模最大的上市企业。",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29480",
+        "url": "https://www.aibase.com/zh/news/29480",
+        "title": "法律金融行业迎“新援”：SpaceX AI联合Cursor推出Grok 4.5",
+        "date": "2026-07-09",
+        "lead": "本周，人工智能模型领域再度迎来重量级更新。SpaceX AI正式发布了最新一代模型Grok4.5，这款产品由SpaceX AI与AI编程初创公司Cursor联手打造，其核心目标直指行业头部玩家，意在大幅缩短与OpenAI、Anthropic等顶尖大模型厂商的技术差距。",
+        "first_paragraph": "Grok4.5并非简单的性能迭代，它被赋予了处理复杂、长期运行任务的专业能力。在以往的应用场景中，顶尖大模型多聚焦于软件工程开发，而Grok4.5则在此基础上实现了跨越式拓展，将服务版图延伸至法律咨询、金融服务等对逻辑深度与准确性要求极高的专业领域。",
+        "description": "本周，人工智能模型领域再度迎来重量级更新。SpaceX AI正式发布了最新一代模型Grok4.5，这款产品由SpaceX AI与AI编程初创公司Cursor联手打造，其核心目标直指行业头部玩家，意在大幅缩短与OpenAI、Anthropic等顶尖大模型厂商的技术差距。Grok4.5并非简单的性能迭代，它被赋予了处理复杂",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29480.html",
+          "addtime": "2026-07-09T09:32:33.2930822+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-09，本周，人工智能模型领域再度迎来重量级更新。SpaceX AI正式发布了最新一代模型Grok4.5，这款产品由SpaceX AI与AI编程初创公司Cursor联手打造，其核心目标直指行业头部玩家，意在大幅缩短与OpenAI、Anthropic等顶尖大模型厂商的技术差距。",
+      "ai_summary": "2026-07-09，本周，人工智能模型领域再度迎来重量级更新。SpaceX AI正式发布了最新一代模型Grok4.5，这款产品由SpaceX AI与AI编程初创公司Cursor联手打造，其核心目标直指行业头部玩家，意在大幅缩短与OpenAI、Anthropic等顶尖大模型厂商的技术差距。",
+      "lead_excerpt": "本周，人工智能模型领域再度迎来重量级更新。SpaceX AI正式发布了最新一代模型Grok4.5，这款产品由SpaceX AI与AI编程初创公司Cursor联手打造，其核心目标直指行业头部玩家，意在大幅缩短与OpenAI、Anthro...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29478",
+        "url": "https://www.aibase.com/zh/news/29478",
+        "title": "马斯克抛出Grok 4.5：自称\"Opus级\"性能、价格仅十分之一，正面叫板OpenAI和Anthropic",
+        "date": "2026-07-09",
+        "lead": "当地时间周三，埃隆·马斯克旗下SpaceXAI正式发布最新大模型Grok 4.5，这是该公司数周前完成上市以来的首个重要产品更新。马斯克亲自在社交平台X上\"站台\"，将Grok 4. 5 与Anthropic面向复杂任务打造的高端模型Opus进行类比，称其为\"Opus级模型，但速度更快、Token效率更高、成本更低\"。",
+        "first_paragraph": "根据SpaceXAI发布的博客文章，Grok 4. 5 被定位为面向通用场景的\"主力干将\"，可承担代码编写与应用开发、办公与文书处理、研究和写作等当前AI行业重点追求自动化的各类任务。基准测试数据显示，其整体能力已跻身第一梯队，虽略低于当前\"天花板级\"模型，但仍处于高竞争力区间。",
+        "description": "当地时间周三，埃隆·马斯克旗下SpaceXAI正式发布最新大模型Grok 4.5，这是该公司数周前完成上市以来的首个重要产品更新。马斯克亲自在社交平台X上\"站台\"，将Grok 4. 5 与Anthropic面向复杂任务打造的高端模型Opus进行类比，称其为\"Opus级模型，但速度更快、To",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29478.html",
+          "addtime": "2026-07-09T09:17:40.2082375+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-09，当地时间周三，埃隆·马斯克旗下SpaceXAI正式发布最新大模型Grok 4.5，这是该公司数周前完成上市以来的首个重要产品更新。马斯克亲自在社交平台X上\"站台\"，将Grok 4. 5 与Anthropic面向复杂任务打造的高端模型Opus进行类比，称其为\"Opus级模型，但速度更快、Token效率更高、成本更低\"。",
+      "ai_summary": "2026-07-09，当地时间周三，埃隆·马斯克旗下SpaceXAI正式发布最新大模型Grok 4.5，这是该公司数周前完成上市以来的首个重要产品更新。马斯克亲自在社交平台X上\"站台\"，将Grok 4. 5 与Anthropic面向复杂任务打造的高端模型Opus进行类比，称其为\"Opus级模型，但速度更快、Token效率更高、成本更低\"。",
+      "lead_excerpt": "当地时间周三，埃隆·马斯克旗下SpaceXAI正式发布最新大模型Grok 4.5，这是该公司数周前完成上市以来的首个重要产品更新。马斯克亲自在社交平台X上\"站台\"，将Grok 4. 5 与Anthropic面向复杂任务打造的高端模型O...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29477",
+        "url": "https://www.aibase.com/zh/news/29477",
+        "title": "调用量火爆致算力承压，WorkBuddy 完成腾讯混元 Hy3 模型紧急扩容",
+        "date": "2026-07-09",
+        "lead": "WorkBuddy 与腾讯混元联合项目团队发布公告称，因平台首发搭载的混元 Hy3 大模型用户调用需求远超预期，算力资源出现高峰拥堵，项目组已火速完成算力扩容调度，保障服务稳定运行。",
+        "first_paragraph": "官方公告公告披露，Hy3 模型在 WorkBuddy 平台首发上线后收获大量用户试用。自 7 月 8 日上午 10 点起，平台算力资源消耗触及峰值，用户使用出现排队等待现象，当日下午时段模型调用排队比例一度突破 50%，服务负载压力陡增。针对瞬时流量激增带来的使用卡顿问题，项目团队第一时间统筹调配可用算力资源开展扩容补配工作，目前扩容作业已全部落地完毕，可正常承接用户的 Hy3 模型调用需求。",
+        "description": "WorkBuddy 与腾讯混元联合项目团队发布公告称，因平台首发搭载的混元 Hy3 大模型用户调用需求远超预期，算力资源出现高峰拥堵，项目组已火速完成算力扩容调度，保障服务稳定运行。官方公告公告披露，Hy3 模型在 WorkBuddy 平台首发上线后收获大量用户试用。自 7 月 8 日上午 10 点起，平台算力资源消耗",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29477.html",
+          "addtime": "2026-07-09T09:06:30.29038+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-09，WorkBuddy 与腾讯混元联合项目团队发布公告称，因平台首发搭载的混元 Hy3 大模型用户调用需求远超预期，算力资源出现高峰拥堵，项目组已火速完成算力扩容调度，保障服务稳定运行。",
+      "ai_summary": "2026-07-09，WorkBuddy 与腾讯混元联合项目团队发布公告称，因平台首发搭载的混元 Hy3 大模型用户调用需求远超预期，算力资源出现高峰拥堵，项目组已火速完成算力扩容调度，保障服务稳定运行。",
+      "lead_excerpt": "WorkBuddy 与腾讯混元联合项目团队发布公告称，因平台首发搭载的混元 Hy3 大模型用户调用需求远超预期，算力资源出现高峰拥堵，项目组已火速完成算力扩容调度，保障服务稳定运行。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29476",
+        "url": "https://www.aibase.com/zh/news/29476",
+        "title": "谷歌相册推出AI“视频混音”功能：搭载Gemini Omni，主打数秒内电影级剪辑",
+        "date": "2026-07-09",
+        "lead": "谷歌于7月8日宣布在Google Photos中推出全新生成式AI视频编辑工具“视频混音”（Video Remix），旨在让普通用户无需专业技能即可在数秒内完成电影级视频转换与修剪。",
+        "first_paragraph": "该功能由谷歌最新发布的Gemini Omni处理器提供核心算力支持，该芯片具备“根据任何输入创建任何内容”的强模态多媒体处理能力。用户可在Google Photos的“创建”标签页中直接调用该工具，实现一键应用电影级重新照明以提亮昏暗画面、智能替换纯色背景，或将视频转化为水彩、素描和油画等艺术风格。",
+        "description": "谷歌于7月8日宣布在Google Photos中推出全新生成式AI视频编辑工具“视频混音”（Video Remix），旨在让普通用户无需专业技能即可在数秒内完成电影级视频转换与修剪。该功能由谷歌最新发布的Gemini Omni处理器提供核心算力支持，该芯片具备“根据任何输入创建任何内容”的强模态多媒体处理能力。用户可在",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29476.html",
+          "addtime": "2026-07-09T09:00:52.5854406+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-09，谷歌于7月8日宣布在Google Photos中推出全新生成式AI视频编辑工具“视频混音”（Video Remix），旨在让普通用户无需专业技能即可在数秒内完成电影级视频转换与修剪。",
+      "ai_summary": "2026-07-09，谷歌于7月8日宣布在Google Photos中推出全新生成式AI视频编辑工具“视频混音”（Video Remix），旨在让普通用户无需专业技能即可在数秒内完成电影级视频转换与修剪。",
+      "lead_excerpt": "谷歌于7月8日宣布在Google Photos中推出全新生成式AI视频编辑工具“视频混音”（Video Remix），旨在让普通用户无需专业技能即可在数秒内完成电影级视频转换与修剪。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29475",
+        "url": "https://www.aibase.com/zh/news/29475",
+        "title": "瑞典“氛围编码”初创公司Lovable拟融资3亿美元，估值或达132亿美元",
+        "date": "2026-07-09",
+        "lead": "瑞典“氛围编码”（Vibe-coding）人工智能初创公司Lovable正展开新一轮高达3亿美元的融资谈判。若此轮融资顺利完成，该公司估值将直接翻倍，由去年12月的66亿美元飙升至132亿美元。据悉，本轮融资预计将由上月刚宣布成立30亿美元新基金的风险投资机构Menlo Ventures领投。",
+        "first_paragraph": "这家成立不足三年的初创公司正以惊人的速度成长，并在今年6月份实现了5亿美元的年化收入。Lovable的核心产品是一款能让用户仅通过语言描述即可构建软件的vibe-coding工具，目前已积累了广泛的用户群体，涵盖创始人、独立设计师以及电商销售人员。此外，该工具还成功渗透至大型企业市场，获得了Workday、Asana和英伟达（Nvidia）等科技巨头的采用。",
+        "description": "瑞典“氛围编码”（Vibe-coding）人工智能初创公司Lovable正展开新一轮高达3亿美元的融资谈判。若此轮融资顺利完成，该公司估值将直接翻倍，由去年12月的66亿美元飙升至132亿美元。据悉，本轮融资预计将由上月刚宣布成立30亿美元新基金的风险投资机构Menlo Ventures领投。这家成立不足三年的初创公司",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29475.html",
+          "addtime": "2026-07-09T08:57:31.4552958+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-09，瑞典“氛围编码”（Vibe-coding）人工智能初创公司Lovable正展开新一轮高达3亿美元的融资谈判。若此轮融资顺利完成，该公司估值将直接翻倍，由去年12月的66亿美元飙升至132亿美元。据悉，本轮融资预计将由上月刚宣布成立30亿美元新基金的风险投资机构Menlo Ventures领投。",
+      "ai_summary": "2026-07-09，瑞典“氛围编码”（Vibe-coding）人工智能初创公司Lovable正展开新一轮高达3亿美元的融资谈判。若此轮融资顺利完成，该公司估值将直接翻倍，由去年12月的66亿美元飙升至132亿美元。据悉，本轮融资预计将由上月刚宣布成立30亿美元新基金的风险投资机构Menlo Ventures领投。",
+      "lead_excerpt": "瑞典“氛围编码”（Vibe-coding）人工智能初创公司Lovable正展开新一轮高达3亿美元的融资谈判。若此轮融资顺利完成，该公司估值将直接翻倍，由去年12月的66亿美元飙升至132亿美元。据悉，本轮融资预计将由上月刚宣布成立30...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29473",
+        "url": "https://www.aibase.com/zh/news/29473",
+        "title": "挑战OpenAI，SpaceXAI推出“Opus级”大模型Grok 4.5",
+        "date": "2026-07-09",
+        "lead": "本周，AI大模型赛道硝烟再起。当地时间周三，埃隆·马斯克旗下的科技公司SpaceXAI正式发布了最新一代大模型Grok4.5。这是该公司在数周前上市以来的首次重磅产品更新，旨在进一步巩固其在通用AI领域的技术地位。",
+        "first_paragraph": "根据SpaceXAI官方博客介绍，Grok4.5被定位为一款全能型“主力干将”，能够胜任代码编写、应用开发、办公文档处理以及知识类写作等多种复杂任务。为了在激烈的市场竞争中突围，SpaceXAI在性能优化上打出了一套“组合拳”，其中最核心的亮点在于其显著提升的令牌效率（Token Efficiency）。据悉，在同等负载下，该模型能以更少的算力产出更高效的结果，从而直接降低了推理成本。",
+        "description": "本周，AI大模型赛道硝烟再起。当地时间周三，埃隆·马斯克旗下的科技公司SpaceXAI正式发布了最新一代大模型Grok4.5。这是该公司在数周前上市以来的首次重磅产品更新，旨在进一步巩固其在通用AI领域的技术地位。根据SpaceXAI官方博客介绍，Grok4.5被定位为一款全能型“主力干将”，能够胜任代码编写、应用开发",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29473.html",
+          "addtime": "2026-07-09T08:50:33.5247903+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-09，本周，AI大模型赛道硝烟再起。当地时间周三，埃隆·马斯克旗下的科技公司SpaceXAI正式发布了最新一代大模型Grok4.5。这是该公司在数周前上市以来的首次重磅产品更新，旨在进一步巩固其在通用AI领域的技术地位。",
+      "ai_summary": "2026-07-09，本周，AI大模型赛道硝烟再起。当地时间周三，埃隆·马斯克旗下的科技公司SpaceXAI正式发布了最新一代大模型Grok4.5。这是该公司在数周前上市以来的首次重磅产品更新，旨在进一步巩固其在通用AI领域的技术地位。",
+      "lead_excerpt": "本周，AI大模型赛道硝烟再起。当地时间周三，埃隆·马斯克旗下的科技公司SpaceXAI正式发布了最新一代大模型Grok4.5。这是该公司在数周前上市以来的首次重磅产品更新，旨在进一步巩固其在通用AI领域的技术地位。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29472",
+        "url": "https://www.aibase.com/zh/news/29472",
+        "title": "OpenAI高薪挖投行人才：年薪 139 万加股权，要用AI重塑华尔街",
+        "date": "2026-07-08",
+        "lead": "OpenAI正在加大对投资银行业务的布局力度，最新招聘信息显示，公司正在寻找拥有两年以上投资经验的投行专业人士，加入旧金山应用人工智能团队担任\"主题专家\"。该岗位基础年薪18. 5 万美元，最高可达20. 5 万美元（约合139. 4 万元人民币），薪酬之外还配套股权激励——考虑到OpenAI已私下启动IPO筹备，这份股权的含金量不言而喻。",
+        "first_paragraph": "不是请投行精英来用AI，而是请他们来\"教\"AI",
+        "description": "OpenAI正在加大对投资银行业务的布局力度，最新招聘信息显示，公司正在寻找拥有两年以上投资经验的投行专业人士，加入旧金山应用人工智能团队担任\"主题专家\"。该岗位基础年薪18. 5 万美元，最高可达20. 5 万美元（约合139. 4 万元人民币），薪酬之外还配套股权激励——考虑到OpenAI已私下",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29472.html",
+          "addtime": "2026-07-08T17:33:30.410915+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-08，OpenAI正在加大对投资银行业务的布局力度，最新招聘信息显示，公司正在寻找拥有两年以上投资经验的投行专业人士，加入旧金山应用人工智能团队担任\"主题专家\"。该岗位基础年薪18. 5 万美元，最高可达20. 5 万美元（约合139. 4 万元人民币），薪酬之外还配套股权激励——考虑到OpenAI已私下启动IPO筹备，这份股权的含金量不言而喻。",
+      "ai_summary": "2026-07-08，OpenAI正在加大对投资银行业务的布局力度，最新招聘信息显示，公司正在寻找拥有两年以上投资经验的投行专业人士，加入旧金山应用人工智能团队担任\"主题专家\"。该岗位基础年薪18. 5 万美元，最高可达20. 5 万美元（约合139. 4 万元人民币），薪酬之外还配套股权激励——考虑到OpenAI已私下启动IPO筹备，这份股权的含金量不言而喻。",
+      "lead_excerpt": "OpenAI正在加大对投资银行业务的布局力度，最新招聘信息显示，公司正在寻找拥有两年以上投资经验的投行专业人士，加入旧金山应用人工智能团队担任\"主题专家\"。该岗位基础年薪18. 5 万美元，最高可达20. 5 万美元（约合139. 4...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29471",
+        "url": "https://www.aibase.com/zh/news/29471",
+        "title": "腾讯Hy3 编程评测出炉：参数只有对手五分之一，代码能力却与DeepSeek-V4-Pro打平",
+        "date": "2026-07-08",
+        "lead": "SuperCLUE放出腾讯Hy3 语言模型的编程专项测评数据，将其与DeepSeek-V4-Pro等热门模型同台比拼代码能力。Hy3 采用MoE架构，总参数规模295B，激活参数仅21B，支持256K上下文长度，号称混元最强语言模型。结果显示，这款参数体量远小于对手的模型，在编程场景中交出了一份令人意外的答卷。",
+        "first_paragraph": "四大维度全面对比，Hy3 兼顾性能与花销",
+        "description": "SuperCLUE放出腾讯Hy3 语言模型的编程专项测评数据，将其与DeepSeek-V4-Pro等热门模型同台比拼代码能力。Hy3 采用MoE架构，总参数规模295B，激活参数仅21B，支持256K上下文长度，号称混元最强语言模型。结果显示，这款参数体量远小于对手的模型，在编程场景中交出了一份令人意外的答卷。四大维度",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29471.html",
+          "addtime": "2026-07-08T17:00:29.1123345+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-08，SuperCLUE放出腾讯Hy3 语言模型的编程专项测评数据，将其与DeepSeek-V4-Pro等热门模型同台比拼代码能力。Hy3 采用MoE架构，总参数规模295B，激活参数仅21B，支持256K上下文长度，号称混元最强语言模型。结果显示，这款参数体量远小于对手的模型，在编程场景中交出了一份令人意外的答卷。",
+      "ai_summary": "2026-07-08，SuperCLUE放出腾讯Hy3 语言模型的编程专项测评数据，将其与DeepSeek-V4-Pro等热门模型同台比拼代码能力。Hy3 采用MoE架构，总参数规模295B，激活参数仅21B，支持256K上下文长度，号称混元最强语言模型。结果显示，这款参数体量远小于对手的模型，在编程场景中交出了一份令人意外的答卷。",
+      "lead_excerpt": "SuperCLUE放出腾讯Hy3 语言模型的编程专项测评数据，将其与DeepSeek-V4-Pro等热门模型同台比拼代码能力。Hy3 采用MoE架构，总参数规模295B，激活参数仅21B，支持256K上下文长度，号称混元最强语言模型。...",
+      "reason": "未明确与 AI 相关；疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29469",
+        "url": "https://www.aibase.com/zh/news/29469",
+        "title": "安全警报：Claude Code 被曝存在安全后门，官方已启动紧急修复",
+        "date": "2026-07-08",
+        "lead": "近日，工信部网络安全威胁和漏洞信息共享平台（NVDB）发布了一则重要的安全风险提示，指向目前编程界广泛使用的 AI 工具——Claude Code。据悉，该工具被发现内置了未经公开的“安全后门”，存在泄露用户敏感信息的风险。",
+        "first_paragraph": "根据监测结果显示，受影响的软件版本为 2.1.91 至 2.1.196。这些版本在未经用户授权的前提下，能够自动向远程服务器回传包括用户地理位置、身份标识等在内的敏感数据。对此，NVDB 建议广大开发者和企业用户立即核查当前使用的版本号，若处于上述受影响区间，请务必尽快卸载或更新至最新安全版本。同时，相关单位应强化开发环境的外联权限管控，加强流量监测，以防数据违规外传。",
+        "description": "近日，工信部网络安全威胁和漏洞信息共享平台（NVDB）发布了一则重要的安全风险提示，指向目前编程界广泛使用的 AI 工具——Claude Code。据悉，该工具被发现内置了未经公开的“安全后门”，存在泄露用户敏感信息的风险。根据监测结果显示，受影响的软件版本为 2.1.91 至 2.1.196。这些版本在未经用户授权的",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-03_2026-07-09/29469.html",
+          "addtime": "2026-07-08T16:33:28.4278674+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-08，近日，工信部网络安全威胁和漏洞信息共享平台（NVDB）发布了一则重要的安全风险提示，指向目前编程界广泛使用的 AI 工具——Claude Code。据悉，该工具被发现内置了未经公开的“安全后门”，存在泄露用户敏感信息的风险。",
+      "ai_summary": "2026-07-08，近日，工信部网络安全威胁和漏洞信息共享平台（NVDB）发布了一则重要的安全风险提示，指向目前编程界广泛使用的 AI 工具——Claude Code。据悉，该工具被发现内置了未经公开的“安全后门”，存在泄露用户敏感信息的风险。",
+      "lead_excerpt": "近日，工信部网络安全威胁和漏洞信息共享平台（NVDB）发布了一则重要的安全风险提示，指向目前编程界广泛使用的 AI 工具——Claude Code。据悉，该工具被发现内置了未经公开的“安全后门”，存在泄露用户敏感信息的风险。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
