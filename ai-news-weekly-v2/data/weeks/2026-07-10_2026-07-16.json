@@ -1,0 +1,690 @@
+{
+  "week_id": "2026-07-10_2026-07-16",
+  "label": "7.10-7.16",
+  "start_date": "2026-07-10",
+  "end_date": "2026-07-16",
+  "generated_at": "2026-07-16T09:38:03",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29659",
+        "url": "https://www.aibase.com/zh/news/29659",
+        "title": "通义千问正式接入苹果生态，国内Apple智能体验迎来重磅升级",
+        "date": "2026-07-16",
+        "lead": "阿里巴巴发言人日前正式确认，阿里自研大模型“通义千问”已完成接入，将全面集成至中国区苹果设备的“Apple智能”（Apple Intelligence）功能中。",
+        "first_paragraph": "此次集成覆盖了iOS、iPadOS、macOS以及visionOS四大操作系统。这意味着，国内苹果用户在不久的将来，可以直接在系统层面调用通义千问的强大能力，实现包括图文深度理解、高质量图文生成在内的多项智能化操作，彻底告别以往需要频繁切换不同APP的繁琐体验。",
+        "description": "阿里巴巴发言人日前正式确认，阿里自研大模型“通义千问”已完成接入，将全面集成至中国区苹果设备的“Apple智能”（Apple Intelligence）功能中。此次集成覆盖了iOS、iPadOS、macOS以及visionOS四大操作系统。这意味着，国内苹果用户在不久的将来，可以直接在系统层面调用通义千问的强大能力，实",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29659.html",
+          "addtime": "2026-07-16T16:28:36+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-16，阿里巴巴发言人日前正式确认，阿里自研大模型“通义千问”已完成接入，将全面集成至中国区苹果设备的“Apple智能”（Apple Intelligence）功能中。",
+      "ai_summary": "2026-07-16，阿里巴巴发言人日前正式确认，阿里自研大模型“通义千问”已完成接入，将全面集成至中国区苹果设备的“Apple智能”（Apple Intelligence）功能中。",
+      "lead_excerpt": "阿里巴巴发言人日前正式确认，阿里自研大模型“通义千问”已完成接入，将全面集成至中国区苹果设备的“Apple智能”（Apple Intelligence）功能中。",
+      "reason": "符合优先级：阿里及相关主体、海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 95,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29644",
+        "url": "https://www.aibase.com/zh/news/29644",
+        "title": "灵光App“灵光圈”社区焕新:上线热榜、关注等功能，PC端支持导入文档及音视频素材",
+        "date": "2026-07-16",
+        "lead": "7月16日，AIBase发现，蚂蚁集团旗下全模态AI助手「灵光App」已对其闪应用社区版块“灵光圈”进行功能升级。新版本不仅上线了“大家在玩”热榜、编辑精选、关注创作者等功能，更在PC端开放了文档、图片等多模态文件的上传与应用生成权限，用户可基于本地文件生成智能问答或创作AI应用，极大提升了AI应用的发现效率和创作体验。",
+        "first_paragraph": "据了解，灵光圈是灵光App面向用户开放的AI应用创作社区。用户通过发送文字、语音对话，即可生成轻量化、可交互的“闪应用”，并在灵光圈社区内进行发布、使用、收藏、评论、二次创作。随着社区内应用数量持续增长，如何让优质应用更高效地被用户发现，成为社区发展的新问题。此次升级围绕内容发现、创作者连接、应用创作三个维度展开。",
+        "description": "7月16日，AIBase发现，蚂蚁集团旗下全模态AI助手「灵光App」已对其闪应用社区版块“灵光圈”进行功能升级。新版本不仅上线了“大家在玩”热榜、编辑精选、关注创作者等功能，更在PC端开放了文档、图片等多模态文件的上传与应用生成权限，用户可基于本地文件生成智能问答或创作AI应用，极大提升了AI应用的发现效率和创作体验",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29644.html",
+          "addtime": "2026-07-16T11:18:27+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-16，7月16日，AIBase发现，蚂蚁集团旗下全模态AI助手「灵光App」已对其闪应用社区版块“灵光圈”进行功能升级。新版本不仅上线了“大家在玩”热榜、编辑精选、关注创作者等功能，更在PC端开放了文档、图片等多模态文件的上传与应用生成权限，用户可基于本地文件生成智能问答或创作AI应用，极大提升了AI应用的发现效率和创作体验。",
+      "ai_summary": "2026-07-16，7月16日，AIBase发现，蚂蚁集团旗下全模态AI助手「灵光App」已对其闪应用社区版块“灵光圈”进行功能升级。新版本不仅上线了“大家在玩”热榜、编辑精选、关注创作者等功能，更在PC端开放了文档、图片等多模态文件的上传与应用生成权限，用户可基于本地文件生成智能问答或创作AI应用，极大提升了AI应用的发现效率和创作体验。",
+      "lead_excerpt": "7月16日，AIBase发现，蚂蚁集团旗下全模态AI助手「灵光App」已对其闪应用社区版块“灵光圈”进行功能升级。新版本不仅上线了“大家在玩”热榜、编辑精选、关注创作者等功能，更在PC端开放了文档、图片等多模态文件的上传与应用生成权限...",
+      "reason": "符合优先级：阿里及相关主体、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29658",
+        "url": "https://www.aibase.com/zh/news/29658",
+        "title": "百度文库网盘 7 月底升级GenFlow，打造金融行业多端通用Agent平台",
+        "date": "2026-07-16",
+        "lead": "据媒体报道，百度文库与百度网盘将于近期升级GenFlow，面向专业人群和场景提供更专业的服务。升级后的GenFlow将上线独立网页端和客户端，定位为专为金融、教育、办公等专业从业者打造的\"多端通用Agent平台\"，计划于 7 月底开启内部邀测。",
+        "first_paragraph": "据悉，GenFlow升级版本首期将聚焦金融领域，为金融从业者、爱好者以及金融公司和团队提供定制化金融行业解决方案。百度试图通过GenFlow将文库和网盘的内容资源优势与Agent能力结合，切入专业垂直场景，从通用工具型产品向行业解决方案平台转型。",
+        "description": "据媒体报道，百度文库与百度网盘将于近期升级GenFlow，面向专业人群和场景提供更专业的服务。升级后的GenFlow将上线独立网页端和客户端，定位为专为金融、教育、办公等专业从业者打造的\"多端通用Agent平台\"，计划于 7 月底开启内部邀测。据悉，GenFlow升级版本首期将聚焦金融领域，为金融从",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29658.html",
+          "addtime": "2026-07-16T16:11:03+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-16，据媒体报道，百度文库与百度网盘将于近期升级GenFlow，面向专业人群和场景提供更专业的服务。升级后的GenFlow将上线独立网页端和客户端，定位为专为金融、教育、办公等专业从业者打造的\"多端通用Agent平台\"，计划于 7 月底开启内部邀测。",
+      "ai_summary": "2026-07-16，据媒体报道，百度文库与百度网盘将于近期升级GenFlow，面向专业人群和场景提供更专业的服务。升级后的GenFlow将上线独立网页端和客户端，定位为专为金融、教育、办公等专业从业者打造的\"多端通用Agent平台\"，计划于 7 月底开启内部邀测。",
+      "lead_excerpt": "据媒体报道，百度文库与百度网盘将于近期升级GenFlow，面向专业人群和场景提供更专业的服务。升级后的GenFlow将上线独立网页端和客户端，定位为专为金融、教育、办公等专业从业者打造的\"多端通用Agent平台\"，计划于 7 月底开启...",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29652",
+        "url": "https://www.aibase.com/zh/news/29652",
+        "title": "小米发布具身智能基底模型Xiaomi-Robotics-1，探索物理AI Scaling效应",
+        "date": "2026-07-16",
+        "lead": "7月16日，小米正式发布面向真实移动操作任务的具身基底模型Xiaomi-Robotics-1。该模型基于10万小时真实世界数据进行预训练，并结合跨本体数据完成后训练，标志着小米在推动具身智能模型走向“Scaling Law”（规模法则）路径上迈出了系统性的一步。",
+        "first_paragraph": "传统机器人策略模型常受限于硬件依赖与稀缺的数据规模。为突破这一瓶颈，小米团队在预训练阶段引入了通过UMI（Universal Manipulation Interface）设备采集的10万小时真实世界轨迹，覆盖家庭、商业及工业等多类场景，并配合高效的视觉语言模型在两周内完成全量自动标注。",
+        "description": "7月16日，小米正式发布面向真实移动操作任务的具身基底模型Xiaomi-Robotics-1。该模型基于10万小时真实世界数据进行预训练，并结合跨本体数据完成后训练，标志着小米在推动具身智能模型走向“Scaling Law”（规模法则）路径上迈出了系统性的一步。传统机器人策略模型常受限于硬件依赖与稀缺的数据",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29652.html",
+          "addtime": "2026-07-16T14:52:58.7545077+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-16，7月16日，小米正式发布面向真实移动操作任务的具身基底模型Xiaomi-Robotics-1。该模型基于10万小时真实世界数据进行预训练，并结合跨本体数据完成后训练，标志着小米在推动具身智能模型走向“Scaling Law”（规模法则）路径上迈出了系统性的一步。",
+      "ai_summary": "2026-07-16，7月16日，小米正式发布面向真实移动操作任务的具身基底模型Xiaomi-Robotics-1。该模型基于10万小时真实世界数据进行预训练，并结合跨本体数据完成后训练，标志着小米在推动具身智能模型走向“Scaling Law”（规模法则）路径上迈出了系统性的一步。",
+      "lead_excerpt": "7月16日，小米正式发布面向真实移动操作任务的具身基底模型Xiaomi-Robotics-1。该模型基于10万小时真实世界数据进行预训练，并结合跨本体数据完成后训练，标志着小米在推动具身智能模型走向“Scaling Law”（规模法则...",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29649",
+        "url": "https://www.aibase.com/zh/news/29649",
+        "title": "百度文库网盘启动重大升级，GenFlow将面向金融等行业推出AI工作台",
+        "date": "2026-07-16",
+        "lead": "据报道，百度文库、网盘将在近期启动重大升级，推出面向金融、教育、办公等专业领域从业者的独立网页端和客户端，进一步拓展AI能力在垂直行业中的应用场景。",
+        "first_paragraph": "此次升级的核心内容之一，是百度文库网盘将再次升级 GenFlow，并率先面向金融行业用户提供深度研究、财务模型制作、AI会议助理以及云盘存储等一系列AI服务。同时，平台将支持专业能力的 skill 化封装，打造面向不同职业场景的专属AI工作台，帮助用户完成更具行业属性的任务流程。",
+        "description": "据报道，百度文库、网盘将在近期启动重大升级，推出面向金融、教育、办公等专业领域从业者的独立网页端和客户端，进一步拓展AI能力在垂直行业中的应用场景。此次升级的核心内容之一，是百度文库网盘将再次升级 GenFlow，并率先面向金融行业用户提供深度研究、财务模型制作、AI会议助理以及云盘存储等一系列AI服务。同时，平台将支",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29649.html",
+          "addtime": "2026-07-16T14:06:09.904147+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-16，据报道，百度文库、网盘将在近期启动重大升级，推出面向金融、教育、办公等专业领域从业者的独立网页端和客户端，进一步拓展AI能力在垂直行业中的应用场景。",
+      "ai_summary": "2026-07-16，据报道，百度文库、网盘将在近期启动重大升级，推出面向金融、教育、办公等专业领域从业者的独立网页端和客户端，进一步拓展AI能力在垂直行业中的应用场景。",
+      "lead_excerpt": "据报道，百度文库、网盘将在近期启动重大升级，推出面向金融、教育、办公等专业领域从业者的独立网页端和客户端，进一步拓展AI能力在垂直行业中的应用场景。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29647",
+        "url": "https://www.aibase.com/zh/news/29647",
+        "title": "三星携手百度智能云，推出 “盖乐世 AI” 重磅备案！",
+        "date": "2026-07-16",
+        "lead": "近日，据报道，三星的 “盖乐世 AI”（Galaxy AI）成功通过了人工智能服务备案，而其合作伙伴正是百度智能云。这一消息在科技圈引起了广泛关注，预示着三星在智能手机 AI 领域的进一步布局。",
+        "first_paragraph": "根据网信部门的要求，在《生成式人工智能服务管理暂行办法》的指导下，最近公布的7款新增手机端侧生成式人工智能服务中，“盖乐世 AI” 赫然在列。这意味着，三星的智能手机将进一步融入强大的 AI 功能，提升用户体验。",
+        "description": "近日，据报道，三星的 “盖乐世 AI”（Galaxy AI）成功通过了人工智能服务备案，而其合作伙伴正是百度智能云。这一消息在科技圈引起了广泛关注，预示着三星在智能手机 AI 领域的进一步布局。根据网信部门的要求，在《生成式人工智能服务管理暂行办法》的指导下，最近公布的7款新增手机端侧生成式人工智能服务中，“盖乐世 A",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29647.html",
+          "addtime": "2026-07-16T13:52:16.4709195+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-16，近日，据报道，三星的 “盖乐世 AI”（Galaxy AI）成功通过了人工智能服务备案，而其合作伙伴正是百度智能云。这一消息在科技圈引起了广泛关注，预示着三星在智能手机 AI 领域的进一步布局。",
+      "ai_summary": "2026-07-16，近日，据报道，三星的 “盖乐世 AI”（Galaxy AI）成功通过了人工智能服务备案，而其合作伙伴正是百度智能云。这一消息在科技圈引起了广泛关注，预示着三星在智能手机 AI 领域的进一步布局。",
+      "lead_excerpt": "近日，据报道，三星的 “盖乐世 AI”（Galaxy AI）成功通过了人工智能服务备案，而其合作伙伴正是百度智能云。这一消息在科技圈引起了广泛关注，预示着三星在智能手机 AI 领域的进一步布局。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29656",
+        "url": "https://www.aibase.com/zh/news/29656",
+        "title": "苹果自研AI服务器芯片Baltra遭遇性能瓶颈，今年恐难亮相",
+        "date": "2026-07-16",
+        "lead": "据科技媒体The Information报道，苹果在自研AI服务器芯片过程中遇到挑战，代号为Baltra的AI服务器芯片可能无法如期在 2026 年推出。该芯片基于苹果M2 Ultra芯片改造，但最新消息称其在处理AI任务方面性能不足，目前已延后发布。",
+        "first_paragraph": "移动端基因与服务器需求存在根本矛盾",
+        "description": "据科技媒体The Information报道，苹果在自研AI服务器芯片过程中遇到挑战，代号为Baltra的AI服务器芯片可能无法如期在 2026 年推出。该芯片基于苹果M2 Ultra芯片改造，但最新消息称其在处理AI任务方面性能不足，目前已延后发布。移动端基因与服务器需求存在根本矛盾知情人士透露，苹果芯片团队长期以来",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29656.html",
+          "addtime": "2026-07-16T15:58:19.1997657+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-16，据科技媒体The Information报道，苹果在自研AI服务器芯片过程中遇到挑战，代号为Baltra的AI服务器芯片可能无法如期在 2026 年推出。该芯片基于苹果M2 Ultra芯片改造，但最新消息称其在处理AI任务方面性能不足，目前已延后发布。",
+      "ai_summary": "2026-07-16，据科技媒体The Information报道，苹果在自研AI服务器芯片过程中遇到挑战，代号为Baltra的AI服务器芯片可能无法如期在 2026 年推出。该芯片基于苹果M2 Ultra芯片改造，但最新消息称其在处理AI任务方面性能不足，目前已延后发布。",
+      "lead_excerpt": "据科技媒体The Information报道，苹果在自研AI服务器芯片过程中遇到挑战，代号为Baltra的AI服务器芯片可能无法如期在 2026 年推出。该芯片基于苹果M2 Ultra芯片改造，但最新消息称其在处理AI任务方面性能不足...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29655",
+        "url": "https://www.aibase.com/zh/news/29655",
+        "title": "谷歌升级 Gemini Spark AI助手，新增 Workspace 编辑能力并提速50%以上",
+        "date": "2026-07-16",
+        "lead": "谷歌正在进一步升级其AI助手 Gemini Spark，新增更多 Google Workspace 处理能力，并提升AI代理运行效率。目前，Gemini Spark 已向支持 Gemini 应用地区的 Google AI Ultra 订阅用户开放，但欧洲经济区、尼日利亚、瑞士和英国暂不包含在支持范围内。",
+        "first_paragraph": "谷歌副总裁 Josh Woodward 在X平台发布消息称，此次更新重点增强了 Gemini Spark 与办公场景的结合能力。升级后的 Spark 可以打开和编辑 Google 文档，读取 Google 表格和幻灯片中的评论，同时支持编辑共享及私有的电子表格与演示文稿，进一步扩展了其在企业办公和个人生产力场景中的应用范围。",
+        "description": "谷歌正在进一步升级其AI助手 Gemini Spark，新增更多 Google Workspace 处理能力，并提升AI代理运行效率。目前，Gemini Spark 已向支持 Gemini 应用地区的 Google AI Ultra 订阅用户开放，但欧洲经济区、尼日利亚、瑞士和英国暂不包含在支持范围内。谷歌副总裁 Jo",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29655.html",
+          "addtime": "2026-07-16T15:39:39.328461+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-16，谷歌正在进一步升级其AI助手 Gemini Spark，新增更多 Google Workspace 处理能力，并提升AI代理运行效率。目前，Gemini Spark 已向支持 Gemini 应用地区的 Google AI Ultra 订阅用户开放，但欧洲经济区、尼日利亚、瑞士和英国暂不包含在支持范围内。",
+      "ai_summary": "2026-07-16，谷歌正在进一步升级其AI助手 Gemini Spark，新增更多 Google Workspace 处理能力，并提升AI代理运行效率。目前，Gemini Spark 已向支持 Gemini 应用地区的 Google AI Ultra 订阅用户开放，但欧洲经济区、尼日利亚、瑞士和英国暂不包含在支持范围内。",
+      "lead_excerpt": "谷歌正在进一步升级其AI助手 Gemini Spark，新增更多 Google Workspace 处理能力，并提升AI代理运行效率。目前，Gemini Spark 已向支持 Gemini 应用地区的 Google AI Ultra...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29645",
+        "url": "https://www.aibase.com/zh/news/29645",
+        "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
+        "date": "2026-07-16",
+        "lead": "在Tracking AI最新离线IQ测试中，OpenAI GPT-5. 6 多个版本齐刷刷飙到 136 分，这是大语言模型首次将IQ推过 130 这道坎。在人类智商分布中， 130 分是\"天才\"的起跑线，全球仅有约1%的人能站上去，这意味着GPT-5. 6 要比99%的人类更聪明。",
+        "first_paragraph": "最难防作弊题库上拿下 136 分，甩开所有对手",
+        "description": "在Tracking AI最新离线IQ测试中，OpenAI GPT-5. 6 多个版本齐刷刷飙到 136 分，这是大语言模型首次将IQ推过 130 这道坎。在人类智商分布中， 130 分是\"天才\"的起跑线，全球仅有约1%的人能站上去，这意味着GPT-5. 6 要比99%的人类更聪明。最难防作弊题库上拿",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29645.html",
+          "addtime": "2026-07-16T11:41:14.905618+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-16，在Tracking AI最新离线IQ测试中，OpenAI GPT-5. 6 多个版本齐刷刷飙到 136 分，这是大语言模型首次将IQ推过 130 这道坎。在人类智商分布中， 130 分是\"天才\"的起跑线，全球仅有约1%的人能站上去，这意味着GPT-5. 6 要比99%的人类更聪明。",
+      "ai_summary": "2026-07-16，在Tracking AI最新离线IQ测试中，OpenAI GPT-5. 6 多个版本齐刷刷飙到 136 分，这是大语言模型首次将IQ推过 130 这道坎。在人类智商分布中， 130 分是\"天才\"的起跑线，全球仅有约1%的人能站上去，这意味着GPT-5. 6 要比99%的人类更聪明。",
+      "lead_excerpt": "在Tracking AI最新离线IQ测试中，OpenAI GPT-5. 6 多个版本齐刷刷飙到 136 分，这是大语言模型首次将IQ推过 130 这道坎。在人类智商分布中， 130 分是\"天才\"的起跑线，全球仅有约1%的人能站上去，这...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29643",
+        "url": "https://www.aibase.com/zh/news/29643",
+        "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
+        "date": "2026-07-16",
+        "lead": "在追求更强大 AI 能力的同时，模型如何确保自身安全已成为行业核心命题。近日，OpenAI 发布了全新的自动化红队测试模型 GPT-Red，通过规模化的自博弈训练，成功将模型在直接提示注入攻击中的失败率压低至0.05%，为 AI 的自我迭代与安全性提升开辟了一条新路径。",
+        "first_paragraph": "随着 AI 系统通过浏览器、本地文件及各类 API 深度接入现实世界，安全边界变得愈发脆弱。传统的红队测试虽然有效，但高度依赖人工，难以跟上模型能力的指数级增长，也无法产出足够的对抗数据来优化防御。OpenAI 此次推出的 GPT-Red，正是为了打破这一瓶颈。它不仅能在部署前精准定位模型漏洞，更重要的是，它能实时生成大规模的对抗样本，推动模型在训练阶段就完成防御升级。",
+        "description": "在追求更强大 AI 能力的同时，模型如何确保自身安全已成为行业核心命题。近日，OpenAI 发布了全新的自动化红队测试模型 GPT-Red，通过规模化的自博弈训练，成功将模型在直接提示注入攻击中的失败率压低至0.05%，为 AI 的自我迭代与安全性提升开辟了一条新路径。随着 AI 系统通过浏览器、本地文件及各类 API",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29643.html",
+          "addtime": "2026-07-16T11:05:28.4583796+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-16，在追求更强大 AI 能力的同时，模型如何确保自身安全已成为行业核心命题。近日，OpenAI 发布了全新的自动化红队测试模型 GPT-Red，通过规模化的自博弈训练，成功将模型在直接提示注入攻击中的失败率压低至0.05%，为 AI 的自我迭代与安全性提升开辟了一条新路径。",
+      "ai_summary": "2026-07-16，在追求更强大 AI 能力的同时，模型如何确保自身安全已成为行业核心命题。近日，OpenAI 发布了全新的自动化红队测试模型 GPT-Red，通过规模化的自博弈训练，成功将模型在直接提示注入攻击中的失败率压低至0.05%，为 AI 的自我迭代与安全性提升开辟了一条新路径。",
+      "lead_excerpt": "在追求更强大 AI 能力的同时，模型如何确保自身安全已成为行业核心命题。近日，OpenAI 发布了全新的自动化红队测试模型 GPT-Red，通过规模化的自博弈训练，成功将模型在直接提示注入攻击中的失败率压低至0.05%，为 AI 的自...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29661",
+        "url": "https://www.aibase.com/zh/news/29661",
+        "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+        "date": "2026-07-16",
+        "lead": "简历投出去石沉大海，写报告时盯着空白文档抓破头皮，拿到一张满是乱码的销售表不知从何下手——这些职场人的日常窒息瞬间，昨天在武汉被千问APP当面拆解了一遍。",
+        "first_paragraph": "这场AI求职实战课由武汉市人力资源和社会保障局指导，千问APP与武汉发布联合承办，没有照搬枯燥的理论，而是带着现场众多求职者和应届生，把简历诊断、商业报告撰写、销售表分析三类任务用AI一步步跑通。把材料变成文件，而不是多写几行字，这是千问APP产品经理金师兴对AI文档价值的判断，也定下了整场课程的基调。",
+        "description": "简历投出去石沉大海，写报告时盯着空白文档抓破头皮，拿到一张满是乱码的销售表不知从何下手——这些职场人的日常窒息瞬间，昨天在武汉被千问APP当面拆解了一遍。这场AI求职实战课由武汉市人力资源和社会保障局指导，千问APP与武汉发布联合承办，没有照搬枯燥的理论，而是带着现场众多求职者和应届生，把简历诊断、商业报告撰写、销售表",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29661.html",
+          "addtime": "2026-07-16T17:34:08.0666929+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-07-16，简历投出去石沉大海，写报告时盯着空白文档抓破头皮，拿到一张满是乱码的销售表不知从何下手——这些职场人的日常窒息瞬间，昨天在武汉被千问APP当面拆解了一遍。",
+      "ai_summary": "2026-07-16，简历投出去石沉大海，写报告时盯着空白文档抓破头皮，拿到一张满是乱码的销售表不知从何下手——这些职场人的日常窒息瞬间，昨天在武汉被千问APP当面拆解了一遍。",
+      "lead_excerpt": "简历投出去石沉大海，写报告时盯着空白文档抓破头皮，拿到一张满是乱码的销售表不知从何下手——这些职场人的日常窒息瞬间，昨天在武汉被千问APP当面拆解了一遍。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29648",
+        "url": "https://www.aibase.com/zh/news/29648",
+        "title": "MiniMax发布Code2.0桌面端:底层架构全面重构，原生接入金融多源数据",
+        "date": "2026-07-16",
+        "lead": "7月16日，MiniMax正式发布MiniMax Code2.0桌面端。本次升级基于开源框架 Pi Agent 对底层架构进行了全面重构，重塑了会话运行、状态管理与工具调用链路，显著提升了会话启动速度，并大幅减少长任务执行中的中断与卡死现象。在功能体验上，新版本优化了图表加载、缩放与下载，并支持在预览面板中直接框选编辑和保存文件，实现了从任务下发到结果交付的无缝闭环。",
+        "first_paragraph": "值得关注的是，MiniMax 正在加速向垂直专业场景渗透，其金融模块已深度打通恒生金融数据库与企查查 MCP，原生接入全球金融市场及国内全量市场主体动态数据，用户目前可在网页版率先体验。此外，MiniMax Code 计划于本月内陆续上线远程控制、浏览器操控、目标模式及计划模式，进一步拓宽其跨环境协作与处理复杂长程任务的能力。",
+        "description": "7月16日，MiniMax正式发布MiniMax Code2.0桌面端。本次升级基于开源框架 Pi Agent 对底层架构进行了全面重构，重塑了会话运行、状态管理与工具调用链路，显著提升了会话启动速度，并大幅减少长任务执行中的中断与卡死现象。在功能体验上，新版本优化了图表加载、缩放与下载，并支持在预览面板中直接框选编辑",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29648.html",
+          "addtime": "2026-07-16T13:53:03.2748027+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-07-16，7月16日，MiniMax正式发布MiniMax Code2.0桌面端。本次升级基于开源框架 Pi Agent 对底层架构进行了全面重构，重塑了会话运行、状态管理与工具调用链路，显著提升了会话启动速度，并大幅减少长任务执行中的中断与卡死现象。在功能体验上，新版本优化了图表加载、缩放与下载，并支持在预览面板中直接框选编辑和保存文件，实现了从任务下发到结果...",
+      "ai_summary": "2026-07-16，7月16日，MiniMax正式发布MiniMax Code2.0桌面端。本次升级基于开源框架 Pi Agent 对底层架构进行了全面重构，重塑了会话运行、状态管理与工具调用链路，显著提升了会话启动速度，并大幅减少长任务执行中的中断与卡死现象。在功能体验上，新版本优化了图表加载、缩放与下载，并支持在预览面板中直接框选编辑和保存文件，实现了从任务下发到结果...",
+      "lead_excerpt": "7月16日，MiniMax正式发布MiniMax Code2.0桌面端。本次升级基于开源框架 Pi Agent 对底层架构进行了全面重构，重塑了会话运行、状态管理与工具调用链路，显著提升了会话启动速度，并大幅减少长任务执行中的中断与卡...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29657",
+        "url": "https://www.aibase.com/zh/news/29657",
+        "title": "前OpenAI CTO穆拉蒂打造多模态Inkling模型登场，号称美国最强开源AI",
+        "date": "2026-07-16",
+        "lead": "由前OpenAI首席技术官米拉·穆拉蒂创立的思维机器实验室推出首款从零训练的多模态AI模型Inkling，被外界认为是美国当前最强的开源模型。该模型采用混合专家架构，总参数975B、激活参数41B，最长上下文达 100 万tokens，预训练覆盖 45 万亿Tokens数据，涵盖文本、图像、音频和视频四种模态，目前已开放权重供下载使用。",
+        "first_paragraph": "团队阵容豪华，推理编程仍逊中国开源劲旅",
+        "description": "由前OpenAI首席技术官米拉·穆拉蒂创立的思维机器实验室推出首款从零训练的多模态AI模型Inkling，被外界认为是美国当前最强的开源模型。该模型采用混合专家架构，总参数975B、激活参数41B，最长上下文达 100 万tokens，预训练覆盖 45 万亿Tokens数据，涵盖文本、图像、音频和视频四种模态，目前已开",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29657.html",
+          "addtime": "2026-07-16T16:03:03.1988648+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-16，由前OpenAI首席技术官米拉·穆拉蒂创立的思维机器实验室推出首款从零训练的多模态AI模型Inkling，被外界认为是美国当前最强的开源模型。该模型采用混合专家架构，总参数975B、激活参数41B，最长上下文达 100 万tokens，预训练覆盖 45 万亿Tokens数据，涵盖文本、图像、音频和视频四种模态，目前已开放权重供下载使用。",
+      "ai_summary": "2026-07-16，由前OpenAI首席技术官米拉·穆拉蒂创立的思维机器实验室推出首款从零训练的多模态AI模型Inkling，被外界认为是美国当前最强的开源模型。该模型采用混合专家架构，总参数975B、激活参数41B，最长上下文达 100 万tokens，预训练覆盖 45 万亿Tokens数据，涵盖文本、图像、音频和视频四种模态，目前已开放权重供下载使用。",
+      "lead_excerpt": "由前OpenAI首席技术官米拉·穆拉蒂创立的思维机器实验室推出首款从零训练的多模态AI模型Inkling，被外界认为是美国当前最强的开源模型。该模型采用混合专家架构，总参数975B、激活参数41B，最长上下文达 100 万tokens...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29654",
+        "url": "https://www.aibase.com/zh/news/29654",
+        "title": "穆拉蒂重磅回归：思维机器实验室发布首款多模态开源模型 Inkling",
+        "date": "2026-07-16",
+        "lead": "前 OpenAI 首席技术官米拉·穆拉蒂（Mira Murati）日前正式揭晓了其创立的“思维机器实验室”(Thinking Machines Lab)的首个重磅成果——多模态 AI 模型 Inkling。凭借强劲的性能表现，该模型被业界视为目前美国开源 AI 领域的最强竞争者。",
+        "first_paragraph": "据悉，思维机器实验室的创始团队阵容豪华，约三分之二的核心成员均来自 OpenAI，曾深度参与过前沿研究、产品落地及安全机制构建等关键工作。此次推出的 Inkling 是该团队自主训练的首款模型，采用了混合专家（MoE）架构，总参数量达到975B，激活参数为41B，并支持高达1M tokens 的上下文窗口。",
+        "description": "前 OpenAI 首席技术官米拉·穆拉蒂（Mira Murati）日前正式揭晓了其创立的“思维机器实验室”(Thinking Machines Lab)的首个重磅成果——多模态 AI 模型 Inkling。凭借强劲的性能表现，该模型被业界视为目前美国开源 AI 领域的最强竞争者。据悉，思维机器实验室的创始团队阵容豪华，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29654.html",
+          "addtime": "2026-07-16T15:35:14.1848886+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-16，前 OpenAI 首席技术官米拉·穆拉蒂（Mira Murati）日前正式揭晓了其创立的“思维机器实验室”(Thinking Machines Lab)的首个重磅成果——多模态 AI 模型 Inkling。凭借强劲的性能表现，该模型被业界视为目前美国开源 AI 领域的最强竞争者。",
+      "ai_summary": "2026-07-16，前 OpenAI 首席技术官米拉·穆拉蒂（Mira Murati）日前正式揭晓了其创立的“思维机器实验室”(Thinking Machines Lab)的首个重磅成果——多模态 AI 模型 Inkling。凭借强劲的性能表现，该模型被业界视为目前美国开源 AI 领域的最强竞争者。",
+      "lead_excerpt": "前 OpenAI 首席技术官米拉·穆拉蒂（Mira Murati）日前正式揭晓了其创立的“思维机器实验室”(Thinking Machines Lab)的首个重磅成果——多模态 AI 模型 Inkling。凭借强劲的性能表现，该模型被...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29653",
+        "url": "https://www.aibase.com/zh/news/29653",
+        "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+        "date": "2026-07-16",
+        "lead": "做过长链路编码任务的人都有过这种抓狂时刻：代理跑到大半突然断了上下文，或者卡在某个等待里毫无动静，前功尽弃还要人工接手收拾残局。 7 月 16 日，MiniMax给出了针对这些痛点的新答案——MiniMax Code 2. 0 桌面端正式开放下载。",
+        "first_paragraph": "这一版的核心发力点，正是长任务执行过程中的等待、中断与上下文衔接三大老大难。MiniMax把这台桌面端的底层打磨了一遍，让代理在长跑任务里更稳地保持上下文连贯，减少中途掉线带来的返工成本。换句话说，它想解决的不是多写几行代码，而是让整段自动化流程真正能一口气跑到底。",
+        "description": "做过长链路编码任务的人都有过这种抓狂时刻：代理跑到大半突然断了上下文，或者卡在某个等待里毫无动静，前功尽弃还要人工接手收拾残局。 7 月 16 日，MiniMax给出了针对这些痛点的新答案——MiniMax Code 2. 0 桌面端正式开放下载。这一版的核心发力点，正是长任务执行过程中的等待、中断与上下文衔接三大老大",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29653.html",
+          "addtime": "2026-07-16T14:58:11+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-16，做过长链路编码任务的人都有过这种抓狂时刻：代理跑到大半突然断了上下文，或者卡在某个等待里毫无动静，前功尽弃还要人工接手收拾残局。 7 月 16 日，MiniMax给出了针对这些痛点的新答案——MiniMax Code 2. 0 桌面端正式开放下载。",
+      "ai_summary": "2026-07-16，做过长链路编码任务的人都有过这种抓狂时刻：代理跑到大半突然断了上下文，或者卡在某个等待里毫无动静，前功尽弃还要人工接手收拾残局。 7 月 16 日，MiniMax给出了针对这些痛点的新答案——MiniMax Code 2. 0 桌面端正式开放下载。",
+      "lead_excerpt": "做过长链路编码任务的人都有过这种抓狂时刻：代理跑到大半突然断了上下文，或者卡在某个等待里毫无动静，前功尽弃还要人工接手收拾残局。 7 月 16 日，MiniMax给出了针对这些痛点的新答案——MiniMax Code 2. 0 桌面端...",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29651",
+        "url": "https://www.aibase.com/zh/news/29651",
+        "title": "​金融大模型这块蛋糕一年涨了九成，百度智能云再次稳坐头把交椅",
+        "date": "2026-07-16",
+        "lead": "金融行业拥抱生成式AI的速度，比外界想象得更猛。据36氪获悉，国际数据公司IDC最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告揭开了一组亮眼数字:2025年，中国金融行业的生成式AI市场迎来爆发式增长，整体规模冲到17.40亿元人民币，同比增速高达90.4%，几乎是一年翻了近一倍。",
+        "first_paragraph": "在这条陡峭上扬的赛道上，百度智能云再度跑到了最前面。凭借技术底座与场景落地两条腿的双重优势，它以16.6%的市场份额稳居中国金融行业生成式AI平台及应用解决方案市场第一，实现了对这一头名位置的蝉联。当一个市场以近九成的速度扩张时，能持续守住份额榜首，含金量远比数字本身更沉。",
+        "description": "金融行业拥抱生成式AI的速度，比外界想象得更猛。据36氪获悉，国际数据公司IDC最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告揭开了一组亮眼数字:2025年，中国金融行业的生成式AI市场迎来爆发式增长，整体规模冲到17.40亿元人民币，同比增速高达90.4%，几乎是一年翻了近一倍。在这条陡",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29651.html",
+          "addtime": "2026-07-16T14:22:55.8912537+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-16，金融行业拥抱生成式AI的速度，比外界想象得更猛。据36氪获悉，国际数据公司IDC最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告揭开了一组亮眼数字:2025年，中国金融行业的生成式AI市场迎来爆发式增长，整体规模冲到17.40亿元人民币，同比增速高达90.4%，几乎是一年翻了近一倍。",
+      "ai_summary": "2026-07-16，金融行业拥抱生成式AI的速度，比外界想象得更猛。据36氪获悉，国际数据公司IDC最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告揭开了一组亮眼数字:2025年，中国金融行业的生成式AI市场迎来爆发式增长，整体规模冲到17.40亿元人民币，同比增速高达90.4%，几乎是一年翻了近一倍。",
+      "lead_excerpt": "金融行业拥抱生成式AI的速度，比外界想象得更猛。据36氪获悉，国际数据公司IDC最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告揭开了一组亮眼数字:2025年，中国金融行业的生成式AI市场迎来爆发式增长，整...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29650",
+        "url": "https://www.aibase.com/zh/news/29650",
+        "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+        "date": "2026-07-16",
+        "lead": "月之暗面于 7 月 15 日在B站、X平台及小红书等社交渠道发布预热视频，正式为Kimi K3 模型造势，新品有望在近期推出。在视频约 4 秒处一闪而过的数字\"3\"，被外界解读为对Kimi K3 的明确暗示。",
+        "first_paragraph": "匿名模型现身Arena.ai，对比测试已流出",
+        "description": "月之暗面于 7 月 15 日在B站、X平台及小红书等社交渠道发布预热视频，正式为Kimi K3 模型造势，新品有望在近期推出。在视频约 4 秒处一闪而过的数字\"3\"，被外界解读为对Kimi K3 的明确暗示。匿名模型现身Arena.ai，对比测试已流出公开资料显示，一款代号为Kivine的匿名模型已",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29650.html",
+          "addtime": "2026-07-16T14:09:29+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-16，月之暗面于 7 月 15 日在B站、X平台及小红书等社交渠道发布预热视频，正式为Kimi K3 模型造势，新品有望在近期推出。在视频约 4 秒处一闪而过的数字\"3\"，被外界解读为对Kimi K3 的明确暗示。",
+      "ai_summary": "2026-07-16，月之暗面于 7 月 15 日在B站、X平台及小红书等社交渠道发布预热视频，正式为Kimi K3 模型造势，新品有望在近期推出。在视频约 4 秒处一闪而过的数字\"3\"，被外界解读为对Kimi K3 的明确暗示。",
+      "lead_excerpt": "月之暗面于 7 月 15 日在B站、X平台及小红书等社交渠道发布预热视频，正式为Kimi K3 模型造势，新品有望在近期推出。在视频约 4 秒处一闪而过的数字\"3\"，被外界解读为对Kimi K3 的明确暗示。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29646",
+        "url": "https://www.aibase.com/zh/news/29646",
+        "title": "三钟的骗局：AI 语音诈骗如何轻松绕过防线",
+        "date": "2026-07-16",
+        "lead": "在美国佛罗里达州，73 岁的香农・布莱特威尔接到一个令人不安的电话，电话那头传来了她女儿哭泣的声音。那个声称是她女儿的声音告诉她，自己因驾车时发短信而撞到了孕妇，现在被警方拘留，需要 15000 美元的保释金。由于一阵恐慌，布莱特威尔毫不犹豫地按照电话中的指示，取出了现金，并把钱交给了一名快递员。直到她真正联系上女儿，才发现这一切都是一场精心设计的骗局。电话中哭泣的声音其实是 AI 合成的，而她的女儿根本没有遇到任何麻烦。",
+        "first_paragraph": "这类 AI 语音诈骗正迅速蔓延，成为美国最常见的犯罪方式之一。根据 FBI 在 2026 年的报告，涉及人工智能的诈骗案件首次被单独列出，相关的损失已经超过 8.93 亿美元，且老年人群体成为最大的受害者。老年人因其积蓄和对技术的陌生而成为诈骗的重点目标。AI 技术的快速发展，使得这些骗局不仅能够以极低的成本发起，而且极其有效。",
+        "description": "在美国佛罗里达州，73 岁的香农・布莱特威尔接到一个令人不安的电话，电话那头传来了她女儿哭泣的声音。那个声称是她女儿的声音告诉她，自己因驾车时发短信而撞到了孕妇，现在被警方拘留，需要 15000 美元的保释金。由于一阵恐慌，布莱特威尔毫不犹豫地按照电话中的指示，取出了现金，并把钱交给了一名快递员。直到她真正联系上女儿，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29646.html",
+          "addtime": "2026-07-16T13:40:12.964207+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-16，在美国佛罗里达州，73 岁的香农・布莱特威尔接到一个令人不安的电话，电话那头传来了她女儿哭泣的声音。那个声称是她女儿的声音告诉她，自己因驾车时发短信而撞到了孕妇，现在被警方拘留，需要 15000 美元的保释金。由于一阵恐慌，布莱特威尔毫不犹豫地按照电话中的指示，取出了现金，并把钱交给了一名快递员。直到她真正联系上女儿，才发现这一切都是一场精心设计的骗局...",
+      "ai_summary": "2026-07-16，在美国佛罗里达州，73 岁的香农・布莱特威尔接到一个令人不安的电话，电话那头传来了她女儿哭泣的声音。那个声称是她女儿的声音告诉她，自己因驾车时发短信而撞到了孕妇，现在被警方拘留，需要 15000 美元的保释金。由于一阵恐慌，布莱特威尔毫不犹豫地按照电话中的指示，取出了现金，并把钱交给了一名快递员。直到她真正联系上女儿，才发现这一切都是一场精心设计的骗局...",
+      "lead_excerpt": "在美国佛罗里达州，73 岁的香农・布莱特威尔接到一个令人不安的电话，电话那头传来了她女儿哭泣的声音。那个声称是她女儿的声音告诉她，自己因驾车时发短信而撞到了孕妇，现在被警方拘留，需要 15000 美元的保释金。由于一阵恐慌，布莱特威尔...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29642",
+        "url": "https://www.aibase.com/zh/news/29642",
+        "title": "面壁智能与三星联手！端侧大模型即将登陆旗舰手机",
+        "date": "2026-07-16",
+        "lead": "在智能手机技术不断进步的今天，面壁智能宣布与全球知名手机制造商三星达成合作。面壁智能的自主研发产品 ——MiniCPM 系列端侧模型将正式搭载于多款三星旗舰手机。这一合作不仅为用户提供更智能的手机体验，也预示人工智能技术在手机领域的进一步普及。",
+        "first_paragraph": "据了解，MiniCPM 系列是面壁智能最新推出的一款端侧大模型，旨在提升手机的智能化水平，使其在处理复杂任务时更加高效。与传统的云端计算模式相比，端侧模型能够在用户设备上直接处理数据，这意味着手机可以更快地响应用户的需求，保护个人隐私，并在没有网络连接的情况下依然保持高效运行。",
+        "description": "在智能手机技术不断进步的今天，面壁智能宣布与全球知名手机制造商三星达成合作。面壁智能的自主研发产品 ——MiniCPM 系列端侧模型将正式搭载于多款三星旗舰手机。这一合作不仅为用户提供更智能的手机体验，也预示人工智能技术在手机领域的进一步普及。据了解，MiniCPM 系列是面壁智能最新推出的一款",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29642.html",
+          "addtime": "2026-07-16T10:26:41.2981306+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-16，在智能手机技术不断进步的今天，面壁智能宣布与全球知名手机制造商三星达成合作。面壁智能的自主研发产品 ——MiniCPM 系列端侧模型将正式搭载于多款三星旗舰手机。这一合作不仅为用户提供更智能的手机体验，也预示人工智能技术在手机领域的进一步普及。",
+      "ai_summary": "2026-07-16，在智能手机技术不断进步的今天，面壁智能宣布与全球知名手机制造商三星达成合作。面壁智能的自主研发产品 ——MiniCPM 系列端侧模型将正式搭载于多款三星旗舰手机。这一合作不仅为用户提供更智能的手机体验，也预示人工智能技术在手机领域的进一步普及。",
+      "lead_excerpt": "在智能手机技术不断进步的今天，面壁智能宣布与全球知名手机制造商三星达成合作。面壁智能的自主研发产品 ——MiniCPM 系列端侧模型将正式搭载于多款三星旗舰手机。这一合作不仅为用户提供更智能的手机体验，也预示人工智能技术在手机领域的进...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29641",
+        "url": "https://www.aibase.com/zh/news/29641",
+        "title": "从70后到05后，同上一堂千问AI课:这群求职者，都想学会新技能",
+        "date": "2026-07-16",
+        "lead": "“我想先分享一下我的感受!”",
+        "first_paragraph": "7月15日，在武汉人才服务中心的一间教室里，49岁的退役军人万晓明成了全场焦点。",
+        "description": "“我想先分享一下我的感受!”7月15日，在武汉人才服务中心的一间教室里，49岁的退役军人万晓明成了全场焦点。“我刚从干了18年的央企出来。可我觉得自己心里还住着个年轻人，这会儿绝不能躺平!”万晓明的嗓门洪亮。他坦言，自己正处在职业转型的迷茫期，但决不允许自己被时代甩在身后。现在的他，每天雷打不动地花4个小时死磕AI和自",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-10_2026-07-16/29641.html",
+          "addtime": "2026-07-16T10:26:13.7566964+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-16，“我想先分享一下我的感受!”",
+      "ai_summary": "2026-07-16，“我想先分享一下我的感受!”",
+      "lead_excerpt": "“我想先分享一下我的感受!”",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "备选线索数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
