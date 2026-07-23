@@ -1,0 +1,699 @@
+{
+  "week_id": "2026-07-17_2026-07-23",
+  "label": "7.17-7.23",
+  "start_date": "2026-07-17",
+  "end_date": "2026-07-23",
+  "generated_at": "2026-07-23T10:36:27",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29836",
+        "url": "https://www.aibase.com/zh/news/29836",
+        "title": "阿里真武M890超节点成功适配Qwen3.8，已上线百炼平台提供推理服务",
+        "date": "2026-07-23",
+        "lead": "7月23日，阿里云官方宣布阿里真武M890超节点已成功适配最新旗舰大模型Qwen3.8，并同步上线阿里云百炼平台对外提供模型推理服务。这标志着真武M890成为国内首个成功支撑超2万亿参数大模型稳定运行的超节点系统，实现了国产软硬件协同在大模型算力调度层面的重要突破。",
+        "first_paragraph": "作为阿里最新推出的超大规模旗舰模型，Qwen3.8的参数规模高达2.4万亿。由于传统AI集群受限于节点间的通信带宽，在应对超高吞吐、低延迟以及高并发的推理需求时普遍存在性能瓶颈。要实现该量级模型的稳定高效运行，通常需要将模型参数切分并分散部署至几十甚至上百张高速互联的GPU显卡上。",
+        "description": "7月23日，阿里云官方宣布阿里真武M890超节点已成功适配最新旗舰大模型Qwen3.8，并同步上线阿里云百炼平台对外提供模型推理服务。这标志着真武M890成为国内首个成功支撑超2万亿参数大模型稳定运行的超节点系统，实现了国产软硬件协同在大模型算力调度层面的重要突破。作为阿里最新推出的超大规模旗舰模型，Qwen3.8的参",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29836.html",
+          "addtime": "2026-07-23T14:54:22+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-23，7月23日，阿里云官方宣布阿里真武M890超节点已成功适配最新旗舰大模型Qwen3.8，并同步上线阿里云百炼平台对外提供模型推理服务。这标志着真武M890成为国内首个成功支撑超2万亿参数大模型稳定运行的超节点系统，实现了国产软硬件协同在大模型算力调度层面的重要突破。",
+      "ai_summary": "2026-07-23，7月23日，阿里云官方宣布阿里真武M890超节点已成功适配最新旗舰大模型Qwen3.8，并同步上线阿里云百炼平台对外提供模型推理服务。这标志着真武M890成为国内首个成功支撑超2万亿参数大模型稳定运行的超节点系统，实现了国产软硬件协同在大模型算力调度层面的重要突破。",
+      "lead_excerpt": "7月23日，阿里云官方宣布阿里真武M890超节点已成功适配最新旗舰大模型Qwen3.8，并同步上线阿里云百炼平台对外提供模型推理服务。这标志着真武M890成为国内首个成功支撑超2万亿参数大模型稳定运行的超节点系统，实现了国产软硬件协同...",
+      "reason": "符合优先级：阿里及相关主体、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29827",
+        "url": "https://www.aibase.com/zh/news/29827",
+        "title": "高德发布ABot具身体系全栈升级 一口气推出五款核心模型",
+        "date": "2026-07-23",
+        "lead": "7月23日，阿里巴巴集团旗下高德宣布其ABot具身体系完成全栈升级，重磅发布ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS与ABot-C0五款核心模型。此次升级实现了感知、决策、执行及记忆的体系化整合，全面提升机器人自主执行通用任务的能力，标志着具身智能技术迈向高度协同一体化的新阶段。",
+        "first_paragraph": "作为全球首个全栈具身技术体系，ABot深度融合世界模型、基座模型与具身Agent架构，构建起由“仿真训练、物理交互、记忆调度”互相反哺的自进化闭环飞轮。",
+        "description": "7月23日，阿里巴巴集团旗下高德宣布其ABot具身体系完成全栈升级，重磅发布ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS与ABot-C0五款核心模型。此次升级实现了感知、决策、执行及记忆的体系化整合，全面提升机器人自主执行通用任务的能力，标志着具身智能技术迈向高度协同一体化的新阶段。作为",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29827.html",
+          "addtime": "2026-07-23T10:20:43+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-23，7月23日，阿里巴巴集团旗下高德宣布其ABot具身体系完成全栈升级，重磅发布ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS与ABot-C0五款核心模型。此次升级实现了感知、决策、执行及记忆的体系化整合，全面提升机器人自主执行通用任务的能力，标志着具身智能技术迈向高度协同一体化的新阶段。",
+      "ai_summary": "2026-07-23，7月23日，阿里巴巴集团旗下高德宣布其ABot具身体系完成全栈升级，重磅发布ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS与ABot-C0五款核心模型。此次升级实现了感知、决策、执行及记忆的体系化整合，全面提升机器人自主执行通用任务的能力，标志着具身智能技术迈向高度协同一体化的新阶段。",
+      "lead_excerpt": "7月23日，阿里巴巴集团旗下高德宣布其ABot具身体系完成全栈升级，重磅发布ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS与ABot-C0五款核心模型。此次升级实现了感知、决策、执行及记忆的体系化整合，全...",
+      "reason": "符合优先级：阿里及相关主体、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29840",
+        "url": "https://www.aibase.com/zh/news/29840",
+        "title": "腾讯云推出 CodeBuddy NPC：从代码助手走向端到端自主研发智能体",
+        "date": "2026-07-23",
+        "lead": "7 月 23 日，腾讯云正式推出全新云端研发智能体 CodeBuddy NPC。作为 CodeBuddy 代码助手面向企业研发场景的重磅升级产品，该智能体深度依托腾讯云 CNB 研发平台，原生打通 Issue、代码仓库、PR 及 CI/CD 全流程数据，实现云端端到端自主研发。",
+        "first_paragraph": "与传统本地 AI 编码工具不同，开发者只需在需求单中下发任务指令，CodeBuddy NPC 即可自主完成方案规划、编码开发、提交 PR 及自动化测试等全流程工作，并能根据 CI 运行结果自我迭代与报错修复。",
+        "description": "7 月 23 日，腾讯云正式推出全新云端研发智能体 CodeBuddy NPC。作为 CodeBuddy 代码助手面向企业研发场景的重磅升级产品，该智能体深度依托腾讯云 CNB 研发平台，原生打通 Issue、代码仓库、PR 及 CI/CD 全流程数据，实现云端端到端自主研发。与传统本地 AI 编码工具不同，开发者只需",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29840.html",
+          "addtime": "2026-07-23T16:04:33+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-23，7 月 23 日，腾讯云正式推出全新云端研发智能体 CodeBuddy NPC。作为 CodeBuddy 代码助手面向企业研发场景的重磅升级产品，该智能体深度依托腾讯云 CNB 研发平台，原生打通 Issue、代码仓库、PR 及 CI/CD 全流程数据，实现云端端到端自主研发。",
+      "ai_summary": "2026-07-23，7 月 23 日，腾讯云正式推出全新云端研发智能体 CodeBuddy NPC。作为 CodeBuddy 代码助手面向企业研发场景的重磅升级产品，该智能体深度依托腾讯云 CNB 研发平台，原生打通 Issue、代码仓库、PR 及 CI/CD 全流程数据，实现云端端到端自主研发。",
+      "lead_excerpt": "7 月 23 日，腾讯云正式推出全新云端研发智能体 CodeBuddy NPC。作为 CodeBuddy 代码助手面向企业研发场景的重磅升级产品，该智能体深度依托腾讯云 CNB 研发平台，原生打通 Issue、代码仓库、PR 及 CI...",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29838",
+        "url": "https://www.aibase.com/zh/news/29838",
+        "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
+        "date": "2026-07-23",
+        "lead": "据央视新闻报道，湖南衡山县人民法院近日审结一起利用AI伪造水果腐烂图片骗取电商平台\"仅退款\"的案件。当地居民谭某某在 2025 年 10 月至 2026 年 1 月期间，频繁下单购买榴莲、车厘子等高价水果，收货后通过AI修图软件伪造水果变质发霉图片，以质量问题为由申请\"仅退款不退货\"，四个月内累计下单 100 余笔，涉案总价值 16000 余元。",
+        "first_paragraph": "75 部手机作案，全县居民一度被平台拉黑",
+        "description": "据央视新闻报道，湖南衡山县人民法院近日审结一起利用AI伪造水果腐烂图片骗取电商平台\"仅退款\"的案件。当地居民谭某某在 2025 年 10 月至 2026 年 1 月期间，频繁下单购买榴莲、车厘子等高价水果，收货后通过AI修图软件伪造水果变质发霉图片，以质量问题为由申请\"仅退款不退货&quo",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29838.html",
+          "addtime": "2026-07-23T15:42:10.1982346+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-23，据央视新闻报道，湖南衡山县人民法院近日审结一起利用AI伪造水果腐烂图片骗取电商平台\"仅退款\"的案件。当地居民谭某某在 2025 年 10 月至 2026 年 1 月期间，频繁下单购买榴莲、车厘子等高价水果，收货后通过AI修图软件伪造水果变质发霉图片，以质量问题为由申请\"仅退款不退货\"，四个月内累计下单 100 余笔，涉案总价值 16000 余元。",
+      "ai_summary": "2026-07-23，据央视新闻报道，湖南衡山县人民法院近日审结一起利用AI伪造水果腐烂图片骗取电商平台\"仅退款\"的案件。当地居民谭某某在 2025 年 10 月至 2026 年 1 月期间，频繁下单购买榴莲、车厘子等高价水果，收货后通过AI修图软件伪造水果变质发霉图片，以质量问题为由申请\"仅退款不退货\"，四个月内累计下单 100 余笔，涉案总价值 16000 余元。",
+      "lead_excerpt": "据央视新闻报道，湖南衡山县人民法院近日审结一起利用AI伪造水果腐烂图片骗取电商平台\"仅退款\"的案件。当地居民谭某某在 2025 年 10 月至 2026 年 1 月期间，频繁下单购买榴莲、车厘子等高价水果，收货后通过AI修图软件伪造水...",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、产品/功能/工具/平台动作",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29832",
+        "url": "https://www.aibase.com/zh/news/29832",
+        "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
+        "date": "2026-07-23",
+        "lead": "OpenAI发布案例报告，日本IT服务巨头NTT DATA Group通过部署Codex智能体，将一项原本需要 5 名资深工程师耗时 3 天才能完成的复杂系统故障分析缩短至 30 分钟。目前Codex已在NTT DATA约 9000 名员工中推广使用，覆盖技术和非技术岗位，成为企业级AI智能体应用的标杆案例。",
+        "first_paragraph": "从ChatGPT Enterprise到Codex：先养习惯再上Agent",
+        "description": "OpenAI发布案例报告，日本IT服务巨头NTT DATA Group通过部署Codex智能体，将一项原本需要 5 名资深工程师耗时 3 天才能完成的复杂系统故障分析缩短至 30 分钟。目前Codex已在NTT DATA约 9000 名员工中推广使用，覆盖技术和非技术岗位，成为企业级AI智能体应用的标杆案例。从Chat",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29832.html",
+          "addtime": "2026-07-23T14:00:40.7747933+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-23，OpenAI发布案例报告，日本IT服务巨头NTT DATA Group通过部署Codex智能体，将一项原本需要 5 名资深工程师耗时 3 天才能完成的复杂系统故障分析缩短至 30 分钟。目前Codex已在NTT DATA约 9000 名员工中推广使用，覆盖技术和非技术岗位，成为企业级AI智能体应用的标杆案例。",
+      "ai_summary": "2026-07-23，OpenAI发布案例报告，日本IT服务巨头NTT DATA Group通过部署Codex智能体，将一项原本需要 5 名资深工程师耗时 3 天才能完成的复杂系统故障分析缩短至 30 分钟。目前Codex已在NTT DATA约 9000 名员工中推广使用，覆盖技术和非技术岗位，成为企业级AI智能体应用的标杆案例。",
+      "lead_excerpt": "OpenAI发布案例报告，日本IT服务巨头NTT DATA Group通过部署Codex智能体，将一项原本需要 5 名资深工程师耗时 3 天才能完成的复杂系统故障分析缩短至 30 分钟。目前Codex已在NTT DATA约 9000...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29829",
+        "url": "https://www.aibase.com/zh/news/29829",
+        "title": "微软经典版Outlook年底前整合Copilot，AI起草邮件功能将覆盖Win10/Win11",
+        "date": "2026-07-23",
+        "lead": "据科技媒体Windows Latest报道，微软计划在 2026 年年底前，面向Windows10 和Windows11 经典版Outlook推送Copilot更新，整合\"起草电子邮件\"功能。这一动作意味着微软正将AI能力从新版Outlook向经典版用户延伸，加速Copilot在办公场景中的全面渗透。",
+        "first_paragraph": "经典版用户将获得AI起草能力",
+        "description": "据科技媒体Windows Latest报道，微软计划在 2026 年年底前，面向Windows10 和Windows11 经典版Outlook推送Copilot更新，整合\"起草电子邮件\"功能。这一动作意味着微软正将AI能力从新版Outlook向经典版用户延伸，加速Copilot在办公场景中的全面渗透",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29829.html",
+          "addtime": "2026-07-23T11:13:57.939268+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-23，据科技媒体Windows Latest报道，微软计划在 2026 年年底前，面向Windows10 和Windows11 经典版Outlook推送Copilot更新，整合\"起草电子邮件\"功能。这一动作意味着微软正将AI能力从新版Outlook向经典版用户延伸，加速Copilot在办公场景中的全面渗透。",
+      "ai_summary": "2026-07-23，据科技媒体Windows Latest报道，微软计划在 2026 年年底前，面向Windows10 和Windows11 经典版Outlook推送Copilot更新，整合\"起草电子邮件\"功能。这一动作意味着微软正将AI能力从新版Outlook向经典版用户延伸，加速Copilot在办公场景中的全面渗透。",
+      "lead_excerpt": "据科技媒体Windows Latest报道，微软计划在 2026 年年底前，面向Windows10 和Windows11 经典版Outlook推送Copilot更新，整合\"起草电子邮件\"功能。这一动作意味着微软正将AI能力从新版Out...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29839",
+        "url": "https://www.aibase.com/zh/news/29839",
+        "title": "北京抛出\"智能体新政\"十策：从驾驭层工程到一人公司，一张 Agent 经济蓝图铺开了",
+        "date": "2026-07-23",
+        "lead": "一份不算长的政策文件，今天在北京落地，却把一串几个月前还只活跃在论文和技术社区黑话里的词，一口气写进了正式公文。这份《北京市关于加快智能体引领发展的若干措施》一共十条，Agentic AI、Harness Engineering、AI OS、FDE、OPC、Token 经济、TaaS、AaaS、RaaS、Token 工厂、AIP 悉数在列。尤其当\"驾驭层工程\"堂堂正正坐在第二条，智能体经济的宏伟蓝图，第一次有了政策级的清晰轮廓。",
+        "first_paragraph": "第一条指向基础模型，关键措辞是\"持续提升大模型实际任务完成能力\"。过去几年大模型比的是 Benchmark 分数，而 Agent 真正上工时，往往只拿到一个模糊目标，得自己补齐信息、拆计划、调工具、读反馈、改路线，跑到结果出现为止。这里有一笔残酷的账:假设 Agent 连续执行100步、每步正确率99%，全部做对的概率只剩约36.6%;即便单步拉到99.9%，完整跑通也仅约90.5%。Agent 的实用价值因此更像一道乘法——模型能力乘以长程可靠性，乘以环境可操作性，再乘以结果可验证性，任何一项趋近于零，总价值就趋近于零。前沿评测也已转向这个方向，比如 METR 提出的 Task Completion Time Horizon，直接测 Agent 能以50% 或80% 成功率独立完成一项本需人类专家干多久的任务，这也解释了为何代码会成为 Agent 最早爆发的领域:它高度数字化、可回滚、可验证。",
+        "description": "一份不算长的政策文件，今天在北京落地，却把一串几个月前还只活跃在论文和技术社区黑话里的词，一口气写进了正式公文。这份《北京市关于加快智能体引领发展的若干措施》一共十条，Agentic AI、Harness Engineering、AI OS、FDE、OPC、Token 经济、TaaS、AaaS、RaaS、Token 工",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29839.html",
+          "addtime": "2026-07-23T15:50:37+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-07-23，一份不算长的政策文件，今天在北京落地，却把一串几个月前还只活跃在论文和技术社区黑话里的词，一口气写进了正式公文。这份《北京市关于加快智能体引领发展的若干措施》一共十条，Agentic AI、Harness Engineering、AI OS、FDE、OPC、Token 经济、TaaS、AaaS、RaaS、Token 工厂、AIP 悉数在列。尤其当\"驾驭...",
+      "ai_summary": "2026-07-23，一份不算长的政策文件，今天在北京落地，却把一串几个月前还只活跃在论文和技术社区黑话里的词，一口气写进了正式公文。这份《北京市关于加快智能体引领发展的若干措施》一共十条，Agentic AI、Harness Engineering、AI OS、FDE、OPC、Token 经济、TaaS、AaaS、RaaS、Token 工厂、AIP 悉数在列。尤其当\"驾驭...",
+      "lead_excerpt": "一份不算长的政策文件，今天在北京落地，却把一串几个月前还只活跃在论文和技术社区黑话里的词，一口气写进了正式公文。这份《北京市关于加快智能体引领发展的若干措施》一共十条，Agentic AI、Harness Engineering、AI...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29831",
+        "url": "https://www.aibase.com/zh/news/29831",
+        "title": "国内首部持\"网剧片许可证\"的 AIGC 故事片《奇谭》在爱奇艺开播",
+        "date": "2026-07-23",
+        "lead": "爱奇艺今天独家上线了一部片子，分量不轻——《奇谭:纸刃渡荒墟》成了国内第一部拿到《网络剧片发行许可证》、正式上线播出的 AIGC 网络故事片。它由大梦创新与爱奇艺联合出品，以中式志怪传奇为底色，用 AI 走完了从创意到成片的全流程，全片时长逾60分钟。",
+        "first_paragraph": "这部片子是\"奇谭三部曲\"的开篇，由曾祥程执导，刘海洋担任 AI 导演，赵胜男、岳思雨、肖阳三人执笔编剧。故事讲的是一个东方志怪味的奇幻冒险:失了忆的御纸师白小满，为找回记忆，与半纸人胡不归一头扎进阴阳两界的夹缝\"隐市\"，在寻无根水等三件宝物的路上，一段关于执念、救赎与人性的真相被一点点掀开。纸偶异兽在其间穿行，幽诡奇景与烟火市井交织生长，撑起一套独属于东方的志怪美学。",
+        "description": "爱奇艺今天独家上线了一部片子，分量不轻——《奇谭:纸刃渡荒墟》成了国内第一部拿到《网络剧片发行许可证》、正式上线播出的 AIGC 网络故事片。它由大梦创新与爱奇艺联合出品，以中式志怪传奇为底色，用 AI 走完了从创意到成片的全流程，全片时长逾60分钟。这部片子是\"奇谭三部曲\"的开篇，由曾祥程执导，刘",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29831.html",
+          "addtime": "2026-07-23T11:46:04.0851309+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-07-23，爱奇艺今天独家上线了一部片子，分量不轻——《奇谭:纸刃渡荒墟》成了国内第一部拿到《网络剧片发行许可证》、正式上线播出的 AIGC 网络故事片。它由大梦创新与爱奇艺联合出品，以中式志怪传奇为底色，用 AI 走完了从创意到成片的全流程，全片时长逾60分钟。",
+      "ai_summary": "2026-07-23，爱奇艺今天独家上线了一部片子，分量不轻——《奇谭:纸刃渡荒墟》成了国内第一部拿到《网络剧片发行许可证》、正式上线播出的 AIGC 网络故事片。它由大梦创新与爱奇艺联合出品，以中式志怪传奇为底色，用 AI 走完了从创意到成片的全流程，全片时长逾60分钟。",
+      "lead_excerpt": "爱奇艺今天独家上线了一部片子，分量不轻——《奇谭:纸刃渡荒墟》成了国内第一部拿到《网络剧片发行许可证》、正式上线播出的 AIGC 网络故事片。它由大梦创新与爱奇艺联合出品，以中式志怪传奇为底色，用 AI 走完了从创意到成片的全流程，全...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29830",
+        "url": "https://www.aibase.com/zh/news/29830",
+        "title": "Synthesia 不再只做视频：它要让 AI 化身当场回怼你，再给你打分",
+        "date": "2026-07-23",
+        "lead": "多年来，Synthesia 的招牌一直是用 AI 帮企业在几分钟内造出互动培训视频，成本只是传统企业教学材料的一零头。如今这家英国初创押了另一个注：企业 AI 真正的护城河，或许不在于生成内容，而在于证明\"它真的管用\"。",
+        "first_paragraph": "周三，Synthesia 推出 Roleplay Sessions，一个互动培训产品。员工可以在里面和一位会回嘴、会反驳、最后还按评分量表给你打分的 AI 化身，反复演练那些高风险的对话——推销话术、绩效面谈、客户投诉，都算。这是 Synthesia 更宏大\" Sessions \"平台下的第一个产品，而据 TechCrunch 独家获悉，这个平台还会扩张到面试、候选人筛选等其它形态。",
+        "description": "多年来，Synthesia 的招牌一直是用 AI 帮企业在几分钟内造出互动培训视频，成本只是传统企业教学材料的一零头。如今这家英国初创押了另一个注：企业 AI 真正的护城河，或许不在于生成内容，而在于证明\"它真的管用\"。周三，Synthesia 推出 Roleplay Sessions，一个互动培训",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29830.html",
+          "addtime": "2026-07-23T11:41:54.1751017+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-07-23，多年来，Synthesia 的招牌一直是用 AI 帮企业在几分钟内造出互动培训视频，成本只是传统企业教学材料的一零头。如今这家英国初创押了另一个注：企业 AI 真正的护城河，或许不在于生成内容，而在于证明\"它真的管用\"。",
+      "ai_summary": "2026-07-23，多年来，Synthesia 的招牌一直是用 AI 帮企业在几分钟内造出互动培训视频，成本只是传统企业教学材料的一零头。如今这家英国初创押了另一个注：企业 AI 真正的护城河，或许不在于生成内容，而在于证明\"它真的管用\"。",
+      "lead_excerpt": "多年来，Synthesia 的招牌一直是用 AI 帮企业在几分钟内造出互动培训视频，成本只是传统企业教学材料的一零头。如今这家英国初创押了另一个注：企业 AI 真正的护城河，或许不在于生成内容，而在于证明\"它真的管用\"。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29828",
+        "url": "https://www.aibase.com/zh/news/29828",
+        "title": "Monday.com 裁员 630 人，聚焦人工智能战略",
+        "date": "2026-07-23",
+        "lead": "以色列的工作软件公司 Monday.com 近日宣布，将裁员减约 20% 的员工，约 630 名员工将受到影响。这一裁员决定是公司重组计划的一部分，目的是为了支持更精简、更专注的运营模式，同时加大对人工智能项目的投资。",
+        "first_paragraph": "今年早些时候，Monday.com 决定将其人工智能平台作为核心产品进行大幅调整，重塑了整个产品以满足企业客户对 AI 助手的需求。这款人工智能工作平台目前包括一个无代码应用构建器、自定义 AI 助手、工作流自动化工具以及可以生成报告和更新仪表板的聊天机器人等功能。",
+        "description": "以色列的工作软件公司 Monday.com 近日宣布，将裁员减约 20% 的员工，约 630 名员工将受到影响。这一裁员决定是公司重组计划的一部分，目的是为了支持更精简、更专注的运营模式，同时加大对人工智能项目的投资。今年早些时候，Monday.com 决定将其人工智能平台作为核心产品进行大幅调整，重塑了整个产品以满足",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29828.html",
+          "addtime": "2026-07-23T10:41:01+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-07-23，以色列的工作软件公司 Monday.com 近日宣布，将裁员减约 20% 的员工，约 630 名员工将受到影响。这一裁员决定是公司重组计划的一部分，目的是为了支持更精简、更专注的运营模式，同时加大对人工智能项目的投资。",
+      "ai_summary": "2026-07-23，以色列的工作软件公司 Monday.com 近日宣布，将裁员减约 20% 的员工，约 630 名员工将受到影响。这一裁员决定是公司重组计划的一部分，目的是为了支持更精简、更专注的运营模式，同时加大对人工智能项目的投资。",
+      "lead_excerpt": "以色列的工作软件公司 Monday.com 近日宣布，将裁员减约 20% 的员工，约 630 名员工将受到影响。这一裁员决定是公司重组计划的一部分，目的是为了支持更精简、更专注的运营模式，同时加大对人工智能项目的投资。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29844",
+        "url": "https://www.aibase.com/zh/news/29844",
+        "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+        "date": "2026-07-23",
+        "lead": "三星昨晚在伦敦的 Galaxy Unpacked 发布会上，一口气推出了 Galaxy Z Fold8、Galaxy Z Fold8Ultra 和 Galaxy Z Flip8三款折叠新机。就在今天，面壁智能宣布旗下 MiniCPM 系列端侧大模型深度赋能三星 Galaxy AI——这是国产端侧大模型头一回，挤进国际头部手机厂商的全球旗舰产品线。",
+        "first_paragraph": "按照介绍，这一回面壁智能给三星 Galaxy AI 提供的是端侧模型能力，覆盖文本理解与多模态感知。真正吃上这颗\"国产大脑\"的新机，是 Galaxy Z Fold8和 Galaxy Z Fold8Ultra 两款。",
+        "description": "三星昨晚在伦敦的 Galaxy Unpacked 发布会上，一口气推出了 Galaxy Z Fold8、Galaxy Z Fold8Ultra 和 Galaxy Z Flip8三款折叠新机。就在今天，面壁智能宣布旗下 MiniCPM 系列端侧大模型深度赋能三星 Galaxy AI——这是国产端侧大模型头一回，挤进国际头",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29844.html",
+          "addtime": "2026-07-23T18:05:53.6431553+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，三星昨晚在伦敦的 Galaxy Unpacked 发布会上，一口气推出了 Galaxy Z Fold8、Galaxy Z Fold8Ultra 和 Galaxy Z Flip8三款折叠新机。就在今天，面壁智能宣布旗下 MiniCPM 系列端侧大模型深度赋能三星 Galaxy AI——这是国产端侧大模型头一回，挤进国际头部手机厂商的全球旗舰产品线。",
+      "ai_summary": "2026-07-23，三星昨晚在伦敦的 Galaxy Unpacked 发布会上，一口气推出了 Galaxy Z Fold8、Galaxy Z Fold8Ultra 和 Galaxy Z Flip8三款折叠新机。就在今天，面壁智能宣布旗下 MiniCPM 系列端侧大模型深度赋能三星 Galaxy AI——这是国产端侧大模型头一回，挤进国际头部手机厂商的全球旗舰产品线。",
+      "lead_excerpt": "三星昨晚在伦敦的 Galaxy Unpacked 发布会上，一口气推出了 Galaxy Z Fold8、Galaxy Z Fold8Ultra 和 Galaxy Z Flip8三款折叠新机。就在今天，面壁智能宣布旗下 MiniCPM...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29843",
+        "url": "https://www.aibase.com/zh/news/29843",
+        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "date": "2026-07-23",
+        "lead": "据科技媒体testingcatalog报道，Anthropic有望本周升级Claude语音模式，支持调用Opus和Sonnet更强模型。目前Claude语音模式统一调用Haiku 4. 5 模型运行，用户只能与AI进行基础语音对话，升级后将获得三档模型选择，语音交互能力将显著提升。",
+        "first_paragraph": "三档模型可选，思考层级可调",
+        "description": "据科技媒体testingcatalog报道，Anthropic有望本周升级Claude语音模式，支持调用Opus和Sonnet更强模型。目前Claude语音模式统一调用Haiku 4. 5 模型运行，用户只能与AI进行基础语音对话，升级后将获得三档模型选择，语音交互能力将显著提升。三档模型可选，思考层级可调最新消息称，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29843.html",
+          "addtime": "2026-07-23T17:02:13.1869082+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，据科技媒体testingcatalog报道，Anthropic有望本周升级Claude语音模式，支持调用Opus和Sonnet更强模型。目前Claude语音模式统一调用Haiku 4. 5 模型运行，用户只能与AI进行基础语音对话，升级后将获得三档模型选择，语音交互能力将显著提升。",
+      "ai_summary": "2026-07-23，据科技媒体testingcatalog报道，Anthropic有望本周升级Claude语音模式，支持调用Opus和Sonnet更强模型。目前Claude语音模式统一调用Haiku 4. 5 模型运行，用户只能与AI进行基础语音对话，升级后将获得三档模型选择，语音交互能力将显著提升。",
+      "lead_excerpt": "据科技媒体testingcatalog报道，Anthropic有望本周升级Claude语音模式，支持调用Opus和Sonnet更强模型。目前Claude语音模式统一调用Haiku 4. 5 模型运行，用户只能与AI进行基础语音对话，升...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29841",
+        "url": "https://www.aibase.com/zh/news/29841",
+        "title": "特斯拉Grok覆盖全欧洲并进军更多亚洲国家，语音控制空调手套箱一步到位",
+        "date": "2026-07-23",
+        "lead": "特斯拉宣布旗下集成的xAI人工智能助手Grok即将覆盖整个欧洲市场，并同时进入印度、马来西亚、菲律宾、新加坡和泰国等更多亚洲国家。这一扩展将随 2026 年夏季软件更新推送，新版本还为Grok新增了车辆控制功能，驾驶员只需语音即可拨打电话、控制音乐播放、调节空调甚至打开手套箱。",
+        "first_paragraph": "从聊天机器人进化为车辆管家",
+        "description": "特斯拉宣布旗下集成的xAI人工智能助手Grok即将覆盖整个欧洲市场，并同时进入印度、马来西亚、菲律宾、新加坡和泰国等更多亚洲国家。这一扩展将随 2026 年夏季软件更新推送，新版本还为Grok新增了车辆控制功能，驾驶员只需语音即可拨打电话、控制音乐播放、调节空调甚至打开手套箱。从聊天机器人进化为车辆管家Grok去年夏天",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29841.html",
+          "addtime": "2026-07-23T16:07:20.9465472+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，特斯拉宣布旗下集成的xAI人工智能助手Grok即将覆盖整个欧洲市场，并同时进入印度、马来西亚、菲律宾、新加坡和泰国等更多亚洲国家。这一扩展将随 2026 年夏季软件更新推送，新版本还为Grok新增了车辆控制功能，驾驶员只需语音即可拨打电话、控制音乐播放、调节空调甚至打开手套箱。",
+      "ai_summary": "2026-07-23，特斯拉宣布旗下集成的xAI人工智能助手Grok即将覆盖整个欧洲市场，并同时进入印度、马来西亚、菲律宾、新加坡和泰国等更多亚洲国家。这一扩展将随 2026 年夏季软件更新推送，新版本还为Grok新增了车辆控制功能，驾驶员只需语音即可拨打电话、控制音乐播放、调节空调甚至打开手套箱。",
+      "lead_excerpt": "特斯拉宣布旗下集成的xAI人工智能助手Grok即将覆盖整个欧洲市场，并同时进入印度、马来西亚、菲律宾、新加坡和泰国等更多亚洲国家。这一扩展将随 2026 年夏季软件更新推送，新版本还为Grok新增了车辆控制功能，驾驶员只需语音即可拨打...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29837",
+        "url": "https://www.aibase.com/zh/news/29837",
+        "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "date": "2026-07-23",
+        "lead": "AI 基础设施在美国各地引发的反对声浪，OpenAI 这次想用一套更软的打法化解。据《商业内幕》7 月 23 日报道，OpenAI 正为佐治亚州一座大型数据中心争取社区支持，抛出名为 Project Camellia 的新计划——在萨凡纳郊外的埃芬汉姆县乡村，建一座投资至少 200 亿美元、占地约 567 公顷、用电需求达 3.2 吉瓦的数据中心园区。",
+        "first_paragraph": "OpenAI 说，团队已经和州及地方官员、社区领袖、学校等各方沟通过、听过意见，后续还要办公众说明会。公司表态，尽早和社区接触才是建立信任的正路，毕竟项目还在开发初期，基础设施、建设节奏、设计、融资和运营模式都还有大量工作要做。埃芬汉姆县委员杰米·德洛奇也公开声明，团队提过尖锐的问题，并确认了项目用水量很少、不会推高本县居民的能源成本，还能带来新税收去支撑学校、给当地企业创造更多机会。",
+        "description": "AI 基础设施在美国各地引发的反对声浪，OpenAI 这次想用一套更软的打法化解。据《商业内幕》7 月 23 日报道，OpenAI 正为佐治亚州一座大型数据中心争取社区支持，抛出名为 Project Camellia 的新计划——在萨凡纳郊外的埃芬汉姆县乡村，建一座投资至少 200 亿美元、占地约 567 公顷、用电需",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29837.html",
+          "addtime": "2026-07-23T15:36:20.4575637+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，AI 基础设施在美国各地引发的反对声浪，OpenAI 这次想用一套更软的打法化解。据《商业内幕》7 月 23 日报道，OpenAI 正为佐治亚州一座大型数据中心争取社区支持，抛出名为 Project Camellia 的新计划——在萨凡纳郊外的埃芬汉姆县乡村，建一座投资至少 200 亿美元、占地约 567 公顷、用电需求达 3.2 吉瓦的数据中心园区。",
+      "ai_summary": "2026-07-23，AI 基础设施在美国各地引发的反对声浪，OpenAI 这次想用一套更软的打法化解。据《商业内幕》7 月 23 日报道，OpenAI 正为佐治亚州一座大型数据中心争取社区支持，抛出名为 Project Camellia 的新计划——在萨凡纳郊外的埃芬汉姆县乡村，建一座投资至少 200 亿美元、占地约 567 公顷、用电需求达 3.2 吉瓦的数据中心园区。",
+      "lead_excerpt": "AI 基础设施在美国各地引发的反对声浪，OpenAI 这次想用一套更软的打法化解。据《商业内幕》7 月 23 日报道，OpenAI 正为佐治亚州一座大型数据中心争取社区支持，抛出名为 Project Camellia 的新计划——在萨...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29835",
+        "url": "https://www.aibase.com/zh/news/29835",
+        "title": "本地跑通 1000 亿参数大模型：Acrab 发布边缘 AI 芯片 GΞLIX 1，5nm 制程撑起 650TOPS",
+        "date": "2026-07-23",
+        "lead": "一家叫 Acrab 的初创公司，今天正式把它的第一款边缘 AI 终端 SoC 端上了台面——GΞLIX 1。这块基于 5nm 制程的芯片，主打一个硬指标：能让 1000 亿参数规模的大模型，直接在本地跑起来，不必把数据送去云端。",
+        "first_paragraph": "硬件上，GΞLIX 1 走的是异构计算架构，把 20 核 Arm CPU、3TFLOPS 的 GPU、独立 NPU 以及音视频处理引擎全收进一颗芯片，AI 总算力拉到 650TOPS。横向摆一下就更清楚了：高通骁龙 X Elite 的 NPU 算力约 45TOPS，英特尔酷睿 Ultra 系列的 NPU 在 40TOPS 上下——GΞLIX 1 的 AI 算力差不多是它们的十几倍。",
+        "description": "一家叫 Acrab 的初创公司，今天正式把它的第一款边缘 AI 终端 SoC 端上了台面——GΞLIX 1。这块基于 5nm 制程的芯片，主打一个硬指标：能让 1000 亿参数规模的大模型，直接在本地跑起来，不必把数据送去云端。硬件上，GΞLIX 1 走的是异构计算架构，把 20 核 Arm CPU、3TFLOPS 的",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29835.html",
+          "addtime": "2026-07-23T14:42:40.5595011+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，一家叫 Acrab 的初创公司，今天正式把它的第一款边缘 AI 终端 SoC 端上了台面——GΞLIX 1。这块基于 5nm 制程的芯片，主打一个硬指标：能让 1000 亿参数规模的大模型，直接在本地跑起来，不必把数据送去云端。",
+      "ai_summary": "2026-07-23，一家叫 Acrab 的初创公司，今天正式把它的第一款边缘 AI 终端 SoC 端上了台面——GΞLIX 1。这块基于 5nm 制程的芯片，主打一个硬指标：能让 1000 亿参数规模的大模型，直接在本地跑起来，不必把数据送去云端。",
+      "lead_excerpt": "一家叫 Acrab 的初创公司，今天正式把它的第一款边缘 AI 终端 SoC 端上了台面——GΞLIX 1。这块基于 5nm 制程的芯片，主打一个硬指标：能让 1000 亿参数规模的大模型，直接在本地跑起来，不必把数据送去云端。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29834",
+        "url": "https://www.aibase.com/zh/news/29834",
+        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+        "date": "2026-07-23",
+        "lead": "Alphabet首席执行官桑达尔·皮查伊在周三的财报电话会议上宣布，AI Overview及AI Mode等生成式人工智能功能正在强力拉动谷歌搜索查询量增长，打破了市场对AI将取代传统搜索的担忧。",
+        "first_paragraph": "数据显示，自去年10月全球推广以来，“AI Mode”月活跃用户已突破10亿大关，不仅实现了搜索查询量的阶梯式提升，每周更通过AI功能为外部网站输送数十亿次点击。",
+        "description": "Alphabet首席执行官桑达尔·皮查伊在周三的财报电话会议上宣布，AI Overview及AI Mode等生成式人工智能功能正在强力拉动谷歌搜索查询量增长，打破了市场对AI将取代传统搜索的担忧。 数据显示，自去年10月全球推广以来，“AI Mode”月活跃用户已突破10亿大关，不仅实现了搜索查询量的阶梯式提",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29834.html",
+          "addtime": "2026-07-23T14:28:39.1892251+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，Alphabet首席执行官桑达尔·皮查伊在周三的财报电话会议上宣布，AI Overview及AI Mode等生成式人工智能功能正在强力拉动谷歌搜索查询量增长，打破了市场对AI将取代传统搜索的担忧。",
+      "ai_summary": "2026-07-23，Alphabet首席执行官桑达尔·皮查伊在周三的财报电话会议上宣布，AI Overview及AI Mode等生成式人工智能功能正在强力拉动谷歌搜索查询量增长，打破了市场对AI将取代传统搜索的担忧。",
+      "lead_excerpt": "Alphabet首席执行官桑达尔·皮查伊在周三的财报电话会议上宣布，AI Overview及AI Mode等生成式人工智能功能正在强力拉动谷歌搜索查询量增长，打破了市场对AI将取代传统搜索的担忧。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29833",
+        "url": "https://www.aibase.com/zh/news/29833",
+        "title": "DeepSeek梁文锋谈开源：只赚 6 倍利润不加班，想赚 100 倍才会受制于开源",
+        "date": "2026-07-23",
+        "lead": "近日DeepSeek投资者交流会内部谈话内容流出，创始人梁文锋就开源策略的底层逻辑作出完整阐述。他明确表态\"一定会开源，最强的模型也会开源\"，因为看不到闭源有什么必然的好处，并首次从财务角度解释了开源与商业利润之间的关系。",
+        "first_paragraph": "开源不影响 6 倍利润，但会制约 100 倍暴利",
+        "description": "近日DeepSeek投资者交流会内部谈话内容流出，创始人梁文锋就开源策略的底层逻辑作出完整阐述。他明确表态\"一定会开源，最强的模型也会开源\"，因为看不到闭源有什么必然的好处，并首次从财务角度解释了开源与商业利润之间的关系。开源不影响 6 倍利润，但会制约 100 倍暴利梁文锋给出了清晰的财务逻辑：按",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29833.html",
+          "addtime": "2026-07-23T14:27:17+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，近日DeepSeek投资者交流会内部谈话内容流出，创始人梁文锋就开源策略的底层逻辑作出完整阐述。他明确表态\"一定会开源，最强的模型也会开源\"，因为看不到闭源有什么必然的好处，并首次从财务角度解释了开源与商业利润之间的关系。",
+      "ai_summary": "2026-07-23，近日DeepSeek投资者交流会内部谈话内容流出，创始人梁文锋就开源策略的底层逻辑作出完整阐述。他明确表态\"一定会开源，最强的模型也会开源\"，因为看不到闭源有什么必然的好处，并首次从财务角度解释了开源与商业利润之间的关系。",
+      "lead_excerpt": "近日DeepSeek投资者交流会内部谈话内容流出，创始人梁文锋就开源策略的底层逻辑作出完整阐述。他明确表态\"一定会开源，最强的模型也会开源\"，因为看不到闭源有什么必然的好处，并首次从财务角度解释了开源与商业利润之间的关系。",
+      "reason": "未明确与 AI 相关；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29826",
+        "url": "https://www.aibase.com/zh/news/29826",
+        "title": "Yope 拿到 1230 万美元：一个没有算法、没有广告、也不公开的社交网络",
+        "date": "2026-07-23",
+        "lead": "当社交媒体的面目从\"和朋友联络\"悄悄变成\"大型娱乐广场\"，一家叫 Yope 的初创公司正闷头做着另一件事——它想赌一个不一样的未来:没有算法、没有广告、也没有公开内容的社交网络。这轮由 Northzone 领投的1230万美元融资，给这个想法又添了一把柴。",
+        "first_paragraph": "Yope 的打法，是绕开 Facebook、TikTok、Snapchat 和 Instagram 这些巨头，去建它口中的\"微社区\"——也就是朋友和家人聚在一起私密互动的小圈子，分享照片、视频、消息，不久之后还能一起打游戏。不做算法推送、不做公开广场，这个概念并不新鲜，但少有 app 能在不靠创作者内容吊住用户的情况下真正长大。Yope 的赌注是，把真实世界里本来就是朋友的人重新连起来，让它既是通讯工具，也是分享生活的地方。",
+        "description": "当社交媒体的面目从\"和朋友联络\"悄悄变成\"大型娱乐广场\"，一家叫 Yope 的初创公司正闷头做着另一件事——它想赌一个不一样的未来:没有算法、没有广告、也没有公开内容的社交网络。这轮由 Northzone 领投的1230万美元融资，给这个想法又添了一把柴。Yope 的打法，是绕开",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29826.html",
+          "addtime": "2026-07-23T10:18:06.024138+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，当社交媒体的面目从\"和朋友联络\"悄悄变成\"大型娱乐广场\"，一家叫 Yope 的初创公司正闷头做着另一件事——它想赌一个不一样的未来:没有算法、没有广告、也没有公开内容的社交网络。这轮由 Northzone 领投的1230万美元融资，给这个想法又添了一把柴。",
+      "ai_summary": "2026-07-23，当社交媒体的面目从\"和朋友联络\"悄悄变成\"大型娱乐广场\"，一家叫 Yope 的初创公司正闷头做着另一件事——它想赌一个不一样的未来:没有算法、没有广告、也没有公开内容的社交网络。这轮由 Northzone 领投的1230万美元融资，给这个想法又添了一把柴。",
+      "lead_excerpt": "当社交媒体的面目从\"和朋友联络\"悄悄变成\"大型娱乐广场\"，一家叫 Yope 的初创公司正闷头做着另一件事——它想赌一个不一样的未来:没有算法、没有广告、也没有公开内容的社交网络。这轮由 Northzone 领投的1230万美元融资，给...",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29825",
+        "url": "https://www.aibase.com/zh/news/29825",
+        "title": "卡兰尼克带着 Atoms 杀回牌桌：a16z 领投 17 亿美元，Uber 也回来了",
+        "date": "2026-07-23",
+        "lead": "特拉维斯·卡兰尼克又回来了，而且这一次，他是被真金白银送回来的。这位 Uber 联合创始人旗下的机器人公司 Atoms，刚刚完成一轮由安德森·霍洛维茨（a16z）领投的 17 亿美元融资，a16z 联合创始人本·霍洛维茨也将随之进入 Atoms 董事会。贝恩资本、Fifth Wall 等机构跟投。",
+        "first_paragraph": "最耐人寻味的一笔，是 Uber 也出现在了这轮投资方名单里。这让卡兰尼克与他亲手创立、又在 2017 年因性骚扰与歧视指控及有毒职场文化而被赶下 CEO 之位的公司，重新连上了线。",
+        "description": "特拉维斯·卡兰尼克又回来了，而且这一次，他是被真金白银送回来的。这位 Uber 联合创始人旗下的机器人公司 Atoms，刚刚完成一轮由安德森·霍洛维茨（a16z）领投的 17 亿美元融资，a16z 联合创始人本·霍洛维茨也将随之进入 Atoms 董事会。贝恩资本、Fifth Wall 等机构跟投。最耐人寻味的一笔，是",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29825.html",
+          "addtime": "2026-07-23T10:16:37.0090539+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，特拉维斯·卡兰尼克又回来了，而且这一次，他是被真金白银送回来的。这位 Uber 联合创始人旗下的机器人公司 Atoms，刚刚完成一轮由安德森·霍洛维茨（a16z）领投的 17 亿美元融资，a16z 联合创始人本·霍洛维茨也将随之进入 Atoms 董事会。贝恩资本、Fifth Wall 等机构跟投。",
+      "ai_summary": "2026-07-23，特拉维斯·卡兰尼克又回来了，而且这一次，他是被真金白银送回来的。这位 Uber 联合创始人旗下的机器人公司 Atoms，刚刚完成一轮由安德森·霍洛维茨（a16z）领投的 17 亿美元融资，a16z 联合创始人本·霍洛维茨也将随之进入 Atoms 董事会。贝恩资本、Fifth Wall 等机构跟投。",
+      "lead_excerpt": "特拉维斯·卡兰尼克又回来了，而且这一次，他是被真金白银送回来的。这位 Uber 联合创始人旗下的机器人公司 Atoms，刚刚完成一轮由安德森·霍洛维茨（a16z）领投的 17 亿美元融资，a16z 联合创始人本·霍洛维茨也将随之进入...",
+      "reason": "未明确与 AI 相关；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29824",
+        "url": "https://www.aibase.com/zh/news/29824",
+        "title": "小红书开源 BigMac：把多模态训练的显存与速度，从二选一中解放出来",
+        "date": "2026-07-23",
+        "lead": "多模态大语言模型正在成为新一代 AI 的地基，但它的训练系统却被一个老问题卡了很久——算得快的，显存撑不住;显存省着的，速度又掉下去。小红书 dots infra 团队把这个两难叫做多模态流水训练的帕累托前沿，而现在他们把这个前沿撕开了一道口子。7月22日，团队正式开源了名为 BigMac 的流水并行训练新范式，专门针对原生多模态场景，开源地址已挂在 GitHub 的 Dots-Infra 之下。",
+        "first_paragraph": "多模态模型从来不是一块规整的 transformer。一个典型的 MLLM 由三块拼成:把图像、音频转成 embedding 的模态编码器，在其上做推理的 LLM 主干，以及把 LLM 输出映射回图像、语音等目标模态的生成器。这三块形态差异巨大，把它们塞进同一条流水线，麻烦就来了。",
+        "description": "多模态大语言模型正在成为新一代 AI 的地基，但它的训练系统却被一个老问题卡了很久——算得快的，显存撑不住;显存省着的，速度又掉下去。小红书 dots infra 团队把这个两难叫做多模态流水训练的帕累托前沿，而现在他们把这个前沿撕开了一道口子。7月22日，团队正式开源了名为 BigMac 的流水并行训练新范式，专门针",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-17_2026-07-23/29824.html",
+          "addtime": "2026-07-23T10:11:43+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-23，多模态大语言模型正在成为新一代 AI 的地基，但它的训练系统却被一个老问题卡了很久——算得快的，显存撑不住;显存省着的，速度又掉下去。小红书 dots infra 团队把这个两难叫做多模态流水训练的帕累托前沿，而现在他们把这个前沿撕开了一道口子。7月22日，团队正式开源了名为 BigMac 的流水并行训练新范式，专门针对原生多模态场景，开源地址已挂在...",
+      "ai_summary": "2026-07-23，多模态大语言模型正在成为新一代 AI 的地基，但它的训练系统却被一个老问题卡了很久——算得快的，显存撑不住;显存省着的，速度又掉下去。小红书 dots infra 团队把这个两难叫做多模态流水训练的帕累托前沿，而现在他们把这个前沿撕开了一道口子。7月22日，团队正式开源了名为 BigMac 的流水并行训练新范式，专门针对原生多模态场景，开源地址已挂在...",
+      "lead_excerpt": "多模态大语言模型正在成为新一代 AI 的地基，但它的训练系统却被一个老问题卡了很久——算得快的，显存撑不住;显存省着的，速度又掉下去。小红书 dots infra 团队把这个两难叫做多模态流水训练的帕累托前沿，而现在他们把这个前沿撕开...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。",
+    "备选线索数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
