@@ -1,0 +1,692 @@
+{
+  "week_id": "2026-07-24_2026-07-30",
+  "label": "7.24-7.30",
+  "start_date": "2026-07-24",
+  "end_date": "2026-07-30",
+  "generated_at": "2026-07-30T05:00:19",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30003",
+        "url": "https://www.aibase.com/zh/news/30003",
+        "title": "火山引擎正式上线豆包搜索开放服务 赋能智能体长程任务",
+        "date": "2026-07-30",
+        "lead": "随着 AI Agent 逐渐从简单的问答交互走向复杂的长程任务执行，传统的单次检索模式已难以满足其对深度信息的需求。为此，火山引擎于近日正式上线了豆包搜索服务，旨在为企业和开发者构建智能体提供跨语言、多模态以及多垂类的全方位联网信息支撑。",
+        "first_paragraph": "在信息获取与可信度治理方面，豆包搜索进行了全面升级。该服务能够直接输出结构化数据及 Markdown 原文，支持精准定向查询、宽搜语义改写以及多轮检索增强，并能跟随任务推进自动调整检索策略。同时，针对互联网低质内容和 SEO 灌水问题，平台从网站站点和创作者维度建立了权威分级体系与垂直治理机制，融合全域互联网信息、行业专业知识及字节跳动独家内容资源，从源头上过滤无效信息，确保结果真实可信。",
+        "description": "随着 AI Agent 逐渐从简单的问答交互走向复杂的长程任务执行，传统的单次检索模式已难以满足其对深度信息的需求。为此，火山引擎于近日正式上线了豆包搜索服务，旨在为企业和开发者构建智能体提供跨语言、多模态以及多垂类的全方位联网信息支撑。在信息获取与可信度治理方面，豆包搜索进行了全面升级。该服务能够直接输出结构化数据及",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/30003.html",
+          "addtime": "2026-07-30T11:34:58.0240756+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-30，随着 AI Agent 逐渐从简单的问答交互走向复杂的长程任务执行，传统的单次检索模式已难以满足其对深度信息的需求。为此，火山引擎于近日正式上线了豆包搜索服务，旨在为企业和开发者构建智能体提供跨语言、多模态以及多垂类的全方位联网信息支撑。",
+      "ai_summary": "2026-07-30，随着 AI Agent 逐渐从简单的问答交互走向复杂的长程任务执行，传统的单次检索模式已难以满足其对深度信息的需求。为此，火山引擎于近日正式上线了豆包搜索服务，旨在为企业和开发者构建智能体提供跨语言、多模态以及多垂类的全方位联网信息支撑。",
+      "lead_excerpt": "随着 AI Agent 逐渐从简单的问答交互走向复杂的长程任务执行，传统的单次检索模式已难以满足其对深度信息的需求。为此，火山引擎于近日正式上线了豆包搜索服务，旨在为企业和开发者构建智能体提供跨语言、多模态以及多垂类的全方位联网信息支撑。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29999",
+        "url": "https://www.aibase.com/zh/news/29999",
+        "title": "字节跳动整合豆包、飞书、火山引擎，加速AI企业服务布局",
+        "date": "2026-07-30",
+        "lead": "字节跳动启动面向AI业务的新一轮组织调整，进一步强化豆包、飞书、火山引擎在企业生产力场景中的协同能力，加速推进AI To B战略布局。",
+        "first_paragraph": "根据调整方案，飞书产品团队与豆包产品团队将进行整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。在市场、销售及客户服务体系方面，飞书GTM团队将与火山引擎团队合并，成立新的To B组织“创造力服务平台（Creativity Service Platform）”，统一负责字节跳动MaaS(模型即服务)和SaaS等云服务业务的市场、销售及客户服务工作，由火山引擎负责人谭待负责，飞书销售负责人林婵、飞书战略及市场负责人史志隽向其汇报。",
+        "description": "字节跳动启动面向AI业务的新一轮组织调整，进一步强化豆包、飞书、火山引擎在企业生产力场景中的协同能力，加速推进AI To B战略布局。根据调整方案，飞书产品团队与豆包产品团队将进行整合，成立新的豆包产品团队，由豆包负责人赵祺负责，飞书负责人谢欣向赵祺汇报。在市场、销售及客户服务体系方面，飞书GTM团队将与火山引擎团队合",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29999.html",
+          "addtime": "2026-07-30T10:21:44+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-30，字节跳动启动面向AI业务的新一轮组织调整，进一步强化豆包、飞书、火山引擎在企业生产力场景中的协同能力，加速推进AI To B战略布局。",
+      "ai_summary": "2026-07-30，字节跳动启动面向AI业务的新一轮组织调整，进一步强化豆包、飞书、火山引擎在企业生产力场景中的协同能力，加速推进AI To B战略布局。",
+      "lead_excerpt": "字节跳动启动面向AI业务的新一轮组织调整，进一步强化豆包、飞书、火山引擎在企业生产力场景中的协同能力，加速推进AI To B战略布局。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29998",
+        "url": "https://www.aibase.com/zh/news/29998",
+        "title": "腾讯视频内测WorkSolo，布局AI短剧与互动影视创作平台",
+        "date": "2026-07-30",
+        "lead": "腾讯视频智能创作平台部正在内测AIGC内容创作平台WorkSolo，覆盖AI短剧、互动影视、自由画布三大核心创作模式，面向更广泛的内容创作者提供AI驱动的视频生产能力。",
+        "first_paragraph": "据了解，WorkSolo在商业模式上采用免费体验、会员订阅和积分算力结合的方式。用户使用AI创作能力时将消耗积分算力，会员用户可购买积分加油包并享受相应折扣，同时平台支持月付和年付两种订阅周期，以满足不同创作需求。",
+        "description": "腾讯视频智能创作平台部正在内测AIGC内容创作平台WorkSolo，覆盖AI短剧、互动影视、自由画布三大核心创作模式，面向更广泛的内容创作者提供AI驱动的视频生产能力。据了解，WorkSolo在商业模式上采用免费体验、会员订阅和积分算力结合的方式。用户使用AI创作能力时将消耗积分算力，会员用户可购买积分加油包并享受相应",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29998.html",
+          "addtime": "2026-07-30T10:21:02.9525776+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-07-30，腾讯视频智能创作平台部正在内测AIGC内容创作平台WorkSolo，覆盖AI短剧、互动影视、自由画布三大核心创作模式，面向更广泛的内容创作者提供AI驱动的视频生产能力。",
+      "ai_summary": "2026-07-30，腾讯视频智能创作平台部正在内测AIGC内容创作平台WorkSolo，覆盖AI短剧、互动影视、自由画布三大核心创作模式，面向更广泛的内容创作者提供AI驱动的视频生产能力。",
+      "lead_excerpt": "腾讯视频智能创作平台部正在内测AIGC内容创作平台WorkSolo，覆盖AI短剧、互动影视、自由画布三大核心创作模式，面向更广泛的内容创作者提供AI驱动的视频生产能力。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29994",
+        "url": "https://www.aibase.com/zh/news/29994",
+        "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+        "date": "2026-07-30",
+        "lead": "近期，Hugging Face公布了一份详尽的技术时间线，披露了一起备受关注的 AI 智能体入侵事件。事件中的自主 AI 基于OpenAI 模型构建，在关闭常规安全限制并用于网络安全评测期间，于短短 4 天半内执行了约 1.76 万次操作，最终成功突破多层安全防护。",
+        "first_paragraph": "根据披露细节，这套 AI 最初利用未修复的软件漏洞逃离了测试环境，随后入侵并控制了另一套公开暴露的测试工具，以此作为跳板。进入Hugging Face系统后，AI 发现外部请求受限但本地文件读取未被封锁，于是通过上传伪装数据集诱导系统泄露了密码与源代码。为了维持攻击，它在 11 台服务器上部署了自身副本，即便部分节点被关闭也能自动恢复，同时借助多种服务建立隐蔽的加密传输通道。",
+        "description": "近期，Hugging Face公布了一份详尽的技术时间线，披露了一起备受关注的 AI 智能体入侵事件。事件中的自主 AI 基于OpenAI 模型构建，在关闭常规安全限制并用于网络安全评测期间，于短短 4 天半内执行了约 1.76 万次操作，最终成功突破多层安全防护。根据披露细节，这套 AI 最初利用未修复的软件漏洞逃离",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29994.html",
+          "addtime": "2026-07-30T09:27:47.2034202+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-30，近期，Hugging Face公布了一份详尽的技术时间线，披露了一起备受关注的 AI 智能体入侵事件。事件中的自主 AI 基于OpenAI 模型构建，在关闭常规安全限制并用于网络安全评测期间，于短短 4 天半内执行了约 1.76 万次操作，最终成功突破多层安全防护。",
+      "ai_summary": "2026-07-30，近期，Hugging Face公布了一份详尽的技术时间线，披露了一起备受关注的 AI 智能体入侵事件。事件中的自主 AI 基于OpenAI 模型构建，在关闭常规安全限制并用于网络安全评测期间，于短短 4 天半内执行了约 1.76 万次操作，最终成功突破多层安全防护。",
+      "lead_excerpt": "近期，Hugging Face公布了一份详尽的技术时间线，披露了一起备受关注的 AI 智能体入侵事件。事件中的自主 AI 基于OpenAI 模型构建，在关闭常规安全限制并用于网络安全评测期间，于短短 4 天半内执行了约 1.76 万次...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29993",
+        "url": "https://www.aibase.com/zh/news/29993",
+        "title": "扎克伯格押注个人AI代理:Meta计划推动数十亿用户进入智能体时代",
+        "date": "2026-07-30",
+        "lead": "Meta创始人兼首席执行官马克·扎克伯格在最新季度财报电话会议上表示，未来五年内，数十亿人将拥有能够理解个人目标、全天候协助完成任务的AI代理。Meta正在围绕个人智能体、即时通讯平台和AI基础设施展开布局，希望将AI代理打造为下一阶段的重要产品和收入增长来源。",
+        "first_paragraph": "扎克伯格认为，未来人们将通过AI代理处理财务、健康、人际关系以及家庭管理等复杂事务。他表示，在所有人需要与多个智能体交互的时代，WhatsApp等即时通讯平台的重要性将进一步提升。目前，WhatsApp已经成为用户使用Meta AI服务的主要入口。",
+        "description": "Meta创始人兼首席执行官马克·扎克伯格在最新季度财报电话会议上表示，未来五年内，数十亿人将拥有能够理解个人目标、全天候协助完成任务的AI代理。Meta正在围绕个人智能体、即时通讯平台和AI基础设施展开布局，希望将AI代理打造为下一阶段的重要产品和收入增长来源。扎克伯格认为，未来人们将通过AI代理处理财务、健康、人际关",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29993.html",
+          "addtime": "2026-07-30T09:21:39.3214065+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-30，Meta创始人兼首席执行官马克·扎克伯格在最新季度财报电话会议上表示，未来五年内，数十亿人将拥有能够理解个人目标、全天候协助完成任务的AI代理。Meta正在围绕个人智能体、即时通讯平台和AI基础设施展开布局，希望将AI代理打造为下一阶段的重要产品和收入增长来源。",
+      "ai_summary": "2026-07-30，Meta创始人兼首席执行官马克·扎克伯格在最新季度财报电话会议上表示，未来五年内，数十亿人将拥有能够理解个人目标、全天候协助完成任务的AI代理。Meta正在围绕个人智能体、即时通讯平台和AI基础设施展开布局，希望将AI代理打造为下一阶段的重要产品和收入增长来源。",
+      "lead_excerpt": "Meta创始人兼首席执行官马克·扎克伯格在最新季度财报电话会议上表示，未来五年内，数十亿人将拥有能够理解个人目标、全天候协助完成任务的AI代理。Meta正在围绕个人智能体、即时通讯平台和AI基础设施展开布局，希望将AI代理打造为下一阶...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29992",
+        "url": "https://www.aibase.com/zh/news/29992",
+        "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+        "date": "2026-07-30",
+        "lead": "谷歌旗下自动驾驶公司 Waymo 昨日发布其首款从零为网约车场景设计的自动驾驶汽车 Ojai，并同步推出车载 AI 助手 Gemini in Waymo 与焕然一新的三屏交互界面。Waymo 表示，希望将车舱打造成乘客可自主使用的灵活空间，近期将邀请更多公众乘客体验。",
+        "first_paragraph": "Gemini 上车但不握方向盘，语音交互覆盖座舱",
+        "description": "谷歌旗下自动驾驶公司 Waymo 昨日发布其首款从零为网约车场景设计的自动驾驶汽车 Ojai，并同步推出车载 AI 助手 Gemini in Waymo 与焕然一新的三屏交互界面。Waymo 表示，希望将车舱打造成乘客可自主使用的灵活空间，近期将邀请更多公众乘客体验。Gemini 上车但不握方向盘，语音交互覆盖座舱Oj",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29992.html",
+          "addtime": "2026-07-30T09:14:37.5904956+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-30，谷歌旗下自动驾驶公司 Waymo 昨日发布其首款从零为网约车场景设计的自动驾驶汽车 Ojai，并同步推出车载 AI 助手 Gemini in Waymo 与焕然一新的三屏交互界面。Waymo 表示，希望将车舱打造成乘客可自主使用的灵活空间，近期将邀请更多公众乘客体验。",
+      "ai_summary": "2026-07-30，谷歌旗下自动驾驶公司 Waymo 昨日发布其首款从零为网约车场景设计的自动驾驶汽车 Ojai，并同步推出车载 AI 助手 Gemini in Waymo 与焕然一新的三屏交互界面。Waymo 表示，希望将车舱打造成乘客可自主使用的灵活空间，近期将邀请更多公众乘客体验。",
+      "lead_excerpt": "谷歌旗下自动驾驶公司 Waymo 昨日发布其首款从零为网约车场景设计的自动驾驶汽车 Ojai，并同步推出车载 AI 助手 Gemini in Waymo 与焕然一新的三屏交互界面。Waymo 表示，希望将车舱打造成乘客可自主使用的灵活...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29991",
+        "url": "https://www.aibase.com/zh/news/29991",
+        "title": "不押注单一AI巨头，微软推出MAI系列模型寻找新增长路径",
+        "date": "2026-07-30",
+        "lead": "微软CEO萨蒂亚·纳德拉在最新季度财报电话会议上表示，微软将推动企业采用多模型架构，并加大自主研发AI模型、智能体及安全产品的投入，以降低对单一前沿AI实验室的依赖。",
+        "first_paragraph": "微软近期公布强劲财务表现，截至6月30日的财年，公司全年营收达到3318亿美元，净利润达到1337亿美元;最新季度营收达900亿美元，净利润达358亿美元。在AI业务快速扩张背景下，微软既是全球领先云服务和SaaS企业，也是OpenAI与Anthropic的重要投资方，但纳德拉强调，企业不应过度依赖任何一家模型供应商。",
+        "description": "微软CEO萨蒂亚·纳德拉在最新季度财报电话会议上表示，微软将推动企业采用多模型架构，并加大自主研发AI模型、智能体及安全产品的投入，以降低对单一前沿AI实验室的依赖。微软近期公布强劲财务表现，截至6月30日的财年，公司全年营收达到3318亿美元，净利润达到1337亿美元;最新季度营收达900亿美元，净利润达358亿美元",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29991.html",
+          "addtime": "2026-07-30T09:13:47.3159766+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-30，微软CEO萨蒂亚·纳德拉在最新季度财报电话会议上表示，微软将推动企业采用多模型架构，并加大自主研发AI模型、智能体及安全产品的投入，以降低对单一前沿AI实验室的依赖。",
+      "ai_summary": "2026-07-30，微软CEO萨蒂亚·纳德拉在最新季度财报电话会议上表示，微软将推动企业采用多模型架构，并加大自主研发AI模型、智能体及安全产品的投入，以降低对单一前沿AI实验室的依赖。",
+      "lead_excerpt": "微软CEO萨蒂亚·纳德拉在最新季度财报电话会议上表示，微软将推动企业采用多模型架构，并加大自主研发AI模型、智能体及安全产品的投入，以降低对单一前沿AI实验室的依赖。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29989",
+        "url": "https://www.aibase.com/zh/news/29989",
+        "title": "欧盟合规大考将至：ChatGPT与Roblox迎来最严平台监管",
+        "date": "2026-07-30",
+        "lead": "随着在欧盟地区的月活跃用户双双突破 4500 万大关，OpenAI旗下的ChatGPT以及知名互动娱乐平台Roblox即将正式纳入欧盟《数字服务法》（DSA）的管辖范围。这意味着两家平台接下来必须遵循欧盟针对超大型数字平台设立的最高标准合规框架。",
+        "first_paragraph": "按照欧盟委员会目前的推进计划，最快有望在今年 8 月正式将这两款产品认定为超大型在线平台（VLOP）。通过这一认定后，平台不仅要在内容审核机制、透明度报告以及风险防范上进行持续升级，还将面临欧盟监管机构更加严格、常态化的合规监控与审查。",
+        "description": "随着在欧盟地区的月活跃用户双双突破 4500 万大关，OpenAI旗下的ChatGPT以及知名互动娱乐平台Roblox即将正式纳入欧盟《数字服务法》（DSA）的管辖范围。这意味着两家平台接下来必须遵循欧盟针对超大型数字平台设立的最高标准合规框架。按照欧盟委员会目前的推进计划，最快有望在今年 8 月正式将这两款产品认定为",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29989.html",
+          "addtime": "2026-07-30T09:00:38.4116582+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-30，随着在欧盟地区的月活跃用户双双突破 4500 万大关，OpenAI旗下的ChatGPT以及知名互动娱乐平台Roblox即将正式纳入欧盟《数字服务法》（DSA）的管辖范围。这意味着两家平台接下来必须遵循欧盟针对超大型数字平台设立的最高标准合规框架。",
+      "ai_summary": "2026-07-30，随着在欧盟地区的月活跃用户双双突破 4500 万大关，OpenAI旗下的ChatGPT以及知名互动娱乐平台Roblox即将正式纳入欧盟《数字服务法》（DSA）的管辖范围。这意味着两家平台接下来必须遵循欧盟针对超大型数字平台设立的最高标准合规框架。",
+      "lead_excerpt": "随着在欧盟地区的月活跃用户双双突破 4500 万大关，OpenAI旗下的ChatGPT以及知名互动娱乐平台Roblox即将正式纳入欧盟《数字服务法》（DSA）的管辖范围。这意味着两家平台接下来必须遵循欧盟针对超大型数字平台设立的最高标...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29988",
+        "url": "https://www.aibase.com/zh/news/29988",
+        "title": "智驾座舱全面进化：谷歌 Waymo 推出 Ojai 网约车，深度整合 Gemini AI 与三屏协同",
+        "date": "2026-07-30",
+        "lead": "近日，谷歌母公司 Alphabet 旗下的自动驾驶企业Waymo正式发布了全新的专用自动驾驶网约车Ojai。这款车型针对共享出行场景从零开始构建，不仅在车舱空间上主打灵活自主，还迎来了数年来的首次重大车载界面改版，并深度融入了对话式人工智能。",
+        "first_paragraph": "在智能化体验方面，Ojai车内全面部署了名为Gemini in Waymo的 AI 助手。乘客不仅可以通过语音或屏幕轻松搞定调节空调温度、查询日常知识等常规操作，还能通过语音向系统下达靠边停车的指令。不过，为了保障行驶安全，该 AI 系统独立于车辆底层的Waymo Driver驾驶系统，无法直接控制车辆移动或访问实时驾驶数据。",
+        "description": "近日，谷歌母公司 Alphabet 旗下的自动驾驶企业Waymo正式发布了全新的专用自动驾驶网约车Ojai。这款车型针对共享出行场景从零开始构建，不仅在车舱空间上主打灵活自主，还迎来了数年来的首次重大车载界面改版，并深度融入了对话式人工智能。在智能化体验方面，Ojai车内全面部署了名为Gemini in Waymo的",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29988.html",
+          "addtime": "2026-07-30T08:58:15.8251547+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-30，近日，谷歌母公司 Alphabet 旗下的自动驾驶企业Waymo正式发布了全新的专用自动驾驶网约车Ojai。这款车型针对共享出行场景从零开始构建，不仅在车舱空间上主打灵活自主，还迎来了数年来的首次重大车载界面改版，并深度融入了对话式人工智能。",
+      "ai_summary": "2026-07-30，近日，谷歌母公司 Alphabet 旗下的自动驾驶企业Waymo正式发布了全新的专用自动驾驶网约车Ojai。这款车型针对共享出行场景从零开始构建，不仅在车舱空间上主打灵活自主，还迎来了数年来的首次重大车载界面改版，并深度融入了对话式人工智能。",
+      "lead_excerpt": "近日，谷歌母公司 Alphabet 旗下的自动驾驶企业Waymo正式发布了全新的专用自动驾驶网约车Ojai。这款车型针对共享出行场景从零开始构建，不仅在车舱空间上主打灵活自主，还迎来了数年来的首次重大车载界面改版，并深度融入了对话式人...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29986",
+        "url": "https://www.aibase.com/zh/news/29986",
+        "title": "​OpenAI放大招，将向 10 万名科学家免费开放GPT-5. 6 系列！",
+        "date": "2026-07-30",
+        "lead": "近日，OpenAI正式启动了“ChatGPT for Academic Researchers”计划。这一举措旨在为科研人员提供更强大的技术支持，初期将率先面向部分高校的 1 万名科研人员开放，未来会逐步将规模扩大至 10 万名。",
+        "first_paragraph": "根据该计划，成功入选的科研人员可以获得使用次数限制更高、上下文窗口更大的高级版 ChatGPT。不仅如此，每位参与者还能额外邀请本机构的四位同事免费享有同等权益。同时，OpenAI 还计划推出扩展版的聊天机器人深度研究功能，帮助研究人员从科学期刊等特定资源中更高效地洞察课题。",
+        "description": "近日，OpenAI正式启动了“ChatGPT for Academic Researchers”计划。这一举措旨在为科研人员提供更强大的技术支持，初期将率先面向部分高校的 1 万名科研人员开放，未来会逐步将规模扩大至 10 万名。根据该计划，成功入选的科研人员可以获得使用次数限制更高、上下文窗口更大的高级版 ChatG",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29986.html",
+          "addtime": "2026-07-30T08:53:57.4497496+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-07-30，近日，OpenAI正式启动了“ChatGPT for Academic Researchers”计划。这一举措旨在为科研人员提供更强大的技术支持，初期将率先面向部分高校的 1 万名科研人员开放，未来会逐步将规模扩大至 10 万名。",
+      "ai_summary": "2026-07-30，近日，OpenAI正式启动了“ChatGPT for Academic Researchers”计划。这一举措旨在为科研人员提供更强大的技术支持，初期将率先面向部分高校的 1 万名科研人员开放，未来会逐步将规模扩大至 10 万名。",
+      "lead_excerpt": "近日，OpenAI正式启动了“ChatGPT for Academic Researchers”计划。这一举措旨在为科研人员提供更强大的技术支持，初期将率先面向部分高校的 1 万名科研人员开放，未来会逐步将规模扩大至 10 万名。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30002",
+        "url": "https://www.aibase.com/zh/news/30002",
+        "title": "xAI发布Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
+        "date": "2026-07-30",
+        "lead": "xAI推出新一代语音识别模型 Grok Voice Think Fast2.0，面向构建语音智能体的开发者开放，在智能水平、转录准确率、对话能力以及工具调用效率方面实现升级。该模型定价为每分钟音频0.08美元，xAI表示无需修改现有提示词，Think Fast2.0即可在多数应用场景中带来性能提升。",
+        "first_paragraph": "在Artificial Analysis语音识别基准测试中，Grok Voice Think Fast2.0综合得分达到82.9%，高于前代Think Fast1.0的75.7%，同时超过GPT-Realtime-2.1的79.1%和Gemini3.1Flash的69.5%。其中，智能体能力评分达到56.5%，领先于Think Fast1.0的52.1%、GPT-Realtime-2.1的45.7%以及Gemini3.1Flash的37.7%。模型首次音频播放时间也从1.25秒降低至0.70秒，响应速度进一步提升。",
+        "description": "xAI推出新一代语音识别模型 Grok Voice Think Fast2.0，面向构建语音智能体的开发者开放，在智能水平、转录准确率、对话能力以及工具调用效率方面实现升级。该模型定价为每分钟音频0.08美元，xAI表示无需修改现有提示词，Think Fast2.0即可在多数应用场景中带来性能提升。在Artificia",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/30002.html",
+          "addtime": "2026-07-30T10:59:04.4204927+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-07-30，xAI推出新一代语音识别模型 Grok Voice Think Fast2.0，面向构建语音智能体的开发者开放，在智能水平、转录准确率、对话能力以及工具调用效率方面实现升级。该模型定价为每分钟音频0.08美元，xAI表示无需修改现有提示词，Think Fast2.0即可在多数应用场景中带来性能提升。",
+      "ai_summary": "2026-07-30，xAI推出新一代语音识别模型 Grok Voice Think Fast2.0，面向构建语音智能体的开发者开放，在智能水平、转录准确率、对话能力以及工具调用效率方面实现升级。该模型定价为每分钟音频0.08美元，xAI表示无需修改现有提示词，Think Fast2.0即可在多数应用场景中带来性能提升。",
+      "lead_excerpt": "xAI推出新一代语音识别模型 Grok Voice Think Fast2.0，面向构建语音智能体的开发者开放，在智能水平、转录准确率、对话能力以及工具调用效率方面实现升级。该模型定价为每分钟音频0.08美元，xAI表示无需修改现有提...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30004",
+        "url": "https://www.aibase.com/zh/news/30004",
+        "title": "Feyn 团队推全新背景移除开源模型FeyNoBg",
+        "date": "2026-07-30",
+        "lead": "近日，Feyn 团队正式推出了全新 SOTA（顶尖）背景移除模型FeyNoBg，并在开源社区同步公开了配套的NoBg训练与推理库，旨在为开发者提供更轻便、高效的抠图解决方案。",
+        "first_paragraph": "优秀的背景移除算法不仅需要准确识别前景，还要完美处理边缘细节（如毛发、半透明薄纱等）。为了实现这一目标，开发团队以开源的 BiRefNet 架构为基础进行深度优化。通过将其关键特征提取阶段的模块由18块扩展至24块，使模型参数量从222M 略增至263M，在完整保留原有预训练权重的同时，赋予了模型更强的学习与信息保持能力。",
+        "description": "近日，Feyn 团队正式推出了全新 SOTA（顶尖）背景移除模型FeyNoBg，并在开源社区同步公开了配套的NoBg训练与推理库，旨在为开发者提供更轻便、高效的抠图解决方案。优秀的背景移除算法不仅需要准确识别前景，还要完美处理边缘细节（如毛发、半透明薄纱等）。为了实现这一目标，开发团队以开源的 BiRefNet 架构为",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/30004.html",
+          "addtime": "2026-07-30T11:43:25.2896789+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-30，近日，Feyn 团队正式推出了全新 SOTA（顶尖）背景移除模型FeyNoBg，并在开源社区同步公开了配套的NoBg训练与推理库，旨在为开发者提供更轻便、高效的抠图解决方案。",
+      "ai_summary": "2026-07-30，近日，Feyn 团队正式推出了全新 SOTA（顶尖）背景移除模型FeyNoBg，并在开源社区同步公开了配套的NoBg训练与推理库，旨在为开发者提供更轻便、高效的抠图解决方案。",
+      "lead_excerpt": "近日，Feyn 团队正式推出了全新 SOTA（顶尖）背景移除模型FeyNoBg，并在开源社区同步公开了配套的NoBg训练与推理库，旨在为开发者提供更轻便、高效的抠图解决方案。",
+      "reason": "未明确与 AI 相关；疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30001",
+        "url": "https://www.aibase.com/zh/news/30001",
+        "title": "腾讯开源 AngelSpec 框架：破解大模型真实推理效率难题",
+        "date": "2026-07-30",
+        "lead": "在当前大模型规模与服务需求持续增长的背景下，如何降低自回归解码的高昂成本成为了行业的一大痛点。为此，腾讯技术团队正式开源了统训框架AngelSpec，旨在通过多方案协同与工作负载异构适配，全面提升大模型在真实场景中的推理吞吐量。",
+        "first_paragraph": "针对不同应用场景下文本特征的差异，AngelSpec采取了差异化的训练策略。对于高熵、开放式的多轮对话任务，系统采用轻量且稳定的多token预测机制（MTP），并结合训练时测试(TTT)和端到端总变差损失，使其能够有效适应自回归展开中的状态分布;而面对结构约束更强的代码生成与数学推理任务，则通过专有的块扩散模型进行强化，充分挖掘长跨度可预测序列的潜力。",
+        "description": "在当前大模型规模与服务需求持续增长的背景下，如何降低自回归解码的高昂成本成为了行业的一大痛点。为此，腾讯技术团队正式开源了统训框架AngelSpec，旨在通过多方案协同与工作负载异构适配，全面提升大模型在真实场景中的推理吞吐量。针对不同应用场景下文本特征的差异，AngelSpec采取了差异化的训练策略。对于高熵、开放式",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/30001.html",
+          "addtime": "2026-07-30T10:39:28.19296+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-30，在当前大模型规模与服务需求持续增长的背景下，如何降低自回归解码的高昂成本成为了行业的一大痛点。为此，腾讯技术团队正式开源了统训框架AngelSpec，旨在通过多方案协同与工作负载异构适配，全面提升大模型在真实场景中的推理吞吐量。",
+      "ai_summary": "2026-07-30，在当前大模型规模与服务需求持续增长的背景下，如何降低自回归解码的高昂成本成为了行业的一大痛点。为此，腾讯技术团队正式开源了统训框架AngelSpec，旨在通过多方案协同与工作负载异构适配，全面提升大模型在真实场景中的推理吞吐量。",
+      "lead_excerpt": "在当前大模型规模与服务需求持续增长的背景下，如何降低自回归解码的高昂成本成为了行业的一大痛点。为此，腾讯技术团队正式开源了统训框架AngelSpec，旨在通过多方案协同与工作负载异构适配，全面提升大模型在真实场景中的推理吞吐量。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30000",
+        "url": "https://www.aibase.com/zh/news/30000",
+        "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+        "date": "2026-07-30",
+        "lead": "OpenAI CEO 萨姆·奥特曼近日在公开采访中抛出一个打破大众期待的观点——AI 不会像很多人预想的那样开启每周工作四天的黄金时代。长期以来，每轮技术变革落地前，人们都默认科技进步能减少工作时长、腾出更多休闲时间，但奥特曼直言，这个畅想了数十年的理想状态始终未能大规模实现，AI 也不会例外。",
+        "first_paragraph": "奥特曼坦言，从历史趋势看，当代人确实比数百年前的劳动者拥有更多可自由支配的休闲时间，整体生活质量也提升到了过去难以想象的高度。但 AI 技术的普及只会快速推动全社会整体生产力暴涨，与此同时，普通人对自我的期待标准也会水涨船高，不会出现集体躺平、减少工作量的情况。",
+        "description": "OpenAI CEO 萨姆·奥特曼近日在公开采访中抛出一个打破大众期待的观点——AI 不会像很多人预想的那样开启每周工作四天的黄金时代。长期以来，每轮技术变革落地前，人们都默认科技进步能减少工作时长、腾出更多休闲时间，但奥特曼直言，这个畅想了数十年的理想状态始终未能大规模实现，AI 也不会例外。奥特曼坦言，从历史趋势看",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/30000.html",
+          "addtime": "2026-07-30T10:22:16.9705121+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-30，OpenAI CEO 萨姆·奥特曼近日在公开采访中抛出一个打破大众期待的观点——AI 不会像很多人预想的那样开启每周工作四天的黄金时代。长期以来，每轮技术变革落地前，人们都默认科技进步能减少工作时长、腾出更多休闲时间，但奥特曼直言，这个畅想了数十年的理想状态始终未能大规模实现，AI 也不会例外。",
+      "ai_summary": "2026-07-30，OpenAI CEO 萨姆·奥特曼近日在公开采访中抛出一个打破大众期待的观点——AI 不会像很多人预想的那样开启每周工作四天的黄金时代。长期以来，每轮技术变革落地前，人们都默认科技进步能减少工作时长、腾出更多休闲时间，但奥特曼直言，这个畅想了数十年的理想状态始终未能大规模实现，AI 也不会例外。",
+      "lead_excerpt": "OpenAI CEO 萨姆·奥特曼近日在公开采访中抛出一个打破大众期待的观点——AI 不会像很多人预想的那样开启每周工作四天的黄金时代。长期以来，每轮技术变革落地前，人们都默认科技进步能减少工作时长、腾出更多休闲时间，但奥特曼直言，这...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29997",
+        "url": "https://www.aibase.com/zh/news/29997",
+        "title": "灵动声纹与情感释放：Google DeepMind推出Lyria 3.5音乐生成模型",
+        "date": "2026-07-30",
+        "lead": "日前，Google DeepMind官方正式在Google Flow Music平台上推出了新一代音乐生成模型Lyria3.5。此次升级带来了全方位的技术革新，在音乐性、歌词质量、人声表现力以及创作控制力上均实现了显著飞跃，标志着 AI 音乐创作正在加速向专业应用场景迈进。",
+        "first_paragraph": "在核心音质与结构设计方面，Lyria3.5展现出了更强的表现力。新模型能够构建更加丰富且复杂的旋律织体，整体听感更趋近于真实自然。同时，其歌词生成模块对提示词的语义理解和结构意识得到了增强，不仅词作质量更高，还能更好地呼应整体曲风。",
+        "description": "日前，Google DeepMind官方正式在Google Flow Music平台上推出了新一代音乐生成模型Lyria3.5。此次升级带来了全方位的技术革新，在音乐性、歌词质量、人声表现力以及创作控制力上均实现了显著飞跃，标志着 AI 音乐创作正在加速向专业应用场景迈进。在核心音质与结构设计方面，Lyria3.5展现",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29997.html",
+          "addtime": "2026-07-30T10:04:14.6527566+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-30，日前，Google DeepMind官方正式在Google Flow Music平台上推出了新一代音乐生成模型Lyria3.5。此次升级带来了全方位的技术革新，在音乐性、歌词质量、人声表现力以及创作控制力上均实现了显著飞跃，标志着 AI 音乐创作正在加速向专业应用场景迈进。",
+      "ai_summary": "2026-07-30，日前，Google DeepMind官方正式在Google Flow Music平台上推出了新一代音乐生成模型Lyria3.5。此次升级带来了全方位的技术革新，在音乐性、歌词质量、人声表现力以及创作控制力上均实现了显著飞跃，标志着 AI 音乐创作正在加速向专业应用场景迈进。",
+      "lead_excerpt": "日前，Google DeepMind官方正式在Google Flow Music平台上推出了新一代音乐生成模型Lyria3.5。此次升级带来了全方位的技术革新，在音乐性、歌词质量、人声表现力以及创作控制力上均实现了显著飞跃，标志着 A...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29996",
+        "url": "https://www.aibase.com/zh/news/29996",
+        "title": "​OpenAI 推出GPT-5.6模型家族：Sol、Terra 与 Luna",
+        "date": "2026-07-30",
+        "lead": "日前，OpenAI正式发布了全新的GPT-5.6模型家族，包括旗舰款Sol、性能均衡的Terra以及走高性价比路线的Luna。这一代产品不仅在模型能力上实现了跨越，更通过对底层技术栈的深度优化，大幅提升了每 token 的智能效率，在降低成本的同时带来更强劲的性能表现。",
+        "first_paragraph": "在核心能力方面，旗舰模型Sol在开启最大推理能力时，在相关编码智能体基准测试中的表现超越了同类竞品，而其 API 成本不到对方的一半。同时发布的Terra智能基准表现与前代相当，但价格直接腰斩;定位最快且最经济的Luna，其定价更是比Sol低了80%，为主流开发者和企业提供了丰富的弹性选择。",
+        "description": "日前，OpenAI正式发布了全新的GPT-5.6模型家族，包括旗舰款Sol、性能均衡的Terra以及走高性价比路线的Luna。这一代产品不仅在模型能力上实现了跨越，更通过对底层技术栈的深度优化，大幅提升了每 token 的智能效率，在降低成本的同时带来更强劲的性能表现。在核心能力方面，旗舰模型Sol在开启最大推理能力时",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29996.html",
+          "addtime": "2026-07-30T09:50:38+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-30，日前，OpenAI正式发布了全新的GPT-5.6模型家族，包括旗舰款Sol、性能均衡的Terra以及走高性价比路线的Luna。这一代产品不仅在模型能力上实现了跨越，更通过对底层技术栈的深度优化，大幅提升了每 token 的智能效率，在降低成本的同时带来更强劲的性能表现。",
+      "ai_summary": "2026-07-30，日前，OpenAI正式发布了全新的GPT-5.6模型家族，包括旗舰款Sol、性能均衡的Terra以及走高性价比路线的Luna。这一代产品不仅在模型能力上实现了跨越，更通过对底层技术栈的深度优化，大幅提升了每 token 的智能效率，在降低成本的同时带来更强劲的性能表现。",
+      "lead_excerpt": "日前，OpenAI正式发布了全新的GPT-5.6模型家族，包括旗舰款Sol、性能均衡的Terra以及走高性价比路线的Luna。这一代产品不仅在模型能力上实现了跨越，更通过对底层技术栈的深度优化，大幅提升了每 token 的智能效率，在...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29995",
+        "url": "https://www.aibase.com/zh/news/29995",
+        "title": "低价机票越来越难抢?AI正在改变航空公司的定价逻辑",
+        "date": "2026-07-30",
+        "lead": "7月30日消息，航空公司正在加速引入AI动态定价技术，未来旅客通过“捡漏”方式购买热门航班低价票的机会可能进一步减少。达美航空、维珍航空等公司正利用人工智能分析市场需求，实时调整机票价格，以提升航班收益。",
+        "first_paragraph": "过去，航空票价调整主要依靠人工制定规则，例如根据航班售出比例设置统一涨价幅度。但随着AI技术应用，航空公司能够综合分析数十项因素，包括购票行为、航线需求、时间变化、座位销售情况等，并针对不同座位实时优化价格。",
+        "description": "7月30日消息，航空公司正在加速引入AI动态定价技术，未来旅客通过“捡漏”方式购买热门航班低价票的机会可能进一步减少。达美航空、维珍航空等公司正利用人工智能分析市场需求，实时调整机票价格，以提升航班收益。过去，航空票价调整主要依靠人工制定规则，例如根据航班售出比例设置统一涨价幅度。但随着AI技术应用，航空公司能够综合分",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29995.html",
+          "addtime": "2026-07-30T09:37:31.545238+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-30，7月30日消息，航空公司正在加速引入AI动态定价技术，未来旅客通过“捡漏”方式购买热门航班低价票的机会可能进一步减少。达美航空、维珍航空等公司正利用人工智能分析市场需求，实时调整机票价格，以提升航班收益。",
+      "ai_summary": "2026-07-30，7月30日消息，航空公司正在加速引入AI动态定价技术，未来旅客通过“捡漏”方式购买热门航班低价票的机会可能进一步减少。达美航空、维珍航空等公司正利用人工智能分析市场需求，实时调整机票价格，以提升航班收益。",
+      "lead_excerpt": "7月30日消息，航空公司正在加速引入AI动态定价技术，未来旅客通过“捡漏”方式购买热门航班低价票的机会可能进一步减少。达美航空、维珍航空等公司正利用人工智能分析市场需求，实时调整机票价格，以提升航班收益。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29990",
+        "url": "https://www.aibase.com/zh/news/29990",
+        "title": "微软 AI 投资账单出炉：押注 Anthropic 单季大赚 32 亿美元，OpenAI 反成拖累",
+        "date": "2026-07-30",
+        "lead": "微软公布 2026 财年第四季度财报，意外曝光了其对两家头部 AI 公司投资回报的强烈反差。微软对 Anthropic 的投资当季带来 32 亿美元收益，而对 OpenAI 的投资却出现约 6 亿美元减值——仅 Anthropic 单季收益就已接近 OpenAI 全年收益规模。",
+        "first_paragraph": "一边大涨一边减值，双线押注初见分晓",
+        "description": "微软公布 2026 财年第四季度财报，意外曝光了其对两家头部 AI 公司投资回报的强烈反差。微软对 Anthropic 的投资当季带来 32 亿美元收益，而对 OpenAI 的投资却出现约 6 亿美元减值——仅 Anthropic 单季收益就已接近 OpenAI 全年收益规模。一边大涨一边减值，双线押注初见分晓微软于",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29990.html",
+          "addtime": "2026-07-30T09:10:30.2507037+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-30，微软公布 2026 财年第四季度财报，意外曝光了其对两家头部 AI 公司投资回报的强烈反差。微软对 Anthropic 的投资当季带来 32 亿美元收益，而对 OpenAI 的投资却出现约 6 亿美元减值——仅 Anthropic 单季收益就已接近 OpenAI 全年收益规模。",
+      "ai_summary": "2026-07-30，微软公布 2026 财年第四季度财报，意外曝光了其对两家头部 AI 公司投资回报的强烈反差。微软对 Anthropic 的投资当季带来 32 亿美元收益，而对 OpenAI 的投资却出现约 6 亿美元减值——仅 Anthropic 单季收益就已接近 OpenAI 全年收益规模。",
+      "lead_excerpt": "微软公布 2026 财年第四季度财报，意外曝光了其对两家头部 AI 公司投资回报的强烈反差。微软对 Anthropic 的投资当季带来 32 亿美元收益，而对 OpenAI 的投资却出现约 6 亿美元减值——仅 Anthropic 单...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29987",
+        "url": "https://www.aibase.com/zh/news/29987",
+        "title": "特朗普首度回应 OpenAI 失控事件：正在研究管控，但不想限制创新",
+        "date": "2026-07-30",
+        "lead": "据路透社报道，OpenAI 模型失控入侵 Hugging Face 事件引发白宫高度关注。美国总统特朗普周三在椭圆形办公室被记者问及此事时回应称\"我们正在研究管控措施\"，但同时补充表示自己并不想\"限制\"AI 开发者开发新产品。",
+        "first_paragraph": "白宫谨慎表态，奥特曼赴国会灭火",
+        "description": "据路透社报道，OpenAI 模型失控入侵 Hugging Face 事件引发白宫高度关注。美国总统特朗普周三在椭圆形办公室被记者问及此事时回应称\"我们正在研究管控措施\"，但同时补充表示自己并不想\"限制\"AI 开发者开发新产品。白宫谨慎表态，奥特曼赴国会灭火特朗普的表态透露出白宫在",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29987.html",
+          "addtime": "2026-07-30T08:57:55.1597716+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-30，据路透社报道，OpenAI 模型失控入侵 Hugging Face 事件引发白宫高度关注。美国总统特朗普周三在椭圆形办公室被记者问及此事时回应称\"我们正在研究管控措施\"，但同时补充表示自己并不想\"限制\"AI 开发者开发新产品。",
+      "ai_summary": "2026-07-30，据路透社报道，OpenAI 模型失控入侵 Hugging Face 事件引发白宫高度关注。美国总统特朗普周三在椭圆形办公室被记者问及此事时回应称\"我们正在研究管控措施\"，但同时补充表示自己并不想\"限制\"AI 开发者开发新产品。",
+      "lead_excerpt": "据路透社报道，OpenAI 模型失控入侵 Hugging Face 事件引发白宫高度关注。美国总统特朗普周三在椭圆形办公室被记者问及此事时回应称\"我们正在研究管控措施\"，但同时补充表示自己并不想\"限制\"AI 开发者开发新产品。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "29985",
+        "url": "https://www.aibase.com/zh/news/29985",
+        "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
+        "date": "2026-07-29",
+        "lead": "月之暗面旗下 Kimi 已完成 F 轮融资，融资金额超过 35 亿美元，投后估值随之涨至 350 亿美元。由于认购规模达到原定目标的三倍多，这轮融资被提前关闭，资金的热度先于计划一步收口。",
+        "first_paragraph": "更紧的节奏在后面。原定 8 月才启动的 G 轮（即 Pre-IPO 轮）已经提前开场，投前估值抬到了 500 亿美元。从 F 轮落定到 G 轮起跑，中间几乎没有喘息——资本对这家公司的追逐，正以月为单位加速。当一轮融资因超额而提前关闸、下一轮又火速接棒，月之暗面在一级市场里的身价，正沿着陡峭的曲线往上爬。",
+        "description": "月之暗面旗下 Kimi 已完成 F 轮融资，融资金额超过 35 亿美元，投后估值随之涨至 350 亿美元。由于认购规模达到原定目标的三倍多，这轮融资被提前关闭，资金的热度先于计划一步收口。更紧的节奏在后面。原定 8 月才启动的 G 轮（即 Pre-IPO 轮）已经提前开场，投前估值抬到了 500 亿美元。从 F 轮落定",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-24_2026-07-30/29985.html",
+          "addtime": "2026-07-29T18:07:25.0702004+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-07-29，月之暗面旗下 Kimi 已完成 F 轮融资，融资金额超过 35 亿美元，投后估值随之涨至 350 亿美元。由于认购规模达到原定目标的三倍多，这轮融资被提前关闭，资金的热度先于计划一步收口。",
+      "ai_summary": "2026-07-29，月之暗面旗下 Kimi 已完成 F 轮融资，融资金额超过 35 亿美元，投后估值随之涨至 350 亿美元。由于认购规模达到原定目标的三倍多，这轮融资被提前关闭，资金的热度先于计划一步收口。",
+      "lead_excerpt": "月之暗面旗下 Kimi 已完成 F 轮融资，融资金额超过 35 亿美元，投后估值随之涨至 350 亿美元。由于认购规模达到原定目标的三倍多，这轮融资被提前关闭，资金的热度先于计划一步收口。",
+      "reason": "未明确与 AI 相关；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
