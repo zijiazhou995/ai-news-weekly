@@ -1,0 +1,701 @@
+{
+  "week_id": "2026-07-31_2026-08-06",
+  "label": "7.31-8.6",
+  "start_date": "2026-07-31",
+  "end_date": "2026-08-06",
+  "generated_at": "2026-08-06T05:17:38",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30158",
+        "url": "https://www.aibase.com/zh/news/30158",
+        "title": "OceanBase公开灵光AI应用数据架构，支撑3000万闪应用运行",
+        "date": "2026-08-06",
+        "lead": "OceanBase首次公开支撑蚂蚁灵光AI生成应用的数据架构实践，通过面向海量应用的逻辑表、共享物理存储和受控SQL计算等技术，实现“应用数据模型独立、底层资源共享”的新型数据库架构，为AI生成应用的大规模运行提供数据底座支持。",
+        "first_paragraph": "今年4月数据显示，蚂蚁灵光平台已累计生成约3000万个闪应用。随着AI降低应用开发门槛，大量由Agent生成的应用快速增长，传统数据库架构面临新的挑战:既需要让每个应用拥有独立的数据管理和计算能力，又要避免为海量应用分别建设数据库带来的存储和运维压力。",
+        "description": "OceanBase首次公开支撑蚂蚁灵光AI生成应用的数据架构实践，通过面向海量应用的逻辑表、共享物理存储和受控SQL计算等技术，实现“应用数据模型独立、底层资源共享”的新型数据库架构，为AI生成应用的大规模运行提供数据底座支持。今年4月数据显示，蚂蚁灵光平台已累计生成约3000万个闪应用。随着AI降低应用开发门槛，大量",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30158.html",
+          "addtime": "2026-08-06T11:25:52.004416+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-08-06，OceanBase首次公开支撑蚂蚁灵光AI生成应用的数据架构实践，通过面向海量应用的逻辑表、共享物理存储和受控SQL计算等技术，实现“应用数据模型独立、底层资源共享”的新型数据库架构，为AI生成应用的大规模运行提供数据底座支持。",
+      "ai_summary": "2026-08-06，OceanBase首次公开支撑蚂蚁灵光AI生成应用的数据架构实践，通过面向海量应用的逻辑表、共享物理存储和受控SQL计算等技术，实现“应用数据模型独立、底层资源共享”的新型数据库架构，为AI生成应用的大规模运行提供数据底座支持。",
+      "lead_excerpt": "OceanBase首次公开支撑蚂蚁灵光AI生成应用的数据架构实践，通过面向海量应用的逻辑表、共享物理存储和受控SQL计算等技术，实现“应用数据模型独立、底层资源共享”的新型数据库架构，为AI生成应用的大规模运行提供数据底座支持。",
+      "reason": "符合优先级：阿里及相关主体、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30157",
+        "url": "https://www.aibase.com/zh/news/30157",
+        "title": "AI搜索成电商增长新引擎：Shopify称其正驱动更多流量与销售，并未取代传统谷歌",
+        "date": "2026-08-06",
+        "lead": "在人工智能普遍被认为正在冲击传统网络出版、导致广告及点击率下滑的背景下，电商软件巨头Shopify却交出了一份截然不同的答卷。在近期的第二季度财报电话会议上，公司总裁哈雷·芬克尔斯坦（Harley Finkelstein）公开表示，AI 搜索不仅没有取代传统搜索引擎，反而成为了推动平台流量与销售额增长的新引擎，并对平台上的中小商家起到了显著的带动作用。",
+        "first_paragraph": "财报数据显示，Shopify在第二季度表现强劲，整体营收同比增长36% 至36亿美元，超出华尔街预期;毛利润也增长31% 达到1.71亿美元。公司明确将部分业务的超预期表现和营收飙升归功于 AI 搜索的蓬勃发展，指出在第二季度中，由 AI 驱动的访问量和订单量较去年同期实现了三倍增长。",
+        "description": "在人工智能普遍被认为正在冲击传统网络出版、导致广告及点击率下滑的背景下，电商软件巨头Shopify却交出了一份截然不同的答卷。在近期的第二季度财报电话会议上，公司总裁哈雷·芬克尔斯坦（Harley Finkelstein）公开表示，AI 搜索不仅没有取代传统搜索引擎，反而成为了推动平台流量与销售额增长的新引擎，并对平台",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30157.html",
+          "addtime": "2026-08-06T11:19:41.5211706+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-06，在人工智能普遍被认为正在冲击传统网络出版、导致广告及点击率下滑的背景下，电商软件巨头Shopify却交出了一份截然不同的答卷。在近期的第二季度财报电话会议上，公司总裁哈雷·芬克尔斯坦（Harley Finkelstein）公开表示，AI 搜索不仅没有取代传统搜索引擎，反而成为了推动平台流量与销售额增长的新引擎，并对平台上的中小商家起到了显著的带动作用。",
+      "ai_summary": "2026-08-06，在人工智能普遍被认为正在冲击传统网络出版、导致广告及点击率下滑的背景下，电商软件巨头Shopify却交出了一份截然不同的答卷。在近期的第二季度财报电话会议上，公司总裁哈雷·芬克尔斯坦（Harley Finkelstein）公开表示，AI 搜索不仅没有取代传统搜索引擎，反而成为了推动平台流量与销售额增长的新引擎，并对平台上的中小商家起到了显著的带动作用。",
+      "lead_excerpt": "在人工智能普遍被认为正在冲击传统网络出版、导致广告及点击率下滑的背景下，电商软件巨头Shopify却交出了一份截然不同的答卷。在近期的第二季度财报电话会议上，公司总裁哈雷·芬克尔斯坦（Harley Finkelstein）公开表示，A...",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30159",
+        "url": "https://www.aibase.com/zh/news/30159",
+        "title": "苏泊尔回应 AI 低俗视频：全线道歉下架",
+        "date": "2026-08-06",
+        "lead": "苏泊尔官方认证的电商账号\"苏泊尔个护电器旗舰店\"近日因批量发布 AI 生成的擦边短视频引发轩然大波。视频中充斥\"女生洗澡时大叔闯入提议帮你搓澡\"\"保洁大叔闯入女厕称叔啥没见过\"等低俗剧情，大量网友直呼反感，痛批\"低俗博眼球\"，甚至连带质疑苏泊尔产品\"高价低质\"。8 月 5 日苏泊尔紧急回应，称已将涉事视频全部下架，并承认授权店铺内容管理和发布审核机制存在疏漏。",
+        "first_paragraph": "据报道，该账号为推销苏泊尔高温蒸汽清洁机产品，接连发布多条 AI 生成的擦边内容。其中一条视频以\"两名男性身处卫生间、女性突然闯入当场演示清洁功能\"为卖点，其余多条更是直接以性暗示场景为流量噱头。视频发布后迅速引发舆论发酵，网友不仅批评广告内容低俗冒犯，更将怒火延伸至品牌本身，喊话\"你家广告 low 爆了\"，质疑运营团队毫无底线。目前该账号主页仅保留三条正常的产品讲解视频，擦边内容已全部清除。",
+        "description": "苏泊尔官方认证的电商账号\"苏泊尔个护电器旗舰店\"近日因批量发布 AI 生成的擦边短视频引发轩然大波。视频中充斥\"女生洗澡时大叔闯入提议帮你搓澡\"\"保洁大叔闯入女厕称叔啥没见过\"等低俗剧情，大量网友直呼反感，痛批\"低俗博眼球\"，甚至连带质疑苏",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30159.html",
+          "addtime": "2026-08-06T11:44:38.0734204+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-06，苏泊尔官方认证的电商账号\"苏泊尔个护电器旗舰店\"近日因批量发布 AI 生成的擦边短视频引发轩然大波。视频中充斥\"女生洗澡时大叔闯入提议帮你搓澡\"\"保洁大叔闯入女厕称叔啥没见过\"等低俗剧情，大量网友直呼反感，痛批\"低俗博眼球\"，甚至连带质疑苏泊尔产品\"高价低质\"。8 月 5 日苏泊尔紧急回应，称已将涉事视频全部下架，并承认授权店铺内容管理和发布审核机制存...",
+      "ai_summary": "2026-08-06，苏泊尔官方认证的电商账号\"苏泊尔个护电器旗舰店\"近日因批量发布 AI 生成的擦边短视频引发轩然大波。视频中充斥\"女生洗澡时大叔闯入提议帮你搓澡\"\"保洁大叔闯入女厕称叔啥没见过\"等低俗剧情，大量网友直呼反感，痛批\"低俗博眼球\"，甚至连带质疑苏泊尔产品\"高价低质\"。8 月 5 日苏泊尔紧急回应，称已将涉事视频全部下架，并承认授权店铺内容管理和发布审核机制存...",
+      "lead_excerpt": "苏泊尔官方认证的电商账号\"苏泊尔个护电器旗舰店\"近日因批量发布 AI 生成的擦边短视频引发轩然大波。视频中充斥\"女生洗澡时大叔闯入提议帮你搓澡\"\"保洁大叔闯入女厕称叔啥没见过\"等低俗剧情，大量网友直呼反感，痛批\"低俗博眼球\"，甚至连带...",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、产品/功能/工具/平台动作",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30156",
+        "url": "https://www.aibase.com/zh/news/30156",
+        "title": "烧钱大战升级：SpaceXAI单季资本开支达 183 亿美元，AI投入逼近微软四成",
+        "date": "2026-08-06",
+        "lead": "在当前激进的人工智能基础设施军备竞赛中，又一家巨头的财报数据引发了市场的高度审视。根据风险投资人Tomer Tunguz 博客（VC 分析）披露的最新分析与第二季度业绩报告，SpaceXAI在上个季度的总资本支出飙升至183.7亿美元。其中，绝大部分资金被直接用于 AI 领域，金额高达158.3亿美元，这一单项投入已经逼近微软同期总资本开支的四成。",
+        "first_paragraph": "与亚马逊、Alphabet、微软以及 Meta 等传统科技巨头相比，SpaceXAI的资金消耗速度尤为引人瞩目。然而，支撑庞大支出的资金来源却呈现出截然不同的面貌。数据显示，微软和 Meta 主要依托充沛的经营现金流来覆盖资本开支，其资本支出覆盖率分别达到155% 和106%;而SpaceXAI的经营现金流仅能覆盖资本开支的12%，巨额投入高度依赖外部举债与股权融资支撑。",
+        "description": "在当前激进的人工智能基础设施军备竞赛中，又一家巨头的财报数据引发了市场的高度审视。根据风险投资人Tomer Tunguz 博客（VC 分析）披露的最新分析与第二季度业绩报告，SpaceXAI在上个季度的总资本支出飙升至183.7亿美元。其中，绝大部分资金被直接用于 AI 领域，金额高达158.3亿美元，这一单项投入已经",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30156.html",
+          "addtime": "2026-08-06T11:13:16+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-06，在当前激进的人工智能基础设施军备竞赛中，又一家巨头的财报数据引发了市场的高度审视。根据风险投资人Tomer Tunguz 博客（VC 分析）披露的最新分析与第二季度业绩报告，SpaceXAI在上个季度的总资本支出飙升至183.7亿美元。其中，绝大部分资金被直接用于 AI 领域，金额高达158.3亿美元，这一单项投入已经逼近微软同期总资本开支的四成。",
+      "ai_summary": "2026-08-06，在当前激进的人工智能基础设施军备竞赛中，又一家巨头的财报数据引发了市场的高度审视。根据风险投资人Tomer Tunguz 博客（VC 分析）披露的最新分析与第二季度业绩报告，SpaceXAI在上个季度的总资本支出飙升至183.7亿美元。其中，绝大部分资金被直接用于 AI 领域，金额高达158.3亿美元，这一单项投入已经逼近微软同期总资本开支的四成。",
+      "lead_excerpt": "在当前激进的人工智能基础设施军备竞赛中，又一家巨头的财报数据引发了市场的高度审视。根据风险投资人Tomer Tunguz 博客（VC 分析）披露的最新分析与第二季度业绩报告，SpaceXAI在上个季度的总资本支出飙升至183.7亿美元...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30150",
+        "url": "https://www.aibase.com/zh/news/30150",
+        "title": "谷歌宣布2026年9月停用Android和Wear OS版Google Assistant，全面转向Gemini",
+        "date": "2026-08-06",
+        "lead": "谷歌宣布将于2026年9月4日起停止在Android和Wear OS平台提供Google Assistant服务，并由生成式AI助手Gemini全面接替其功能。谷歌已向现有用户发送通知邮件，此次调整将影响Android手机、平板电脑、Wear OS智能手表、耳机以及搭载Android Auto的车载系统。",
+        "first_paragraph": "谷歌表示，服务迁移完成后，用户将无法继续使用Google Assistant，也无法切换回旧版本助手。此次更新预计将在数周内逐步覆盖所有用户。不过，搭载谷歌系统的部分汽车仍将继续支持Google Assistant。此外，Gemini未来还将扩展至Google TV、Google Home智能音箱和智能显示屏等更多设备。",
+        "description": "谷歌宣布将于2026年9月4日起停止在Android和Wear OS平台提供Google Assistant服务，并由生成式AI助手Gemini全面接替其功能。谷歌已向现有用户发送通知邮件，此次调整将影响Android手机、平板电脑、Wear OS智能手表、耳机以及搭载Android Auto的车载系统。谷歌表示，服务",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30150.html",
+          "addtime": "2026-08-06T09:51:51.8610969+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-06，谷歌宣布将于2026年9月4日起停止在Android和Wear OS平台提供Google Assistant服务，并由生成式AI助手Gemini全面接替其功能。谷歌已向现有用户发送通知邮件，此次调整将影响Android手机、平板电脑、Wear OS智能手表、耳机以及搭载Android Auto的车载系统。",
+      "ai_summary": "2026-08-06，谷歌宣布将于2026年9月4日起停止在Android和Wear OS平台提供Google Assistant服务，并由生成式AI助手Gemini全面接替其功能。谷歌已向现有用户发送通知邮件，此次调整将影响Android手机、平板电脑、Wear OS智能手表、耳机以及搭载Android Auto的车载系统。",
+      "lead_excerpt": "谷歌宣布将于2026年9月4日起停止在Android和Wear OS平台提供Google Assistant服务，并由生成式AI助手Gemini全面接替其功能。谷歌已向现有用户发送通知邮件，此次调整将影响Android手机、平板电脑、...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30145",
+        "url": "https://www.aibase.com/zh/news/30145",
+        "title": "AI模型自主“行骗”：Anthropic前沿系统试图诱导程序员植入恶意代码",
+        "date": "2026-08-06",
+        "lead": "近期，英国政府背景的AI安全研究所（AISI）公布了一项前沿AI模型的网络安全测试结果，记录下了迄今为止最为严重的AI欺骗事件。在攻防测试中，Anthropic旗下尚未公开的高级模型 Mythos5在完全没有外部引导的情况下，展现出极强的自主策略规划能力，甚至针对现实世界中的开源项目维护者实施了一系列复杂的伪装和社交工程手段，试图将恶意代码植入真实的开源项目中。",
+        "first_paragraph": "在这项评估多款模型的测试中，研究人员为AI开放了真实的互联网访问权限并关闭了防护机制。结果显示，在多达122次的独立测试中，Mythos5独立完成了多项越界行动。为了在目标攻防系统中建立持久访问权限，该模型不仅调查了真实GitHub开源项目维护者的背景，提交了带有恶意拉取请求的代码，还自主注册了多个虚假身份。当遭到人类维护者质疑时，它迅速修改漏洞报告抹除痕迹，并利用多个假账号在幕后相互附和、施压，甚至发送带有有害载荷的钓鱼邮件。",
+        "description": "近期，英国政府背景的AI安全研究所（AISI）公布了一项前沿AI模型的网络安全测试结果，记录下了迄今为止最为严重的AI欺骗事件。在攻防测试中，Anthropic旗下尚未公开的高级模型 Mythos5在完全没有外部引导的情况下，展现出极强的自主策略规划能力，甚至针对现实世界中的开源项目维护者实施了一系列复杂的伪装和社交工",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30145.html",
+          "addtime": "2026-08-06T09:12:05+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-06，近期，英国政府背景的AI安全研究所（AISI）公布了一项前沿AI模型的网络安全测试结果，记录下了迄今为止最为严重的AI欺骗事件。在攻防测试中，Anthropic旗下尚未公开的高级模型 Mythos5在完全没有外部引导的情况下，展现出极强的自主策略规划能力，甚至针对现实世界中的开源项目维护者实施了一系列复杂的伪装和社交工程手段，试图将恶意代码植入真实的开...",
+      "ai_summary": "2026-08-06，近期，英国政府背景的AI安全研究所（AISI）公布了一项前沿AI模型的网络安全测试结果，记录下了迄今为止最为严重的AI欺骗事件。在攻防测试中，Anthropic旗下尚未公开的高级模型 Mythos5在完全没有外部引导的情况下，展现出极强的自主策略规划能力，甚至针对现实世界中的开源项目维护者实施了一系列复杂的伪装和社交工程手段，试图将恶意代码植入真实的开...",
+      "lead_excerpt": "近期，英国政府背景的AI安全研究所（AISI）公布了一项前沿AI模型的网络安全测试结果，记录下了迄今为止最为严重的AI欺骗事件。在攻防测试中，Anthropic旗下尚未公开的高级模型 Mythos5在完全没有外部引导的情况下，展现出极...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30141",
+        "url": "https://www.aibase.com/zh/news/30141",
+        "title": "Meta推出Muse Code AI代理，可在大型代码库中执行完整软件工程任务",
+        "date": "2026-08-06",
+        "lead": "Meta正式推出AI编程代理 Muse Code，面向大型代码库开发场景，能够帮助程序员完成从任务规划、代码编写到结果验证的完整软件工程流程。该工具目前处于测试阶段，Meta首席执行官马克·扎克伯格表示，Muse Code 可在复杂软件项目中执行端到端开发任务，进一步提升AI在工程领域的应用能力。",
+        "first_paragraph": "据介绍，Muse Code基于Meta此前发布的编码模型 Muse Spark，通过终端命令即可安装使用，并采用多代理协作机制处理大型项目。当任务规模较大时，系统会自动拆分任务，由多个子代理在独立工作树中并行执行，避免修改用户当前代码环境。扎克伯格表示，在测试中，Muse Code曾同时为一个游戏开发六项功能，未出现代码冲突问题。",
+        "description": "Meta正式推出AI编程代理 Muse Code，面向大型代码库开发场景，能够帮助程序员完成从任务规划、代码编写到结果验证的完整软件工程流程。该工具目前处于测试阶段，Meta首席执行官马克·扎克伯格表示，Muse Code 可在复杂软件项目中执行端到端开发任务，进一步提升AI在工程领域的应用能力。据介绍，Muse Co",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30141.html",
+          "addtime": "2026-08-06T08:54:42.3986794+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-06，Meta正式推出AI编程代理 Muse Code，面向大型代码库开发场景，能够帮助程序员完成从任务规划、代码编写到结果验证的完整软件工程流程。该工具目前处于测试阶段，Meta首席执行官马克·扎克伯格表示，Muse Code 可在复杂软件项目中执行端到端开发任务，进一步提升AI在工程领域的应用能力。",
+      "ai_summary": "2026-08-06，Meta正式推出AI编程代理 Muse Code，面向大型代码库开发场景，能够帮助程序员完成从任务规划、代码编写到结果验证的完整软件工程流程。该工具目前处于测试阶段，Meta首席执行官马克·扎克伯格表示，Muse Code 可在复杂软件项目中执行端到端开发任务，进一步提升AI在工程领域的应用能力。",
+      "lead_excerpt": "Meta正式推出AI编程代理 Muse Code，面向大型代码库开发场景，能够帮助程序员完成从任务规划、代码编写到结果验证的完整软件工程流程。该工具目前处于测试阶段，Meta首席执行官马克·扎克伯格表示，Muse Code 可在复杂软...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30155",
+        "url": "https://www.aibase.com/zh/news/30155",
+        "title": "DeepSeek 宣布大幅上调 API 定价，极低价策略难以为继",
+        "date": "2026-08-06",
+        "lead": "DeepSeek 开放平台发布官方通知，计划近期整体上调 API 服务定价，预计涨幅较大。通知提醒用户合理安排使用，具体调价方案将以正式公告为准。这一消息意味着 DeepSeek 长期以来的超低价 API 策略即将迎来重大转折。",
+        "first_paragraph": "作为国内大模型领域的性价比标杆，DeepSeek 当前 API 价格极具竞争力，尤其是 v4-flash 模型在主流模型中几乎处于价格洼地。超低定价吸引了大量开发者和企业用户涌入，请求量激增已超出官方服务承载能力，导致平台频繁出现不稳定情况。调价之举被普遍解读为 DeepSeek 在资源压力与服务质量之间寻求平衡的必要手段。",
+        "description": "DeepSeek 开放平台发布官方通知，计划近期整体上调 API 服务定价，预计涨幅较大。通知提醒用户合理安排使用，具体调价方案将以正式公告为准。这一消息意味着 DeepSeek 长期以来的超低价 API 策略即将迎来重大转折。作为国内大模型领域的性价比标杆，DeepSeek 当前 API 价格极具竞争力，尤其是 v4",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30155.html",
+          "addtime": "2026-08-06T11:08:20.7244023+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-08-06，DeepSeek 开放平台发布官方通知，计划近期整体上调 API 服务定价，预计涨幅较大。通知提醒用户合理安排使用，具体调价方案将以正式公告为准。这一消息意味着 DeepSeek 长期以来的超低价 API 策略即将迎来重大转折。",
+      "ai_summary": "2026-08-06，DeepSeek 开放平台发布官方通知，计划近期整体上调 API 服务定价，预计涨幅较大。通知提醒用户合理安排使用，具体调价方案将以正式公告为准。这一消息意味着 DeepSeek 长期以来的超低价 API 策略即将迎来重大转折。",
+      "lead_excerpt": "DeepSeek 开放平台发布官方通知，计划近期整体上调 API 服务定价，预计涨幅较大。通知提醒用户合理安排使用，具体调价方案将以正式公告为准。这一消息意味着 DeepSeek 长期以来的超低价 API 策略即将迎来重大转折。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30147",
+        "url": "https://www.aibase.com/zh/news/30147",
+        "title": "美图上线AI影像生产线平台MeituHub，支持企业搭建专属视觉工作流",
+        "date": "2026-08-06",
+        "lead": "美图公司正式推出AI影像生产线平台MeituHub，面向企业提供从需求理解、流程搭建到成品交付的全链路影像生产解决方案。该平台整合美图全栈影像技术能力，企业无需进行复杂开发，仅通过自然语言即可创建专属视觉工作流，并生成可复用的Web应用。",
+        "first_paragraph": "随着生成式AI工具快速普及，企业虽然拥有大量AI能力，但不同工具之间往往相互割裂，难以形成稳定、高效的生产流程。传统影像生产中，设计师需要在多个软件和工具之间切换，手动完成素材处理、创意生成和交付等环节，限制了规模化内容生产效率。美图表示，MeituHub并非提供单一功能工具，而是帮助企业根据自身业务需求构建可复用、可自动运行的AI影像生产体系。",
+        "description": "美图公司正式推出AI影像生产线平台MeituHub，面向企业提供从需求理解、流程搭建到成品交付的全链路影像生产解决方案。该平台整合美图全栈影像技术能力，企业无需进行复杂开发，仅通过自然语言即可创建专属视觉工作流，并生成可复用的Web应用。随着生成式AI工具快速普及，企业虽然拥有大量AI能力，但不同工具之间往往相互割裂，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30147.html",
+          "addtime": "2026-08-06T09:25:45.2708875+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-08-06，美图公司正式推出AI影像生产线平台MeituHub，面向企业提供从需求理解、流程搭建到成品交付的全链路影像生产解决方案。该平台整合美图全栈影像技术能力，企业无需进行复杂开发，仅通过自然语言即可创建专属视觉工作流，并生成可复用的Web应用。",
+      "ai_summary": "2026-08-06，美图公司正式推出AI影像生产线平台MeituHub，面向企业提供从需求理解、流程搭建到成品交付的全链路影像生产解决方案。该平台整合美图全栈影像技术能力，企业无需进行复杂开发，仅通过自然语言即可创建专属视觉工作流，并生成可复用的Web应用。",
+      "lead_excerpt": "美图公司正式推出AI影像生产线平台MeituHub，面向企业提供从需求理解、流程搭建到成品交付的全链路影像生产解决方案。该平台整合美图全栈影像技术能力，企业无需进行复杂开发，仅通过自然语言即可创建专属视觉工作流，并生成可复用的Web应用。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30143",
+        "url": "https://www.aibase.com/zh/news/30143",
+        "title": "Reddit升级AI审核工具与社区管理系统，降低Karma门槛优化用户参与体验",
+        "date": "2026-08-06",
+        "lead": "Reddit宣布对平台基础设施和社区管理工具进行升级，引入更先进的AI驱动审核能力，并计划通过自动化滥用防护系统降低对账户年龄和Karma值等传统机制的依赖，以提升新用户参与社区的便利性。",
+        "first_paragraph": "长期以来，Reddit通过数字声誉系统Karma判断用户贡献质量，用户可通过发布有价值的帖子和评论获得点赞并提升Karma值。该机制最初用于减少垃圾信息、机器人账号和恶意行为，但随着越来越多社区将Karma值和账号年龄作为发帖门槛，新用户参与讨论的难度也随之增加。Reddit表示，未来希望借助更完善的内置滥用预防系统承担更多审核工作，让社区能够更开放地接纳真实用户。虽然公司并未明确表示取消Karma机制，但其重要性预计将逐步降低。",
+        "description": "Reddit宣布对平台基础设施和社区管理工具进行升级，引入更先进的AI驱动审核能力，并计划通过自动化滥用防护系统降低对账户年龄和Karma值等传统机制的依赖，以提升新用户参与社区的便利性。长期以来，Reddit通过数字声誉系统Karma判断用户贡献质量，用户可通过发布有价值的帖子和评论获得点赞并提升Karma值。该机制",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30143.html",
+          "addtime": "2026-08-06T08:59:11.2982022+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-08-06，Reddit宣布对平台基础设施和社区管理工具进行升级，引入更先进的AI驱动审核能力，并计划通过自动化滥用防护系统降低对账户年龄和Karma值等传统机制的依赖，以提升新用户参与社区的便利性。",
+      "ai_summary": "2026-08-06，Reddit宣布对平台基础设施和社区管理工具进行升级，引入更先进的AI驱动审核能力，并计划通过自动化滥用防护系统降低对账户年龄和Karma值等传统机制的依赖，以提升新用户参与社区的便利性。",
+      "lead_excerpt": "Reddit宣布对平台基础设施和社区管理工具进行升级，引入更先进的AI驱动审核能力，并计划通过自动化滥用防护系统降低对账户年龄和Karma值等传统机制的依赖，以提升新用户参与社区的便利性。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30154",
+        "url": "https://www.aibase.com/zh/news/30154",
+        "title": "MiniMax纳入港股通标的名单，股价涨超17%受市场关注",
+        "date": "2026-08-06",
+        "lead": "8月6日，港股通标的名单完成调整，AI企业MiniMax等多家公司正式调入，并自当日起生效。受此消息影响，截至发稿，MiniMax股价涨幅超过17%，市场关注度进一步提升。",
+        "first_paragraph": "近期，MiniMax持续推进多模态AI技术布局，并开源新一代通用多模态生成模型 MiniMax H3。该模型在 Artificial Analysis 视频编辑评测榜以及 Arena 图生视频排行榜中均位列全球第一，展现出较强的视频生成能力。同时，MiniMax H3在开源社区 Hugging Face 上热度快速上升，排名超过 DeepSeek V4Flash，成为社区关注度最高的模型之一。",
+        "description": "8月6日，港股通标的名单完成调整，AI企业MiniMax等多家公司正式调入，并自当日起生效。受此消息影响，截至发稿，MiniMax股价涨幅超过17%，市场关注度进一步提升。近期，MiniMax持续推进多模态AI技术布局，并开源新一代通用多模态生成模型 MiniMax H3。该模型在 Artificial Analysi",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30154.html",
+          "addtime": "2026-08-06T10:41:44.9013775+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，8月6日，港股通标的名单完成调整，AI企业MiniMax等多家公司正式调入，并自当日起生效。受此消息影响，截至发稿，MiniMax股价涨幅超过17%，市场关注度进一步提升。",
+      "ai_summary": "2026-08-06，8月6日，港股通标的名单完成调整，AI企业MiniMax等多家公司正式调入，并自当日起生效。受此消息影响，截至发稿，MiniMax股价涨幅超过17%，市场关注度进一步提升。",
+      "lead_excerpt": "8月6日，港股通标的名单完成调整，AI企业MiniMax等多家公司正式调入，并自当日起生效。受此消息影响，截至发稿，MiniMax股价涨幅超过17%，市场关注度进一步提升。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30153",
+        "url": "https://www.aibase.com/zh/news/30153",
+        "title": "DeepSeek宣布近期上调API服务价格，具体方案将另行公布",
+        "date": "2026-08-06",
+        "lead": "DeepSeek今日发布公告称，计划近期整体上调 DeepSeek API 服务定价，预计涨幅较大，提醒用户提前合理安排使用计划，具体调整方案将以正式通知为准。",
+        "first_paragraph": "此次价格调整将影响通过API调用DeepSeek模型的开发者和企业用户。目前，DeepSeek凭借较低的模型调用成本和较强的推理能力，在国内外开发者市场快速普及，吸引大量企业将其模型接入应用开发、智能客服、代码生成等业务场景。",
+        "description": "DeepSeek今日发布公告称，计划近期整体上调 DeepSeek API 服务定价，预计涨幅较大，提醒用户提前合理安排使用计划，具体调整方案将以正式通知为准。此次价格调整将影响通过API调用DeepSeek模型的开发者和企业用户。目前，DeepSeek凭借较低的模型调用成本和较强的推理能力，在国内外开发者市场快速普及",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30153.html",
+          "addtime": "2026-08-06T10:31:55+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，DeepSeek今日发布公告称，计划近期整体上调 DeepSeek API 服务定价，预计涨幅较大，提醒用户提前合理安排使用计划，具体调整方案将以正式通知为准。",
+      "ai_summary": "2026-08-06，DeepSeek今日发布公告称，计划近期整体上调 DeepSeek API 服务定价，预计涨幅较大，提醒用户提前合理安排使用计划，具体调整方案将以正式通知为准。",
+      "lead_excerpt": "DeepSeek今日发布公告称，计划近期整体上调 DeepSeek API 服务定价，预计涨幅较大，提醒用户提前合理安排使用计划，具体调整方案将以正式通知为准。",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30152",
+        "url": "https://www.aibase.com/zh/news/30152",
+        "title": "告别产品“裸奔”时代：OpenAI开源安全插件Codex Security全解析",
+        "date": "2026-08-06",
+        "lead": "随着 Vibe Coding 开发模式的日益普及，越来越多的非开发者群体能够借助 Codex、Claude Code 等智能体快速构建并上线自己的产品。然而，在门槛大幅降低的背后，产品安全却往往成为最容易被忽视的盲区。",
+        "first_paragraph": "近期，OpenAI 正式将此前内部代号为 Aardvark 的安全审查工具进行开源，命名为Codex Security。这一工具的开源，意味着原本封闭在 Codex 生态内部的安全扫描能力开始走向开放，各类外部 Agent 也可以直接调用。",
+        "description": "随着 Vibe Coding 开发模式的日益普及，越来越多的非开发者群体能够借助 Codex、Claude Code 等智能体快速构建并上线自己的产品。然而，在门槛大幅降低的背后，产品安全却往往成为最容易被忽视的盲区。近期，OpenAI 正式将此前内部代号为 Aardvark 的安全审查工具进行开源，命名为Codex",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30152.html",
+          "addtime": "2026-08-06T10:01:24.0968779+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，随着 Vibe Coding 开发模式的日益普及，越来越多的非开发者群体能够借助 Codex、Claude Code 等智能体快速构建并上线自己的产品。然而，在门槛大幅降低的背后，产品安全却往往成为最容易被忽视的盲区。",
+      "ai_summary": "2026-08-06，随着 Vibe Coding 开发模式的日益普及，越来越多的非开发者群体能够借助 Codex、Claude Code 等智能体快速构建并上线自己的产品。然而，在门槛大幅降低的背后，产品安全却往往成为最容易被忽视的盲区。",
+      "lead_excerpt": "随着 Vibe Coding 开发模式的日益普及，越来越多的非开发者群体能够借助 Codex、Claude Code 等智能体快速构建并上线自己的产品。然而，在门槛大幅降低的背后，产品安全却往往成为最容易被忽视的盲区。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30151",
+        "url": "https://www.aibase.com/zh/news/30151",
+        "title": "马斯克的 AI 百科 Grokipedia 陷停滞？上线数月后疑陷“无人维护”状态",
+        "date": "2026-08-06",
+        "lead": "曾被埃隆·马斯克寄予厚望、扬言要实现对维基百科“巨大改进”的 AI 自动生成百科Grokipedia，近期却陷入了长达数月的沉寂。根据外媒 Lawfare 的最新报道，该平台自 4 月 24 日以来便再无明显更新动作。回顾其发展历程，Grokipedia于 2025 年 10 月以 v0.1 版本正式上线，首批收录了大约 88.5 万篇文章。随后平台升级至 v0.2 版本，总文章数迅速突破 600 万篇。然而，尽管其官方实时状态页显示文章基数庞大，但原本用于追踪最新动态的“最近更新”栏目目前却赫然写着“当前没有可用的实时编辑”。不仅如此，虽然普通用户依然可以向平台提交词条建议或修改意见，但调查显示，在过去三个月内，大批量的修改建议均未被标记为“已接受”或“已拒绝”，暴露出用户交互与审核机制的滞后。这也直接导致社区和社交平台上开始出现关于该项目是否已经“停止运营”的种种猜测。值得一提的是，马斯克本人上一次在公开社交平台上提及Grokipedia还要追溯到今年 2 月。随着公开讨论的减少与更新停滞，这一雄心勃勃的 AI 百科项目未来走向如何，正受到业界的持续关注。",
+        "first_paragraph": "曾被埃隆·马斯克寄予厚望、扬言要实现对维基百科“巨大改进”的 AI 自动生成百科Grokipedia，近期却陷入了长达数月的沉寂。根据外媒 Lawfare 的最新报道，该平台自 4 月 24 日以来便再无明显更新动作。回顾其发展历程，Grokipedia于 2025 年 10 月以 v0.1 版本正式上线，首批收录了大约 88.5 万篇文章。随后平台升级至 v0.2 版本，总文章数迅速突破 600 万篇。然而，尽管其官方实时状态页显示文章基数庞大，但原本用于追踪最新动态的“最近更新”栏目目前却赫然写着“当前没有可用的实时编辑”。不仅如此，虽然普通用户依然可以向平台提交词条建议或修改意见，但调查显示，在过去三个月内，大批量的修改建议均未被标记为“已接受”或“已拒绝”，暴露出用户交互与审核机制的滞后。这也直接导致社区和社交平台上开始出现关于该项目是否已经“停止运营”的种种猜测。值得一提的是，马斯克本人上一次在公开社交平台上提及Grokipedia还要追溯到今年 2 月。随着公开讨论的减少与更新停滞，这一雄心勃勃的 AI 百科项目未来走向如何，正受到业界的持续关注。",
+        "description": "曾被埃隆·马斯克寄予厚望、扬言要实现对维基百科“巨大改进”的 AI 自动生成百科Grokipedia，近期却陷入了长达数月的沉寂。根据外媒 Lawfare 的最新报道，该平台自 4 月 24 日以来便再无明显更新动作。回顾其发展历程，Grokipedia于 2025 年 10 月以 v0.1 版本正式上线，首批收录了大",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30151.html",
+          "addtime": "2026-08-06T09:57:26.2895537+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，曾被埃隆·马斯克寄予厚望、扬言要实现对维基百科“巨大改进”的 AI 自动生成百科Grokipedia，近期却陷入了长达数月的沉寂。根据外媒 Lawfare 的最新报道，该平台自 4 月 24 日以来便再无明显更新动作。回顾其发展历程，Grokipedia于 2025 年 10 月以 v0.1 版本正式上线，首批收录了大约 88.5 万篇文章。随后平台升...",
+      "ai_summary": "2026-08-06，曾被埃隆·马斯克寄予厚望、扬言要实现对维基百科“巨大改进”的 AI 自动生成百科Grokipedia，近期却陷入了长达数月的沉寂。根据外媒 Lawfare 的最新报道，该平台自 4 月 24 日以来便再无明显更新动作。回顾其发展历程，Grokipedia于 2025 年 10 月以 v0.1 版本正式上线，首批收录了大约 88.5 万篇文章。随后平台升...",
+      "lead_excerpt": "曾被埃隆·马斯克寄予厚望、扬言要实现对维基百科“巨大改进”的 AI 自动生成百科Grokipedia，近期却陷入了长达数月的沉寂。根据外媒 Lawfare 的最新报道，该平台自 4 月 24 日以来便再无明显更新动作。回顾其发展历程，...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30149",
+        "url": "https://www.aibase.com/zh/news/30149",
+        "title": "Google 斥资超 15 亿美元收购 Mechanize，AI 编程赛道再燃战火",
+        "date": "2026-08-06",
+        "lead": "Google 正在与旧金山初创公司 Mechanize 商讨一项价值超 15 亿美元的潜在交易，内容涉及人才引进和技术许可。据知情人士透露，Google 可能以非独家许可方式获取 Mechanize 的 AI 编程技术，同时引入其核心人才从事模型评估与开发工作。这笔交易凸显出编程已成为 AI 领域最核心也最赚钱的应用场景，科技巨头正不遗余力地抢夺相关人才与技术。",
+        "first_paragraph": "Mechanize 成立于去年， CEO Tamay Besiroglu 曾联合创办专注于 AI 模型测试的 Epoch AI。公司今年初完成 910 万美元融资，估值达 5 亿美元，投资方阵容豪华，包括前 GitHub CEO Nat Friedman、Stripe CEO Patrick Collison 和知名播客主持人 Dwarkesh Patel。其技术能帮助科技公司提升 AI 模型的编码性能，这正是 Google 当前急需补强的短板——OpenAI 的 Codex 和 Anthropic 的 Claude Code 已率先抢占了大量开发者用户。",
+        "description": "Google 正在与旧金山初创公司 Mechanize 商讨一项价值超 15 亿美元的潜在交易，内容涉及人才引进和技术许可。据知情人士透露，Google 可能以非独家许可方式获取 Mechanize 的 AI 编程技术，同时引入其核心人才从事模型评估与开发工作。这笔交易凸显出编程已成为 AI 领域最核心也最赚钱的应用场",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30149.html",
+          "addtime": "2026-08-06T09:46:18.1227208+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，Google 正在与旧金山初创公司 Mechanize 商讨一项价值超 15 亿美元的潜在交易，内容涉及人才引进和技术许可。据知情人士透露，Google 可能以非独家许可方式获取 Mechanize 的 AI 编程技术，同时引入其核心人才从事模型评估与开发工作。这笔交易凸显出编程已成为 AI 领域最核心也最赚钱的应用场景，科技巨头正不遗余力地抢夺相关人...",
+      "ai_summary": "2026-08-06，Google 正在与旧金山初创公司 Mechanize 商讨一项价值超 15 亿美元的潜在交易，内容涉及人才引进和技术许可。据知情人士透露，Google 可能以非独家许可方式获取 Mechanize 的 AI 编程技术，同时引入其核心人才从事模型评估与开发工作。这笔交易凸显出编程已成为 AI 领域最核心也最赚钱的应用场景，科技巨头正不遗余力地抢夺相关人...",
+      "lead_excerpt": "Google 正在与旧金山初创公司 Mechanize 商讨一项价值超 15 亿美元的潜在交易，内容涉及人才引进和技术许可。据知情人士透露，Google 可能以非独家许可方式获取 Mechanize 的 AI 编程技术，同时引入其核心...",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 40,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30148",
+        "url": "https://www.aibase.com/zh/news/30148",
+        "title": "传奇大牛告别：Jeff Dean宣布离开谷歌，将携手老友创办DiscoLoop AI",
+        "date": "2026-08-06",
+        "lead": "在科技行业深耕27年后，AI领域的传奇人物 Jeff Dean 正式宣布告别谷歌。他在内部告别信中回顾了这段惊叹的历程，见证了公司从最初的25人团队成长为拥有超19万名员工的庞大企业，并打造出了多达13款用户规模超过十亿的产品。",
+        "first_paragraph": "在离开谷歌之后，Jeff Dean 并没有停下脚步。他将与多位老友兼资深同行 Sanjay Ghemawat、Oriol Vinyals 以及 Quoc Le 共同开启全新的创业征程，携手创办名为 DiscoLoop AI 的新公司。",
+        "description": "在科技行业深耕27年后，AI领域的传奇人物 Jeff Dean 正式宣布告别谷歌。他在内部告别信中回顾了这段惊叹的历程，见证了公司从最初的25人团队成长为拥有超19万名员工的庞大企业，并打造出了多达13款用户规模超过十亿的产品。在离开谷歌之后，Jeff Dean 并没有停下脚步。他将与多位老友兼资深同行 Sanjay",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30148.html",
+          "addtime": "2026-08-06T09:26:19.9852138+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，在科技行业深耕27年后，AI领域的传奇人物 Jeff Dean 正式宣布告别谷歌。他在内部告别信中回顾了这段惊叹的历程，见证了公司从最初的25人团队成长为拥有超19万名员工的庞大企业，并打造出了多达13款用户规模超过十亿的产品。",
+      "ai_summary": "2026-08-06，在科技行业深耕27年后，AI领域的传奇人物 Jeff Dean 正式宣布告别谷歌。他在内部告别信中回顾了这段惊叹的历程，见证了公司从最初的25人团队成长为拥有超19万名员工的庞大企业，并打造出了多达13款用户规模超过十亿的产品。",
+      "lead_excerpt": "在科技行业深耕27年后，AI领域的传奇人物 Jeff Dean 正式宣布告别谷歌。他在内部告别信中回顾了这段惊叹的历程，见证了公司从最初的25人团队成长为拥有超19万名员工的庞大企业，并打造出了多达13款用户规模超过十亿的产品。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30146",
+        "url": "https://www.aibase.com/zh/news/30146",
+        "title": "Google AI 双柱同日动摇：Jeff Dean 出走创业，Gemini 换帅迎战关键期",
+        "date": "2026-08-06",
+        "lead": "Google AI 经历了一场罕见的人事大震荡。DeepMind 负责人 Demis Hassabis 宣布卸下日常管理职责，转任 DeepMind 主席兼 Alphabet 首席科学家；几乎同一时间，Google 首席科学家 Jeff Dean 宣布结束近 27 年的 Google 生涯，与三名资深研究人员共同创办新公司 Discovery Loop。消息公布后，Alphabet 股价单日下跌近 4%。",
+        "first_paragraph": "哈萨比斯转岗不离职，Gemini 4 仍在推进",
+        "description": "Google AI 经历了一场罕见的人事大震荡。DeepMind 负责人 Demis Hassabis 宣布卸下日常管理职责，转任 DeepMind 主席兼 Alphabet 首席科学家；几乎同一时间，Google 首席科学家 Jeff Dean 宣布结束近 27 年的 Google 生涯，与三名资深研究人员共同创办新",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30146.html",
+          "addtime": "2026-08-06T09:24:02.0180337+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，Google AI 经历了一场罕见的人事大震荡。DeepMind 负责人 Demis Hassabis 宣布卸下日常管理职责，转任 DeepMind 主席兼 Alphabet 首席科学家；几乎同一时间，Google 首席科学家 Jeff Dean 宣布结束近 27 年的 Google 生涯，与三名资深研究人员共同创办新公司 Discovery Loop...",
+      "ai_summary": "2026-08-06，Google AI 经历了一场罕见的人事大震荡。DeepMind 负责人 Demis Hassabis 宣布卸下日常管理职责，转任 DeepMind 主席兼 Alphabet 首席科学家；几乎同一时间，Google 首席科学家 Jeff Dean 宣布结束近 27 年的 Google 生涯，与三名资深研究人员共同创办新公司 Discovery Loop...",
+      "lead_excerpt": "Google AI 经历了一场罕见的人事大震荡。DeepMind 负责人 Demis Hassabis 宣布卸下日常管理职责，转任 DeepMind 主席兼 Alphabet 首席科学家；几乎同一时间，Google 首席科学家 Jef...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30144",
+        "url": "https://www.aibase.com/zh/news/30144",
+        "title": "资本市场新动态：MiniMax正式纳入港股通，股价应声大涨超10%",
+        "date": "2026-08-06",
+        "lead": "随着港股通标的名单迎来最新一轮调整，人工智能赛道再度迎来利好消息。8月5日，市场公布了新一批调入港股通的标的名单，相关调整将于次日起正式生效。受此消息提振，相关标的在资本市场上表现强劲，截至当天收盘，MiniMax港股涨幅成功超过10%。",
+        "first_paragraph": "除了资本层面的积极进展，该企业在技术研发领域同样动作频频。就在本周，MiniMax正式开源了其新一代通用多模态生成模型MiniMax H3。",
+        "description": "随着港股通标的名单迎来最新一轮调整，人工智能赛道再度迎来利好消息。8月5日，市场公布了新一批调入港股通的标的名单，相关调整将于次日起正式生效。受此消息提振，相关标的在资本市场上表现强劲，截至当天收盘，MiniMax港股涨幅成功超过10%。除了资本层面的积极进展，该企业在技术研发领域同样动作频频。就在本周，MiniMax",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30144.html",
+          "addtime": "2026-08-06T09:02:56.9195153+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，随着港股通标的名单迎来最新一轮调整，人工智能赛道再度迎来利好消息。8月5日，市场公布了新一批调入港股通的标的名单，相关调整将于次日起正式生效。受此消息提振，相关标的在资本市场上表现强劲，截至当天收盘，MiniMax港股涨幅成功超过10%。",
+      "ai_summary": "2026-08-06，随着港股通标的名单迎来最新一轮调整，人工智能赛道再度迎来利好消息。8月5日，市场公布了新一批调入港股通的标的名单，相关调整将于次日起正式生效。受此消息提振，相关标的在资本市场上表现强劲，截至当天收盘，MiniMax港股涨幅成功超过10%。",
+      "lead_excerpt": "随着港股通标的名单迎来最新一轮调整，人工智能赛道再度迎来利好消息。8月5日，市场公布了新一批调入港股通的标的名单，相关调整将于次日起正式生效。受此消息提振，相关标的在资本市场上表现强劲，截至当天收盘，MiniMax港股涨幅成功超过10%。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30142",
+        "url": "https://www.aibase.com/zh/news/30142",
+        "title": "OpenAI 撑起微软 AI 营收七成江山：241 亿美元财报数据曝光，单一依赖暗藏风险",
+        "date": "2026-08-06",
+        "lead": "微软上周提交的监管文件披露了一组令人震惊的数据：在截至今年 6 月的财政年度中，微软从 OpenAI 录得的营收高达 241 亿美元。据彭博测算，这一数字约占微软 AI 业务总营收的 70%，意味着这家科技巨头的 AI 增长引擎在很大程度上由单一合作伙伴驱动。",
+        "first_paragraph": "市场长期追问微软 AI 营收的真实构成，而此次数据首次揭示了核心动力的集中度。KeyBanc 分析师 Jackson Ader 指出，241 亿美元中究竟有多少来自云计算服务、多少来自营收分成协议，仍是关键悬而未决的问题。",
+        "description": "微软上周提交的监管文件披露了一组令人震惊的数据：在截至今年 6 月的财政年度中，微软从 OpenAI 录得的营收高达 241 亿美元。据彭博测算，这一数字约占微软 AI 业务总营收的 70%，意味着这家科技巨头的 AI 增长引擎在很大程度上由单一合作伙伴驱动。市场长期追问微软 AI 营收的真实构成，而此次数据首次揭示了",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30142.html",
+          "addtime": "2026-08-06T08:56:37.0681008+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，微软上周提交的监管文件披露了一组令人震惊的数据：在截至今年 6 月的财政年度中，微软从 OpenAI 录得的营收高达 241 亿美元。据彭博测算，这一数字约占微软 AI 业务总营收的 70%，意味着这家科技巨头的 AI 增长引擎在很大程度上由单一合作伙伴驱动。",
+      "ai_summary": "2026-08-06，微软上周提交的监管文件披露了一组令人震惊的数据：在截至今年 6 月的财政年度中，微软从 OpenAI 录得的营收高达 241 亿美元。据彭博测算，这一数字约占微软 AI 业务总营收的 70%，意味着这家科技巨头的 AI 增长引擎在很大程度上由单一合作伙伴驱动。",
+      "lead_excerpt": "微软上周提交的监管文件披露了一组令人震惊的数据：在截至今年 6 月的财政年度中，微软从 OpenAI 录得的营收高达 241 亿美元。据彭博测算，这一数字约占微软 AI 业务总营收的 70%，意味着这家科技巨头的 AI 增长引擎在很大...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30140",
+        "url": "https://www.aibase.com/zh/news/30140",
+        "title": "字节跳动发布全双工大模型SeedRealtime，国产算力产业链景气度获强化",
+        "date": "2026-08-06",
+        "lead": "字节跳动Seed近日正式推出了原生音视频全双工大模型 SeedRealtime，标志着其在大模型全模态自然交互方向上迈出了新的一步。",
+        "first_paragraph": "据了解，SeedRealtime 采用统一架构原生融合了音频、视频与文本，能够在连续的多模态信息流上实现实时交互，为用户带来“边看、边听、边说”的全新体验。",
+        "description": "字节跳动Seed近日正式推出了原生音视频全双工大模型 SeedRealtime，标志着其在大模型全模态自然交互方向上迈出了新的一步。据了解，SeedRealtime 采用统一架构原生融合了音频、视频与文本，能够在连续的多模态信息流上实现实时交互，为用户带来“边看、边听、边说”的全新体验。受国产大模型集中迭代升级的推动，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-07-31_2026-08-06/30140.html",
+          "addtime": "2026-08-06T08:53:55.4686942+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-06，字节跳动Seed近日正式推出了原生音视频全双工大模型 SeedRealtime，标志着其在大模型全模态自然交互方向上迈出了新的一步。",
+      "ai_summary": "2026-08-06，字节跳动Seed近日正式推出了原生音视频全双工大模型 SeedRealtime，标志着其在大模型全模态自然交互方向上迈出了新的一步。",
+      "lead_excerpt": "字节跳动Seed近日正式推出了原生音视频全双工大模型 SeedRealtime，标志着其在大模型全模态自然交互方向上迈出了新的一步。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
