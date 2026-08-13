@@ -1,0 +1,713 @@
+{
+  "week_id": "2026-08-07_2026-08-13",
+  "label": "8.7-8.13",
+  "start_date": "2026-08-07",
+  "end_date": "2026-08-13",
+  "generated_at": "2026-08-13T04:12:48",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30306",
+        "url": "https://www.aibase.com/zh/news/30306",
+        "title": "千问开放平台上线菜鸟智能体:“你只管说需求，AI帮你匹配寄件方案”",
+        "date": "2026-08-13",
+        "lead": "近日，千问开放平台上线菜鸟智能体，支持用户通过自然语言描述寄件需求，菜鸟智能体会智能识别物品、价格、上门时间等条件，匹配合适的寄件方案与快递公司。",
+        "first_paragraph": "在千问上，用户只需@菜鸟，或点击页面右上角的“圆点角标”进入菜鸟智能体即可使用，也可直接与千问对话。用户只需要说“我要寄件衣服到上海，便宜点的，今天上门”，菜鸟智能体就会根据需求智能匹配特惠寄服务，选取价格更有优势的物流平台。",
+        "description": "近日，千问开放平台上线菜鸟智能体，支持用户通过自然语言描述寄件需求，菜鸟智能体会智能识别物品、价格、上门时间等条件，匹配合适的寄件方案与快递公司。在千问上，用户只需@菜鸟，或点击页面右上角的“圆点角标”进入菜鸟智能体即可使用，也可直接与千问对话。用户只需要说“我要寄件衣服到上海，便宜点的，今天上门”，菜鸟智能体就会根据",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30306.html",
+          "addtime": "2026-08-13T10:50:38.733147+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-08-13，近日，千问开放平台上线菜鸟智能体，支持用户通过自然语言描述寄件需求，菜鸟智能体会智能识别物品、价格、上门时间等条件，匹配合适的寄件方案与快递公司。",
+      "ai_summary": "2026-08-13，近日，千问开放平台上线菜鸟智能体，支持用户通过自然语言描述寄件需求，菜鸟智能体会智能识别物品、价格、上门时间等条件，匹配合适的寄件方案与快递公司。",
+      "lead_excerpt": "近日，千问开放平台上线菜鸟智能体，支持用户通过自然语言描述寄件需求，菜鸟智能体会智能识别物品、价格、上门时间等条件，匹配合适的寄件方案与快递公司。",
+      "reason": "符合优先级：阿里及相关主体、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30305",
+        "url": "https://www.aibase.com/zh/news/30305",
+        "title": "小红书被曝推进“AI导购”功能，布局前台AI产品化",
+        "date": "2026-08-13",
+        "lead": "据消息，小红书正在打造全新的“AI导购”功能，拟通过对话交互模式，在问答场景中直接推荐商品卡片，并挂载下单跳转链接。该项目由道玄（潘博远）主导推进。",
+        "first_paragraph": "本月初，媒体报道小红书正全面提速AI战略，布局AI社交产品、AI社区互动工具等方向，AI应用正从后台技术应用向前台自研、产品化及生态化加速延伸。招聘信息显示，小红书近期密集招募AI应用研发人才，部分岗位薪资达到30-60K/16薪，最高年薪可达96万元。",
+        "description": "据消息，小红书正在打造全新的“AI导购”功能，拟通过对话交互模式，在问答场景中直接推荐商品卡片，并挂载下单跳转链接。该项目由道玄（潘博远）主导推进。本月初，媒体报道小红书正全面提速AI战略，布局AI社交产品、AI社区互动工具等方向，AI应用正从后台技术应用向前台自研、产品化及生态化加速延伸。招聘信息显示，小红书近期密集",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30305.html",
+          "addtime": "2026-08-13T10:47:58.6064689+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-08-13，据消息，小红书正在打造全新的“AI导购”功能，拟通过对话交互模式，在问答场景中直接推荐商品卡片，并挂载下单跳转链接。该项目由道玄（潘博远）主导推进。",
+      "ai_summary": "2026-08-13，据消息，小红书正在打造全新的“AI导购”功能，拟通过对话交互模式，在问答场景中直接推荐商品卡片，并挂载下单跳转链接。该项目由道玄（潘博远）主导推进。",
+      "lead_excerpt": "据消息，小红书正在打造全新的“AI导购”功能，拟通过对话交互模式，在问答场景中直接推荐商品卡片，并挂载下单跳转链接。该项目由道玄（潘博远）主导推进。",
+      "reason": "符合优先级：电商/交易/支付/商家工具相关、国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30292",
+        "url": "https://www.aibase.com/zh/news/30292",
+        "title": "苹果砸数亿美元买新闻版权：为 AI 版 Siri 引入实时资讯，按用量付费成新玩法",
+        "date": "2026-08-13",
+        "lead": "据知情人士透露，苹果正与多家出版商洽谈新的内容合作，计划借助新闻资讯提升人工智能版 Siri 的能力，相关新版 Siri 预计今年晚些时候推出。苹果近几个月已接触多家出版机构，拟签订多年期合作协议，以获得用于支持 Siri AI 提供最新新闻和信息的内容授权。",
+        "first_paragraph": "与大型 AI 公司通常采用的授权方式不同，苹果提出的方案可能采取浮动报酬机制——只有当合作方内容实际被 Siri 使用时，才向出版商支付费用。消息人士称，苹果已就可能达到数亿美元规模的付款安排展开讨论。传统上，AI 公司与新闻机构的授权交易往往包含保证性费用并以大范围获取内容为基础，苹果正在探讨的按使用量付费模式显得颇为另类，苹果对此未予置评。",
+        "description": "据知情人士透露，苹果正与多家出版商洽谈新的内容合作，计划借助新闻资讯提升人工智能版 Siri 的能力，相关新版 Siri 预计今年晚些时候推出。苹果近几个月已接触多家出版机构，拟签订多年期合作协议，以获得用于支持 Siri AI 提供最新新闻和信息的内容授权。与大型 AI 公司通常采用的授权方式不同，苹果提出的方案可能",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30292.html",
+          "addtime": "2026-08-13T08:48:54.1118249+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-13，据知情人士透露，苹果正与多家出版商洽谈新的内容合作，计划借助新闻资讯提升人工智能版 Siri 的能力，相关新版 Siri 预计今年晚些时候推出。苹果近几个月已接触多家出版机构，拟签订多年期合作协议，以获得用于支持 Siri AI 提供最新新闻和信息的内容授权。",
+      "ai_summary": "2026-08-13，据知情人士透露，苹果正与多家出版商洽谈新的内容合作，计划借助新闻资讯提升人工智能版 Siri 的能力，相关新版 Siri 预计今年晚些时候推出。苹果近几个月已接触多家出版机构，拟签订多年期合作协议，以获得用于支持 Siri AI 提供最新新闻和信息的内容授权。",
+      "lead_excerpt": "据知情人士透露，苹果正与多家出版商洽谈新的内容合作，计划借助新闻资讯提升人工智能版 Siri 的能力，相关新版 Siri 预计今年晚些时候推出。苹果近几个月已接触多家出版机构，拟签订多年期合作协议，以获得用于支持 Siri AI 提供...",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30302",
+        "url": "https://www.aibase.com/zh/news/30302",
+        "title": "云端生态再落一子：OpenAI网络安全模型正式上线亚马逊平台",
+        "date": "2026-08-13",
+        "lead": "日前，亚马逊官方宣布，OpenAI旗下的两款网络安全模型Daybreak Red和Daybreak Blue已面向符合条件的Amazon Bedrock用户正式开放。此次两款新型号的上线，不仅进一步深化了双方此前的长期战略合作，也标志着亚马逊在持续扩容其云端AI服务版图。",
+        "first_paragraph": "据了解，这两个模型均属于OpenAI网络防御计划Daybreak的重要组成部分。其中，Daybreak Red主要提供对GPT-5.6Cyber的访问权限;而Daybreak Blue则涵盖了包括GPT-5.6Sol在内的前沿通用模型，并针对防御性网络安全应用场景进行了专属优化与安全防护加固。在此之前，OpenAI的GPT-5.6Sol、Terra及Luna等多款模型已于7月在Amazon Bedrock上相继发布。",
+        "description": "日前，亚马逊官方宣布，OpenAI旗下的两款网络安全模型Daybreak Red和Daybreak Blue已面向符合条件的Amazon Bedrock用户正式开放。此次两款新型号的上线，不仅进一步深化了双方此前的长期战略合作，也标志着亚马逊在持续扩容其云端AI服务版图。据了解，这两个模型均属于OpenAI网络防御计划",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30302.html",
+          "addtime": "2026-08-13T09:54:14.8800814+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-13，日前，亚马逊官方宣布，OpenAI旗下的两款网络安全模型Daybreak Red和Daybreak Blue已面向符合条件的Amazon Bedrock用户正式开放。此次两款新型号的上线，不仅进一步深化了双方此前的长期战略合作，也标志着亚马逊在持续扩容其云端AI服务版图。",
+      "ai_summary": "2026-08-13，日前，亚马逊官方宣布，OpenAI旗下的两款网络安全模型Daybreak Red和Daybreak Blue已面向符合条件的Amazon Bedrock用户正式开放。此次两款新型号的上线，不仅进一步深化了双方此前的长期战略合作，也标志着亚马逊在持续扩容其云端AI服务版图。",
+      "lead_excerpt": "日前，亚马逊官方宣布，OpenAI旗下的两款网络安全模型Daybreak Red和Daybreak Blue已面向符合条件的Amazon Bedrock用户正式开放。此次两款新型号的上线，不仅进一步深化了双方此前的长期战略合作，也标志...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30298",
+        "url": "https://www.aibase.com/zh/news/30298",
+        "title": "深度融合Gemini与全系进阶：谷歌正式发布全新Pixel11 系列智能手机",
+        "date": "2026-08-13",
+        "lead": "近日，科技巨头谷歌正式推出了备受瞩目的Pixel11系列智能手机。与以往几代产品相比，新一代产品在外观设计和核心硬件上的改动相对有限，其真正的核心亮点集中在软件体验以及与Gemini人工智能的深度融合上，通过更具自主代理特性的功能，帮助用户在后台高效完成各类日常繁杂任务。",
+        "first_paragraph": "在人工智能体验方面，Gemini在Pixel11上展现出了更强的自主代理执行能力。针对特定市场，它不仅能够协助用户订购杂货、预约网约车或购买咖啡，还能代表用户拨打电话以预约餐厅餐桌或诊所门诊。用户可在整个过程中随时接管或终止任务，并随时查看通话记录文本。同时，此前的多项实用功能也迎来全面升级，能够跨应用调取上下文信息，主动为用户推荐餐厅或演出，而此前发布的听写工具“Rambler”也已正式集成至新机之中。",
+        "description": "近日，科技巨头谷歌正式推出了备受瞩目的Pixel11系列智能手机。与以往几代产品相比，新一代产品在外观设计和核心硬件上的改动相对有限，其真正的核心亮点集中在软件体验以及与Gemini人工智能的深度融合上，通过更具自主代理特性的功能，帮助用户在后台高效完成各类日常繁杂任务。在人工智能体验方面，Gemini在Pixel11",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30298.html",
+          "addtime": "2026-08-13T09:18:47.02373+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-13，近日，科技巨头谷歌正式推出了备受瞩目的Pixel11系列智能手机。与以往几代产品相比，新一代产品在外观设计和核心硬件上的改动相对有限，其真正的核心亮点集中在软件体验以及与Gemini人工智能的深度融合上，通过更具自主代理特性的功能，帮助用户在后台高效完成各类日常繁杂任务。",
+      "ai_summary": "2026-08-13，近日，科技巨头谷歌正式推出了备受瞩目的Pixel11系列智能手机。与以往几代产品相比，新一代产品在外观设计和核心硬件上的改动相对有限，其真正的核心亮点集中在软件体验以及与Gemini人工智能的深度融合上，通过更具自主代理特性的功能，帮助用户在后台高效完成各类日常繁杂任务。",
+      "lead_excerpt": "近日，科技巨头谷歌正式推出了备受瞩目的Pixel11系列智能手机。与以往几代产品相比，新一代产品在外观设计和核心硬件上的改动相对有限，其真正的核心亮点集中在软件体验以及与Gemini人工智能的深度融合上，通过更具自主代理特性的功能，帮...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30304",
+        "url": "https://www.aibase.com/zh/news/30304",
+        "title": "AI重构人脉社交链:WordPress母公司推Android版Mesh 打造跨平台Nexus AI助手",
+        "date": "2026-08-13",
+        "lead": "Automattic旗下的个人CRM与关系管理平台Mesh（原名Clay）于2026年8月12日正式登陆Android平台，支持分屏、弹出视图及折叠屏等多端适配与跨设备实时同步，同时加速推进Nexus AI等智能化功能的落地应用。",
+        "first_paragraph": "此举标志着Automattic在完成对Mesh的收购后，进一步将生成式AI与个人数据资产管理深度融合，重构人脉管理范式。",
+        "description": "Automattic旗下的个人CRM与关系管理平台Mesh（原名Clay）于2026年8月12日正式登陆Android平台，支持分屏、弹出视图及折叠屏等多端适配与跨设备实时同步，同时加速推进Nexus AI等智能化功能的落地应用。此举标志着Automattic在完成对Mesh的收购后，进一步将生成式AI与个人数据资产管",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30304.html",
+          "addtime": "2026-08-13T10:33:09.6977058+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-08-13，Automattic旗下的个人CRM与关系管理平台Mesh（原名Clay）于2026年8月12日正式登陆Android平台，支持分屏、弹出视图及折叠屏等多端适配与跨设备实时同步，同时加速推进Nexus AI等智能化功能的落地应用。",
+      "ai_summary": "2026-08-13，Automattic旗下的个人CRM与关系管理平台Mesh（原名Clay）于2026年8月12日正式登陆Android平台，支持分屏、弹出视图及折叠屏等多端适配与跨设备实时同步，同时加速推进Nexus AI等智能化功能的落地应用。",
+      "lead_excerpt": "Automattic旗下的个人CRM与关系管理平台Mesh（原名Clay）于2026年8月12日正式登陆Android平台，支持分屏、弹出视图及折叠屏等多端适配与跨设备实时同步，同时加速推进Nexus AI等智能化功能的落地应用。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30303",
+        "url": "https://www.aibase.com/zh/news/30303",
+        "title": "Cursor拟提前推出自动化代码审查平台Origin 整合Graphite团队技术",
+        "date": "2026-08-13",
+        "lead": "AI代码编辑工具开发商Cursor即将面向全量用户正式推出名为“Origin”（内部称“Cursor Review”）的自动化代码审查平台，发布时间较原计划的秋季大幅提前。",
+        "first_paragraph": "该平台由Cursor于2025年底收购的Graphite团队打造，旨在打破传统GitHub围绕人工审查建立的单差异、顺序合并模式，解决AI Agent大规模并行生成代码后引发的审查与合并瓶颈。",
+        "description": "AI代码编辑工具开发商Cursor即将面向全量用户正式推出名为“Origin”（内部称“Cursor Review”）的自动化代码审查平台，发布时间较原计划的秋季大幅提前。该平台由Cursor于2025年底收购的Graphite团队打造，旨在打破传统GitHub围绕人工审查建立的单差异、顺序合并模式，解决AI Agen",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30303.html",
+          "addtime": "2026-08-13T10:22:03.3273934+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-08-13，AI代码编辑工具开发商Cursor即将面向全量用户正式推出名为“Origin”（内部称“Cursor Review”）的自动化代码审查平台，发布时间较原计划的秋季大幅提前。",
+      "ai_summary": "2026-08-13，AI代码编辑工具开发商Cursor即将面向全量用户正式推出名为“Origin”（内部称“Cursor Review”）的自动化代码审查平台，发布时间较原计划的秋季大幅提前。",
+      "lead_excerpt": "AI代码编辑工具开发商Cursor即将面向全量用户正式推出名为“Origin”（内部称“Cursor Review”）的自动化代码审查平台，发布时间较原计划的秋季大幅提前。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30309",
+        "url": "https://www.aibase.com/zh/news/30309",
+        "title": "AI编程独角兽迎来爆发：Cognition传正洽谈新一轮融资，估值或达 400 亿美元",
+        "date": "2026-08-13",
+        "lead": "知名AI编程助手Devin的开发商Cognition近期在资本市场备受瞩目。有知情人士透露，该公司目前正与投资者进行新一轮融资洽谈，其整体估值有望实现大幅跳跃，达到至少400亿美元的新高度。",
+        "first_paragraph": "在此之前，Cognition刚刚于今年5月完成了一笔高达10亿美元的融资，当时其估值约为26亿美元。据了解，此次新一轮融资能够实现如此高额的估值跨度，主要得益于公司目前已实现了高达10亿美元的年化收入运行率。",
+        "description": "知名AI编程助手Devin的开发商Cognition近期在资本市场备受瞩目。有知情人士透露，该公司目前正与投资者进行新一轮融资洽谈，其整体估值有望实现大幅跳跃，达到至少400亿美元的新高度。在此之前，Cognition刚刚于今年5月完成了一笔高达10亿美元的融资，当时其估值约为26亿美元。据了解，此次新一轮融资能够实现",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30309.html",
+          "addtime": "2026-08-13T11:18:00.7116134+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，知名AI编程助手Devin的开发商Cognition近期在资本市场备受瞩目。有知情人士透露，该公司目前正与投资者进行新一轮融资洽谈，其整体估值有望实现大幅跳跃，达到至少400亿美元的新高度。",
+      "ai_summary": "2026-08-13，知名AI编程助手Devin的开发商Cognition近期在资本市场备受瞩目。有知情人士透露，该公司目前正与投资者进行新一轮融资洽谈，其整体估值有望实现大幅跳跃，达到至少400亿美元的新高度。",
+      "lead_excerpt": "知名AI编程助手Devin的开发商Cognition近期在资本市场备受瞩目。有知情人士透露，该公司目前正与投资者进行新一轮融资洽谈，其整体估值有望实现大幅跳跃，达到至少400亿美元的新高度。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30308",
+        "url": "https://www.aibase.com/zh/news/30308",
+        "title": "美国 AI 安全审查或将扩至开源模型：前沿定义对标 GPT-5.6，自愿框架面临收紧压力",
+        "date": "2026-08-13",
+        "lead": "据《连线》杂志援引消息人士报道，当前仅针对闭源模型的美国前沿人工智能模型网络安全审查机制，\"几乎肯定\"会在未来数月扩展至开源（开放权重）模型。所谓\"前沿\"的定义，是指与 Anthropic Claude Mythos 或 OpenAI GPT-5.6 能力相当的模型，但报道并未给出更详细的对应版本说明。",
+        "first_paragraph": "知情人士透露，这一审查框架目前仍为自愿性质。部分美国官员意识到，强制性的审查可能抑制 AI 发展，因此暂时不愿将其升级为强制合规要求。然而审查范围从闭源向开源扩展的信号已十分明确，这意味着 DeepSeek、Meta 等主打开源路线的厂商未来可能同样需要面对美国政府的网络安全审视。",
+        "description": "据《连线》杂志援引消息人士报道，当前仅针对闭源模型的美国前沿人工智能模型网络安全审查机制，\"几乎肯定\"会在未来数月扩展至开源（开放权重）模型。所谓\"前沿\"的定义，是指与 Anthropic Claude Mythos 或 OpenAI GPT-5.6 能力相当的模型，但报道并未给",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30308.html",
+          "addtime": "2026-08-13T11:16:01.3761672+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，据《连线》杂志援引消息人士报道，当前仅针对闭源模型的美国前沿人工智能模型网络安全审查机制，\"几乎肯定\"会在未来数月扩展至开源（开放权重）模型。所谓\"前沿\"的定义，是指与 Anthropic Claude Mythos 或 OpenAI GPT-5.6 能力相当的模型，但报道并未给出更详细的对应版本说明。",
+      "ai_summary": "2026-08-13，据《连线》杂志援引消息人士报道，当前仅针对闭源模型的美国前沿人工智能模型网络安全审查机制，\"几乎肯定\"会在未来数月扩展至开源（开放权重）模型。所谓\"前沿\"的定义，是指与 Anthropic Claude Mythos 或 OpenAI GPT-5.6 能力相当的模型，但报道并未给出更详细的对应版本说明。",
+      "lead_excerpt": "据《连线》杂志援引消息人士报道，当前仅针对闭源模型的美国前沿人工智能模型网络安全审查机制，\"几乎肯定\"会在未来数月扩展至开源（开放权重）模型。所谓\"前沿\"的定义，是指与 Anthropic Claude Mythos 或 OpenAI...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30307",
+        "url": "https://www.aibase.com/zh/news/30307",
+        "title": "传Anthropic正洽谈收购AI初创公司Decart，交易估值达 60 亿美元",
+        "date": "2026-08-13",
+        "lead": "人工智能行业或将迎来又一场重磅并购。据相关媒体报道，知名AI企业Anthropic目前正就收购人工智能初创公司Decart展开深入谈判。据悉，这笔交易的整体估值大约在 60 亿美元左右。",
+        "first_paragraph": "作为近年来备受关注的新锐技术团队，Decart在AI领域展现出了独特的技术路线与发展潜力。如果此次收购谈判顺利达成，不仅将进一步扩充Anthropic的技术版图与研发实力，也将对当前竞争激烈的前沿大模型市场格局产生深远影响。目前，双方针对该交易的具体细节与进展尚未披露更多官方信息。",
+        "description": "人工智能行业或将迎来又一场重磅并购。据相关媒体报道，知名AI企业Anthropic目前正就收购人工智能初创公司Decart展开深入谈判。据悉，这笔交易的整体估值大约在 60 亿美元左右。作为近年来备受关注的新锐技术团队，Decart在AI领域展现出了独特的技术路线与发展潜力。如果此次收购谈判顺利达成，不仅将进一步扩充A",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30307.html",
+          "addtime": "2026-08-13T11:13:03+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，人工智能行业或将迎来又一场重磅并购。据相关媒体报道，知名AI企业Anthropic目前正就收购人工智能初创公司Decart展开深入谈判。据悉，这笔交易的整体估值大约在 60 亿美元左右。",
+      "ai_summary": "2026-08-13，人工智能行业或将迎来又一场重磅并购。据相关媒体报道，知名AI企业Anthropic目前正就收购人工智能初创公司Decart展开深入谈判。据悉，这笔交易的整体估值大约在 60 亿美元左右。",
+      "lead_excerpt": "人工智能行业或将迎来又一场重磅并购。据相关媒体报道，知名AI企业Anthropic目前正就收购人工智能初创公司Decart展开深入谈判。据悉，这笔交易的整体估值大约在 60 亿美元左右。",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 40,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30301",
+        "url": "https://www.aibase.com/zh/news/30301",
+        "title": "调查显示FDA批准的乳腺癌AI诊断工具效果不及放射科医生预期",
+        "date": "2026-08-13",
+        "lead": "根据《临床影像学》发表的一项最新调查，加州大学圣地亚哥分校健康中心的研究人员对215名乳腺影像学会成员调查后发现，用于乳腺癌检测的AI工具在临床实际表现中未能达到放射科医生的预期。尽管已有约半数受访医生在日常工作中使用FDA批准的AI诊断工具，另有11%计划引入，但多数医生仅将其定位为辅助诊断的“第二诊疗意见”，仅有极少数人将其视为决策的决定性因素。",
+        "first_paragraph": "数据显示，AI在提升诊疗效率和减轻负担方面的实际效果与医生预期存在显著差距:仅35%的受访医生表示召回率有所降低，远低于59%的预期比例;仅9%的医生观察到不必要的活检减少，而预期这一效果的比例达36%;同时，仅29%的医生感到职业倦怠有所减轻，低于56%的预期。目前，高昂的成本与缺乏机构层面支持仍然是限制此类AI工具深入推广的核心瓶颈。",
+        "description": "根据《临床影像学》发表的一项最新调查，加州大学圣地亚哥分校健康中心的研究人员对215名乳腺影像学会成员调查后发现，用于乳腺癌检测的AI工具在临床实际表现中未能达到放射科医生的预期。尽管已有约半数受访医生在日常工作中使用FDA批准的AI诊断工具，另有11%计划引入，但多数医生仅将其定位为辅助诊断的“第二诊疗意见”，仅有极",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30301.html",
+          "addtime": "2026-08-13T09:45:02.5939138+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，根据《临床影像学》发表的一项最新调查，加州大学圣地亚哥分校健康中心的研究人员对215名乳腺影像学会成员调查后发现，用于乳腺癌检测的AI工具在临床实际表现中未能达到放射科医生的预期。尽管已有约半数受访医生在日常工作中使用FDA批准的AI诊断工具，另有11%计划引入，但多数医生仅将其定位为辅助诊断的“第二诊疗意见”，仅有极少数人将其视为决策的决定性因素。",
+      "ai_summary": "2026-08-13，根据《临床影像学》发表的一项最新调查，加州大学圣地亚哥分校健康中心的研究人员对215名乳腺影像学会成员调查后发现，用于乳腺癌检测的AI工具在临床实际表现中未能达到放射科医生的预期。尽管已有约半数受访医生在日常工作中使用FDA批准的AI诊断工具，另有11%计划引入，但多数医生仅将其定位为辅助诊断的“第二诊疗意见”，仅有极少数人将其视为决策的决定性因素。",
+      "lead_excerpt": "根据《临床影像学》发表的一项最新调查，加州大学圣地亚哥分校健康中心的研究人员对215名乳腺影像学会成员调查后发现，用于乳腺癌检测的AI工具在临床实际表现中未能达到放射科医生的预期。尽管已有约半数受访医生在日常工作中使用FDA批准的AI...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30300",
+        "url": "https://www.aibase.com/zh/news/30300",
+        "title": "注册资本增至223. 85 万元，北京月之暗面科技完成最新工商变更",
+        "date": "2026-08-13",
+        "lead": "近日，国内知名大模型企业北京月之暗面科技股份有限公司迎来了最新的工商信息变更。相关数据显示，该公司的注册资本已由此前的152. 36 万元正式增加至223. 85 万元，引发了业界的持续关注。",
+        "first_paragraph": "作为国内大模型领域的代表企业之一，月之暗面自 2023 年成立以来发展迅速。其企业经营范围广泛涵盖了人工智能基础软件开发、人工智能应用软件开发等核心前沿领域。此次注册资本的调整，也反映出企业在业务拓展与资本蓄力方面的进一步动作。",
+        "description": "近日，国内知名大模型企业北京月之暗面科技股份有限公司迎来了最新的工商信息变更。相关数据显示，该公司的注册资本已由此前的152. 36 万元正式增加至223. 85 万元，引发了业界的持续关注。作为国内大模型领域的代表企业之一，月之暗面自 2023 年成立以来发展迅速。其企业经营范围广泛涵盖了人工智能基础软件开发、人工智",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30300.html",
+          "addtime": "2026-08-13T09:44:12.2566697+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，近日，国内知名大模型企业北京月之暗面科技股份有限公司迎来了最新的工商信息变更。相关数据显示，该公司的注册资本已由此前的152. 36 万元正式增加至223. 85 万元，引发了业界的持续关注。",
+      "ai_summary": "2026-08-13，近日，国内知名大模型企业北京月之暗面科技股份有限公司迎来了最新的工商信息变更。相关数据显示，该公司的注册资本已由此前的152. 36 万元正式增加至223. 85 万元，引发了业界的持续关注。",
+      "lead_excerpt": "近日，国内知名大模型企业北京月之暗面科技股份有限公司迎来了最新的工商信息变更。相关数据显示，该公司的注册资本已由此前的152. 36 万元正式增加至223. 85 万元，引发了业界的持续关注。",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30299",
+        "url": "https://www.aibase.com/zh/news/30299",
+        "title": "荣耀Robot Phone全球发布：搭载Agentic OS与全新YOYO Pro，开启多模态智能新体验",
+        "date": "2026-08-13",
+        "lead": "在今晚举行的荣耀Robot Phone全球新品发布会上，荣耀官方正式揭晓了这款备受瞩目的全新机型。作为主打智能交互的创新产品，Robot Phone最大的亮点在于搭载了Agentic OS新一代伙伴型多模态智能操作系统，并首发了由阿里千问大模型深度加持的全新YOYO Pro模式，支持超长任务执行、跨生态联动等丰富功能。",
+        "first_paragraph": "在外观与工业设计方面，荣耀Robot Phone提供了星轨银和月影灰两款配色选择。整机采用9.59毫米的轻薄机身与248克全金属一体成型设计，正面配备一块6.31英寸的显示屏，兼顾了细腻的手感与出色的视觉观感。",
+        "description": "在今晚举行的荣耀Robot Phone全球新品发布会上，荣耀官方正式揭晓了这款备受瞩目的全新机型。作为主打智能交互的创新产品，Robot Phone最大的亮点在于搭载了Agentic OS新一代伙伴型多模态智能操作系统，并首发了由阿里千问大模型深度加持的全新YOYO Pro模式，支持超长任务执行、跨生态联动等丰富功能。",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30299.html",
+          "addtime": "2026-08-13T09:34:14.92444+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，在今晚举行的荣耀Robot Phone全球新品发布会上，荣耀官方正式揭晓了这款备受瞩目的全新机型。作为主打智能交互的创新产品，Robot Phone最大的亮点在于搭载了Agentic OS新一代伙伴型多模态智能操作系统，并首发了由阿里千问大模型深度加持的全新YOYO Pro模式，支持超长任务执行、跨生态联动等丰富功能。",
+      "ai_summary": "2026-08-13，在今晚举行的荣耀Robot Phone全球新品发布会上，荣耀官方正式揭晓了这款备受瞩目的全新机型。作为主打智能交互的创新产品，Robot Phone最大的亮点在于搭载了Agentic OS新一代伙伴型多模态智能操作系统，并首发了由阿里千问大模型深度加持的全新YOYO Pro模式，支持超长任务执行、跨生态联动等丰富功能。",
+      "lead_excerpt": "在今晚举行的荣耀Robot Phone全球新品发布会上，荣耀官方正式揭晓了这款备受瞩目的全新机型。作为主打智能交互的创新产品，Robot Phone最大的亮点在于搭载了Agentic OS新一代伙伴型多模态智能操作系统，并首发了由阿里...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30297",
+        "url": "https://www.aibase.com/zh/news/30297",
+        "title": "AI应用初创公司Lovable完成4亿美元C轮融资 估值翻倍至133亿美元",
+        "date": "2026-08-13",
+        "lead": "欧洲“氛围编码（Vibe-Coding）”初创公司Lovable于8月12日正式宣布完成4亿美元C轮融资，公司估值大幅飙升至133亿美元。本轮融资由Menlo Ventures与Scaleup Europe Fund共同领投，Regent等十余家知名投资机构参投。",
+        "first_paragraph": "此次估值相比其去年12月由Menlo Ventures与CapitalG联合领投3.3亿美元时的66亿美元实现翻倍，标志着AI生成式开发工具正迎来商业化突破与资本市场的持续追捧。",
+        "description": "欧洲“氛围编码（Vibe-Coding）”初创公司Lovable于8月12日正式宣布完成4亿美元C轮融资，公司估值大幅飙升至133亿美元。本轮融资由Menlo Ventures与Scaleup Europe Fund共同领投，Regent等十余家知名投资机构参投。此次估值相比其去年12月由Menlo Ventures与",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30297.html",
+          "addtime": "2026-08-13T09:16:07.1148312+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，欧洲“氛围编码（Vibe-Coding）”初创公司Lovable于8月12日正式宣布完成4亿美元C轮融资，公司估值大幅飙升至133亿美元。本轮融资由Menlo Ventures与Scaleup Europe Fund共同领投，Regent等十余家知名投资机构参投。",
+      "ai_summary": "2026-08-13，欧洲“氛围编码（Vibe-Coding）”初创公司Lovable于8月12日正式宣布完成4亿美元C轮融资，公司估值大幅飙升至133亿美元。本轮融资由Menlo Ventures与Scaleup Europe Fund共同领投，Regent等十余家知名投资机构参投。",
+      "lead_excerpt": "欧洲“氛围编码（Vibe-Coding）”初创公司Lovable于8月12日正式宣布完成4亿美元C轮融资，公司估值大幅飙升至133亿美元。本轮融资由Menlo Ventures与Scaleup Europe Fund共同领投，Rege...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30296",
+        "url": "https://www.aibase.com/zh/news/30296",
+        "title": "深夜震撼发布：DeepSeek V4 Pro正式版亮相，比肩顶尖Fable大模型",
+        "date": "2026-08-13",
+        "lead": "8月13日，AI领域迎来密集的产品发布潮。在马斯克推出Grok4.6以及千问开源Qwen3.8Max的同时，DeepSeek也于深夜低调推出了V4Pro的正式版——DeepSeek-V4-Pro-0813。",
+        "first_paragraph": "目前，该正式版已经全面上线，其API与Chat端均已完成更新。用户在调用时保持原有的方法不变，直接通过指定相关的名称即可接入最新版本。",
+        "description": "8月13日，AI领域迎来密集的产品发布潮。在马斯克推出Grok4.6以及千问开源Qwen3.8Max的同时，DeepSeek也于深夜低调推出了V4Pro的正式版——DeepSeek-V4-Pro-0813。目前，该正式版已经全面上线，其API与Chat端均已完成更新。用户在调用时保持原有的方法不变，直接通过指定相关的名",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30296.html",
+          "addtime": "2026-08-13T09:14:41.6910077+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，8月13日，AI领域迎来密集的产品发布潮。在马斯克推出Grok4.6以及千问开源Qwen3.8Max的同时，DeepSeek也于深夜低调推出了V4Pro的正式版——DeepSeek-V4-Pro-0813。",
+      "ai_summary": "2026-08-13，8月13日，AI领域迎来密集的产品发布潮。在马斯克推出Grok4.6以及千问开源Qwen3.8Max的同时，DeepSeek也于深夜低调推出了V4Pro的正式版——DeepSeek-V4-Pro-0813。",
+      "lead_excerpt": "8月13日，AI领域迎来密集的产品发布潮。在马斯克推出Grok4.6以及千问开源Qwen3.8Max的同时，DeepSeek也于深夜低调推出了V4Pro的正式版——DeepSeek-V4-Pro-0813。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30295",
+        "url": "https://www.aibase.com/zh/news/30295",
+        "title": "半年连吸金5亿元！西湖机器人押注具身智能爆发前夜",
+        "date": "2026-08-13",
+        "lead": "作为西湖大学在人工智能与机器人领域的首个重要成果转化项目，西湖机器人近日迎来资本与技术的双重加速。在短短半年时间内，该公司连续完成四轮融资，累计金额高达 5 亿元人民币。其中，最新完成的A轮融资由海愿资本领投近亿元，所筹资金将主要投入到人形机器人全身统一大模型的研发，以及人才培育基地的建设布局中。",
+        "first_paragraph": "在创始人、西湖大学终身教授王东林及联合创始人张岳的带领下，核心团队汇聚了来自顶尖企业与高校的优秀人才。公司坚持全栈自研的技术路线，致力于打通具身AGI的三大核心板块。目前，西湖机器人已推出原创自研的GAE“身外化身”系统，不仅完成了多款双足人形机器人的适配验证，还与多家头部厂商展开了联合部署。",
+        "description": "作为西湖大学在人工智能与机器人领域的首个重要成果转化项目，西湖机器人近日迎来资本与技术的双重加速。在短短半年时间内，该公司连续完成四轮融资，累计金额高达 5 亿元人民币。其中，最新完成的A轮融资由海愿资本领投近亿元，所筹资金将主要投入到人形机器人全身统一大模型的研发，以及人才培育基地的建设布局中。在创始人、西湖大学终身",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30295.html",
+          "addtime": "2026-08-13T09:12:23.5782058+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，作为西湖大学在人工智能与机器人领域的首个重要成果转化项目，西湖机器人近日迎来资本与技术的双重加速。在短短半年时间内，该公司连续完成四轮融资，累计金额高达 5 亿元人民币。其中，最新完成的A轮融资由海愿资本领投近亿元，所筹资金将主要投入到人形机器人全身统一大模型的研发，以及人才培育基地的建设布局中。",
+      "ai_summary": "2026-08-13，作为西湖大学在人工智能与机器人领域的首个重要成果转化项目，西湖机器人近日迎来资本与技术的双重加速。在短短半年时间内，该公司连续完成四轮融资，累计金额高达 5 亿元人民币。其中，最新完成的A轮融资由海愿资本领投近亿元，所筹资金将主要投入到人形机器人全身统一大模型的研发，以及人才培育基地的建设布局中。",
+      "lead_excerpt": "作为西湖大学在人工智能与机器人领域的首个重要成果转化项目，西湖机器人近日迎来资本与技术的双重加速。在短短半年时间内，该公司连续完成四轮融资，累计金额高达 5 亿元人民币。其中，最新完成的A轮融资由海愿资本领投近亿元，所筹资金将主要投入...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30294",
+        "url": "https://www.aibase.com/zh/news/30294",
+        "title": "维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯",
+        "date": "2026-08-13",
+        "lead": "当地时间周三凌晨，一些 X 和 Reddit 用户发现，在谷歌搜索 OpenAI CEO 萨姆·奥尔特曼的名字时，搜索结果竟显示他于当天去世。几个小时后，谷歌承认该搜索结果存在错误，并在 X 上回应称：\"该信息目前已不再显示，这并非谷歌人为修改的结果，当有人恶意篡改公开信息来源时，可能会影响搜索结果中显示的信息。\"",
+        "first_paragraph": "网友普遍猜测这与维基百科遭到恶意篡改有关。奥尔特曼维基百科页面的修订历史显示，编辑人员当天的活动异常频繁，仅一天就进行了 22 次修改，而此前从本月初开始，该页面总共只更新过 5 次，且每次都在不同日期。",
+        "description": "当地时间周三凌晨，一些 X 和 Reddit 用户发现，在谷歌搜索 OpenAI CEO 萨姆·奥尔特曼的名字时，搜索结果竟显示他于当天去世。几个小时后，谷歌承认该搜索结果存在错误，并在 X 上回应称：\"该信息目前已不再显示，这并非谷歌人为修改的结果，当有人恶意篡改公开信息来源时，可能会影响搜索结果中显示的信",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30294.html",
+          "addtime": "2026-08-13T09:07:32.8172864+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，当地时间周三凌晨，一些 X 和 Reddit 用户发现，在谷歌搜索 OpenAI CEO 萨姆·奥尔特曼的名字时，搜索结果竟显示他于当天去世。几个小时后，谷歌承认该搜索结果存在错误，并在 X 上回应称：\"该信息目前已不再显示，这并非谷歌人为修改的结果，当有人恶意篡改公开信息来源时，可能会影响搜索结果中显示的信息。\"",
+      "ai_summary": "2026-08-13，当地时间周三凌晨，一些 X 和 Reddit 用户发现，在谷歌搜索 OpenAI CEO 萨姆·奥尔特曼的名字时，搜索结果竟显示他于当天去世。几个小时后，谷歌承认该搜索结果存在错误，并在 X 上回应称：\"该信息目前已不再显示，这并非谷歌人为修改的结果，当有人恶意篡改公开信息来源时，可能会影响搜索结果中显示的信息。\"",
+      "lead_excerpt": "当地时间周三凌晨，一些 X 和 Reddit 用户发现，在谷歌搜索 OpenAI CEO 萨姆·奥尔特曼的名字时，搜索结果竟显示他于当天去世。几个小时后，谷歌承认该搜索结果存在错误，并在 X 上回应称：\"该信息目前已不再显示，这并非谷...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30293",
+        "url": "https://www.aibase.com/zh/news/30293",
+        "title": "性能狂飙！Grok 4.6正式发布，实力比肩GPT-5.6 Sol",
+        "date": "2026-08-13",
+        "lead": "近日，SpaceX AI正式推出了其全新升级的旗舰级人工智能模型Grok4.6。该模型专注于处理复杂、长程的Agent任务，并在多项核心基准测试中展现出与OpenAI旗舰模型GPT-5.6Sol相媲美甚至超越的强劲实力。",
+        "first_paragraph": "回顾其技术演进，SpaceX AI曾在7月份联合Cursor推出了由数万张英伟达GB300GPU算力支持训练的Grok4.5。在此基础之上，Grok4.6实现了进一步飞跃。其训练过程重点针对长程复杂任务进行了全面优化，大量采用了涵盖推理能力、高级技术概念以及高质量工程代码的模型生成数据。同时，该模型还接受了广泛的Agent强化学习训练，覆盖知识工作、通用编程及多个专属领域环境，在构建视觉和交互式应用时能够输出更优质的初始效果。",
+        "description": "近日，SpaceX AI正式推出了其全新升级的旗舰级人工智能模型Grok4.6。该模型专注于处理复杂、长程的Agent任务，并在多项核心基准测试中展现出与OpenAI旗舰模型GPT-5.6Sol相媲美甚至超越的强劲实力。回顾其技术演进，SpaceX AI曾在7月份联合Cursor推出了由数万张英伟达GB300GPU算力",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30293.html",
+          "addtime": "2026-08-13T08:54:37.7067729+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，近日，SpaceX AI正式推出了其全新升级的旗舰级人工智能模型Grok4.6。该模型专注于处理复杂、长程的Agent任务，并在多项核心基准测试中展现出与OpenAI旗舰模型GPT-5.6Sol相媲美甚至超越的强劲实力。",
+      "ai_summary": "2026-08-13，近日，SpaceX AI正式推出了其全新升级的旗舰级人工智能模型Grok4.6。该模型专注于处理复杂、长程的Agent任务，并在多项核心基准测试中展现出与OpenAI旗舰模型GPT-5.6Sol相媲美甚至超越的强劲实力。",
+      "lead_excerpt": "近日，SpaceX AI正式推出了其全新升级的旗舰级人工智能模型Grok4.6。该模型专注于处理复杂、长程的Agent任务，并在多项核心基准测试中展现出与OpenAI旗舰模型GPT-5.6Sol相媲美甚至超越的强劲实力。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30291",
+        "url": "https://www.aibase.com/zh/news/30291",
+        "title": "Anthropic 给 Claude 输出悄悄加水印：Reddit 吵翻天，有用户怒斥\"数字文身\"",
+        "date": "2026-08-13",
+        "lead": "Anthropic 近日决定为 Claude 的生成内容添加水印，也就是在聊天机器人产出的文本中植入不可见代码，用于标记内容由 AI 生成。这一政策是为了满足欧盟《人工智能法案》透明度规范的要求，该规范强制科技公司对 AI 生成或编辑的内容进行计算机可识别的标记。监管机构或许会满意，但部分 AI 用户明显不太买账，Reddit 上已经吵成一片。",
+        "first_paragraph": "其中一篇言辞激烈的帖子来自用户 visionode，这个账号注册至今不到三周。他认为这套水印系统是一场\"严苛的阴谋\"，目的是让无辜的聊天机器人用户成为受害者。他的核心观点是：熟悉 Claude 的高手可以通过改写或借助其他 AI 服务隐藏使用痕迹，而普通用户只能任人拿捏。",
+        "description": "Anthropic 近日决定为 Claude 的生成内容添加水印，也就是在聊天机器人产出的文本中植入不可见代码，用于标记内容由 AI 生成。这一政策是为了满足欧盟《人工智能法案》透明度规范的要求，该规范强制科技公司对 AI 生成或编辑的内容进行计算机可识别的标记。监管机构或许会满意，但部分 AI 用户明显不太买账，Re",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30291.html",
+          "addtime": "2026-08-13T08:45:28+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，Anthropic 近日决定为 Claude 的生成内容添加水印，也就是在聊天机器人产出的文本中植入不可见代码，用于标记内容由 AI 生成。这一政策是为了满足欧盟《人工智能法案》透明度规范的要求，该规范强制科技公司对 AI 生成或编辑的内容进行计算机可识别的标记。监管机构或许会满意，但部分 AI 用户明显不太买账，Reddit 上已经吵成一片。",
+      "ai_summary": "2026-08-13，Anthropic 近日决定为 Claude 的生成内容添加水印，也就是在聊天机器人产出的文本中植入不可见代码，用于标记内容由 AI 生成。这一政策是为了满足欧盟《人工智能法案》透明度规范的要求，该规范强制科技公司对 AI 生成或编辑的内容进行计算机可识别的标记。监管机构或许会满意，但部分 AI 用户明显不太买账，Reddit 上已经吵成一片。",
+      "lead_excerpt": "Anthropic 近日决定为 Claude 的生成内容添加水印，也就是在聊天机器人产出的文本中植入不可见代码，用于标记内容由 AI 生成。这一政策是为了满足欧盟《人工智能法案》透明度规范的要求，该规范强制科技公司对 AI 生成或编辑...",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30290",
+        "url": "https://www.aibase.com/zh/news/30290",
+        "title": "阿里重磅开源2.4万亿参数大模型，多项性能比肩Fable 5",
+        "date": "2026-08-13",
+        "lead": "近日，开源领域迎来重要进展，阿里千问大模型团队正式对外开放了Qwen3.8-2.4T-A95B模型的权重。这也是该团队首次将Max级别的旗舰模型向全球开发者和研究人员全面放开。",
+        "first_paragraph": "作为此次开源的核心，该模型总参数量达到2.4万亿，每个Token激活950亿参数，原生支持26万Token的超长上下文，并可进一步扩展至101万。其底层架构延续了Qwen3.5的优势，在编程、日常办公、科研辅助以及长周期智能体任务上实现了全方位的性能升级。",
+        "description": "近日，开源领域迎来重要进展，阿里千问大模型团队正式对外开放了Qwen3.8-2.4T-A95B模型的权重。这也是该团队首次将Max级别的旗舰模型向全球开发者和研究人员全面放开。作为此次开源的核心，该模型总参数量达到2.4万亿，每个Token激活950亿参数，原生支持26万Token的超长上下文，并可进一步扩展至101万",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-07_2026-08-13/30290.html",
+          "addtime": "2026-08-13T08:44:16.7031477+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-13，近日，开源领域迎来重要进展，阿里千问大模型团队正式对外开放了Qwen3.8-2.4T-A95B模型的权重。这也是该团队首次将Max级别的旗舰模型向全球开发者和研究人员全面放开。",
+      "ai_summary": "2026-08-13，近日，开源领域迎来重要进展，阿里千问大模型团队正式对外开放了Qwen3.8-2.4T-A95B模型的权重。这也是该团队首次将Max级别的旗舰模型向全球开发者和研究人员全面放开。",
+      "lead_excerpt": "近日，开源领域迎来重要进展，阿里千问大模型团队正式对外开放了Qwen3.8-2.4T-A95B模型的权重。这也是该团队首次将Max级别的旗舰模型向全球开发者和研究人员全面放开。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。",
+    "备选线索数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
