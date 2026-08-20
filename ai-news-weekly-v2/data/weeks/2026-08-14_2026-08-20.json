@@ -1,0 +1,568 @@
+{
+  "week_id": "2026-08-14_2026-08-20",
+  "label": "8.14-8.20",
+  "start_date": "2026-08-14",
+  "end_date": "2026-08-20",
+  "generated_at": "2026-08-20T02:57:10",
+  "source": "AIbase",
+  "preferred": [],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30485",
+        "url": "https://www.aibase.com/zh/news/30485",
+        "title": "斩获Anthropic 2.5亿美元巨额订单！AI芯片黑马Fractile估值暴增6倍冲击65亿美元",
+        "date": "2026-08-20",
+        "lead": "AI芯片赛道再迎重磅融资黑马。人工智能芯片初创公司Fractile目前正在进行新一轮融资，目标以高达 65 亿美元的投前估值融资约 6 亿美元。知情人士透露，Fractile在今年 5 月完成上一轮融资后的估值仅约为 10 亿美元，本轮估值在短短几个月内实现了超过 6 倍的惊人飙升。",
+        "first_paragraph": "推动公司估值暴增的核心动力，来自于其斩获的重量级商业订单。据悉，Fractile已与Anthropic达成初步合作协议，将向后者出售价值约2. 5 亿美元的AI芯片，双方未来还计划进一步扩大合作规模。按照目前的进度规划，相关芯片预计将于 2027 年正式投入使用。",
+        "description": "AI芯片赛道再迎重磅融资黑马。人工智能芯片初创公司Fractile目前正在进行新一轮融资，目标以高达 65 亿美元的投前估值融资约 6 亿美元。知情人士透露，Fractile在今年 5 月完成上一轮融资后的估值仅约为 10 亿美元，本轮估值在短短几个月内实现了超过 6 倍的惊人飙升。推动公司估值暴增的核心动力，来自于其",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30485.html",
+          "addtime": "2026-08-20T09:23:57.6241191+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-20，AI芯片赛道再迎重磅融资黑马。人工智能芯片初创公司Fractile目前正在进行新一轮融资，目标以高达 65 亿美元的投前估值融资约 6 亿美元。知情人士透露，Fractile在今年 5 月完成上一轮融资后的估值仅约为 10 亿美元，本轮估值在短短几个月内实现了超过 6 倍的惊人飙升。",
+      "ai_summary": "2026-08-20，AI芯片赛道再迎重磅融资黑马。人工智能芯片初创公司Fractile目前正在进行新一轮融资，目标以高达 65 亿美元的投前估值融资约 6 亿美元。知情人士透露，Fractile在今年 5 月完成上一轮融资后的估值仅约为 10 亿美元，本轮估值在短短几个月内实现了超过 6 倍的惊人飙升。",
+      "lead_excerpt": "AI芯片赛道再迎重磅融资黑马。人工智能芯片初创公司Fractile目前正在进行新一轮融资，目标以高达 65 亿美元的投前估值融资约 6 亿美元。知情人士透露，Fractile在今年 5 月完成上一轮融资后的估值仅约为 10 亿美元，本...",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30494",
+        "url": "https://www.aibase.com/zh/news/30494",
+        "title": "CounterPoint预估：智能眼镜与戒指将成未来增长最快品类",
+        "date": "2026-08-20",
+        "lead": "市场调查机构 CounterPoint Research 近日发布最新预测报告指出，在2026至2032年期间，全球消费级可穿戴设备的累计营收将突破1万亿美元大关，整体市场的年复合增长率预计将达到12%。",
+        "first_paragraph": "该机构首席分析师 Anshika Jain 指出，可穿戴设备的应用场景正在从传统的日常健身迅速延伸至预防性医疗领域。越来越多的消费者愿意为能够进行持续健康监测的高端设备支付更高价格，这也直接推动了整体营收的增长速度明显超越出货量的增速。",
+        "description": "市场调查机构 CounterPoint Research 近日发布最新预测报告指出，在2026至2032年期间，全球消费级可穿戴设备的累计营收将突破1万亿美元大关，整体市场的年复合增长率预计将达到12%。该机构首席分析师 Anshika Jain 指出，可穿戴设备的应用场景正在从传统的日常健身迅速延伸至预防性医疗领域。",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30494.html",
+          "addtime": "2026-08-20T10:16:07.8090606+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-20，市场调查机构 CounterPoint Research 近日发布最新预测报告指出，在2026至2032年期间，全球消费级可穿戴设备的累计营收将突破1万亿美元大关，整体市场的年复合增长率预计将达到12%。",
+      "ai_summary": "2026-08-20，市场调查机构 CounterPoint Research 近日发布最新预测报告指出，在2026至2032年期间，全球消费级可穿戴设备的累计营收将突破1万亿美元大关，整体市场的年复合增长率预计将达到12%。",
+      "lead_excerpt": "市场调查机构 CounterPoint Research 近日发布最新预测报告指出，在2026至2032年期间，全球消费级可穿戴设备的累计营收将突破1万亿美元大关，整体市场的年复合增长率预计将达到12%。",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、产品/功能/工具/平台动作",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30489",
+        "url": "https://www.aibase.com/zh/news/30489",
+        "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "date": "2026-08-20",
+        "lead": "Stripe宣布已完成对AI模型路由平台OpenRouter的收购，虽然双方未披露交易金额，但据《纽约时报》援引消息人士称，Stripe此次交易支付约75亿美元，远高于OpenRouter今年5月13亿美元的估值。",
+        "first_paragraph": "据报道，此次收购中，OpenRouter创始人预计将获得约15亿美元收益，投资者则获得约60亿美元回报。Stripe为完成交易击败了包括Databricks在内的多家潜在竞争者。收购完成后，OpenRouter预计将继续保持独立运营，其产品、使命和现有服务承诺不会发生变化。",
+        "description": "Stripe宣布已完成对AI模型路由平台OpenRouter的收购，虽然双方未披露交易金额，但据《纽约时报》援引消息人士称，Stripe此次交易支付约75亿美元，远高于OpenRouter今年5月13亿美元的估值。据报道，此次收购中，OpenRouter创始人预计将获得约15亿美元收益，投资者则获得约60亿美元回报。S",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30489.html",
+          "addtime": "2026-08-20T09:40:39.2764035+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-20，Stripe宣布已完成对AI模型路由平台OpenRouter的收购，虽然双方未披露交易金额，但据《纽约时报》援引消息人士称，Stripe此次交易支付约75亿美元，远高于OpenRouter今年5月13亿美元的估值。",
+      "ai_summary": "2026-08-20，Stripe宣布已完成对AI模型路由平台OpenRouter的收购，虽然双方未披露交易金额，但据《纽约时报》援引消息人士称，Stripe此次交易支付约75亿美元，远高于OpenRouter今年5月13亿美元的估值。",
+      "lead_excerpt": "Stripe宣布已完成对AI模型路由平台OpenRouter的收购，虽然双方未披露交易金额，但据《纽约时报》援引消息人士称，Stripe此次交易支付约75亿美元，远高于OpenRouter今年5月13亿美元的估值。",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、产品/功能/工具/平台动作",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30493",
+        "url": "https://www.aibase.com/zh/news/30493",
+        "title": "Meta推出Mac版AI助手，支持屏幕共享和语音输入功能",
+        "date": "2026-08-20",
+        "lead": "Meta宣布推出专为其AI聊天机器人打造的Mac桌面应用，进一步强化Meta AI在生产力场景中的应用能力。新应用支持用户共享电脑窗口，让AI根据屏幕内容提供建议、回答问题或生成内容，同时支持跨应用语音输入功能。",
+        "first_paragraph": "此次发布标志着Meta正推动AI聊天机器人从简单问答工具向智能生产力助手转型，以应对来自Google Gemini、OpenAI ChatGPT和Anthropic Claude等产品的竞争。目前，Gemini桌面应用已支持窗口共享功能，而ChatGPT和Claude则进一步提供计算机操作能力。",
+        "description": "Meta宣布推出专为其AI聊天机器人打造的Mac桌面应用，进一步强化Meta AI在生产力场景中的应用能力。新应用支持用户共享电脑窗口，让AI根据屏幕内容提供建议、回答问题或生成内容，同时支持跨应用语音输入功能。此次发布标志着Meta正推动AI聊天机器人从简单问答工具向智能生产力助手转型，以应对来自Google Gem",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30493.html",
+          "addtime": "2026-08-20T10:11:42.4303388+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-20，Meta宣布推出专为其AI聊天机器人打造的Mac桌面应用，进一步强化Meta AI在生产力场景中的应用能力。新应用支持用户共享电脑窗口，让AI根据屏幕内容提供建议、回答问题或生成内容，同时支持跨应用语音输入功能。",
+      "ai_summary": "2026-08-20，Meta宣布推出专为其AI聊天机器人打造的Mac桌面应用，进一步强化Meta AI在生产力场景中的应用能力。新应用支持用户共享电脑窗口，让AI根据屏幕内容提供建议、回答问题或生成内容，同时支持跨应用语音输入功能。",
+      "lead_excerpt": "Meta宣布推出专为其AI聊天机器人打造的Mac桌面应用，进一步强化Meta AI在生产力场景中的应用能力。新应用支持用户共享电脑窗口，让AI根据屏幕内容提供建议、回答问题或生成内容，同时支持跨应用语音输入功能。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30490",
+        "url": "https://www.aibase.com/zh/news/30490",
+        "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+        "date": "2026-08-20",
+        "lead": "OpenAI旗下ChatGPT近日出现全球范围服务故障，用户无法登录、注册账号、加载历史聊天记录或正常发送消息，受影响范围覆盖美国、欧洲等多个地区。",
+        "first_paragraph": "此次故障约于美国东部时间8月19日晚8点开始。受影响用户打开ChatGPT后，页面可能停留在侧边栏加载动画界面，并出现“并发请求过多”等错误提示，导致无法继续发送消息。同时，chatgpt.com的新用户注册和账号登录功能也出现异常，部分用户无法访问此前保存的聊天记录。",
+        "description": "OpenAI旗下ChatGPT近日出现全球范围服务故障，用户无法登录、注册账号、加载历史聊天记录或正常发送消息，受影响范围覆盖美国、欧洲等多个地区。此次故障约于美国东部时间8月19日晚8点开始。受影响用户打开ChatGPT后，页面可能停留在侧边栏加载动画界面，并出现“并发请求过多”等错误提示，导致无法继续发送消息。同时",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30490.html",
+          "addtime": "2026-08-20T09:41:41.5229535+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-20，OpenAI旗下ChatGPT近日出现全球范围服务故障，用户无法登录、注册账号、加载历史聊天记录或正常发送消息，受影响范围覆盖美国、欧洲等多个地区。",
+      "ai_summary": "2026-08-20，OpenAI旗下ChatGPT近日出现全球范围服务故障，用户无法登录、注册账号、加载历史聊天记录或正常发送消息，受影响范围覆盖美国、欧洲等多个地区。",
+      "lead_excerpt": "OpenAI旗下ChatGPT近日出现全球范围服务故障，用户无法登录、注册账号、加载历史聊天记录或正常发送消息，受影响范围覆盖美国、欧洲等多个地区。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30482",
+        "url": "https://www.aibase.com/zh/news/30482",
+        "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+        "date": "2026-08-20",
+        "lead": "亚马逊宣布，旗下AI助手 Alexa+ 将在美国免费推送至所有兼容 Fire TV 设备，不再要求用户订阅 Prime 会员。此次更新将为电视用户带来对话式搜索、智能家居控制以及AI内容推荐等功能，推动生成式AI进一步进入家庭娱乐场景。",
+        "first_paragraph": "此前，Alexa+主要面向部分新款Fire TV设备用户开放，对于非Prime会员用户，服务费用为每月19.99美元。亚马逊表示，此次升级无需用户下载应用或额外订阅，所有符合条件的设备将自动获得Alexa+功能。",
+        "description": "亚马逊宣布，旗下AI助手 Alexa+ 将在美国免费推送至所有兼容 Fire TV 设备，不再要求用户订阅 Prime 会员。此次更新将为电视用户带来对话式搜索、智能家居控制以及AI内容推荐等功能，推动生成式AI进一步进入家庭娱乐场景。此前，Alexa+主要面向部分新款Fire TV设备用户开放，对于非Prime会员用",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30482.html",
+          "addtime": "2026-08-20T09:07:35.4828706+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-20，亚马逊宣布，旗下AI助手 Alexa+ 将在美国免费推送至所有兼容 Fire TV 设备，不再要求用户订阅 Prime 会员。此次更新将为电视用户带来对话式搜索、智能家居控制以及AI内容推荐等功能，推动生成式AI进一步进入家庭娱乐场景。",
+      "ai_summary": "2026-08-20，亚马逊宣布，旗下AI助手 Alexa+ 将在美国免费推送至所有兼容 Fire TV 设备，不再要求用户订阅 Prime 会员。此次更新将为电视用户带来对话式搜索、智能家居控制以及AI内容推荐等功能，推动生成式AI进一步进入家庭娱乐场景。",
+      "lead_excerpt": "亚马逊宣布，旗下AI助手 Alexa+ 将在美国免费推送至所有兼容 Fire TV 设备，不再要求用户订阅 Prime 会员。此次更新将为电视用户带来对话式搜索、智能家居控制以及AI内容推荐等功能，推动生成式AI进一步进入家庭娱乐场景。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30481",
+        "url": "https://www.aibase.com/zh/news/30481",
+        "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+        "date": "2026-08-20",
+        "lead": "OpenAI宣布推出面向部分客户预览的“隐私安全处理”（Private Safety Processing）服务，在不保留客户数据的前提下，通过自动化系统监控AI模型潜在滥用行为，进一步扩展其零数据保留(ZDR)安全能力。",
+        "first_paragraph": "随着AI模型能力快速提升，模型被用于网络攻击、恶意代码生成等风险场景的可能性增加，AI企业正面临如何兼顾客户隐私与安全监管的挑战。OpenAI此次推出的Private Safety Processing，旨在解决企业客户不愿共享敏感数据、同时又需要安全防护的问题。",
+        "description": "OpenAI宣布推出面向部分客户预览的“隐私安全处理”（Private Safety Processing）服务，在不保留客户数据的前提下，通过自动化系统监控AI模型潜在滥用行为，进一步扩展其零数据保留(ZDR)安全能力。随着AI模型能力快速提升，模型被用于网络攻击、恶意代码生成等风险场景的可能性增加，AI企业正面临如",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30481.html",
+          "addtime": "2026-08-20T09:05:44.2700889+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-20，OpenAI宣布推出面向部分客户预览的“隐私安全处理”（Private Safety Processing）服务，在不保留客户数据的前提下，通过自动化系统监控AI模型潜在滥用行为，进一步扩展其零数据保留(ZDR)安全能力。",
+      "ai_summary": "2026-08-20，OpenAI宣布推出面向部分客户预览的“隐私安全处理”（Private Safety Processing）服务，在不保留客户数据的前提下，通过自动化系统监控AI模型潜在滥用行为，进一步扩展其零数据保留(ZDR)安全能力。",
+      "lead_excerpt": "OpenAI宣布推出面向部分客户预览的“隐私安全处理”（Private Safety Processing）服务，在不保留客户数据的前提下，通过自动化系统监控AI模型潜在滥用行为，进一步扩展其零数据保留(ZDR)安全能力。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30480",
+        "url": "https://www.aibase.com/zh/news/30480",
+        "title": "谷歌搜索与 Gemini 上线AI学习工具，新增3D模拟和智能测验功能",
+        "date": "2026-08-20",
+        "lead": "谷歌宣布在搜索和 Gemini 中推出一系列面向学习场景的AI工具，包括AI生成交互式视觉效果、3D模拟、学生专属学习中心、定制练习测验等功能，进一步强化 Gemini 作为学习助手的定位，并加速与 OpenAI 及教育类AI初创公司的竞争。",
+        "first_paragraph": "此次升级后，学生可通过 Google 搜索生成针对复杂知识点的交互式学习内容。例如搜索“pH值”时，AI概览能够提供可视化图表帮助理解基础概念;用户还可提出更具体的问题，让AI模式生成个性化互动体验，如在pH值尺度上展示柑橘类水果分布情况。",
+        "description": "谷歌宣布在搜索和 Gemini 中推出一系列面向学习场景的AI工具，包括AI生成交互式视觉效果、3D模拟、学生专属学习中心、定制练习测验等功能，进一步强化 Gemini 作为学习助手的定位，并加速与 OpenAI 及教育类AI初创公司的竞争。此次升级后，学生可通过 Google 搜索生成针对复杂知识点的交互式学习内容。",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30480.html",
+          "addtime": "2026-08-20T09:00:44+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-20，谷歌宣布在搜索和 Gemini 中推出一系列面向学习场景的AI工具，包括AI生成交互式视觉效果、3D模拟、学生专属学习中心、定制练习测验等功能，进一步强化 Gemini 作为学习助手的定位，并加速与 OpenAI 及教育类AI初创公司的竞争。",
+      "ai_summary": "2026-08-20，谷歌宣布在搜索和 Gemini 中推出一系列面向学习场景的AI工具，包括AI生成交互式视觉效果、3D模拟、学生专属学习中心、定制练习测验等功能，进一步强化 Gemini 作为学习助手的定位，并加速与 OpenAI 及教育类AI初创公司的竞争。",
+      "lead_excerpt": "谷歌宣布在搜索和 Gemini 中推出一系列面向学习场景的AI工具，包括AI生成交互式视觉效果、3D模拟、学生专属学习中心、定制练习测验等功能，进一步强化 Gemini 作为学习助手的定位，并加速与 OpenAI 及教育类AI初创公司...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30492",
+        "url": "https://www.aibase.com/zh/news/30492",
+        "title": "OpenAI 内部底牌曝光：最迟 2027 年上市，迎战最强对手",
+        "date": "2026-08-20",
+        "lead": "近日，一则关于人工智能巨头 OpenAI 的重磅消息在科技圈引发广泛关注。在内部全员大会上，OpenAI 首席财务官萨拉·弗里亚尔向全体员工明确了公司的上市时间表，并透露了最新的财务与业务核心数据。",
+        "first_paragraph": "上市只是融资新起点，时间表锁定 2027 年",
+        "description": "近日，一则关于人工智能巨头 OpenAI 的重磅消息在科技圈引发广泛关注。在内部全员大会上，OpenAI 首席财务官萨拉·弗里亚尔向全体员工明确了公司的上市时间表，并透露了最新的财务与业务核心数据。上市只是融资新起点，时间表锁定 2027 年在全员大会中，萨拉·弗里亚尔向员工透露，公司最迟将于 2027 年完成上市，若",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30492.html",
+          "addtime": "2026-08-20T10:08:54.5413259+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-20，近日，一则关于人工智能巨头 OpenAI 的重磅消息在科技圈引发广泛关注。在内部全员大会上，OpenAI 首席财务官萨拉·弗里亚尔向全体员工明确了公司的上市时间表，并透露了最新的财务与业务核心数据。",
+      "ai_summary": "2026-08-20，近日，一则关于人工智能巨头 OpenAI 的重磅消息在科技圈引发广泛关注。在内部全员大会上，OpenAI 首席财务官萨拉·弗里亚尔向全体员工明确了公司的上市时间表，并透露了最新的财务与业务核心数据。",
+      "lead_excerpt": "近日，一则关于人工智能巨头 OpenAI 的重磅消息在科技圈引发广泛关注。在内部全员大会上，OpenAI 首席财务官萨拉·弗里亚尔向全体员工明确了公司的上市时间表，并透露了最新的财务与业务核心数据。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30491",
+        "url": "https://www.aibase.com/zh/news/30491",
+        "title": "韶音首款AI开放式耳机OpenFit 2 AI重磅发布，深度接入千问大模型剑指高端商务",
+        "date": "2026-08-20",
+        "lead": "作为全球开放式耳机出货量连续三年稳居榜首的头部品牌，韶音近日正式发布了旗下首款AI硬件产品——OpenFit 2 AI。该产品深度接入了阿里巴巴千问大模型，并针对金融、法律等高专业门槛的商务语境进行了专项深度调优，标志着韶音在巩固其核心硬件壁垒的同时，正式全面迈入AI驱动的全新发展阶段。",
+        "first_paragraph": "在核心功能与软件生态方面，OpenFit 2 AI被精准定位为新一代商务生产力工具。硬件层面，该耳机不仅搭载了先进的防漏音技术，更支持最长达 8 小时的连续录音。在AI能力加持下，它可实现覆盖 49 种语言的高效转写，内置 12 类垂直行业专业词库与 19 种智能总结模板，并提供多达 30 种语种的精准翻译模式，全面赋能跨国会议与深度商务访谈。",
+        "description": "作为全球开放式耳机出货量连续三年稳居榜首的头部品牌，韶音近日正式发布了旗下首款AI硬件产品——OpenFit 2 AI。该产品深度接入了阿里巴巴千问大模型，并针对金融、法律等高专业门槛的商务语境进行了专项深度调优，标志着韶音在巩固其核心硬件壁垒的同时，正式全面迈入AI驱动的全新发展阶段。在核心功能与软件生态方面，Ope",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30491.html",
+          "addtime": "2026-08-20T09:51:18+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-20，作为全球开放式耳机出货量连续三年稳居榜首的头部品牌，韶音近日正式发布了旗下首款AI硬件产品——OpenFit 2 AI。该产品深度接入了阿里巴巴千问大模型，并针对金融、法律等高专业门槛的商务语境进行了专项深度调优，标志着韶音在巩固其核心硬件壁垒的同时，正式全面迈入AI驱动的全新发展阶段。",
+      "ai_summary": "2026-08-20，作为全球开放式耳机出货量连续三年稳居榜首的头部品牌，韶音近日正式发布了旗下首款AI硬件产品——OpenFit 2 AI。该产品深度接入了阿里巴巴千问大模型，并针对金融、法律等高专业门槛的商务语境进行了专项深度调优，标志着韶音在巩固其核心硬件壁垒的同时，正式全面迈入AI驱动的全新发展阶段。",
+      "lead_excerpt": "作为全球开放式耳机出货量连续三年稳居榜首的头部品牌，韶音近日正式发布了旗下首款AI硬件产品——OpenFit 2 AI。该产品深度接入了阿里巴巴千问大模型，并针对金融、法律等高专业门槛的商务语境进行了专项深度调优，标志着韶音在巩固其核...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30488",
+        "url": "https://www.aibase.com/zh/news/30488",
+        "title": "特斯拉中国车机重磅升级豆包大模型，开启智能语音新时代",
+        "date": "2026-08-20",
+        "lead": "特斯拉中国车机系统近日正式迎来重大更新，全面上线字节跳动旗下的豆包大模型。事实上，特斯拉中国已于7月31日起分批推送了2026.14.13版本车机软件更新，全面覆盖Model3、Model Y、Model S以及Model X全系车型，并且新交付的车辆将优先搭载。车主完成OTA升级后，只需长按方向盘语音按钮、呼喊唤醒词“嘿，Tesla”或者操作方向盘滚轮，即可轻松唤醒全新的AI语音助手。",
+        "first_paragraph": "在技术架构上，全新的AI语音助手依托于豆包端到端语音交互架构，成功跳过了传统语音助手“语音转文字、文本理解、文字转语音”的多步中间环节。这种“语音到语音”的直连方式不仅大幅降低了交互延迟，更带来了极低延迟、更加自然连贯且具有主动性的对话体验，仿佛副驾驶坐着一位随时能接梗的专业朋友。",
+        "description": "特斯拉中国车机系统近日正式迎来重大更新，全面上线字节跳动旗下的豆包大模型。事实上，特斯拉中国已于7月31日起分批推送了2026.14.13版本车机软件更新，全面覆盖Model3、Model Y、Model S以及Model X全系车型，并且新交付的车辆将优先搭载。车主完成OTA升级后，只需长按方向盘语音按钮、呼喊唤醒词",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30488.html",
+          "addtime": "2026-08-20T09:32:29.4316414+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-20，特斯拉中国车机系统近日正式迎来重大更新，全面上线字节跳动旗下的豆包大模型。事实上，特斯拉中国已于7月31日起分批推送了2026.14.13版本车机软件更新，全面覆盖Model3、Model Y、Model S以及Model X全系车型，并且新交付的车辆将优先搭载。车主完成OTA升级后，只需长按方向盘语音按钮、呼喊唤醒词“嘿，Tesla”或者操作方向盘滚...",
+      "ai_summary": "2026-08-20，特斯拉中国车机系统近日正式迎来重大更新，全面上线字节跳动旗下的豆包大模型。事实上，特斯拉中国已于7月31日起分批推送了2026.14.13版本车机软件更新，全面覆盖Model3、Model Y、Model S以及Model X全系车型，并且新交付的车辆将优先搭载。车主完成OTA升级后，只需长按方向盘语音按钮、呼喊唤醒词“嘿，Tesla”或者操作方向盘滚...",
+      "lead_excerpt": "特斯拉中国车机系统近日正式迎来重大更新，全面上线字节跳动旗下的豆包大模型。事实上，特斯拉中国已于7月31日起分批推送了2026.14.13版本车机软件更新，全面覆盖Model3、Model Y、Model S以及Model X全系车型...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30487",
+        "url": "https://www.aibase.com/zh/news/30487",
+        "title": "冲击5万亿参数终极目标！字节跳动Seed基模团队架构大洗牌，四大核心一级部门浮出水面",
+        "date": "2026-08-20",
+        "lead": "为了给传闻中参数规模超 5 万亿的下一代超大模型铺路，字节跳动的大模型部门 Seed 近期完成了新一轮深度的组织架构调整。此次调整打破了以往按模态和研究方向划分的传统模式，将原先分散的团队重新整合，全面优化研发效率。",
+        "first_paragraph": "在本次架构调整中，Seed 基础模型（Seed Foundation Model）正式成立了四个全新的一级部门。首先是预训练数据团队 Pretrain Data，由李成刚担任负责人，该部门由原先散落在文本、编程、视觉理解和语音等方向的预训练团队合并而来，统一负责新 Omni 模型的多模态数据及超大模型预训练工作。",
+        "description": "为了给传闻中参数规模超 5 万亿的下一代超大模型铺路，字节跳动的大模型部门 Seed 近期完成了新一轮深度的组织架构调整。此次调整打破了以往按模态和研究方向划分的传统模式，将原先分散的团队重新整合，全面优化研发效率。在本次架构调整中，Seed 基础模型（Seed Foundation Model）正式成立了四个全新的一",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30487.html",
+          "addtime": "2026-08-20T09:30:08.7242132+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-20，为了给传闻中参数规模超 5 万亿的下一代超大模型铺路，字节跳动的大模型部门 Seed 近期完成了新一轮深度的组织架构调整。此次调整打破了以往按模态和研究方向划分的传统模式，将原先分散的团队重新整合，全面优化研发效率。",
+      "ai_summary": "2026-08-20，为了给传闻中参数规模超 5 万亿的下一代超大模型铺路，字节跳动的大模型部门 Seed 近期完成了新一轮深度的组织架构调整。此次调整打破了以往按模态和研究方向划分的传统模式，将原先分散的团队重新整合，全面优化研发效率。",
+      "lead_excerpt": "为了给传闻中参数规模超 5 万亿的下一代超大模型铺路，字节跳动的大模型部门 Seed 近期完成了新一轮深度的组织架构调整。此次调整打破了以往按模态和研究方向划分的传统模式，将原先分散的团队重新整合，全面优化研发效率。",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30486",
+        "url": "https://www.aibase.com/zh/news/30486",
+        "title": "京东发布机器人战略，2028年前投入百亿资源布局产业生态",
+        "date": "2026-08-20",
+        "lead": "在2026世界机器人大会（WRC2026）期间，京东担任大会全球战略合作伙伴，并发布机器人领域战略布局，计划从供应链、服务体系和技术平台三方面推动机器人产业规模化发展。",
+        "first_paragraph": "供应链方面，京东宣布截至2028年将在机器人领域投入百亿资源，助力100个机器人品牌实现独立销售额突破10亿元。目前，京东已通过自营模式与200余家机器人品牌及大量核心零部件企业展开合作，覆盖个人消费与家庭服务场景，并布局零售、健康、工业、物流等多个行业领域。同时，京东欧洲Joybuy已与50余家中国机器人品牌建立合作，推动中国机器人产品进入海外市场。",
+        "description": "在2026世界机器人大会（WRC2026）期间，京东担任大会全球战略合作伙伴，并发布机器人领域战略布局，计划从供应链、服务体系和技术平台三方面推动机器人产业规模化发展。供应链方面，京东宣布截至2028年将在机器人领域投入百亿资源，助力100个机器人品牌实现独立销售额突破10亿元。目前，京东已通过自营模式与200余家机器",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30486.html",
+          "addtime": "2026-08-20T09:27:13.0097881+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-20，在2026世界机器人大会（WRC2026）期间，京东担任大会全球战略合作伙伴，并发布机器人领域战略布局，计划从供应链、服务体系和技术平台三方面推动机器人产业规模化发展。",
+      "ai_summary": "2026-08-20，在2026世界机器人大会（WRC2026）期间，京东担任大会全球战略合作伙伴，并发布机器人领域战略布局，计划从供应链、服务体系和技术平台三方面推动机器人产业规模化发展。",
+      "lead_excerpt": "在2026世界机器人大会（WRC2026）期间，京东担任大会全球战略合作伙伴，并发布机器人领域战略布局，计划从供应链、服务体系和技术平台三方面推动机器人产业规模化发展。",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30484",
+        "url": "https://www.aibase.com/zh/news/30484",
+        "title": "小米新一代人形机器人惊艳亮相，大模型加持动作丝滑宛如真人",
+        "date": "2026-08-20",
+        "lead": "小米新一代人形机器人近日正式亮相2026世界机器人博览会，并登陆“具身花园”展台。在现场演示中，这款机器人化身优雅的“花艺师”，不仅能够流畅地完成抓取香片、撒花并递送给观众等精细动作，还支持握手、碰拳、比心等多元互动，整体表现自然流畅，摆脱了以往机器人的生硬感。",
+        "first_paragraph": "据官方介绍，这些看似生动的交互并非依靠单纯的预设程序机械执行，而是由强大的大模型驱动。机器人能够结合大模型对现场的复杂交互指令与实时场景进行深度理解、自主判断，从而独立完成各项操作。",
+        "description": "小米新一代人形机器人近日正式亮相2026世界机器人博览会，并登陆“具身花园”展台。在现场演示中，这款机器人化身优雅的“花艺师”，不仅能够流畅地完成抓取香片、撒花并递送给观众等精细动作，还支持握手、碰拳、比心等多元互动，整体表现自然流畅，摆脱了以往机器人的生硬感。据官方介绍，这些看似生动的交互并非依靠单纯的预设程序机械执",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30484.html",
+          "addtime": "2026-08-20T09:20:15.6438609+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-20，小米新一代人形机器人近日正式亮相2026世界机器人博览会，并登陆“具身花园”展台。在现场演示中，这款机器人化身优雅的“花艺师”，不仅能够流畅地完成抓取香片、撒花并递送给观众等精细动作，还支持握手、碰拳、比心等多元互动，整体表现自然流畅，摆脱了以往机器人的生硬感。",
+      "ai_summary": "2026-08-20，小米新一代人形机器人近日正式亮相2026世界机器人博览会，并登陆“具身花园”展台。在现场演示中，这款机器人化身优雅的“花艺师”，不仅能够流畅地完成抓取香片、撒花并递送给观众等精细动作，还支持握手、碰拳、比心等多元互动，整体表现自然流畅，摆脱了以往机器人的生硬感。",
+      "lead_excerpt": "小米新一代人形机器人近日正式亮相2026世界机器人博览会，并登陆“具身花园”展台。在现场演示中，这款机器人化身优雅的“花艺师”，不仅能够流畅地完成抓取香片、撒花并递送给观众等精细动作，还支持握手、碰拳、比心等多元互动，整体表现自然流畅...",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30483",
+        "url": "https://www.aibase.com/zh/news/30483",
+        "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+        "date": "2026-08-20",
+        "lead": "据CNBC报道，OpenAI首席财务官萨拉·弗里亚尔在当地时间周三举行的全员会议上向员工透露，公司计划于2027年完成上市，如果业务发展持续向好，也可能提前进入公开市场。",
+        "first_paragraph": "知情人士称，弗里亚尔在会议中表示，IPO并非公司的终点，而是未来融资和发展过程中的重要里程碑。她提到，OpenAI已于今年3月完成1220亿美元融资，这笔资金为公司后续业务扩张提供了较大的运营空间。",
+        "description": "据CNBC报道，OpenAI首席财务官萨拉·弗里亚尔在当地时间周三举行的全员会议上向员工透露，公司计划于2027年完成上市，如果业务发展持续向好，也可能提前进入公开市场。知情人士称，弗里亚尔在会议中表示，IPO并非公司的终点，而是未来融资和发展过程中的重要里程碑。她提到，OpenAI已于今年3月完成1220亿美元融资，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30483.html",
+          "addtime": "2026-08-20T09:14:20.3916353+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-20，据CNBC报道，OpenAI首席财务官萨拉·弗里亚尔在当地时间周三举行的全员会议上向员工透露，公司计划于2027年完成上市，如果业务发展持续向好，也可能提前进入公开市场。",
+      "ai_summary": "2026-08-20，据CNBC报道，OpenAI首席财务官萨拉·弗里亚尔在当地时间周三举行的全员会议上向员工透露，公司计划于2027年完成上市，如果业务发展持续向好，也可能提前进入公开市场。",
+      "lead_excerpt": "据CNBC报道，OpenAI首席财务官萨拉·弗里亚尔在当地时间周三举行的全员会议上向员工透露，公司计划于2027年完成上市，如果业务发展持续向好，也可能提前进入公开市场。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30477",
+        "url": "https://www.aibase.com/zh/news/30477",
+        "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+        "date": "2026-08-19",
+        "lead": "运动科技公司Keep于8月19日正式宣布，其自研的运动健康大模型Keepace.ai已成功完成国家及北京市大模型备案，备案编号为Beijing-KeepaceAI-202606250253。这标志着运动垂类人工智能技术正在加速走向规范化与规模化落地。",
+        "first_paragraph": "回顾其发展历程，Keepace.ai于今年4月随着Keep App9.0版本首次公开亮相。该模型依托于Keep过去十年所积累的亿级海量运动数据，并获得了首都体育学院运动健康领域专家团队的科学性专业支持，确保了算法在运动领域的专业度与安全性。",
+        "description": "运动科技公司Keep于8月19日正式宣布，其自研的运动健康大模型Keepace.ai已成功完成国家及北京市大模型备案，备案编号为Beijing-KeepaceAI-202606250253。这标志着运动垂类人工智能技术正在加速走向规范化与规模化落地。回顾其发展历程，Keepace.ai于今年4月随着Keep App9.",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-14_2026-08-20/30477.html",
+          "addtime": "2026-08-19T17:59:12.8143067+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-19，运动科技公司Keep于8月19日正式宣布，其自研的运动健康大模型Keepace.ai已成功完成国家及北京市大模型备案，备案编号为Beijing-KeepaceAI-202606250253。这标志着运动垂类人工智能技术正在加速走向规范化与规模化落地。",
+      "ai_summary": "2026-08-19，运动科技公司Keep于8月19日正式宣布，其自研的运动健康大模型Keepace.ai已成功完成国家及北京市大模型备案，备案编号为Beijing-KeepaceAI-202606250253。这标志着运动垂类人工智能技术正在加速走向规范化与规模化落地。",
+      "lead_excerpt": "运动科技公司Keep于8月19日正式宣布，其自研的运动健康大模型Keepace.ai已成功完成国家及北京市大模型备案，备案编号为Beijing-KeepaceAI-202606250253。这标志着运动垂类人工智能技术正在加速走向规范...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
