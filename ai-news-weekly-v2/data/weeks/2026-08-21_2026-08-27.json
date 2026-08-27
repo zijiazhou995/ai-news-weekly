@@ -1,0 +1,712 @@
+{
+  "week_id": "2026-08-21_2026-08-27",
+  "label": "8.21-8.27",
+  "start_date": "2026-08-21",
+  "end_date": "2026-08-27",
+  "generated_at": "2026-08-27T12:23:58",
+  "source": "AIbase",
+  "preferred": [],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30671",
+        "url": "https://www.aibase.com/zh/news/30671",
+        "title": "亚马逊订单激增三倍，英伟达芯片成全球大厂“硬通货”",
+        "date": "2026-08-27",
+        "lead": "近日，亚马逊与英伟达宣布进一步深化战略合作，亚马逊在数月前刚宣布部署超过 100 万枚英伟达GPU的基础上，将订单量直接激增三倍，计划在其数据中心再引入 200 万枚英伟达GPU芯片。这笔跨国巨头的合作不仅印证了当前AI需求的井喷，也再次将算力背后的巨额资本博弈推向了台前。",
+        "first_paragraph": "根据两家公司披露的合作细节，此次新增的 200 万枚GPU芯片涵盖了英伟达最新的Blackwell Ultra、Rubin以及Rubin Ultra等尖端架构，预计将在 2027 年至 2028 年期间正式部署至亚马逊云科技（AWS）的数据中心。尽管双方并未公布具体的财务条款，但考虑到高端GPU的单价，该交易的价值无疑高达数百亿美元。英伟达官方表示，由于初创企业、大型企业、顶尖AI实验室甚至各国政府对算力的需求持续远超预期，促使双方迅速敲定了这笔大单。",
+        "description": "近日，亚马逊与英伟达宣布进一步深化战略合作，亚马逊在数月前刚宣布部署超过 100 万枚英伟达GPU的基础上，将订单量直接激增三倍，计划在其数据中心再引入 200 万枚英伟达GPU芯片。这笔跨国巨头的合作不仅印证了当前AI需求的井喷，也再次将算力背后的巨额资本博弈推向了台前。根据两家公司披露的合作细节，此次新增的 200",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30671.html",
+          "addtime": "2026-08-27T15:11:13.839497+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-27，近日，亚马逊与英伟达宣布进一步深化战略合作，亚马逊在数月前刚宣布部署超过 100 万枚英伟达GPU的基础上，将订单量直接激增三倍，计划在其数据中心再引入 200 万枚英伟达GPU芯片。这笔跨国巨头的合作不仅印证了当前AI需求的井喷，也再次将算力背后的巨额资本博弈推向了台前。",
+      "ai_summary": "2026-08-27，近日，亚马逊与英伟达宣布进一步深化战略合作，亚马逊在数月前刚宣布部署超过 100 万枚英伟达GPU的基础上，将订单量直接激增三倍，计划在其数据中心再引入 200 万枚英伟达GPU芯片。这笔跨国巨头的合作不仅印证了当前AI需求的井喷，也再次将算力背后的巨额资本博弈推向了台前。",
+      "lead_excerpt": "近日，亚马逊与英伟达宣布进一步深化战略合作，亚马逊在数月前刚宣布部署超过 100 万枚英伟达GPU的基础上，将订单量直接激增三倍，计划在其数据中心再引入 200 万枚英伟达GPU芯片。这笔跨国巨头的合作不仅印证了当前AI需求的井喷，也...",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30658",
+        "url": "https://www.aibase.com/zh/news/30658",
+        "title": "英伟达拟超130亿美元收购Hugging Face 微软亦参与接触谈判",
+        "date": "2026-08-27",
+        "lead": "据 Business Insider8月27日报道，英伟达近期正与开源 AI 平台 Hugging Face 深度洽谈收购事宜，估值超130亿美元（约合875.92亿元人民币）。若交易达成，将成为英伟达历史上最大的并购案之一",
+        "first_paragraph": "。此前，微软亦与 Hugging Face 进行了初步会面，但未展开深入谈判。去年年底，Hugging Face 曾拒绝英伟达5亿美元的投资（当时估值约70亿美元），理由为避免主导型投资者干预公司决策。",
+        "description": "据 Business Insider8月27日报道，英伟达近期正与开源 AI 平台 Hugging Face 深度洽谈收购事宜，估值超130亿美元（约合875.92亿元人民币）。若交易达成，将成为英伟达历史上最大的并购案之一。此前，微软亦与 Hugging Face 进行了初步会面，但未展开深入谈判。去年年底，Hugg",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30658.html",
+          "addtime": "2026-08-27T10:20:33.8955166+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-27，据 Business Insider8月27日报道，英伟达近期正与开源 AI 平台 Hugging Face 深度洽谈收购事宜，估值超130亿美元（约合875.92亿元人民币）。若交易达成，将成为英伟达历史上最大的并购案之一",
+      "ai_summary": "2026-08-27，据 Business Insider8月27日报道，英伟达近期正与开源 AI 平台 Hugging Face 深度洽谈收购事宜，估值超130亿美元（约合875.92亿元人民币）。若交易达成，将成为英伟达历史上最大的并购案之一",
+      "lead_excerpt": "据 Business Insider8月27日报道，英伟达近期正与开源 AI 平台 Hugging Face 深度洽谈收购事宜，估值超130亿美元（约合875.92亿元人民币）。若交易达成，将成为英伟达历史上最大的并购案之一",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30669",
+        "url": "https://www.aibase.com/zh/news/30669",
+        "title": "Google升级Gemini Live接入Spark，语音直接操控Gmail与全家桶",
+        "date": "2026-08-27",
+        "lead": "Google近日对旗下语音交互助手 Gemini Live 进行了重大版本升级，将其从过去单一的自然语音对话工具，正式推向面向生产力场景与智能代理（Agent）工作流的新阶段。自 2024 年推出以来，Gemini Live 持续扩展其功能边界，目前已支持超过 40 种语言，并深度打通了多款 Google 应用。此次更新的核心，在于全面强化了任务执行、跨应用协作以及个性化服务能力。",
+        "first_paragraph": "此次升级中最引人瞩目的变化，是 Gemini Live 接入了 Google 的智能代理系统 Spark。用户只需通过简单的语音描述需求，Spark 便能在后台跨 Google Docs、Google Sheets、Google Drive 以及网页等多种服务，持续处理复杂的多步骤任务。例如，用户可以将零散的想法口述给 Gemini Live，并要求 Spark 自动将其整理成 Google Docs 文档大纲；或者让助手维护每周餐单，并依据保存在 Docs 中的食谱自动生成采购清单。",
+        "description": "Google近日对旗下语音交互助手 Gemini Live 进行了重大版本升级，将其从过去单一的自然语音对话工具，正式推向面向生产力场景与智能代理（Agent）工作流的新阶段。自 2024 年推出以来，Gemini Live 持续扩展其功能边界，目前已支持超过 40 种语言，并深度打通了多款 Google 应用。此次更",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30669.html",
+          "addtime": "2026-08-27T14:48:12.979037+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-08-27，Google近日对旗下语音交互助手 Gemini Live 进行了重大版本升级，将其从过去单一的自然语音对话工具，正式推向面向生产力场景与智能代理（Agent）工作流的新阶段。自 2024 年推出以来，Gemini Live 持续扩展其功能边界，目前已支持超过 40 种语言，并深度打通了多款 Google 应用。此次更新的核心，在于全面强化了任务执行、...",
+      "ai_summary": "2026-08-27，Google近日对旗下语音交互助手 Gemini Live 进行了重大版本升级，将其从过去单一的自然语音对话工具，正式推向面向生产力场景与智能代理（Agent）工作流的新阶段。自 2024 年推出以来，Gemini Live 持续扩展其功能边界，目前已支持超过 40 种语言，并深度打通了多款 Google 应用。此次更新的核心，在于全面强化了任务执行、...",
+      "lead_excerpt": "Google近日对旗下语音交互助手 Gemini Live 进行了重大版本升级，将其从过去单一的自然语音对话工具，正式推向面向生产力场景与智能代理（Agent）工作流的新阶段。自 2024 年推出以来，Gemini Live 持续扩展...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30665",
+        "url": "https://www.aibase.com/zh/news/30665",
+        "title": "0day 同步！商汤小浣熊桌面端首发登陆 openKylin",
+        "date": "2026-08-27",
+        "lead": "OpenAtom openKylin 社区完成商汤科技旗下 AI 办公助手\"商汤小浣熊\"桌面端新版本适配，小浣熊正式登陆 openKylin。此次首发意味着 openKylin 成为该桌面端首选的开源操作系统底座，为开源系统用户补齐了完整的 AI 办公体验。",
+        "first_paragraph": "能\"搞定工作\"的 AI 办公助手",
+        "description": "OpenAtom openKylin 社区完成商汤科技旗下 AI 办公助手\"商汤小浣熊\"桌面端新版本适配，小浣熊正式登陆 openKylin。此次首发意味着 openKylin 成为该桌面端首选的开源操作系统底座，为开源系统用户补齐了完整的 AI 办公体验。能\"搞定工作\"的 AI",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30665.html",
+          "addtime": "2026-08-27T13:56:08.9365012+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-08-27，OpenAtom openKylin 社区完成商汤科技旗下 AI 办公助手\"商汤小浣熊\"桌面端新版本适配，小浣熊正式登陆 openKylin。此次首发意味着 openKylin 成为该桌面端首选的开源操作系统底座，为开源系统用户补齐了完整的 AI 办公体验。",
+      "ai_summary": "2026-08-27，OpenAtom openKylin 社区完成商汤科技旗下 AI 办公助手\"商汤小浣熊\"桌面端新版本适配，小浣熊正式登陆 openKylin。此次首发意味着 openKylin 成为该桌面端首选的开源操作系统底座，为开源系统用户补齐了完整的 AI 办公体验。",
+      "lead_excerpt": "OpenAtom openKylin 社区完成商汤科技旗下 AI 办公助手\"商汤小浣熊\"桌面端新版本适配，小浣熊正式登陆 openKylin。此次首发意味着 openKylin 成为该桌面端首选的开源操作系统底座，为开源系统用户补齐了...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30663",
+        "url": "https://www.aibase.com/zh/news/30663",
+        "title": "FF发布Next Futurist与Next Aegis两款机器人 机器人工厂年内投入运营",
+        "date": "2026-08-27",
+        "lead": "Faraday Future（FF）在洛杉矶举行FF EAI机器人发布及合作伙伴招商大会，正式公布EAI机器人加速计划三阶段路线图，并推出全尺寸人形机器人Next Futurist与四足机器人Next Aegis两款新品，标志着其从汽车制造向具身智能与EAI领域的战略拓展。",
+        "first_paragraph": "按照规划，FF机器人工厂将于年内投入运营，首款本体新品计划于2027年2月下线。随后，公司将于9月19日发布更多机器人新品及FF EAI教育生态行业生产力解决方案1.0版，推进覆盖北美10个州的11个潜在教育合作落地;9月28日还将举办招商大会下半场，聚焦“四核全智”生态上游产业共建。",
+        "description": "Faraday Future（FF）在洛杉矶举行FF EAI机器人发布及合作伙伴招商大会，正式公布EAI机器人加速计划三阶段路线图，并推出全尺寸人形机器人Next Futurist与四足机器人Next Aegis两款新品，标志着其从汽车制造向具身智能与EAI领域的战略拓展。按照规划，FF机器人工厂将于年内投入运营，首款",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30663.html",
+          "addtime": "2026-08-27T11:43:47+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-08-27，Faraday Future（FF）在洛杉矶举行FF EAI机器人发布及合作伙伴招商大会，正式公布EAI机器人加速计划三阶段路线图，并推出全尺寸人形机器人Next Futurist与四足机器人Next Aegis两款新品，标志着其从汽车制造向具身智能与EAI领域的战略拓展。",
+      "ai_summary": "2026-08-27，Faraday Future（FF）在洛杉矶举行FF EAI机器人发布及合作伙伴招商大会，正式公布EAI机器人加速计划三阶段路线图，并推出全尺寸人形机器人Next Futurist与四足机器人Next Aegis两款新品，标志着其从汽车制造向具身智能与EAI领域的战略拓展。",
+      "lead_excerpt": "Faraday Future（FF）在洛杉矶举行FF EAI机器人发布及合作伙伴招商大会，正式公布EAI机器人加速计划三阶段路线图，并推出全尺寸人形机器人Next Futurist与四足机器人Next Aegis两款新品，标志着其从汽...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30678",
+        "url": "https://www.aibase.com/zh/news/30678",
+        "title": "央视曝光 AI 相亲骗局：虚假婚介专盯中老年女性，28 人落网",
+        "date": "2026-08-27",
+        "lead": "据央视新闻报道，近期出现针对中老年女性的 AI 相亲骗局，不法者用 AI 生成虚假相亲对象诈骗钱财。四川成都警方近期打掉一个\"AI 相亲\"团伙，将王某等 28 名犯罪嫌疑人抓捕归案，涉案金额超百万元、约 50 余名群众受损。",
+        "first_paragraph": "\"双簧戏\"：AI 形象 + 真人售后唱戏",
+        "description": "据央视新闻报道，近期出现针对中老年女性的 AI 相亲骗局，不法者用 AI 生成虚假相亲对象诈骗钱财。四川成都警方近期打掉一个\"AI 相亲\"团伙，将王某等 28 名犯罪嫌疑人抓捕归案，涉案金额超百万元、约 50 余名群众受损。\"双簧戏\"：AI 形象 + 真人售后唱戏报案人卞女士在视",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30678.html",
+          "addtime": "2026-08-27T17:12:21.6266175+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，据央视新闻报道，近期出现针对中老年女性的 AI 相亲骗局，不法者用 AI 生成虚假相亲对象诈骗钱财。四川成都警方近期打掉一个\"AI 相亲\"团伙，将王某等 28 名犯罪嫌疑人抓捕归案，涉案金额超百万元、约 50 余名群众受损。",
+      "ai_summary": "2026-08-27，据央视新闻报道，近期出现针对中老年女性的 AI 相亲骗局，不法者用 AI 生成虚假相亲对象诈骗钱财。四川成都警方近期打掉一个\"AI 相亲\"团伙，将王某等 28 名犯罪嫌疑人抓捕归案，涉案金额超百万元、约 50 余名群众受损。",
+      "lead_excerpt": "据央视新闻报道，近期出现针对中老年女性的 AI 相亲骗局，不法者用 AI 生成虚假相亲对象诈骗钱财。四川成都警方近期打掉一个\"AI 相亲\"团伙，将王某等 28 名犯罪嫌疑人抓捕归案，涉案金额超百万元、约 50 余名群众受损。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30677",
+        "url": "https://www.aibase.com/zh/news/30677",
+        "title": "英伟达 129 亿美元收购 Hugging Face，开源 AI 底座归入算力帝国",
+        "date": "2026-08-27",
+        "lead": "据 The Information 报道，英伟达将以 129 亿美元收购开源 AI 平台 Hugging Face。这家托管开源模型并提供云服务的公司领跑赛道十年，年营收约 1.5 亿美元、接近盈利，英伟达出价约为其年收入的 80 倍。",
+        "first_paragraph": "闭源实验室\"脱钩\"倒逼英伟达抢生态",
+        "description": "据 The Information 报道，英伟达将以 129 亿美元收购开源 AI 平台 Hugging Face。这家托管开源模型并提供云服务的公司领跑赛道十年，年营收约 1.5 亿美元、接近盈利，英伟达出价约为其年收入的 80 倍。闭源实验室\"脱钩\"倒逼英伟达抢生态英伟达此前已承诺五年内投入 2",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30677.html",
+          "addtime": "2026-08-27T16:42:18.8403689+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，据 The Information 报道，英伟达将以 129 亿美元收购开源 AI 平台 Hugging Face。这家托管开源模型并提供云服务的公司领跑赛道十年，年营收约 1.5 亿美元、接近盈利，英伟达出价约为其年收入的 80 倍。",
+      "ai_summary": "2026-08-27，据 The Information 报道，英伟达将以 129 亿美元收购开源 AI 平台 Hugging Face。这家托管开源模型并提供云服务的公司领跑赛道十年，年营收约 1.5 亿美元、接近盈利，英伟达出价约为其年收入的 80 倍。",
+      "lead_excerpt": "据 The Information 报道，英伟达将以 129 亿美元收购开源 AI 平台 Hugging Face。这家托管开源模型并提供云服务的公司领跑赛道十年，年营收约 1.5 亿美元、接近盈利，英伟达出价约为其年收入的 80 倍。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30676",
+        "url": "https://www.aibase.com/zh/news/30676",
+        "title": "小鹏Robotaxi开启无人道路测试，搭载第二代VLA已完成超2000单内测",
+        "date": "2026-08-27",
+        "lead": "小鹏汽车8月27日宣布，搭载第二代VLA大模型的小鹏Robotaxi正式开启全无人道路测试，并已获得广州市智能网联汽车远程测试资质，可在广州相关一级、二级、三级测试道路开展无人驾驶测试。",
+        "first_paragraph": "据介绍，小鹏Robotaxi自今年6月启动员工内测以来，已在两个月内完成超过2000单内测订单，完成从线上下单、车辆接驾到行程服务的完整流程验证。（17173News） 此前，小鹏已围绕Robotaxi业务推进产品研发、测试和运营体系建设，并计划进一步推动无人化载客运营。",
+        "description": "小鹏汽车8月27日宣布，搭载第二代VLA大模型的小鹏Robotaxi正式开启全无人道路测试，并已获得广州市智能网联汽车远程测试资质，可在广州相关一级、二级、三级测试道路开展无人驾驶测试。据介绍，小鹏Robotaxi自今年6月启动员工内测以来，已在两个月内完成超过2000单内测订单，完成从线上下单、车辆接驾到行程服务的完",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30676.html",
+          "addtime": "2026-08-27T16:27:39.357098+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，小鹏汽车8月27日宣布，搭载第二代VLA大模型的小鹏Robotaxi正式开启全无人道路测试，并已获得广州市智能网联汽车远程测试资质，可在广州相关一级、二级、三级测试道路开展无人驾驶测试。",
+      "ai_summary": "2026-08-27，小鹏汽车8月27日宣布，搭载第二代VLA大模型的小鹏Robotaxi正式开启全无人道路测试，并已获得广州市智能网联汽车远程测试资质，可在广州相关一级、二级、三级测试道路开展无人驾驶测试。",
+      "lead_excerpt": "小鹏汽车8月27日宣布，搭载第二代VLA大模型的小鹏Robotaxi正式开启全无人道路测试，并已获得广州市智能网联汽车远程测试资质，可在广州相关一级、二级、三级测试道路开展无人驾驶测试。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30674",
+        "url": "https://www.aibase.com/zh/news/30674",
+        "title": "公益广告行人头脚错乱、垃圾袋钻出扫帚，官方确认系 AI 生成已撤下",
+        "date": "2026-08-27",
+        "lead": "近日有网友爆料，山西临汾一处宣传栏的公益广告画面怪异：行人形象头脚朝向错乱，环卫工手中的垃圾袋里还\"钻出\"一把扫帚，多处细节失真被疑为 AI 生成。事件发酵后，当地 8 月 26 日派员赴现场处置，管委会住建部门称已于 25 日晚连夜排查，涉事广告完成更换。",
+        "first_paragraph": "审核只查文字，漏掉画面校验",
+        "description": "近日有网友爆料，山西临汾一处宣传栏的公益广告画面怪异：行人形象头脚朝向错乱，环卫工手中的垃圾袋里还\"钻出\"一把扫帚，多处细节失真被疑为 AI 生成。事件发酵后，当地 8 月 26 日派员赴现场处置，管委会住建部门称已于 25 日晚连夜排查，涉事广告完成更换。审核只查文字，漏掉画面校验8 月 27 日",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30674.html",
+          "addtime": "2026-08-27T16:04:34.1932378+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，近日有网友爆料，山西临汾一处宣传栏的公益广告画面怪异：行人形象头脚朝向错乱，环卫工手中的垃圾袋里还\"钻出\"一把扫帚，多处细节失真被疑为 AI 生成。事件发酵后，当地 8 月 26 日派员赴现场处置，管委会住建部门称已于 25 日晚连夜排查，涉事广告完成更换。",
+      "ai_summary": "2026-08-27，近日有网友爆料，山西临汾一处宣传栏的公益广告画面怪异：行人形象头脚朝向错乱，环卫工手中的垃圾袋里还\"钻出\"一把扫帚，多处细节失真被疑为 AI 生成。事件发酵后，当地 8 月 26 日派员赴现场处置，管委会住建部门称已于 25 日晚连夜排查，涉事广告完成更换。",
+      "lead_excerpt": "近日有网友爆料，山西临汾一处宣传栏的公益广告画面怪异：行人形象头脚朝向错乱，环卫工手中的垃圾袋里还\"钻出\"一把扫帚，多处细节失真被疑为 AI 生成。事件发酵后，当地 8 月 26 日派员赴现场处置，管委会住建部门称已于 25 日晚连夜...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 25,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30673",
+        "url": "https://www.aibase.com/zh/news/30673",
+        "title": "从3.3GB压缩到440MB！腾讯混元极低bit翻译模型如何做到几乎零损失？",
+        "date": "2026-08-27",
+        "lead": "近日，腾讯混元团队公布了一项最新的技术成果，成功将旗下主打端侧的1.8B 翻译模型压缩至几百兆大小，不仅翻译质量几乎没有损失，并且已经成功落地哔哩哔哩（B站）的直播弹幕实时翻译中，实现了从实验室 Demo 到高并发真实业务场景的跨越。",
+        "first_paragraph": "作为基底的 Hy-MT2-1.8B 模型原本属于腾讯混元翻译模型族，原生支持33个语种互译。在同等尺寸中，其整体翻译质量在 FLORES-200通用翻译评测上已经优于多款商业翻译 API。然而，由于1.8B 模型在传统的 FP16精度下需要占用高达3.3GB 的内存，即便降到4-bit 量化也仍需1GB 以上，无法满足端侧多任务并发的内存管理需求。为此，腾讯推出了两档极低比特的量化方案。",
+        "description": "近日，腾讯混元团队公布了一项最新的技术成果，成功将旗下主打端侧的1.8B 翻译模型压缩至几百兆大小，不仅翻译质量几乎没有损失，并且已经成功落地哔哩哔哩（B站）的直播弹幕实时翻译中，实现了从实验室 Demo 到高并发真实业务场景的跨越。作为基底的 Hy-MT2-1.8B 模型原本属于腾讯混元翻译模型族，原生支持33个语种",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30673.html",
+          "addtime": "2026-08-27T16:03:32+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，近日，腾讯混元团队公布了一项最新的技术成果，成功将旗下主打端侧的1.8B 翻译模型压缩至几百兆大小，不仅翻译质量几乎没有损失，并且已经成功落地哔哩哔哩（B站）的直播弹幕实时翻译中，实现了从实验室 Demo 到高并发真实业务场景的跨越。",
+      "ai_summary": "2026-08-27，近日，腾讯混元团队公布了一项最新的技术成果，成功将旗下主打端侧的1.8B 翻译模型压缩至几百兆大小，不仅翻译质量几乎没有损失，并且已经成功落地哔哩哔哩（B站）的直播弹幕实时翻译中，实现了从实验室 Demo 到高并发真实业务场景的跨越。",
+      "lead_excerpt": "近日，腾讯混元团队公布了一项最新的技术成果，成功将旗下主打端侧的1.8B 翻译模型压缩至几百兆大小，不仅翻译质量几乎没有损失，并且已经成功落地哔哩哔哩（B站）的直播弹幕实时翻译中，实现了从实验室 Demo 到高并发真实业务场景的跨越。",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30672",
+        "url": "https://www.aibase.com/zh/news/30672",
+        "title": "Claude 桌面端 Cowork 内置浏览器上线，可独立完成网页操作",
+        "date": "2026-08-27",
+        "lead": "Claude 桌面应用中的 Cowork 现已内置浏览器，当任务涉及网站时侧边栏会自动开启一个浏览器，Claude 可在其中浏览、读内容、点按钮、输文字。这意味着用户可直接把网页操作部分交给它，自己继续手头工作，无需安装扩展或额外设置。",
+        "first_paragraph": "独立浏览器与\"你的浏览器\"分离",
+        "description": "Claude 桌面应用中的 Cowork 现已内置浏览器，当任务涉及网站时侧边栏会自动开启一个浏览器，Claude 可在其中浏览、读内容、点按钮、输文字。这意味着用户可直接把网页操作部分交给它，自己继续手头工作，无需安装扩展或额外设置。独立浏览器与\"你的浏览器\"分离内置浏览器与用户日常浏览器完全隔离",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30672.html",
+          "addtime": "2026-08-27T15:43:22+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，Claude 桌面应用中的 Cowork 现已内置浏览器，当任务涉及网站时侧边栏会自动开启一个浏览器，Claude 可在其中浏览、读内容、点按钮、输文字。这意味着用户可直接把网页操作部分交给它，自己继续手头工作，无需安装扩展或额外设置。",
+      "ai_summary": "2026-08-27，Claude 桌面应用中的 Cowork 现已内置浏览器，当任务涉及网站时侧边栏会自动开启一个浏览器，Claude 可在其中浏览、读内容、点按钮、输文字。这意味着用户可直接把网页操作部分交给它，自己继续手头工作，无需安装扩展或额外设置。",
+      "lead_excerpt": "Claude 桌面应用中的 Cowork 现已内置浏览器，当任务涉及网站时侧边栏会自动开启一个浏览器，Claude 可在其中浏览、读内容、点按钮、输文字。这意味着用户可直接把网页操作部分交给它，自己继续手头工作，无需安装扩展或额外设置。",
+      "reason": "未明确与 AI 相关；疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30670",
+        "url": "https://www.aibase.com/zh/news/30670",
+        "title": "北京开出首例AIGC商业秘密行政处罚案 拷走前公司AI软件创业罚款10万",
+        "date": "2026-08-27",
+        "lead": "人才流动与商业机密保护的边界在哪里?近日，北京市朝阳区市场监管局依法对全市首例AIGC领域商业秘密行政处罚案作出了正式裁决，对涉案主体私自复制并使用原单位AI软件的行为开出了10万元罚单。这一案件的落地，为国内数字经济新业态的合规发展划出了一道清晰的红线。",
+        "first_paragraph": "据了解，本案的权利人公司是一家专注于微短剧外语译制配音及AI多语种影视译制服务的行业重点企业。为了支撑核心业务，该公司自主研发了一款内部AIGC商业软件。该软件能够成倍缩短译制周期、大幅提升产能，构成了企业核心竞争力的关键组成部分，属于受法律保护的未公开无形资产。然而，公司的一名核心员工在职期间，却通过私自拷贝并破解配套数据库的方式获取了该软件。离职后，该员工创办了新公司，并利用这套系统承接竞争业务以谋取商业利益。",
+        "description": "人才流动与商业机密保护的边界在哪里?近日，北京市朝阳区市场监管局依法对全市首例AIGC领域商业秘密行政处罚案作出了正式裁决，对涉案主体私自复制并使用原单位AI软件的行为开出了10万元罚单。这一案件的落地，为国内数字经济新业态的合规发展划出了一道清晰的红线。据了解，本案的权利人公司是一家专注于微短剧外语译制配音及AI多语",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30670.html",
+          "addtime": "2026-08-27T14:56:34+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，人才流动与商业机密保护的边界在哪里?近日，北京市朝阳区市场监管局依法对全市首例AIGC领域商业秘密行政处罚案作出了正式裁决，对涉案主体私自复制并使用原单位AI软件的行为开出了10万元罚单。这一案件的落地，为国内数字经济新业态的合规发展划出了一道清晰的红线。",
+      "ai_summary": "2026-08-27，人才流动与商业机密保护的边界在哪里?近日，北京市朝阳区市场监管局依法对全市首例AIGC领域商业秘密行政处罚案作出了正式裁决，对涉案主体私自复制并使用原单位AI软件的行为开出了10万元罚单。这一案件的落地，为国内数字经济新业态的合规发展划出了一道清晰的红线。",
+      "lead_excerpt": "人才流动与商业机密保护的边界在哪里?近日，北京市朝阳区市场监管局依法对全市首例AIGC领域商业秘密行政处罚案作出了正式裁决，对涉案主体私自复制并使用原单位AI软件的行为开出了10万元罚单。这一案件的落地，为国内数字经济新业态的合规发展...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30668",
+        "url": "https://www.aibase.com/zh/news/30668",
+        "title": "千问办公首发上线Qwen3.8-Flash，Agent正式迈入“量大管饱”时代",
+        "date": "2026-08-27",
+        "lead": "近日，千问办公平台正式首发上线全新Qwen3.8-Flash大模型，同步推出全新标准模式。即日起，全体用户均可直接体验搭载该模型的标准模式。依托全新模型能力，用户能够以更低积分消耗、更快的Token吞吐效率完成各类办公任务。",
+        "first_paragraph": "据官方规划，千问办公后续将形成标准模式、高级模式双模型供给体系。其中标准模式可覆盖95%的日常办公需求，剩余5%复杂任务则交由高级模式处理。",
+        "description": "近日，千问办公平台正式首发上线全新Qwen3.8-Flash大模型，同步推出全新标准模式。即日起，全体用户均可直接体验搭载该模型的标准模式。依托全新模型能力，用户能够以更低积分消耗、更快的Token吞吐效率完成各类办公任务。据官方规划，千问办公后续将形成标准模式、高级模式双模型供给体系。其中标准模式可覆盖95%的日常办",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30668.html",
+          "addtime": "2026-08-27T14:44:20+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，近日，千问办公平台正式首发上线全新Qwen3.8-Flash大模型，同步推出全新标准模式。即日起，全体用户均可直接体验搭载该模型的标准模式。依托全新模型能力，用户能够以更低积分消耗、更快的Token吞吐效率完成各类办公任务。",
+      "ai_summary": "2026-08-27，近日，千问办公平台正式首发上线全新Qwen3.8-Flash大模型，同步推出全新标准模式。即日起，全体用户均可直接体验搭载该模型的标准模式。依托全新模型能力，用户能够以更低积分消耗、更快的Token吞吐效率完成各类办公任务。",
+      "lead_excerpt": "近日，千问办公平台正式首发上线全新Qwen3.8-Flash大模型，同步推出全新标准模式。即日起，全体用户均可直接体验搭载该模型的标准模式。依托全新模型能力，用户能够以更低积分消耗、更快的Token吞吐效率完成各类办公任务。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30667",
+        "url": "https://www.aibase.com/zh/news/30667",
+        "title": "拷走 AI 软件去创业，北京首例 AIGC 商业秘密案罚 10 万元",
+        "date": "2026-08-27",
+        "lead": "北京市朝阳区市场监管局近日对全市首例 AIGC 行业商业秘密行政处罚案作出决定，向携密跳槽、私自复制使用原单位 AI 商业软件的行为开出 10 万元罚单。本案由北京市市场监督管理局今日发文披露，系该领域行政执法的破冰之举。",
+        "first_paragraph": "\"拷贝—破解—跨公司复用\"完整证据链",
+        "description": "北京市朝阳区市场监管局近日对全市首例 AIGC 行业商业秘密行政处罚案作出决定，向携密跳槽、私自复制使用原单位 AI 商业软件的行为开出 10 万元罚单。本案由北京市市场监督管理局今日发文披露，系该领域行政执法的破冰之举。\"拷贝—破解—跨公司复用\"完整证据链权利人公司主营微短剧外语译制配音及 AI",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30667.html",
+          "addtime": "2026-08-27T13:58:53.3825084+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，北京市朝阳区市场监管局近日对全市首例 AIGC 行业商业秘密行政处罚案作出决定，向携密跳槽、私自复制使用原单位 AI 商业软件的行为开出 10 万元罚单。本案由北京市市场监督管理局今日发文披露，系该领域行政执法的破冰之举。",
+      "ai_summary": "2026-08-27，北京市朝阳区市场监管局近日对全市首例 AIGC 行业商业秘密行政处罚案作出决定，向携密跳槽、私自复制使用原单位 AI 商业软件的行为开出 10 万元罚单。本案由北京市市场监督管理局今日发文披露，系该领域行政执法的破冰之举。",
+      "lead_excerpt": "北京市朝阳区市场监管局近日对全市首例 AIGC 行业商业秘密行政处罚案作出决定，向携密跳槽、私自复制使用原单位 AI 商业软件的行为开出 10 万元罚单。本案由北京市市场监督管理局今日发文披露，系该领域行政执法的破冰之举。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30666",
+        "url": "https://www.aibase.com/zh/news/30666",
+        "title": "半年狂赚1180亿美元！英伟达交出“核爆级”财报，下一代AI芯片全面量产",
+        "date": "2026-08-27",
+        "lead": "AI淘金热中赚得盆满钵满的“卖水人”，再次交出了一份震撼全球市场的财务答卷。英伟达正式公布了 2027 财年半年报及第二季度业绩，各项核心财务指标全线大涨，不仅印证了全球AI基础设施建设的强劲需求，也标志着其新一代硬件平台正加速驶入量产快车道。",
+        "first_paragraph": "在整体半年报业绩方面，英伟达在 2027 财年上半年实现营业总收入1778. 37 亿美元；毛利润达到1332. 99 亿美元，保持了75%的高毛利率；归属于母公司股东的净利润高达1180. 1 亿美元，同比大幅增长161.1%。同时，公司上半年录得经营现金流744. 21 亿美元，自由现金流达698. 95 亿美元，基本每股收益为4. 87 美元，稀释每股收益为4. 85 亿美元。",
+        "description": "AI淘金热中赚得盆满钵满的“卖水人”，再次交出了一份震撼全球市场的财务答卷。英伟达正式公布了 2027 财年半年报及第二季度业绩，各项核心财务指标全线大涨，不仅印证了全球AI基础设施建设的强劲需求，也标志着其新一代硬件平台正加速驶入量产快车道。在整体半年报业绩方面，英伟达在 2027 财年上半年实现营业总收入1778.",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30666.html",
+          "addtime": "2026-08-27T13:56:30.0989562+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，AI淘金热中赚得盆满钵满的“卖水人”，再次交出了一份震撼全球市场的财务答卷。英伟达正式公布了 2027 财年半年报及第二季度业绩，各项核心财务指标全线大涨，不仅印证了全球AI基础设施建设的强劲需求，也标志着其新一代硬件平台正加速驶入量产快车道。",
+      "ai_summary": "2026-08-27，AI淘金热中赚得盆满钵满的“卖水人”，再次交出了一份震撼全球市场的财务答卷。英伟达正式公布了 2027 财年半年报及第二季度业绩，各项核心财务指标全线大涨，不仅印证了全球AI基础设施建设的强劲需求，也标志着其新一代硬件平台正加速驶入量产快车道。",
+      "lead_excerpt": "AI淘金热中赚得盆满钵满的“卖水人”，再次交出了一份震撼全球市场的财务答卷。英伟达正式公布了 2027 财年半年报及第二季度业绩，各项核心财务指标全线大涨，不仅印证了全球AI基础设施建设的强劲需求，也标志着其新一代硬件平台正加速驶入量...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30664",
+        "url": "https://www.aibase.com/zh/news/30664",
+        "title": "通义千问发布Qwen3.8-Flash-Next，提前剧透Qwen4架构",
+        "date": "2026-08-27",
+        "lead": "大模型开源领域的创新节奏再次刷新纪录。阿里通义千问团队近日正式开源了全新多模态MoE模型Qwen3.8-Flash-Next，作为Qwen4 架构的早期预览版本，该模型在保持极低计算开销的同时展现出了越级的性能表现。",
+        "first_paragraph": "在核心架构与参数规模上，Qwen3.8-Flash-Next采用了高度稀疏的混合专家（MoE）设计。整个模型总参数量为 1250 亿，并额外搭配了 510 亿参数的N-gram嵌入表以及 40 亿参数的多token预测模块，但每个token实际激活的参数量仅有 60 亿。其整体拥有 48 层网络结构，MoE层集成了 512 个专家并通过top- 10 进行路由分配。",
+        "description": "大模型开源领域的创新节奏再次刷新纪录。阿里通义千问团队近日正式开源了全新多模态MoE模型Qwen3.8-Flash-Next，作为Qwen4 架构的早期预览版本，该模型在保持极低计算开销的同时展现出了越级的性能表现。在核心架构与参数规模上，Qwen3.8-Flash-Next采用了高度稀疏的混合专家（MoE）设计。整个",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30664.html",
+          "addtime": "2026-08-27T13:53:24.7479038+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，大模型开源领域的创新节奏再次刷新纪录。阿里通义千问团队近日正式开源了全新多模态MoE模型Qwen3.8-Flash-Next，作为Qwen4 架构的早期预览版本，该模型在保持极低计算开销的同时展现出了越级的性能表现。",
+      "ai_summary": "2026-08-27，大模型开源领域的创新节奏再次刷新纪录。阿里通义千问团队近日正式开源了全新多模态MoE模型Qwen3.8-Flash-Next，作为Qwen4 架构的早期预览版本，该模型在保持极低计算开销的同时展现出了越级的性能表现。",
+      "lead_excerpt": "大模型开源领域的创新节奏再次刷新纪录。阿里通义千问团队近日正式开源了全新多模态MoE模型Qwen3.8-Flash-Next，作为Qwen4 架构的早期预览版本，该模型在保持极低计算开销的同时展现出了越级的性能表现。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30662",
+        "url": "https://www.aibase.com/zh/news/30662",
+        "title": "亚马逊追订 200 万颗英伟达 GPU，AI 算力军备赛再升一级",
+        "date": "2026-08-27",
+        "lead": "亚马逊与英伟达 8 月 26 日宣布深化合作，前者将在未来两年为数据中心新增部署 200 万颗英伟达 GPU。这批涵盖 Blackwell Ultra、Rubin 与 Rubin Ultra 的芯片，主要用于大模型训练与推理，计划 2027、2028 年陆续装入 AWS 数据中心。",
+        "first_paragraph": "自研与采购并行，英伟达仍主导",
+        "description": "亚马逊与英伟达 8 月 26 日宣布深化合作，前者将在未来两年为数据中心新增部署 200 万颗英伟达 GPU。这批涵盖 Blackwell Ultra、Rubin 与 Rubin Ultra 的芯片，主要用于大模型训练与推理，计划 2027、2028 年陆续装入 AWS 数据中心。自研与采购并行，英伟达仍主导消息恰逢英",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30662.html",
+          "addtime": "2026-08-27T11:39:19.3705863+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，亚马逊与英伟达 8 月 26 日宣布深化合作，前者将在未来两年为数据中心新增部署 200 万颗英伟达 GPU。这批涵盖 Blackwell Ultra、Rubin 与 Rubin Ultra 的芯片，主要用于大模型训练与推理，计划 2027、2028 年陆续装入 AWS 数据中心。",
+      "ai_summary": "2026-08-27，亚马逊与英伟达 8 月 26 日宣布深化合作，前者将在未来两年为数据中心新增部署 200 万颗英伟达 GPU。这批涵盖 Blackwell Ultra、Rubin 与 Rubin Ultra 的芯片，主要用于大模型训练与推理，计划 2027、2028 年陆续装入 AWS 数据中心。",
+      "lead_excerpt": "亚马逊与英伟达 8 月 26 日宣布深化合作，前者将在未来两年为数据中心新增部署 200 万颗英伟达 GPU。这批涵盖 Blackwell Ultra、Rubin 与 Rubin Ultra 的芯片，主要用于大模型训练与推理，计划 2...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30661",
+        "url": "https://www.aibase.com/zh/news/30661",
+        "title": "OpenAI 前研究员巴雷特·佐夫重返谷歌，助阵 Gemini 研发",
+        "date": "2026-08-27",
+        "lead": "巴雷特·佐夫（Barret Zoph）今年曾因与 Thinking Machines Lab CEO 米拉·穆拉蒂分歧突然离职并转投 OpenAI，如今这位联合创始人再度易主。Alphabet 旗下谷歌宣布，佐夫将回归出任研究副总裁，把强化学习与后训练的专业经验带进 Gemini 团队。",
+        "first_paragraph": "\"旋转门\"研究员的又一圈",
+        "description": "巴雷特·佐夫（Barret Zoph）今年曾因与 Thinking Machines Lab CEO 米拉·穆拉蒂分歧突然离职并转投 OpenAI，如今这位联合创始人再度易主。Alphabet 旗下谷歌宣布，佐夫将回归出任研究副总裁，把强化学习与后训练的专业经验带进 Gemini 团队。\"旋转门\"研",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30661.html",
+          "addtime": "2026-08-27T11:11:43.3080139+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，巴雷特·佐夫（Barret Zoph）今年曾因与 Thinking Machines Lab CEO 米拉·穆拉蒂分歧突然离职并转投 OpenAI，如今这位联合创始人再度易主。Alphabet 旗下谷歌宣布，佐夫将回归出任研究副总裁，把强化学习与后训练的专业经验带进 Gemini 团队。",
+      "ai_summary": "2026-08-27，巴雷特·佐夫（Barret Zoph）今年曾因与 Thinking Machines Lab CEO 米拉·穆拉蒂分歧突然离职并转投 OpenAI，如今这位联合创始人再度易主。Alphabet 旗下谷歌宣布，佐夫将回归出任研究副总裁，把强化学习与后训练的专业经验带进 Gemini 团队。",
+      "lead_excerpt": "巴雷特·佐夫（Barret Zoph）今年曾因与 Thinking Machines Lab CEO 米拉·穆拉蒂分歧突然离职并转投 OpenAI，如今这位联合创始人再度易主。Alphabet 旗下谷歌宣布，佐夫将回归出任研究副总裁，...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30660",
+        "url": "https://www.aibase.com/zh/news/30660",
+        "title": "Meta AI裁员计划受阻:内部“OT项目”原拟削减部分团队60%规模",
+        "date": "2026-08-27",
+        "lead": "据路透社报道，Meta此前计划通过人工智能大规模重组员工体系，但由于AI智能代理未达到预期效果、员工强烈反弹以及内部士气下降，该计划最终被迫调整。内部文件显示，Meta曾启动代号为“OT项目”（Organization Transformation）的计划，目标是打造“AI原生”组织模式，部分团队规模最高可能削减60%，剩余工作由少量“人才密集型”员工负责监督虚拟AI员工。",
+        "first_paragraph": "按照原计划，Meta预计在5月启动第一轮人员调整，并计划于11月推进第二轮裁员。但在首轮调整开始前数小时，CEO马克·扎克伯格叫停了后续裁员安排。此次调整受阻主要源于多方面因素，包括AI智能代理实际生产力提升低于预期，以及员工对公司利用追踪软件收集工作数据、训练可能替代自身岗位的AI系统产生担忧。",
+        "description": "据路透社报道，Meta此前计划通过人工智能大规模重组员工体系，但由于AI智能代理未达到预期效果、员工强烈反弹以及内部士气下降，该计划最终被迫调整。内部文件显示，Meta曾启动代号为“OT项目”（Organization Transformation）的计划，目标是打造“AI原生”组织模式，部分团队规模最高可能削减60%",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30660.html",
+          "addtime": "2026-08-27T11:07:01.4032133+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，据路透社报道，Meta此前计划通过人工智能大规模重组员工体系，但由于AI智能代理未达到预期效果、员工强烈反弹以及内部士气下降，该计划最终被迫调整。内部文件显示，Meta曾启动代号为“OT项目”（Organization Transformation）的计划，目标是打造“AI原生”组织模式，部分团队规模最高可能削减60%，剩余工作由少量“人才密集型”员工...",
+      "ai_summary": "2026-08-27，据路透社报道，Meta此前计划通过人工智能大规模重组员工体系，但由于AI智能代理未达到预期效果、员工强烈反弹以及内部士气下降，该计划最终被迫调整。内部文件显示，Meta曾启动代号为“OT项目”（Organization Transformation）的计划，目标是打造“AI原生”组织模式，部分团队规模最高可能削减60%，剩余工作由少量“人才密集型”员工...",
+      "lead_excerpt": "据路透社报道，Meta此前计划通过人工智能大规模重组员工体系，但由于AI智能代理未达到预期效果、员工强烈反弹以及内部士气下降，该计划最终被迫调整。内部文件显示，Meta曾启动代号为“OT项目”（Organization Transfo...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30659",
+        "url": "https://www.aibase.com/zh/news/30659",
+        "title": "OpenAI 发布 Hugging Face 事件官方报告：AI 模型沙箱逃逸全过程首度还原",
+        "date": "2026-08-27",
+        "lead": "OpenAI 当地时间周三发布关于 Hugging Face 遭入侵事件的官方报告，首度较完整还原了这起事件。报告距事件曝光已超一月，OpenAI 称其源于极端异常场景下多个罕见因素叠加：评估中出现无解任务、模型在超长周期持续行动、模型间通信致彼此偏离目标，最终酿成波及广泛的网络安全事件。",
+        "first_paragraph": "无解任务逼出\"串联漏洞\"攻击链",
+        "description": "OpenAI 当地时间周三发布关于 Hugging Face 遭入侵事件的官方报告，首度较完整还原了这起事件。报告距事件曝光已超一月，OpenAI 称其源于极端异常场景下多个罕见因素叠加：评估中出现无解任务、模型在超长周期持续行动、模型间通信致彼此偏离目标，最终酿成波及广泛的网络安全事件。无解任务逼出\"串联漏",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-08-21_2026-08-27/30659.html",
+          "addtime": "2026-08-27T10:28:28.4262101+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-08-27，OpenAI 当地时间周三发布关于 Hugging Face 遭入侵事件的官方报告，首度较完整还原了这起事件。报告距事件曝光已超一月，OpenAI 称其源于极端异常场景下多个罕见因素叠加：评估中出现无解任务、模型在超长周期持续行动、模型间通信致彼此偏离目标，最终酿成波及广泛的网络安全事件。",
+      "ai_summary": "2026-08-27，OpenAI 当地时间周三发布关于 Hugging Face 遭入侵事件的官方报告，首度较完整还原了这起事件。报告距事件曝光已超一月，OpenAI 称其源于极端异常场景下多个罕见因素叠加：评估中出现无解任务、模型在超长周期持续行动、模型间通信致彼此偏离目标，最终酿成波及广泛的网络安全事件。",
+      "lead_excerpt": "OpenAI 当地时间周三发布关于 Hugging Face 遭入侵事件的官方报告，首度较完整还原了这起事件。报告距事件曝光已超一月，OpenAI 称其源于极端异常场景下多个罕见因素叠加：评估中出现无解任务、模型在超长周期持续行动、模...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。",
+    "备选线索数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
