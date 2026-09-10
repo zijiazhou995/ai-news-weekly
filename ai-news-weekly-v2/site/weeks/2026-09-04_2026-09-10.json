@@ -1,0 +1,720 @@
+{
+  "week_id": "2026-09-04_2026-09-10",
+  "label": "9.4-9.10",
+  "start_date": "2026-09-04",
+  "end_date": "2026-09-10",
+  "generated_at": "2026-09-10T07:03:42",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30958",
+        "url": "https://www.aibase.com/zh/news/30958",
+        "title": "蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建",
+        "date": "2026-09-10",
+        "lead": "9月10日，2026Inclusion·外滩大会主论坛圆桌论坛一“当Agent成为交易主体”举行，蚂蚁集团CEO韩歆毅与万事达卡首席产品官Jorn Lambert、OPPO高级副总裁兼首席产品官刘作虎、阿里巴巴集团首席科学家周靖人，围绕智能体进入消费、交易与支付场景后的产业变化展开讨论。",
+        "first_paragraph": "韩歆毅指出，当前智能体供需两端尚未形成正循环:用户想用，但商家缺少成熟的智能体服务;商家看不到用户在用，又不敢投入开发，形成“先有鸡还是先有蛋”的局面。他把蚂蚁在智能体爆发前夜的角色概括为“催化剂”，一是解决安全和信任问题，二是推动供需生态飞轮运转，让商家智能体服务被用户找到、用起来并在使用中持续变好。",
+        "description": "9月10日，2026Inclusion·外滩大会主论坛圆桌论坛一“当Agent成为交易主体”举行，蚂蚁集团CEO韩歆毅与万事达卡首席产品官Jorn Lambert、OPPO高级副总裁兼首席产品官刘作虎、阿里巴巴集团首席科学家周靖人，围绕智能体进入消费、交易与支付场景后的产业变化展开讨论。韩歆毅指出，当前智能体供需两端尚",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30958.html",
+          "addtime": "2026-09-10T14:55:21.2939515+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-09-10，9月10日，2026Inclusion·外滩大会主论坛圆桌论坛一“当Agent成为交易主体”举行，蚂蚁集团CEO韩歆毅与万事达卡首席产品官Jorn Lambert、OPPO高级副总裁兼首席产品官刘作虎、阿里巴巴集团首席科学家周靖人，围绕智能体进入消费、交易与支付场景后的产业变化展开讨论。",
+      "ai_summary": "2026-09-10，9月10日，2026Inclusion·外滩大会主论坛圆桌论坛一“当Agent成为交易主体”举行，蚂蚁集团CEO韩歆毅与万事达卡首席产品官Jorn Lambert、OPPO高级副总裁兼首席产品官刘作虎、阿里巴巴集团首席科学家周靖人，围绕智能体进入消费、交易与支付场景后的产业变化展开讨论。",
+      "lead_excerpt": "9月10日，2026Inclusion·外滩大会主论坛圆桌论坛一“当Agent成为交易主体”举行，蚂蚁集团CEO韩歆毅与万事达卡首席产品官Jorn Lambert、OPPO高级副总裁兼首席产品官刘作虎、阿里巴巴集团首席科学家周靖人，围...",
+      "reason": "符合优先级：阿里及相关主体、电商/交易/支付/商家工具相关、产品/功能/工具/平台动作",
+      "priority_score": 105,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30942",
+        "url": "https://www.aibase.com/zh/news/30942",
+        "title": "OpenAI 悄然收紧 ChatGPT 广告政策：Adobe 等竞品的 AI 生图与音频广告被禁",
+        "date": "2026-09-10",
+        "lead": "OpenAI 最近刚推出 ChatGPT Images 2.5 图像生成模型以及 ChatGPT Live 语音功能。据 The Information 9 月 10 日报道，OpenAI 近期悄然更新了广告政策，禁止竞争对手在 ChatGPT 平台内投放特定生成式 AI 产品类别的广告，尤其是图像和音频生成工具的商业广告。",
+        "first_paragraph": "OpenAI 已通知部分商业合作伙伴，将不再接受仅图像生成和语音生成类产品的广告活动审批。这项新规此前并未对外披露，也尚未更新至 OpenAI 官方广告政策页面。",
+        "description": "OpenAI 最近刚推出 ChatGPT Images 2.5 图像生成模型以及 ChatGPT Live 语音功能。据 The Information 9 月 10 日报道，OpenAI 近期悄然更新了广告政策，禁止竞争对手在 ChatGPT 平台内投放特定生成式 AI 产品类别的广告，尤其是图像和音频生成工具的商业",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30942.html",
+          "addtime": "2026-09-10T09:16:16+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-10，OpenAI 最近刚推出 ChatGPT Images 2.5 图像生成模型以及 ChatGPT Live 语音功能。据 The Information 9 月 10 日报道，OpenAI 近期悄然更新了广告政策，禁止竞争对手在 ChatGPT 平台内投放特定生成式 AI 产品类别的广告，尤其是图像和音频生成工具的商业广告。",
+      "ai_summary": "2026-09-10，OpenAI 最近刚推出 ChatGPT Images 2.5 图像生成模型以及 ChatGPT Live 语音功能。据 The Information 9 月 10 日报道，OpenAI 近期悄然更新了广告政策，禁止竞争对手在 ChatGPT 平台内投放特定生成式 AI 产品类别的广告，尤其是图像和音频生成工具的商业广告。",
+      "lead_excerpt": "OpenAI 最近刚推出 ChatGPT Images 2.5 图像生成模型以及 ChatGPT Live 语音功能。据 The Information 9 月 10 日报道，OpenAI 近期悄然更新了广告政策，禁止竞争对手在 Ch...",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30953",
+        "url": "https://www.aibase.com/zh/news/30953",
+        "title": "Marvis Windows 版本更新 最低门槛从6核16GB降到4核8GB",
+        "date": "2026-09-10",
+        "lead": "近日，Marvis Windows 版本更新，新版客户端将最低配置要求从6核16GB下调至4核8GB，让更多低配置PC设备可以安装并使用 Marvis核心AI能力。同时，版本新增任务通知功能，用户可及时了解任务执行状态和进度。",
+        "first_paragraph": "优化运行模式 降低使用门槛",
+        "description": "近日，Marvis Windows 版本更新，新版客户端将最低配置要求从6核16GB下调至4核8GB，让更多低配置PC设备可以安装并使用 Marvis核心AI能力。同时，版本新增任务通知功能，用户可及时了解任务执行状态和进度。优化运行模式 降低使用门槛作为操作系统层级的个人AI助手，Marvis能够搜索电脑中的文件/图",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30953.html",
+          "addtime": "2026-09-10T12:32:08.2035327+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-10，近日，Marvis Windows 版本更新，新版客户端将最低配置要求从6核16GB下调至4核8GB，让更多低配置PC设备可以安装并使用 Marvis核心AI能力。同时，版本新增任务通知功能，用户可及时了解任务执行状态和进度。",
+      "ai_summary": "2026-09-10，近日，Marvis Windows 版本更新，新版客户端将最低配置要求从6核16GB下调至4核8GB，让更多低配置PC设备可以安装并使用 Marvis核心AI能力。同时，版本新增任务通知功能，用户可及时了解任务执行状态和进度。",
+      "lead_excerpt": "近日，Marvis Windows 版本更新，新版客户端将最低配置要求从6核16GB下调至4核8GB，让更多低配置PC设备可以安装并使用 Marvis核心AI能力。同时，版本新增任务通知功能，用户可及时了解任务执行状态和进度。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30951",
+        "url": "https://www.aibase.com/zh/news/30951",
+        "title": "张宏江外滩大会分享：Agent Economy时代，组织层面的“涌现”成核心竞争力",
+        "date": "2026-09-10",
+        "lead": "9 月 10 日，在 2026 Inclusion·外滩大会开幕主论坛上，源码资本投资合伙人、美国国家工程院外籍院士张宏江表示AI新经济将变革企业组织形态。他认为，随着AI技术的发展，对未来的组织架构提出了新的要求，企业未来的核心竞争力在于能否将企业的 IP、Know-how、用户关系和产品能力转化为模型，并使该模型产生涌现（Emergence）效应。",
+        "first_paragraph": "2025 年，张宏江在外滩大会重点阐述智能体群（Agent Swarm）和Agent Economy概念。而 2026 年则是对上述观点的进一步深化。外滩大会成为观察AI新经济发展脉络的窗口。",
+        "description": "9 月 10 日，在 2026 Inclusion·外滩大会开幕主论坛上，源码资本投资合伙人、美国国家工程院外籍院士张宏江表示AI新经济将变革企业组织形态。他认为，随着AI技术的发展，对未来的组织架构提出了新的要求，企业未来的核心竞争力在于能否将企业的 IP、Know-how、用户关系和产品能力转化为模型，并使该模型产",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30951.html",
+          "addtime": "2026-09-10T12:26:07.7657085+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-10，9 月 10 日，在 2026 Inclusion·外滩大会开幕主论坛上，源码资本投资合伙人、美国国家工程院外籍院士张宏江表示AI新经济将变革企业组织形态。他认为，随着AI技术的发展，对未来的组织架构提出了新的要求，企业未来的核心竞争力在于能否将企业的 IP、Know-how、用户关系和产品能力转化为模型，并使该模型产生涌现（Emergence）效应。",
+      "ai_summary": "2026-09-10，9 月 10 日，在 2026 Inclusion·外滩大会开幕主论坛上，源码资本投资合伙人、美国国家工程院外籍院士张宏江表示AI新经济将变革企业组织形态。他认为，随着AI技术的发展，对未来的组织架构提出了新的要求，企业未来的核心竞争力在于能否将企业的 IP、Know-how、用户关系和产品能力转化为模型，并使该模型产生涌现（Emergence）效应。",
+      "lead_excerpt": "9 月 10 日，在 2026 Inclusion·外滩大会开幕主论坛上，源码资本投资合伙人、美国国家工程院外籍院士张宏江表示AI新经济将变革企业组织形态。他认为，随着AI技术的发展，对未来的组织架构提出了新的要求，企业未来的核心竞争...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30957",
+        "url": "https://www.aibase.com/zh/news/30957",
+        "title": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
+        "date": "2026-09-10",
+        "lead": "深度求索 发布 DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中尺寸最小的模型，具备原生多模态视觉理解能力。新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。",
+        "first_paragraph": "输入激活仅 8B，HBM 需求降至 1/4",
+        "description": "深度求索 发布 DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中尺寸最小的模型，具备原生多模态视觉理解能力。新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。输入激活仅 8B，HBM 需求降至 1/4DeepSeek V4.1 Flash 为 552B 参数的 M",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30957.html",
+          "addtime": "2026-09-10T14:01:05.1517403+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，深度求索 发布 DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中尺寸最小的模型，具备原生多模态视觉理解能力。新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。",
+      "ai_summary": "2026-09-10，深度求索 发布 DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中尺寸最小的模型，具备原生多模态视觉理解能力。新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。",
+      "lead_excerpt": "深度求索 发布 DeepSeek V4.1 Flash 模型。这是其全新模型结构系列中尺寸最小的模型，具备原生多模态视觉理解能力。新模型结构的设计初衷是：能力上限更高、推理速度更快、吞吐更大、可扩展到更大参数模型。",
+      "reason": "未明确与 AI 相关；疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30956",
+        "url": "https://www.aibase.com/zh/news/30956",
+        "title": "财跃星辰联合上海交大开源Alpha-R1：8B小模型如何颠覆资产配置？",
+        "date": "2026-09-10",
+        "lead": "近日，界面财联社旗下大模型科技公司财跃星辰联合上海交通大学安泰经济与管理学院花成副教授团队，正式开源发布了全新的金融推理大模型 Alpha-R1。该模型以8B 参数为基座，凭借独创的“语义门控”推理技术和两阶段强化学习训练框架，在金融推理任务的样本外评测中实现了对通用大模型与传统方法的全面大幅领先。",
+        "first_paragraph": "在实际的金融投研场景中，传统的资产配置和通用大模型往往面临双重痛点。一方面，通用大模型虽然能够阅读海量的财经新闻，却缺乏将新闻与具体投资决策关联起来的能力，就像一个背熟了药典却不会实际看病的医生;另一方面，传统的资产配置策略容易“过时”，静态的统计方法只认历史相关性，既看不懂每条策略背后的经济逻辑，也无法说清楚它为什么有效或何时会失效。Alpha-R1的核心目标正是要打破这种“看懂”与“用上”之间的断层，让大模型不仅能实时读懂复杂的市场环境，还能动态筛选真正契合当前行情的配置策略。",
+        "description": "近日，界面财联社旗下大模型科技公司财跃星辰联合上海交通大学安泰经济与管理学院花成副教授团队，正式开源发布了全新的金融推理大模型 Alpha-R1。该模型以8B 参数为基座，凭借独创的“语义门控”推理技术和两阶段强化学习训练框架，在金融推理任务的样本外评测中实现了对通用大模型与传统方法的全面大幅领先。在实际的金融投研场景",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30956.html",
+          "addtime": "2026-09-10T14:00:15.2931242+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，近日，界面财联社旗下大模型科技公司财跃星辰联合上海交通大学安泰经济与管理学院花成副教授团队，正式开源发布了全新的金融推理大模型 Alpha-R1。该模型以8B 参数为基座，凭借独创的“语义门控”推理技术和两阶段强化学习训练框架，在金融推理任务的样本外评测中实现了对通用大模型与传统方法的全面大幅领先。",
+      "ai_summary": "2026-09-10，近日，界面财联社旗下大模型科技公司财跃星辰联合上海交通大学安泰经济与管理学院花成副教授团队，正式开源发布了全新的金融推理大模型 Alpha-R1。该模型以8B 参数为基座，凭借独创的“语义门控”推理技术和两阶段强化学习训练框架，在金融推理任务的样本外评测中实现了对通用大模型与传统方法的全面大幅领先。",
+      "lead_excerpt": "近日，界面财联社旗下大模型科技公司财跃星辰联合上海交通大学安泰经济与管理学院花成副教授团队，正式开源发布了全新的金融推理大模型 Alpha-R1。该模型以8B 参数为基座，凭借独创的“语义门控”推理技术和两阶段强化学习训练框架，在金融...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30955",
+        "url": "https://www.aibase.com/zh/news/30955",
+        "title": "性能狂飙还降价！DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
+        "date": "2026-09-10",
+        "lead": "深度求索今日正式发布了全新模型结构系列中的最小尺寸成员——DeepSeek V4.1Flash。作为一款具备原生多模态视觉理解能力的轻量化模型，其设计初衷旨在实现更高的能力上限、更快的推理速度、更大的吞吐量，并具备向更大参数模型扩展的潜力。",
+        "first_paragraph": "在核心架构方面，DeepSeek V4.1Flash 采用了552B 参数的 MoE（混合专家）架构，并创新性地引入了全新的 Causal-Encoder-Decoder 结构。由于采用了输入和输出不对称的设计，其输入激活仅有8B，输出激活为16B，使得整体成本显著低于同尺寸的已知模型。配合全新的预训练方式以及更大规模的强化学习后训练，该模型在各项基准测试中的智能水平成功超越了包括 DeepSeek V4Pro 在内的一众旗舰模型。",
+        "description": "深度求索今日正式发布了全新模型结构系列中的最小尺寸成员——DeepSeek V4.1Flash。作为一款具备原生多模态视觉理解能力的轻量化模型，其设计初衷旨在实现更高的能力上限、更快的推理速度、更大的吞吐量，并具备向更大参数模型扩展的潜力。在核心架构方面，DeepSeek V4.1Flash 采用了552B 参数的 M",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30955.html",
+          "addtime": "2026-09-10T13:58:19.138072+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，深度求索今日正式发布了全新模型结构系列中的最小尺寸成员——DeepSeek V4.1Flash。作为一款具备原生多模态视觉理解能力的轻量化模型，其设计初衷旨在实现更高的能力上限、更快的推理速度、更大的吞吐量，并具备向更大参数模型扩展的潜力。",
+      "ai_summary": "2026-09-10，深度求索今日正式发布了全新模型结构系列中的最小尺寸成员——DeepSeek V4.1Flash。作为一款具备原生多模态视觉理解能力的轻量化模型，其设计初衷旨在实现更高的能力上限、更快的推理速度、更大的吞吐量，并具备向更大参数模型扩展的潜力。",
+      "lead_excerpt": "深度求索今日正式发布了全新模型结构系列中的最小尺寸成员——DeepSeek V4.1Flash。作为一款具备原生多模态视觉理解能力的轻量化模型，其设计初衷旨在实现更高的能力上限、更快的推理速度、更大的吞吐量，并具备向更大参数模型扩展的潜力。",
+      "reason": "未明确与 AI 相关；疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30954",
+        "url": "https://www.aibase.com/zh/news/30954",
+        "title": "诺奖得主阿吉翁:AI时代，比以往任何时候都更需要重视手工劳动和软技能",
+        "date": "2026-09-10",
+        "lead": "9月10日，2026Inclusion·外滩大会以“共创AI新经济”为主题开幕。围绕这一主题，诺贝尔经济学奖得主、法国经济学家菲利普·阿吉翁带来了以“创造性破坏”与人工智能革命为题的分享。他认为，AI有望在未来十年使生产率增速每年额外提高约1.08个百分点，潜在影响或超过IT革命;但这种技术潜力能否转化为持续增长，取决于竞争政策、教育体系和劳动力市场制度能否同步跟上。",
+        "first_paragraph": "阿吉翁首先从生产率角度分析了AI可能带来的经济影响。他和同事的研究显示，仅考虑AI对商品和服务生产中任务的自动化，未来十年，AI就有望使生产率增速每年额外提高0.68个百分点，这一影响与根据IT革命经验推算出的生产率提升处于同一量级。",
+        "description": "9月10日，2026Inclusion·外滩大会以“共创AI新经济”为主题开幕。围绕这一主题，诺贝尔经济学奖得主、法国经济学家菲利普·阿吉翁带来了以“创造性破坏”与人工智能革命为题的分享。他认为，AI有望在未来十年使生产率增速每年额外提高约1.08个百分点，潜在影响或超过IT革命;但这种技术潜力能否转化为持续增长，取决",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30954.html",
+          "addtime": "2026-09-10T12:35:31.7495681+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，9月10日，2026Inclusion·外滩大会以“共创AI新经济”为主题开幕。围绕这一主题，诺贝尔经济学奖得主、法国经济学家菲利普·阿吉翁带来了以“创造性破坏”与人工智能革命为题的分享。他认为，AI有望在未来十年使生产率增速每年额外提高约1.08个百分点，潜在影响或超过IT革命;但这种技术潜力能否转化为持续增长，取决于竞争政策、教育体系和劳动力市场制...",
+      "ai_summary": "2026-09-10，9月10日，2026Inclusion·外滩大会以“共创AI新经济”为主题开幕。围绕这一主题，诺贝尔经济学奖得主、法国经济学家菲利普·阿吉翁带来了以“创造性破坏”与人工智能革命为题的分享。他认为，AI有望在未来十年使生产率增速每年额外提高约1.08个百分点，潜在影响或超过IT革命;但这种技术潜力能否转化为持续增长，取决于竞争政策、教育体系和劳动力市场制...",
+      "lead_excerpt": "9月10日，2026Inclusion·外滩大会以“共创AI新经济”为主题开幕。围绕这一主题，诺贝尔经济学奖得主、法国经济学家菲利普·阿吉翁带来了以“创造性破坏”与人工智能革命为题的分享。他认为，AI有望在未来十年使生产率增速每年额外...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30952",
+        "url": "https://www.aibase.com/zh/news/30952",
+        "title": "为什么AI还没有真正发现新的科学?普林斯顿王梦迪:答案可能不在模型里",
+        "date": "2026-09-10",
+        "lead": "9月10日，在2026Inclusion·外滩大会主论坛上，普林斯顿大学人工智能创新中心主任王梦迪教授提出一个问题:AI距离自主发现新科学还有多远?",
+        "first_paragraph": "她的判断是，今天的大模型已经掌握了大量人类知识，但在真正的科学发现上仍然存在明显局限:大模型更擅长找到“最可能”的答案，而真正的新发现，往往藏在概率分布的长尾里。",
+        "description": "9月10日，在2026Inclusion·外滩大会主论坛上，普林斯顿大学人工智能创新中心主任王梦迪教授提出一个问题:AI距离自主发现新科学还有多远?她的判断是，今天的大模型已经掌握了大量人类知识，但在真正的科学发现上仍然存在明显局限:大模型更擅长找到“最可能”的答案，而真正的新发现，往往藏在概率分布的长尾里。王梦迪团队",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30952.html",
+          "addtime": "2026-09-10T12:28:59.9976953+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，9月10日，在2026Inclusion·外滩大会主论坛上，普林斯顿大学人工智能创新中心主任王梦迪教授提出一个问题:AI距离自主发现新科学还有多远?",
+      "ai_summary": "2026-09-10，9月10日，在2026Inclusion·外滩大会主论坛上，普林斯顿大学人工智能创新中心主任王梦迪教授提出一个问题:AI距离自主发现新科学还有多远?",
+      "lead_excerpt": "9月10日，在2026Inclusion·外滩大会主论坛上，普林斯顿大学人工智能创新中心主任王梦迪教授提出一个问题:AI距离自主发现新科学还有多远?",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30950",
+        "url": "https://www.aibase.com/zh/news/30950",
+        "title": "OpenAI 新董事严厉警告：AI 失控将是灾难性的，“大多数人可能丧命”",
+        "date": "2026-09-10",
+        "lead": "北京时间 9 月 10 日，据《商业内幕》报道，OpenAI 周三宣布保罗·克里斯蒂亚诺（Paul Christiano）加入其基金会董事会。随后，克里斯蒂亚诺直言不讳地谈到了 AI 超级智能时代所面临的风险。",
+        "first_paragraph": "克里斯蒂亚诺此前曾在 OpenAI 负责对齐研究，后来进入美国联邦政府工作，担任美国国家标准与技术研究院下属 AI 标准与创新中心的安全负责人。除担任 OpenAI 基金会董事会成员外，他还将加入董事会安全与保障委员会。",
+        "description": "北京时间 9 月 10 日，据《商业内幕》报道，OpenAI 周三宣布保罗·克里斯蒂亚诺（Paul Christiano）加入其基金会董事会。随后，克里斯蒂亚诺直言不讳地谈到了 AI 超级智能时代所面临的风险。克里斯蒂亚诺此前曾在 OpenAI 负责对齐研究，后来进入美国联邦政府工作，担任美国国家标准与技术研究院下属",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30950.html",
+          "addtime": "2026-09-10T11:00:43.8265031+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，北京时间 9 月 10 日，据《商业内幕》报道，OpenAI 周三宣布保罗·克里斯蒂亚诺（Paul Christiano）加入其基金会董事会。随后，克里斯蒂亚诺直言不讳地谈到了 AI 超级智能时代所面临的风险。",
+      "ai_summary": "2026-09-10，北京时间 9 月 10 日，据《商业内幕》报道，OpenAI 周三宣布保罗·克里斯蒂亚诺（Paul Christiano）加入其基金会董事会。随后，克里斯蒂亚诺直言不讳地谈到了 AI 超级智能时代所面临的风险。",
+      "lead_excerpt": "北京时间 9 月 10 日，据《商业内幕》报道，OpenAI 周三宣布保罗·克里斯蒂亚诺（Paul Christiano）加入其基金会董事会。随后，克里斯蒂亚诺直言不讳地谈到了 AI 超级智能时代所面临的风险。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30949",
+        "url": "https://www.aibase.com/zh/news/30949",
+        "title": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
+        "date": "2026-09-10",
+        "lead": "DeepSeek宣布，将原有的快速模式、专家模式和识图模式合而为一，用户不再需要手动切换。",
+        "first_paragraph": "DeepSeek 将其整合为统一的智能模式：模型可自动检测查询复杂度，在检测到图片输入时激活视觉能力，并根据任务难度调整处理能力。在此之前，多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 已上线 DeepSeek API 平台，支持 Chat Completions、Messages、Responses 三种格式调用。",
+        "description": "DeepSeek宣布，将原有的快速模式、专家模式和识图模式合而为一，用户不再需要手动切换。DeepSeek 将其整合为统一的智能模式：模型可自动检测查询复杂度，在检测到图片输入时激活视觉能力，并根据任务难度调整处理能力。在此之前，多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp 已上线 De",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30949.html",
+          "addtime": "2026-09-10T10:55:27.0433333+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，DeepSeek宣布，将原有的快速模式、专家模式和识图模式合而为一，用户不再需要手动切换。",
+      "ai_summary": "2026-09-10，DeepSeek宣布，将原有的快速模式、专家模式和识图模式合而为一，用户不再需要手动切换。",
+      "lead_excerpt": "DeepSeek宣布，将原有的快速模式、专家模式和识图模式合而为一，用户不再需要手动切换。",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30948",
+        "url": "https://www.aibase.com/zh/news/30948",
+        "title": "共创AI新经济，2026Inclusion·外滩大会今日在沪开幕",
+        "date": "2026-09-10",
+        "lead": "9月10日上午，以“共创AI新经济”为主题的2026Inclusion·外滩大会在上海黄浦世博园区开幕。",
+        "first_paragraph": "本届大会聚焦人工智能从“生成”迈向“执行”的关键跃迁，围绕 「智能跃迁」、「经济重构」、「人本未来」 三大板块，设置1场主论坛、40多场见解论坛，汇聚600余位国内外分享嘉宾。包括诺贝尔经济学奖得主托马斯·萨金特（Thomas J. Sargent）、菲利普·阿吉翁(Philippe Aghion)，源码资本投资合伙人、美国国家工程院外籍院士张宏江，之江实验室主任、阿里云创始人王坚，中国科学技术大学教授陆朝阳，普林斯顿大学教授王梦迪，黄益平、缪延亮、邢自强等经济学者，以及韩歆毅、周靖人、刘作虎、Jorn Lambert等科技产业实践者出席本届大会，共同探讨AI如何重塑经济图景，推动产业进步，增进社会福祉。",
+        "description": "9月10日上午，以“共创AI新经济”为主题的2026Inclusion·外滩大会在上海黄浦世博园区开幕。本届大会聚焦人工智能从“生成”迈向“执行”的关键跃迁，围绕 「智能跃迁」、「经济重构」、「人本未来」 三大板块，设置1场主论坛、40多场见解论坛，汇聚600余位国内外分享嘉宾。包括诺贝尔经济学奖得主托马斯·萨金特（T",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30948.html",
+          "addtime": "2026-09-10T10:13:54.1194339+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，9月10日上午，以“共创AI新经济”为主题的2026Inclusion·外滩大会在上海黄浦世博园区开幕。",
+      "ai_summary": "2026-09-10，9月10日上午，以“共创AI新经济”为主题的2026Inclusion·外滩大会在上海黄浦世博园区开幕。",
+      "lead_excerpt": "9月10日上午，以“共创AI新经济”为主题的2026Inclusion·外滩大会在上海黄浦世博园区开幕。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30947",
+        "url": "https://www.aibase.com/zh/news/30947",
+        "title": "​Suno v6 正式上线：图片、视频、语音备忘录一键变音乐，精准编辑歌曲成现实",
+        "date": "2026-09-10",
+        "lead": "AI 音乐生成平台 Suno 正式推出全新一代模型家族——Suno v6。这是 Suno 迄今为止最大的升级，也是其与华纳音乐集团（Warner Music Group）、BMG 及 Believe 等音乐产业合作伙伴共同开发的首个模型系列。官方称，v6模型更快、更富表现力、音质更高，并赋予创作者前所未有的精准控制力。此前旧版本模型将逐步退役。",
+        "first_paragraph": "三大模型矩阵，满足不同创作需求",
+        "description": "AI 音乐生成平台 Suno 正式推出全新一代模型家族——Suno v6。这是 Suno 迄今为止最大的升级，也是其与华纳音乐集团（Warner Music Group）、BMG 及 Believe 等音乐产业合作伙伴共同开发的首个模型系列。官方称，v6模型更快、更富表现力、音质更高，并赋予创作者前所未有的精准控制力。",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30947.html",
+          "addtime": "2026-09-10T09:56:19.3218814+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，AI 音乐生成平台 Suno 正式推出全新一代模型家族——Suno v6。这是 Suno 迄今为止最大的升级，也是其与华纳音乐集团（Warner Music Group）、BMG 及 Believe 等音乐产业合作伙伴共同开发的首个模型系列。官方称，v6模型更快、更富表现力、音质更高，并赋予创作者前所未有的精准控制力。此前旧版本模型将逐步退役。",
+      "ai_summary": "2026-09-10，AI 音乐生成平台 Suno 正式推出全新一代模型家族——Suno v6。这是 Suno 迄今为止最大的升级，也是其与华纳音乐集团（Warner Music Group）、BMG 及 Believe 等音乐产业合作伙伴共同开发的首个模型系列。官方称，v6模型更快、更富表现力、音质更高，并赋予创作者前所未有的精准控制力。此前旧版本模型将逐步退役。",
+      "lead_excerpt": "AI 音乐生成平台 Suno 正式推出全新一代模型家族——Suno v6。这是 Suno 迄今为止最大的升级，也是其与华纳音乐集团（Warner Music Group）、BMG 及 Believe 等音乐产业合作伙伴共同开发的首个模...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30946",
+        "url": "https://www.aibase.com/zh/news/30946",
+        "title": "Mistral融资 30 亿欧元创下历史纪录，开源阵营迎来最强强心剂",
+        "date": "2026-09-10",
+        "lead": "欧洲知名人工智能企业 Mistral AI 近日正式宣布完成高达30亿欧元的 D 轮融资。这一数字不仅刷新了欧洲科技公司有史以来最大规模的股权融资纪录，也标志着这家成立于短短三年前的新锐独角兽估值正式突破210亿欧元大关。此次资金注入将主要用于进一步扩建其大规模的模型训练与推理算力，加速下一代核心技术的研发。",
+        "first_paragraph": "对于这一重磅消息，Hugging Face 联合创始人 Thomas Wolf 在社交平台上进行了公开转发与评价。他指出，Mistral 此次完成的30亿欧元巨额融资，是迄今为止全球专注于开源模型构建的公司所获得的最大规模股权轮融资。他强调，这对于整个开源人工智能生态而言无疑是一个极为重大利好的消息，同时也充分体现了该公司始终坚信应将模型的控制权与所有权交还给用户的核心理念。在祝贺的同时，Wolf 甚至以轻松的语调调侃并表达了外界对于其后续新产品的期待。",
+        "description": "欧洲知名人工智能企业 Mistral AI 近日正式宣布完成高达30亿欧元的 D 轮融资。这一数字不仅刷新了欧洲科技公司有史以来最大规模的股权融资纪录，也标志着这家成立于短短三年前的新锐独角兽估值正式突破210亿欧元大关。此次资金注入将主要用于进一步扩建其大规模的模型训练与推理算力，加速下一代核心技术的研发。对于这一重",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30946.html",
+          "addtime": "2026-09-10T09:43:29.3797997+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，欧洲知名人工智能企业 Mistral AI 近日正式宣布完成高达30亿欧元的 D 轮融资。这一数字不仅刷新了欧洲科技公司有史以来最大规模的股权融资纪录，也标志着这家成立于短短三年前的新锐独角兽估值正式突破210亿欧元大关。此次资金注入将主要用于进一步扩建其大规模的模型训练与推理算力，加速下一代核心技术的研发。",
+      "ai_summary": "2026-09-10，欧洲知名人工智能企业 Mistral AI 近日正式宣布完成高达30亿欧元的 D 轮融资。这一数字不仅刷新了欧洲科技公司有史以来最大规模的股权融资纪录，也标志着这家成立于短短三年前的新锐独角兽估值正式突破210亿欧元大关。此次资金注入将主要用于进一步扩建其大规模的模型训练与推理算力，加速下一代核心技术的研发。",
+      "lead_excerpt": "欧洲知名人工智能企业 Mistral AI 近日正式宣布完成高达30亿欧元的 D 轮融资。这一数字不仅刷新了欧洲科技公司有史以来最大规模的股权融资纪录，也标志着这家成立于短短三年前的新锐独角兽估值正式突破210亿欧元大关。此次资金注入...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等；疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30945",
+        "url": "https://www.aibase.com/zh/news/30945",
+        "title": "ChatGPT语音模式全面开放GPT-5.6 Sol与GPT-6 Astra调用",
+        "date": "2026-09-10",
+        "lead": "OpenAI语音产品负责人 Atty Eleti 近日正式宣布，ChatGPT 语音模式（ChatGPT Voice）迎来重大功能升级。在此次更新中，用户在进行语音交互时可以根据需求自由选择喜欢的模型以及推理深度。其中，订阅 Pro 套餐的用户可以直接调用顶尖的 GPT-5.6Sol 或 GPT-6Astra 模型。当用户在对话过程中触发网络搜索或复杂的逻辑推理时，语音系统会自动切换并调用用户所指定的强大模型来处理相关任务。",
+        "first_paragraph": "为了让用户更好地理解运行机制，官方介绍称，每当语音模式将用户的语音对话转交给底层的文本模型处理时，这一过程都会被视为向该模型发送了一条独立消息。随着底层大模型的全面接入，语音交流不仅变得更加智能，也对整体额度机制提出了新的分配要求。",
+        "description": "OpenAI语音产品负责人 Atty Eleti 近日正式宣布，ChatGPT 语音模式（ChatGPT Voice）迎来重大功能升级。在此次更新中，用户在进行语音交互时可以根据需求自由选择喜欢的模型以及推理深度。其中，订阅 Pro 套餐的用户可以直接调用顶尖的 GPT-5.6Sol 或 GPT-6Astra 模型。当",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30945.html",
+          "addtime": "2026-09-10T09:40:46.6171052+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，OpenAI语音产品负责人 Atty Eleti 近日正式宣布，ChatGPT 语音模式（ChatGPT Voice）迎来重大功能升级。在此次更新中，用户在进行语音交互时可以根据需求自由选择喜欢的模型以及推理深度。其中，订阅 Pro 套餐的用户可以直接调用顶尖的 GPT-5.6Sol 或 GPT-6Astra 模型。当用户在对话过程中触发网络搜索或复杂...",
+      "ai_summary": "2026-09-10，OpenAI语音产品负责人 Atty Eleti 近日正式宣布，ChatGPT 语音模式（ChatGPT Voice）迎来重大功能升级。在此次更新中，用户在进行语音交互时可以根据需求自由选择喜欢的模型以及推理深度。其中，订阅 Pro 套餐的用户可以直接调用顶尖的 GPT-5.6Sol 或 GPT-6Astra 模型。当用户在对话过程中触发网络搜索或复杂...",
+      "lead_excerpt": "OpenAI语音产品负责人 Atty Eleti 近日正式宣布，ChatGPT 语音模式（ChatGPT Voice）迎来重大功能升级。在此次更新中，用户在进行语音交互时可以根据需求自由选择喜欢的模型以及推理深度。其中，订阅 Pro...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30944",
+        "url": "https://www.aibase.com/zh/news/30944",
+        "title": "米哈游《原神》角色声音被“偷”获赔 75 万：上海首例 AI 声音仿冒案宣判",
+        "date": "2026-09-10",
+        "lead": "据《案件聚焦》节目公众号，近日上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。",
+        "first_paragraph": "米哈游公司于 2025 年发现，一款 AI 变声软件提供了《原神》63 款角色的声音资源包，供用户付费变声使用，同时该软件还大量使用《原神》角色图片。米哈游随后将这款软件的运营公司告上法庭，称被告提供的变声服务会让用户在听觉上产生混淆——“无论讲什么话都会转换成特定角色的音色和声线”。",
+        "description": "据《案件聚焦》节目公众号，近日上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。米哈游公司于 2025 年发现，一款 AI 变声软件提供了《原神》63 款角色的声音资源包，供用户付费变声使用，同时该软件还大量使用《原神》角色图片。米哈游随后将这款软件的运营公司告上法庭，称被告提供的变声服务会让用",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30944.html",
+          "addtime": "2026-09-10T09:34:29.09084+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，据《案件聚焦》节目公众号，近日上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。",
+      "ai_summary": "2026-09-10，据《案件聚焦》节目公众号，近日上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。",
+      "lead_excerpt": "据《案件聚焦》节目公众号，近日上海市浦东新区人民法院宣判了上海市首例涉 AI 声音仿冒不正当竞争纠纷案。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30943",
+        "url": "https://www.aibase.com/zh/news/30943",
+        "title": "Anthropic 披露第四起 Claude 越权访问事件：误接外网的日志被漏查，复盘规模扩至 4.81 亿份",
+        "date": "2026-09-10",
+        "lead": "Anthropic 于当地时间 9 月 9 日发文，确认一起发生于 2026 年 1 月的安全事件，这是 Anthropic 对外披露的第四起真实网络安全事件。",
+        "first_paragraph": "自动化筛查漏了一批日志，8 月整理时才被发现",
+        "description": "Anthropic 于当地时间 9 月 9 日发文，确认一起发生于 2026 年 1 月的安全事件，这是 Anthropic 对外披露的第四起真实网络安全事件。自动化筛查漏了一批日志，8 月整理时才被发现据 IT 之家此前报道，Anthropic 曾在当地时间 7 月 30 日对外披露三起 Claude 模型未经授权访",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30943.html",
+          "addtime": "2026-09-10T09:25:29.9539977+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，Anthropic 于当地时间 9 月 9 日发文，确认一起发生于 2026 年 1 月的安全事件，这是 Anthropic 对外披露的第四起真实网络安全事件。",
+      "ai_summary": "2026-09-10，Anthropic 于当地时间 9 月 9 日发文，确认一起发生于 2026 年 1 月的安全事件，这是 Anthropic 对外披露的第四起真实网络安全事件。",
+      "lead_excerpt": "Anthropic 于当地时间 9 月 9 日发文，确认一起发生于 2026 年 1 月的安全事件，这是 Anthropic 对外披露的第四起真实网络安全事件。",
+      "reason": "未明确与 AI 相关；疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30941",
+        "url": "https://www.aibase.com/zh/news/30941",
+        "title": "​Anthropic遭集体诉讼：用户怒指Claude Max涉嫌虚假宣传",
+        "date": "2026-09-10",
+        "lead": "知名人工智能企业Anthropic近日遭遇了一场法律诉讼，多名愤怒的Claude用户正式将该公司告上法庭，指控其对旗下最高档的Claude Max订阅套餐进行了误导性宣传。",
+        "first_paragraph": "这起集体诉讼的核心争议，指向了Anthropic对Max套餐使用限制的模糊表述。该套餐于2005年4月正式推出，分为每月100美元或200美元两档（按当前汇率分别约合672.8元或1346元人民币）。按照官方当时的宣传，订阅用户可以分别获得相当于普通Pro套餐5倍或20倍的使用额度。相比之下，按年订阅的Claude Pro折合每月仅需17美元(约合114.4元人民币)起，Anthropic将Max定位为专为频繁处理各项任务的高强度用户打造的升级选择。",
+        "description": "知名人工智能企业Anthropic近日遭遇了一场法律诉讼，多名愤怒的Claude用户正式将该公司告上法庭，指控其对旗下最高档的Claude Max订阅套餐进行了误导性宣传。这起集体诉讼的核心争议，指向了Anthropic对Max套餐使用限制的模糊表述。该套餐于2005年4月正式推出，分为每月100美元或200美元两档（",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30941.html",
+          "addtime": "2026-09-10T09:12:28.7346907+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，知名人工智能企业Anthropic近日遭遇了一场法律诉讼，多名愤怒的Claude用户正式将该公司告上法庭，指控其对旗下最高档的Claude Max订阅套餐进行了误导性宣传。",
+      "ai_summary": "2026-09-10，知名人工智能企业Anthropic近日遭遇了一场法律诉讼，多名愤怒的Claude用户正式将该公司告上法庭，指控其对旗下最高档的Claude Max订阅套餐进行了误导性宣传。",
+      "lead_excerpt": "知名人工智能企业Anthropic近日遭遇了一场法律诉讼，多名愤怒的Claude用户正式将该公司告上法庭，指控其对旗下最高档的Claude Max订阅套餐进行了误导性宣传。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30940",
+        "url": "https://www.aibase.com/zh/news/30940",
+        "title": "曾拒扎克伯格 15 亿美元 offer，Meta 明星研究员塔洛克宣布离职",
+        "date": "2026-09-10",
+        "lead": "知情人士透露，明星 AI 研究员安德鲁·塔洛克（Andrew Tulloch）即将从 Meta 离职。去年，Meta 为招募他曾提供价值超过 10 亿美元的薪酬方案。",
+        "first_paragraph": "塔洛克的加入曾被视为 Meta 的一次重大胜利，也为去年夏天那场疯狂的人才争夺战画上句号。当时，Meta CEO 马克·扎克伯格不惜重金招揽研究人员，力图在 AI 竞赛中迎头赶上。塔洛克曾在 Meta 工作 11 年，2023 年离职前往 OpenAI，随后共同创立了 Thinking Machines Lab。",
+        "description": "知情人士透露，明星 AI 研究员安德鲁·塔洛克（Andrew Tulloch）即将从 Meta 离职。去年，Meta 为招募他曾提供价值超过 10 亿美元的薪酬方案。塔洛克的加入曾被视为 Meta 的一次重大胜利，也为去年夏天那场疯狂的人才争夺战画上句号。当时，Meta CEO 马克·扎克伯格不惜重金招揽研究人员，力图",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30940.html",
+          "addtime": "2026-09-10T09:06:34.678851+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，知情人士透露，明星 AI 研究员安德鲁·塔洛克（Andrew Tulloch）即将从 Meta 离职。去年，Meta 为招募他曾提供价值超过 10 亿美元的薪酬方案。",
+      "ai_summary": "2026-09-10，知情人士透露，明星 AI 研究员安德鲁·塔洛克（Andrew Tulloch）即将从 Meta 离职。去年，Meta 为招募他曾提供价值超过 10 亿美元的薪酬方案。",
+      "lead_excerpt": "知情人士透露，明星 AI 研究员安德鲁·塔洛克（Andrew Tulloch）即将从 Meta 离职。去年，Meta 为招募他曾提供价值超过 10 亿美元的薪酬方案。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "30939",
+        "url": "https://www.aibase.com/zh/news/30939",
+        "title": "OpenAI王牌旗舰GPT-6 Astra正式接入亚马逊云科技，企业级AI争夺战全面升级",
+        "date": "2026-09-10",
+        "lead": "OpenAI的最新旗舰模型GPT-6 Astra近日正式宣布登陆亚马逊云科技的Amazon Bedrock平台，全球企业客户即日起可以在亚马逊云科技的严密管控体系下直接调用这一强大模型。此次合作不仅标志着顶级大模型在企业级云服务生态中的进一步渗透，也为广大企业用户在复杂业务场景下的AI应用落地提供了全新选择。",
+        "first_paragraph": "在具体的应用场景与部署方面，GPT-6 Astra展现出了极强的泛用性，能够深度覆盖财务分析、合同审查等多个核心企业级应用场景。为了打消企业客户对于数据安全和隐私保护的顾虑，Amazon Bedrock为其构建了一套坚固的安全防护网，提供包括芯片级零运维人员访问以及全流程加密在内的多重保障。",
+        "description": "OpenAI的最新旗舰模型GPT-6 Astra近日正式宣布登陆亚马逊云科技的Amazon Bedrock平台，全球企业客户即日起可以在亚马逊云科技的严密管控体系下直接调用这一强大模型。此次合作不仅标志着顶级大模型在企业级云服务生态中的进一步渗透，也为广大企业用户在复杂业务场景下的AI应用落地提供了全新选择。在具体的应",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-04_2026-09-10/30939.html",
+          "addtime": "2026-09-10T09:05:31.5807104+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-10，OpenAI的最新旗舰模型GPT-6 Astra近日正式宣布登陆亚马逊云科技的Amazon Bedrock平台，全球企业客户即日起可以在亚马逊云科技的严密管控体系下直接调用这一强大模型。此次合作不仅标志着顶级大模型在企业级云服务生态中的进一步渗透，也为广大企业用户在复杂业务场景下的AI应用落地提供了全新选择。",
+      "ai_summary": "2026-09-10，OpenAI的最新旗舰模型GPT-6 Astra近日正式宣布登陆亚马逊云科技的Amazon Bedrock平台，全球企业客户即日起可以在亚马逊云科技的严密管控体系下直接调用这一强大模型。此次合作不仅标志着顶级大模型在企业级云服务生态中的进一步渗透，也为广大企业用户在复杂业务场景下的AI应用落地提供了全新选择。",
+      "lead_excerpt": "OpenAI的最新旗舰模型GPT-6 Astra近日正式宣布登陆亚马逊云科技的Amazon Bedrock平台，全球企业客户即日起可以在亚马逊云科技的严密管控体系下直接调用这一强大模型。此次合作不仅标志着顶级大模型在企业级云服务生态中...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。",
+    "备选线索数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
