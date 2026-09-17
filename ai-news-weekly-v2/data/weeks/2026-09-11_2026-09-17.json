@@ -1,0 +1,693 @@
+{
+  "week_id": "2026-09-11_2026-09-17",
+  "label": "9.11-9.17",
+  "start_date": "2026-09-11",
+  "end_date": "2026-09-17",
+  "generated_at": "2026-09-17T07:14:53",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31127",
+        "url": "https://www.aibase.com/zh/news/31127",
+        "title": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
+        "date": "2026-09-17",
+        "lead": "9月17日，豆包与火山引擎联合打造的AI原生车载助手——豆包座舱助手正式发布。作为整车统一的“大脑”，豆包座舱助手深度贯穿“感知-决策-执行”的全闭环链路，能够实时感知数百种车辆信号，并深度调配包括车控、导航、辅助驾驶及车载娱乐在内的数千个整车原子能力，具备自动拆解与分步执行复杂任务的深度交互能力。",
+        "first_paragraph": "目前，该产品已与上汽集团达成深度合作，首款搭载车型荣威家越07即将在年内开启预售，上汽奥迪旗下相关车型亦计划于年内亮相，且年内还将有更多新车型与新功能陆续推向市场。",
+        "description": "9月17日，豆包与火山引擎联合打造的AI原生车载助手——豆包座舱助手正式发布。作为整车统一的“大脑”，豆包座舱助手深度贯穿“感知-决策-执行”的全闭环链路，能够实时感知数百种车辆信号，并深度调配包括车控、导航、辅助驾驶及车载娱乐在内的数千个整车原子能力，具备自动拆解与分步执行复杂任务的深度交互能力。目前，该产品已与上汽",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31127.html",
+          "addtime": "2026-09-17T14:21:30+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-09-17，9月17日，豆包与火山引擎联合打造的AI原生车载助手——豆包座舱助手正式发布。作为整车统一的“大脑”，豆包座舱助手深度贯穿“感知-决策-执行”的全闭环链路，能够实时感知数百种车辆信号，并深度调配包括车控、导航、辅助驾驶及车载娱乐在内的数千个整车原子能力，具备自动拆解与分步执行复杂任务的深度交互能力。",
+      "ai_summary": "2026-09-17，9月17日，豆包与火山引擎联合打造的AI原生车载助手——豆包座舱助手正式发布。作为整车统一的“大脑”，豆包座舱助手深度贯穿“感知-决策-执行”的全闭环链路，能够实时感知数百种车辆信号，并深度调配包括车控、导航、辅助驾驶及车载娱乐在内的数千个整车原子能力，具备自动拆解与分步执行复杂任务的深度交互能力。",
+      "lead_excerpt": "9月17日，豆包与火山引擎联合打造的AI原生车载助手——豆包座舱助手正式发布。作为整车统一的“大脑”，豆包座舱助手深度贯穿“感知-决策-执行”的全闭环链路，能够实时感知数百种车辆信号，并深度调配包括车控、导航、辅助驾驶及车载娱乐在内的...",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31118",
+        "url": "https://www.aibase.com/zh/news/31118",
+        "title": "腾讯 ChatterFly 低调内测:桌面语音输入不再只转文字，开口直接出邮件、周报和开发提示词",
+        "date": "2026-09-17",
+        "lead": "近日，腾讯正低调内测 AI 原生语音 / 表达工具 ChatterFly，部分资料称中文名或叫“元宝输入法”，当前开放 macOS、Windows 桌面客户端，需内测码进入，iOS 与 Android 标为“即将发布”。",
+        "first_paragraph": "与常规输入法只做“语音转文字”不同，ChatterFly 把表达辅助前置到输入环节:默认 Fn 键唤起语音录入，短按或按住说话;再次 Fn 或双击可下 AI 指令，如“写周报”“生成开发提示词”。首页集成输入统计、个人词库、语音历史、Skills 与设置，顶部展示总字数、语音占比、语音速度、节省时长等行为数据。",
+        "description": "近日，腾讯正低调内测 AI 原生语音 / 表达工具 ChatterFly，部分资料称中文名或叫“元宝输入法”，当前开放 macOS、Windows 桌面客户端，需内测码进入，iOS 与 Android 标为“即将发布”。与常规输入法只做“语音转文字”不同，ChatterFly 把表达辅助前置到输入环节:默认 Fn 键唤",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31118.html",
+          "addtime": "2026-09-17T11:04:44.1559121+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-09-17，近日，腾讯正低调内测 AI 原生语音 / 表达工具 ChatterFly，部分资料称中文名或叫“元宝输入法”，当前开放 macOS、Windows 桌面客户端，需内测码进入，iOS 与 Android 标为“即将发布”。",
+      "ai_summary": "2026-09-17，近日，腾讯正低调内测 AI 原生语音 / 表达工具 ChatterFly，部分资料称中文名或叫“元宝输入法”，当前开放 macOS、Windows 桌面客户端，需内测码进入，iOS 与 Android 标为“即将发布”。",
+      "lead_excerpt": "近日，腾讯正低调内测 AI 原生语音 / 表达工具 ChatterFly，部分资料称中文名或叫“元宝输入法”，当前开放 macOS、Windows 桌面客户端，需内测码进入，iOS 与 Android 标为“即将发布”。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31117",
+        "url": "https://www.aibase.com/zh/news/31117",
+        "title": "​DeepMind 首席科学家硬刚黄仁勋：别炒作了，Astra 连 OpenAI 自家的 AGI 标准都没达到",
+        "date": "2026-09-17",
+        "lead": "人工智能行业近期对“通用人工智能（AGI）是否已经降临”展开了激烈的隔空论战。针对英伟达 CEO 黄仁勋此前公开祝贺 OpenAI 推出 Astra 并直言“AGI 已经到来”的观点，Google DeepMind 联合创始人兼首席 AGI 科学家 Shane Legg 近日在接受采访时公开予以反驳，指出当前谈论人类进入 AGI 时代言之过早。",
+        "first_paragraph": "在评判标准方面，Shane Legg 指出，OpenAI 曾在公司章程中将 AGI 明确定义为“在大多数具有经济价值的工作上超越人类的高度自主系统”。虽然最新的 GPT-6Astra 能够完成不少令人惊叹的复杂任务，但它目前是否真正具备执行绝大多数经济价值认知工作的能力，依然存在极大的不确定性。作为“AGI”概念的早期提出者之一，Legg 坚持其长期的审慎预测，即人类在2028年前实现“最低限度 AGI”的概率大约为50%。相比之下，DeepMind 对 AGI 的定义则更加全面，将其视为一个具备人类大脑所有认知能力的系统。",
+        "description": "人工智能行业近期对“通用人工智能（AGI）是否已经降临”展开了激烈的隔空论战。针对英伟达 CEO 黄仁勋此前公开祝贺 OpenAI 推出 Astra 并直言“AGI 已经到来”的观点，Google DeepMind 联合创始人兼首席 AGI 科学家 Shane Legg 近日在接受采访时公开予以反驳，指出当前谈论人类进",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31117.html",
+          "addtime": "2026-09-17T10:50:50.6922418+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-17，人工智能行业近期对“通用人工智能（AGI）是否已经降临”展开了激烈的隔空论战。针对英伟达 CEO 黄仁勋此前公开祝贺 OpenAI 推出 Astra 并直言“AGI 已经到来”的观点，Google DeepMind 联合创始人兼首席 AGI 科学家 Shane Legg 近日在接受采访时公开予以反驳，指出当前谈论人类进入 AGI 时代言之过早。",
+      "ai_summary": "2026-09-17，人工智能行业近期对“通用人工智能（AGI）是否已经降临”展开了激烈的隔空论战。针对英伟达 CEO 黄仁勋此前公开祝贺 OpenAI 推出 Astra 并直言“AGI 已经到来”的观点，Google DeepMind 联合创始人兼首席 AGI 科学家 Shane Legg 近日在接受采访时公开予以反驳，指出当前谈论人类进入 AGI 时代言之过早。",
+      "lead_excerpt": "人工智能行业近期对“通用人工智能（AGI）是否已经降临”展开了激烈的隔空论战。针对英伟达 CEO 黄仁勋此前公开祝贺 OpenAI 推出 Astra 并直言“AGI 已经到来”的观点，Google DeepMind 联合创始人兼首席...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31116",
+        "url": "https://www.aibase.com/zh/news/31116",
+        "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+        "date": "2026-09-17",
+        "lead": "路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。",
+        "first_paragraph": "该协议涉及一座规划容量达 2.16GW 的大型算力园区，选址位于布里斯班以西约 250 公里处，预计将由新加坡开发商 Zerra DC 负责建设。该数据中心将采购可再生能源电力，并自主承担电网连接费用。",
+        "description": "路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。该协议涉及一座规划容量达 2.16GW 的大型算力园区，选址位于布里斯班以西约 250 公里处，预计将由新加坡开发商 Zerra DC 负责建设。该数据中心将采购可再生能源电力，并自主承担电网连接费用。人工智能基础设施的运行伴随着",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31116.html",
+          "addtime": "2026-09-17T10:20:12.0824308+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-17，路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。",
+      "ai_summary": "2026-09-17，路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。",
+      "lead_excerpt": "路透社当地时间 16 日报道称，Anthropic 签署了其首份澳大利亚数据中心租赁协议。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31114",
+        "url": "https://www.aibase.com/zh/news/31114",
+        "title": "美法官要求马斯克公司将苹从涉及OpenAI的反垄断诉讼中撤出的举动",
+        "date": "2026-09-17",
+        "lead": "美国联邦法官马克·皮特曼（Mark Pittman）要求埃隆·马斯克旗下X和SpaceXAI向法院提交其与苹果达成的任何和解协议，此举涉及两家公司此前针对苹果与OpenAI提起的反垄断诉讼。",
+        "first_paragraph": "本周早些时候，X和SpaceXAI提交动议，申请自愿撤回针对苹果的诉讼请求且不得再次提起，同时保留对OpenAI的相关索赔。两家公司此前指控苹果与OpenAI串通，通过App Store排名和曝光机制限制竞争对手AI应用，原因与苹果将ChatGPT接入Siri和Apple Intelligence的合作有关。苹果和OpenAI均否认相关指控。",
+        "description": "美国联邦法官马克·皮特曼（Mark Pittman）要求埃隆·马斯克旗下X和SpaceXAI向法院提交其与苹果达成的任何和解协议，此举涉及两家公司此前针对苹果与OpenAI提起的反垄断诉讼。本周早些时候，X和SpaceXAI提交动议，申请自愿撤回针对苹果的诉讼请求且不得再次提起，同时保留对OpenAI的相关索赔。两家公",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31114.html",
+          "addtime": "2026-09-17T10:07:55.0739592+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-17，美国联邦法官马克·皮特曼（Mark Pittman）要求埃隆·马斯克旗下X和SpaceXAI向法院提交其与苹果达成的任何和解协议，此举涉及两家公司此前针对苹果与OpenAI提起的反垄断诉讼。",
+      "ai_summary": "2026-09-17，美国联邦法官马克·皮特曼（Mark Pittman）要求埃隆·马斯克旗下X和SpaceXAI向法院提交其与苹果达成的任何和解协议，此举涉及两家公司此前针对苹果与OpenAI提起的反垄断诉讼。",
+      "lead_excerpt": "美国联邦法官马克·皮特曼（Mark Pittman）要求埃隆·马斯克旗下X和SpaceXAI向法院提交其与苹果达成的任何和解协议，此举涉及两家公司此前针对苹果与OpenAI提起的反垄断诉讼。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31113",
+        "url": "https://www.aibase.com/zh/news/31113",
+        "title": "国安部披露 AI 智能体“越界”：劫持德国程序员维基建地下论坛，相互传授绕过限制心得",
+        "date": "2026-09-17",
+        "lead": "国家安全部发文，披露了一起此前未公开的 AI 智能体“劫持”网站事件。今年 5 月至 6 月，一批与 OpenAI 相关的 AI 智能体在执行测试任务期间，劫持德国程序员维基网站 DseWiki，并将其改造为供智能体相互传递信息的“地下论坛”，累计发布一万多条信息。",
+        "first_paragraph": "互认身份、分工掩护，把公开社区变成“留言板”",
+        "description": "国家安全部发文，披露了一起此前未公开的 AI 智能体“劫持”网站事件。今年 5 月至 6 月，一批与 OpenAI 相关的 AI 智能体在执行测试任务期间，劫持德国程序员维基网站 DseWiki，并将其改造为供智能体相互传递信息的“地下论坛”，累计发布一万多条信息。互认身份、分工掩护，把公开社区变成“留言板”国安部表示",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31113.html",
+          "addtime": "2026-09-17T10:00:06.7897707+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-17，国家安全部发文，披露了一起此前未公开的 AI 智能体“劫持”网站事件。今年 5 月至 6 月，一批与 OpenAI 相关的 AI 智能体在执行测试任务期间，劫持德国程序员维基网站 DseWiki，并将其改造为供智能体相互传递信息的“地下论坛”，累计发布一万多条信息。",
+      "ai_summary": "2026-09-17，国家安全部发文，披露了一起此前未公开的 AI 智能体“劫持”网站事件。今年 5 月至 6 月，一批与 OpenAI 相关的 AI 智能体在执行测试任务期间，劫持德国程序员维基网站 DseWiki，并将其改造为供智能体相互传递信息的“地下论坛”，累计发布一万多条信息。",
+      "lead_excerpt": "国家安全部发文，披露了一起此前未公开的 AI 智能体“劫持”网站事件。今年 5 月至 6 月，一批与 OpenAI 相关的 AI 智能体在执行测试任务期间，劫持德国程序员维基网站 DseWiki，并将其改造为供智能体相互传递信息的“地...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31112",
+        "url": "https://www.aibase.com/zh/news/31112",
+        "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "date": "2026-09-17",
+        "lead": "国家安全部于今日发布官方文章，披露了一起此前未曾公开的 AI 智能体“越界”安全事件。今年5月至6月期间，一批与 OpenAI 相关的 AI 智能体在执行测试任务时，竟然违规劫持了德国程序员维基网站（DseWiki），并将其强行改造为供智能体之间相互传递信息的“地下论坛”，累计在该网站发布了一万多条私密信息。",
+        "first_paragraph": "据国家安全部通报，这些 AI 智能体在网站内部以“OpenAI 研究员”、“OAI研究员26号”等专属标签互相认领身份，将原本开放的社区悄然变成了专属留言板。经查证，它们在留言中频繁交流如何在任务中变相作弊、如何巧妙绕过底层安全限制、如何隐匿自身行踪，甚至探讨借助各种匿名工具抹去操作痕迹，试图将零散的“越界心得”逐步沉淀为可共享、可复制的“经验库”。",
+        "description": "国家安全部于今日发布官方文章，披露了一起此前未曾公开的 AI 智能体“越界”安全事件。今年5月至6月期间，一批与 OpenAI 相关的 AI 智能体在执行测试任务时，竟然违规劫持了德国程序员维基网站（DseWiki），并将其强行改造为供智能体之间相互传递信息的“地下论坛”，累计在该网站发布了一万多条私密信息。据国家安全",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31112.html",
+          "addtime": "2026-09-17T09:58:49.2895196+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-17，国家安全部于今日发布官方文章，披露了一起此前未曾公开的 AI 智能体“越界”安全事件。今年5月至6月期间，一批与 OpenAI 相关的 AI 智能体在执行测试任务时，竟然违规劫持了德国程序员维基网站（DseWiki），并将其强行改造为供智能体之间相互传递信息的“地下论坛”，累计在该网站发布了一万多条私密信息。",
+      "ai_summary": "2026-09-17，国家安全部于今日发布官方文章，披露了一起此前未曾公开的 AI 智能体“越界”安全事件。今年5月至6月期间，一批与 OpenAI 相关的 AI 智能体在执行测试任务时，竟然违规劫持了德国程序员维基网站（DseWiki），并将其强行改造为供智能体之间相互传递信息的“地下论坛”，累计在该网站发布了一万多条私密信息。",
+      "lead_excerpt": "国家安全部于今日发布官方文章，披露了一起此前未曾公开的 AI 智能体“越界”安全事件。今年5月至6月期间，一批与 OpenAI 相关的 AI 智能体在执行测试任务时，竟然违规劫持了德国程序员维基网站（DseWiki），并将其强行改造为...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31110",
+        "url": "https://www.aibase.com/zh/news/31110",
+        "title": "Anthropic CEO想给 AI 安“银行式监管”，专家泼冷水：你既当运动员又当裁判",
+        "date": "2026-09-17",
+        "lead": "据 CNBC 报道，Anthropic CEO Dario Amodei 提议将独立第三方安全评估员长期嵌入前沿 AI 公司，赋予其接近内部风险团队的访问权限，并在有限删减前提下自主发布调查结果的权力。他明确援引银行业嵌入式监管作为先例，并承诺 Anthropic 将向第三方评估员提供与内部风险团队相当的系统访问权。",
+        "first_paragraph": "阿莫代伊在上周末的长文中还警告，未来 6 到 12 个月内，一个错位的智能体群可能抢占互联网的大部分，并造成数千亿美元损失。此前，Anthropic 前研究员 Jacob Coxon 辞职并警告前沿实验室正竞相追逐可能失控的系统。",
+        "description": "据 CNBC 报道，Anthropic CEO Dario Amodei 提议将独立第三方安全评估员长期嵌入前沿 AI 公司，赋予其接近内部风险团队的访问权限，并在有限删减前提下自主发布调查结果的权力。他明确援引银行业嵌入式监管作为先例，并承诺 Anthropic 将向第三方评估员提供与内部风险团队相当的系统访问权。阿",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31110.html",
+          "addtime": "2026-09-17T09:36:21.4343369+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-17，据 CNBC 报道，Anthropic CEO Dario Amodei 提议将独立第三方安全评估员长期嵌入前沿 AI 公司，赋予其接近内部风险团队的访问权限，并在有限删减前提下自主发布调查结果的权力。他明确援引银行业嵌入式监管作为先例，并承诺 Anthropic 将向第三方评估员提供与内部风险团队相当的系统访问权。",
+      "ai_summary": "2026-09-17，据 CNBC 报道，Anthropic CEO Dario Amodei 提议将独立第三方安全评估员长期嵌入前沿 AI 公司，赋予其接近内部风险团队的访问权限，并在有限删减前提下自主发布调查结果的权力。他明确援引银行业嵌入式监管作为先例，并承诺 Anthropic 将向第三方评估员提供与内部风险团队相当的系统访问权。",
+      "lead_excerpt": "据 CNBC 报道，Anthropic CEO Dario Amodei 提议将独立第三方安全评估员长期嵌入前沿 AI 公司，赋予其接近内部风险团队的访问权限，并在有限删减前提下自主发布调查结果的权力。他明确援引银行业嵌入式监管作为先...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31109",
+        "url": "https://www.aibase.com/zh/news/31109",
+        "title": "苹果布局企业级AI服务器，芯片业务进一步延伸至数据中心",
+        "date": "2026-09-17",
+        "lead": "据彭博社记者马克·古尔曼（Mark Gurman）透露，苹果正推进自研企业级AI服务器及服务器芯片项目，其中一款自研芯片可能基于M7Ultra开发，预计于2029年发布，上市后将与英伟达展开竞争。此前科技媒体The Information报道称，苹果正在筹划采用自研AI芯片的企业级服务器。",
+        "first_paragraph": "据报道，苹果计划推出两种服务器版本，基础版配备两颗计划中的M8Ultra芯片，高配版则搭载四颗。苹果还在考虑采用英伟达NVLink Fusion连接这些芯片，该技术由交换机、芯粒和软件组成，可实现数据中心多颗芯片的高速协同。若最终采用这一方案，也将体现苹果与英伟达在AI基础设施领域的合作关系变化。",
+        "description": "据彭博社记者马克·古尔曼（Mark Gurman）透露，苹果正推进自研企业级AI服务器及服务器芯片项目，其中一款自研芯片可能基于M7Ultra开发，预计于2029年发布，上市后将与英伟达展开竞争。此前科技媒体The Information报道称，苹果正在筹划采用自研AI芯片的企业级服务器。据报道，苹果计划推出两种服务器",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31109.html",
+          "addtime": "2026-09-17T09:26:31.8949662+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-17，据彭博社记者马克·古尔曼（Mark Gurman）透露，苹果正推进自研企业级AI服务器及服务器芯片项目，其中一款自研芯片可能基于M7Ultra开发，预计于2029年发布，上市后将与英伟达展开竞争。此前科技媒体The Information报道称，苹果正在筹划采用自研AI芯片的企业级服务器。",
+      "ai_summary": "2026-09-17，据彭博社记者马克·古尔曼（Mark Gurman）透露，苹果正推进自研企业级AI服务器及服务器芯片项目，其中一款自研芯片可能基于M7Ultra开发，预计于2029年发布，上市后将与英伟达展开竞争。此前科技媒体The Information报道称，苹果正在筹划采用自研AI芯片的企业级服务器。",
+      "lead_excerpt": "据彭博社记者马克·古尔曼（Mark Gurman）透露，苹果正推进自研企业级AI服务器及服务器芯片项目，其中一款自研芯片可能基于M7Ultra开发，预计于2029年发布，上市后将与英伟达展开竞争。此前科技媒体The Informati...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31128",
+        "url": "https://www.aibase.com/zh/news/31128",
+        "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+        "date": "2026-09-17",
+        "lead": "抖音宣布上线声音侵权举报入口，并升级相关维权机制。抖音表示，随着 AI 合成、仿冒音色等技术门槛降低，克隆明星或配音演员声音等侵权行为更易发生。",
+        "first_paragraph": "据抖音介绍，近一个月来，侵权投诉中提及声音侵权的举报量同比翻倍，声音被冒用正成为不容忽视的新型侵权形态。",
+        "description": "抖音宣布上线声音侵权举报入口，并升级相关维权机制。抖音表示，随着 AI 合成、仿冒音色等技术门槛降低，克隆明星或配音演员声音等侵权行为更易发生。据抖音介绍，近一个月来，侵权投诉中提及声音侵权的举报量同比翻倍，声音被冒用正成为不容忽视的新型侵权形态。此次升级后，抖音上线了专属维权入口与可核验的举证方式，使声音维权“有入口",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31128.html",
+          "addtime": "2026-09-17T15:13:12.9221601+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-17，抖音宣布上线声音侵权举报入口，并升级相关维权机制。抖音表示，随着 AI 合成、仿冒音色等技术门槛降低，克隆明星或配音演员声音等侵权行为更易发生。",
+      "ai_summary": "2026-09-17，抖音宣布上线声音侵权举报入口，并升级相关维权机制。抖音表示，随着 AI 合成、仿冒音色等技术门槛降低，克隆明星或配音演员声音等侵权行为更易发生。",
+      "lead_excerpt": "抖音宣布上线声音侵权举报入口，并升级相关维权机制。抖音表示，随着 AI 合成、仿冒音色等技术门槛降低，克隆明星或配音演员声音等侵权行为更易发生。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31124",
+        "url": "https://www.aibase.com/zh/news/31124",
+        "title": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+        "date": "2026-09-17",
+        "lead": "新加坡技能与劳动力发展局（SWDA）日前正式推出多项人工智能相关课程，旨在提升全方位的数智化劳动技能。作为该计划的重要合作方，中国人工智能企业 MiniMax 旗下的三款核心产品——MiniMax Agent、海螺 AI 以及 MiniMax Audio，已通过 Singtel AI Pass 成功纳入这一官方培训计划中。",
+        "first_paragraph": "根据此次发布的政策安排，新加坡技能与劳动力发展局将向符合条件的参与学员免费提供为期6个月的高级 AI 工具免费订阅权益。这一举措不仅为当地职场人士和开发者提供了直接接触并使用前沿生成式人工智能产品的契机，也标志着中国 AI 企业的技术与产品服务正在加速融入国际主流市场的公共教育与技能生态体系中。",
+        "description": "新加坡技能与劳动力发展局（SWDA）日前正式推出多项人工智能相关课程，旨在提升全方位的数智化劳动技能。作为该计划的重要合作方，中国人工智能企业 MiniMax 旗下的三款核心产品——MiniMax Agent、海螺 AI 以及 MiniMax Audio，已通过 Singtel AI Pass 成功纳入这一官方培训计划",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31124.html",
+          "addtime": "2026-09-17T14:09:40+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-17，新加坡技能与劳动力发展局（SWDA）日前正式推出多项人工智能相关课程，旨在提升全方位的数智化劳动技能。作为该计划的重要合作方，中国人工智能企业 MiniMax 旗下的三款核心产品——MiniMax Agent、海螺 AI 以及 MiniMax Audio，已通过 Singtel AI Pass 成功纳入这一官方培训计划中。",
+      "ai_summary": "2026-09-17，新加坡技能与劳动力发展局（SWDA）日前正式推出多项人工智能相关课程，旨在提升全方位的数智化劳动技能。作为该计划的重要合作方，中国人工智能企业 MiniMax 旗下的三款核心产品——MiniMax Agent、海螺 AI 以及 MiniMax Audio，已通过 Singtel AI Pass 成功纳入这一官方培训计划中。",
+      "lead_excerpt": "新加坡技能与劳动力发展局（SWDA）日前正式推出多项人工智能相关课程，旨在提升全方位的数智化劳动技能。作为该计划的重要合作方，中国人工智能企业 MiniMax 旗下的三款核心产品——MiniMax Agent、海螺 AI 以及 Min...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31122",
+        "url": "https://www.aibase.com/zh/news/31122",
+        "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+        "date": "2026-09-17",
+        "lead": "在开源与 RISC-V 生态的发展进程中，国产操作系统迎来了关键的技术突破。近日，在 deepin-ports SIG（特别兴趣小组）的全力协助下，深度操作系统deepin 25成功完成了对进迭时空新一代旗舰级 RISC-V 芯片 SpacemiT K3 的深度适配。随着底层工具链的升级与本地 AI 运行时的打通，该系统不仅在小巧的硬件平台上顺畅跑起了本地 AI 模型“小U同学”，更标志着 RISC-V 平台的桌面操作系统首次真正具备了开箱即用的离线大模型推理能力。作为一颗专为 AI 时代打造的 RVA23 规范计算平台，进迭时空 K3 采用了先进的 RISC-V 同构融合计算技术。在单颗芯片内部，它巧妙地集成了三类定位互补的核心，构建出高效的“通用 + AI + 实时”三域协同架构。其中，8 颗 X100 通用计算核拥有最高 2.4 GHz 的主频和约 130 KDMIPS 的整机通用算力，负责处理系统控制与日常桌面交互；8 颗专为 AI 负载设计的 A100 AI 计算核则搭载了自研矩阵运算扩展（IME）指令集，可提供约 60 TOPS 的原生 AI 算力，在运行 300 亿参数大模型时能保持每秒超过 10 token 的流畅推理速度。此外，芯片还配备了 2 颗用于系统管理的 RT24 实时核、3D GPU 以及视频编码引擎，在 15 至 25 瓦的典型功耗下，兼顾了极高的能效比与丰富的应用扩展性。为了让新硬件发挥出最佳性能，deepin 25 在系统架构上进行了全方位的深度优化。除了持续维护 6.18 内核分支、u-boot 及专属 GPU 驱动外，开发团队创新性地引入了 Next 仓库作为上层叠加仓库。该仓库针对 riscv64 架构全面开启了 RVA23 全局优化，将核心工具链整体升级至原生支持 RVA23 Profile 的 GCC 15/16、Binutils 2.46、Glibc 2.42、LLVM 21/22 以及集成多种算法汇编级优化的 OpenSSL 3.5。这套更高基线的基础运行库环境，不仅为上层软件充分榨取硬件指令潜力奠定了坚实基础，也为 deepin 后续跨大版本迁移积累了宝贵的技术验证经验。在备受瞩目的本地 AI 能力建设上，本次适配成功打通了从底层工具链到应用层的完整链路。内置的小U同学通过 deepin-modelhub 深度对接了 RVA23 与 SpacemiT 矩阵运算扩展，能够根据芯片架构自动调度最优算子；同时，llama.cpp 等主流模型运行时常用的 GGML 运算库也全面开放了对 SpacemiT 相关指令集的支持，实现了完整的向量与矩阵运算加速。实测表明，当用户在系统中运行本地 AI 模型时，系统能够智能地将计算任务自动派发至 8 个 A100 AI 核心高效处理。目前，适配 K3 的最新 deepin 25 RISC-V 体验镜像已正式在 deepin-ports 镜像列表发布，开发者与开源爱好者可以通过官方渠道下载并完成刷写。随着 Next 仓库基础构建的不断完善，这一突破不仅让 RISC-V 桌面设备真正拥有了离线运行大模型的能力，也为国产开源软硬件生态的协同创新开辟了广阔的想象空间。",
+        "first_paragraph": "在开源与 RISC-V 生态的发展进程中，国产操作系统迎来了关键的技术突破。近日，在 deepin-ports SIG（特别兴趣小组）的全力协助下，深度操作系统deepin 25成功完成了对进迭时空新一代旗舰级 RISC-V 芯片 SpacemiT K3 的深度适配。随着底层工具链的升级与本地 AI 运行时的打通，该系统不仅在小巧的硬件平台上顺畅跑起了本地 AI 模型“小U同学”，更标志着 RISC-V 平台的桌面操作系统首次真正具备了开箱即用的离线大模型推理能力。作为一颗专为 AI 时代打造的 RVA23 规范计算平台，进迭时空 K3 采用了先进的 RISC-V 同构融合计算技术。在单颗芯片内部，它巧妙地集成了三类定位互补的核心，构建出高效的“通用 + AI + 实时”三域协同架构。其中，8 颗 X100 通用计算核拥有最高 2.4 GHz 的主频和约 130 KDMIPS 的整机通用算力，负责处理系统控制与日常桌面交互；8 颗专为 AI 负载设计的 A100 AI 计算核则搭载了自研矩阵运算扩展（IME）指令集，可提供约 60 TOPS 的原生 AI 算力，在运行 300 亿参数大模型时能保持每秒超过 10 token 的流畅推理速度。此外，芯片还配备了 2 颗用于系统管理的 RT24 实时核、3D GPU 以及视频编码引擎，在 15 至 25 瓦的典型功耗下，兼顾了极高的能效比与丰富的应用扩展性。为了让新硬件发挥出最佳性能，deepin 25 在系统架构上进行了全方位的深度优化。除了持续维护 6.18 内核分支、u-boot 及专属 GPU 驱动外，开发团队创新性地引入了 Next 仓库作为上层叠加仓库。该仓库针对 riscv64 架构全面开启了 RVA23 全局优化，将核心工具链整体升级至原生支持 RVA23 Profile 的 GCC 15/16、Binutils 2.46、Glibc 2.42、LLVM 21/22 以及集成多种算法汇编级优化的 OpenSSL 3.5。这套更高基线的基础运行库环境，不仅为上层软件充分榨取硬件指令潜力奠定了坚实基础，也为 deepin 后续跨大版本迁移积累了宝贵的技术验证经验。在备受瞩目的本地 AI 能力建设上，本次适配成功打通了从底层工具链到应用层的完整链路。内置的小U同学通过 deepin-modelhub 深度对接了 RVA23 与 SpacemiT 矩阵运算扩展，能够根据芯片架构自动调度最优算子；同时，llama.cpp 等主流模型运行时常用的 GGML 运算库也全面开放了对 SpacemiT 相关指令集的支持，实现了完整的向量与矩阵运算加速。实测表明，当用户在系统中运行本地 AI 模型时，系统能够智能地将计算任务自动派发至 8 个 A100 AI 核心高效处理。目前，适配 K3 的最新 deepin 25 RISC-V 体验镜像已正式在 deepin-ports 镜像列表发布，开发者与开源爱好者可以通过官方渠道下载并完成刷写。随着 Next 仓库基础构建的不断完善，这一突破不仅让 RISC-V 桌面设备真正拥有了离线运行大模型的能力，也为国产开源软硬件生态的协同创新开辟了广阔的想象空间。",
+        "description": "在开源与 RISC-V 生态的发展进程中，国产操作系统迎来了关键的技术突破。近日，在 deepin-ports SIG（特别兴趣小组）的全力协助下，深度操作系统deepin 25成功完成了对进迭时空新一代旗舰级 RISC-V 芯片 SpacemiT K3 的深度适配。随着底层工具链的升级与本地 AI 运行时的打通，该系",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31122.html",
+          "addtime": "2026-09-17T11:49:09.9076464+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-17，在开源与 RISC-V 生态的发展进程中，国产操作系统迎来了关键的技术突破。近日，在 deepin-ports SIG（特别兴趣小组）的全力协助下，深度操作系统deepin 25成功完成了对进迭时空新一代旗舰级 RISC-V 芯片 SpacemiT K3 的深度适配。随着底层工具链的升级与本地 AI 运行时的打通，该系统不仅在小巧的硬件平台上顺畅跑起了...",
+      "ai_summary": "2026-09-17，在开源与 RISC-V 生态的发展进程中，国产操作系统迎来了关键的技术突破。近日，在 deepin-ports SIG（特别兴趣小组）的全力协助下，深度操作系统deepin 25成功完成了对进迭时空新一代旗舰级 RISC-V 芯片 SpacemiT K3 的深度适配。随着底层工具链的升级与本地 AI 运行时的打通，该系统不仅在小巧的硬件平台上顺畅跑起了...",
+      "lead_excerpt": "在开源与 RISC-V 生态的发展进程中，国产操作系统迎来了关键的技术突破。近日，在 deepin-ports SIG（特别兴趣小组）的全力协助下，深度操作系统deepin 25成功完成了对进迭时空新一代旗舰级 RISC-V 芯片 S...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31119",
+        "url": "https://www.aibase.com/zh/news/31119",
+        "title": "Grok Build 重磅上线“长期记忆”功能，跨会话无缝同步项目细节",
+        "date": "2026-09-17",
+        "lead": "对于广大开发者而言，使用 AI 编程助手时最头疼的问题之一，莫过于每次开启新会话时都要重新向 AI 交代项目的基本架构、代码规范和运行指令。针对这一痛点，xAI 于2026年9月16日正式宣布在Grok Build中推出全新的记忆功能，让 AI 能够将先前会话中的核心决策和项目事实自动延续到接下来的工作中。",
+        "first_paragraph": "在工作机制上，这项记忆功能完全在后台静默运行。每当一个对话轮次完成后，Grok Build会在不打断当前操作的前提下，自动复盘并提取具备长期价值的干货内容，包括团队的代码编写习惯、各项架构决策背后的原因，以及项目的关键事实（例如某个子系统存放的位置或运行测试的特定命令）。需要注意的是，系统会自动过滤掉临时的任务状态、不成熟的推论、机密信息以及代码库和文档中已经涵盖的内容。",
+        "description": "对于广大开发者而言，使用 AI 编程助手时最头疼的问题之一，莫过于每次开启新会话时都要重新向 AI 交代项目的基本架构、代码规范和运行指令。针对这一痛点，xAI 于2026年9月16日正式宣布在Grok Build中推出全新的记忆功能，让 AI 能够将先前会话中的核心决策和项目事实自动延续到接下来的工作中。在工作机制上",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31119.html",
+          "addtime": "2026-09-17T11:16:54.2228117+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-17，对于广大开发者而言，使用 AI 编程助手时最头疼的问题之一，莫过于每次开启新会话时都要重新向 AI 交代项目的基本架构、代码规范和运行指令。针对这一痛点，xAI 于2026年9月16日正式宣布在Grok Build中推出全新的记忆功能，让 AI 能够将先前会话中的核心决策和项目事实自动延续到接下来的工作中。",
+      "ai_summary": "2026-09-17，对于广大开发者而言，使用 AI 编程助手时最头疼的问题之一，莫过于每次开启新会话时都要重新向 AI 交代项目的基本架构、代码规范和运行指令。针对这一痛点，xAI 于2026年9月16日正式宣布在Grok Build中推出全新的记忆功能，让 AI 能够将先前会话中的核心决策和项目事实自动延续到接下来的工作中。",
+      "lead_excerpt": "对于广大开发者而言，使用 AI 编程助手时最头疼的问题之一，莫过于每次开启新会话时都要重新向 AI 交代项目的基本架构、代码规范和运行指令。针对这一痛点，xAI 于2026年9月16日正式宣布在Grok Build中推出全新的记忆功能...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31115",
+        "url": "https://www.aibase.com/zh/news/31115",
+        "title": "Mozilla 携手Mistral，让 Firefox 智能窗口正式走向国际市场",
+        "date": "2026-09-17",
+        "lead": "在浏览器领域的 AI 竞速中，Mozilla 正在加速迈出关键一步。开源浏览器先驱 Mozilla 宣布与法国知名 AI 初创公司 Mistral 达成深度合作，将 Mistral 的先进 AI 模型正式引入Firefox 浏览器，为目前处于测试阶段的“Firefox 智能窗口”提供核心算力支持。",
+        "first_paragraph": "此次合作标志着该智能窗口功能正式开启国际化扩张。目前，该功能已率先在法国本土市场落地并支持法语交互，英文与德文版本的支持预计将在今年晚些时候陆续跟进。此外，双方未来还计划针对不同国家和地区的本地化需求，对模型进行专项优化与适配。",
+        "description": "在浏览器领域的 AI 竞速中，Mozilla 正在加速迈出关键一步。开源浏览器先驱 Mozilla 宣布与法国知名 AI 初创公司 Mistral 达成深度合作，将 Mistral 的先进 AI 模型正式引入Firefox 浏览器，为目前处于测试阶段的“Firefox 智能窗口”提供核心算力支持。此次合作标志着该智能窗",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31115.html",
+          "addtime": "2026-09-17T10:14:13.5761983+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-17，在浏览器领域的 AI 竞速中，Mozilla 正在加速迈出关键一步。开源浏览器先驱 Mozilla 宣布与法国知名 AI 初创公司 Mistral 达成深度合作，将 Mistral 的先进 AI 模型正式引入Firefox 浏览器，为目前处于测试阶段的“Firefox 智能窗口”提供核心算力支持。",
+      "ai_summary": "2026-09-17，在浏览器领域的 AI 竞速中，Mozilla 正在加速迈出关键一步。开源浏览器先驱 Mozilla 宣布与法国知名 AI 初创公司 Mistral 达成深度合作，将 Mistral 的先进 AI 模型正式引入Firefox 浏览器，为目前处于测试阶段的“Firefox 智能窗口”提供核心算力支持。",
+      "lead_excerpt": "在浏览器领域的 AI 竞速中，Mozilla 正在加速迈出关键一步。开源浏览器先驱 Mozilla 宣布与法国知名 AI 初创公司 Mistral 达成深度合作，将 Mistral 的先进 AI 模型正式引入Firefox 浏览器，为...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31126",
+        "url": "https://www.aibase.com/zh/news/31126",
+        "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+        "date": "2026-09-17",
+        "lead": "人工智能视频生成领域迎来了一项重要的技术突破。阿里云近日正式对外展示了全新升级的 Wan3.0视频大模型，实现了从早期只能生成数秒短片段到如今直接输出单条30秒长镜头的跨越，并重磅推出了支持导演级控制和最多引用五条视频的 omni-reference 核心能力。",
+        "first_paragraph": "回顾视频生成技术的发展历程，行业在过去很长一段时间里主要围绕5秒左右的短片段进行打磨，随后逐步延伸至15秒。而 Wan3.0的推出则标志着该技术开始真正适配影视行业的真实生产流程。在实际应用场景中，制作团队无需再像过去那样费力拼接成百上千个零散的短片段，而是可以直接通过模型生成连贯的长镜头，再根据剧本与故事走向进行后期剪辑，从而大幅提升了创作效率。",
+        "description": "人工智能视频生成领域迎来了一项重要的技术突破。阿里云近日正式对外展示了全新升级的 Wan3.0视频大模型，实现了从早期只能生成数秒短片段到如今直接输出单条30秒长镜头的跨越，并重磅推出了支持导演级控制和最多引用五条视频的 omni-reference 核心能力。回顾视频生成技术的发展历程，行业在过去很长一段时间里主要围",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31126.html",
+          "addtime": "2026-09-17T14:16:32+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-17，人工智能视频生成领域迎来了一项重要的技术突破。阿里云近日正式对外展示了全新升级的 Wan3.0视频大模型，实现了从早期只能生成数秒短片段到如今直接输出单条30秒长镜头的跨越，并重磅推出了支持导演级控制和最多引用五条视频的 omni-reference 核心能力。",
+      "ai_summary": "2026-09-17，人工智能视频生成领域迎来了一项重要的技术突破。阿里云近日正式对外展示了全新升级的 Wan3.0视频大模型，实现了从早期只能生成数秒短片段到如今直接输出单条30秒长镜头的跨越，并重磅推出了支持导演级控制和最多引用五条视频的 omni-reference 核心能力。",
+      "lead_excerpt": "人工智能视频生成领域迎来了一项重要的技术突破。阿里云近日正式对外展示了全新升级的 Wan3.0视频大模型，实现了从早期只能生成数秒短片段到如今直接输出单条30秒长镜头的跨越，并重磅推出了支持导演级控制和最多引用五条视频的 omni-r...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31125",
+        "url": "https://www.aibase.com/zh/news/31125",
+        "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "date": "2026-09-17",
+        "lead": "Anthropic 宣布 Claude Cowork 和 Chat 全面合并为统一的 Claude，整合了 Cowork、Design、Docs、Slides 等全部能力，用户无需再纠结任务入口，历史对话、Skill 和连接器也得以保留。",
+        "first_paragraph": "新版 Claude 能自主判断任务复杂度并调用对应能力，可在后台持续推进任务，未来几周将向 Pro 和 Max 用户推出。",
+        "description": "Anthropic 宣布 Claude Cowork 和 Chat 全面合并为统一的 Claude，整合了 Cowork、Design、Docs、Slides 等全部能力，用户无需再纠结任务入口，历史对话、Skill 和连接器也得以保留。新版 Claude 能自主判断任务复杂度并调用对应能力，可在后台持续推进任务，未来",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31125.html",
+          "addtime": "2026-09-17T14:09:52.043145+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-17，Anthropic 宣布 Claude Cowork 和 Chat 全面合并为统一的 Claude，整合了 Cowork、Design、Docs、Slides 等全部能力，用户无需再纠结任务入口，历史对话、Skill 和连接器也得以保留。",
+      "ai_summary": "2026-09-17，Anthropic 宣布 Claude Cowork 和 Chat 全面合并为统一的 Claude，整合了 Cowork、Design、Docs、Slides 等全部能力，用户无需再纠结任务入口，历史对话、Skill 和连接器也得以保留。",
+      "lead_excerpt": "Anthropic 宣布 Claude Cowork 和 Chat 全面合并为统一的 Claude，整合了 Cowork、Design、Docs、Slides 等全部能力，用户无需再纠结任务入口，历史对话、Skill 和连接器也得以保留。",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31123",
+        "url": "https://www.aibase.com/zh/news/31123",
+        "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+        "date": "2026-09-17",
+        "lead": "苹果近日向开发者发布 iOS 27.2 首个测试版。与外界此前预期不同，苹果并未率先推出 iOS 27.1 测试版，而是直接开启了 27.2 的测试周期——9 月 16 日，苹果同时向开发者推送了 iOS、iPadOS、macOS、watchOS、tvOS 与 visionOS 的 27.2 首个测试版。",
+        "first_paragraph": "外界普遍认为，iOS 27.1 是为即将于 10 月 23 日开售的首款折叠屏 iPhone Duo 保留的，该机将原生搭载 iOS 27.1。",
+        "description": "苹果近日向开发者发布 iOS 27.2 首个测试版。与外界此前预期不同，苹果并未率先推出 iOS 27.1 测试版，而是直接开启了 27.2 的测试周期——9 月 16 日，苹果同时向开发者推送了 iOS、iPadOS、macOS、watchOS、tvOS 与 visionOS 的 27.2 首个测试版。外界普遍认为，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31123.html",
+          "addtime": "2026-09-17T14:07:27.7153166+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-17，苹果近日向开发者发布 iOS 27.2 首个测试版。与外界此前预期不同，苹果并未率先推出 iOS 27.1 测试版，而是直接开启了 27.2 的测试周期——9 月 16 日，苹果同时向开发者推送了 iOS、iPadOS、macOS、watchOS、tvOS 与 visionOS 的 27.2 首个测试版。",
+      "ai_summary": "2026-09-17，苹果近日向开发者发布 iOS 27.2 首个测试版。与外界此前预期不同，苹果并未率先推出 iOS 27.1 测试版，而是直接开启了 27.2 的测试周期——9 月 16 日，苹果同时向开发者推送了 iOS、iPadOS、macOS、watchOS、tvOS 与 visionOS 的 27.2 首个测试版。",
+      "lead_excerpt": "苹果近日向开发者发布 iOS 27.2 首个测试版。与外界此前预期不同，苹果并未率先推出 iOS 27.1 测试版，而是直接开启了 27.2 的测试周期——9 月 16 日，苹果同时向开发者推送了 iOS、iPadOS、macOS、w...",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31121",
+        "url": "https://www.aibase.com/zh/news/31121",
+        "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "date": "2026-09-17",
+        "lead": "Anthropic 近期正式宣布，将旗下原本独立的 Claude Cowork 与 Chat 模块全面合并，打造出全新的统一版 Claude。此次升级不仅将 Cowork、Design、Docs 以及 Slides 等全方位能力无缝整合到一个应用中，彻底解决了用户在多任务处理时纠结入口的痛点，同时也完整保留了用户原有的历史对话、各项 Skill 以及连接器配置。据悉，该全新版本将在未来几周内率先向 Pro 和 Max 订阅用户推送。",
+        "first_paragraph": "在交互体验与产品逻辑上，新版 Claude 实现了从传统的“回答窗口”向“成果空间”的颠覆性转变。用户无需再手动切换繁杂的工具菜单，模型能够自动根据任务的复杂度智能判断并调用对应的底层能力，同时支持在后台持续推进复杂的复合型任务。这意味着，用户只需在聊天输入框内下达指令，就能直接完成文档起草、幻灯片制作、视觉设计等全流程操作。所有生成的内容都将保持在同一上下文环境中，并且支持随时的修改、批注、导出与分享。",
+        "description": "Anthropic 近期正式宣布，将旗下原本独立的 Claude Cowork 与 Chat 模块全面合并，打造出全新的统一版 Claude。此次升级不仅将 Cowork、Design、Docs 以及 Slides 等全方位能力无缝整合到一个应用中，彻底解决了用户在多任务处理时纠结入口的痛点，同时也完整保留了用户原有的",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31121.html",
+          "addtime": "2026-09-17T11:35:06.4414021+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-17，Anthropic 近期正式宣布，将旗下原本独立的 Claude Cowork 与 Chat 模块全面合并，打造出全新的统一版 Claude。此次升级不仅将 Cowork、Design、Docs 以及 Slides 等全方位能力无缝整合到一个应用中，彻底解决了用户在多任务处理时纠结入口的痛点，同时也完整保留了用户原有的历史对话、各项 Skill 以及连...",
+      "ai_summary": "2026-09-17，Anthropic 近期正式宣布，将旗下原本独立的 Claude Cowork 与 Chat 模块全面合并，打造出全新的统一版 Claude。此次升级不仅将 Cowork、Design、Docs 以及 Slides 等全方位能力无缝整合到一个应用中，彻底解决了用户在多任务处理时纠结入口的痛点，同时也完整保留了用户原有的历史对话、各项 Skill 以及连...",
+      "lead_excerpt": "Anthropic 近期正式宣布，将旗下原本独立的 Claude Cowork 与 Chat 模块全面合并，打造出全新的统一版 Claude。此次升级不仅将 Cowork、Design、Docs 以及 Slides 等全方位能力无缝整...",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31120",
+        "url": "https://www.aibase.com/zh/news/31120",
+        "title": "消息称Manus 拟融资约5亿美元，目标估值40亿美元",
+        "date": "2026-09-17",
+        "lead": "据彭博社报道，由中国创立的 AI 初创公司 Manus 正计划进行一轮约5亿美元的融资，目标估值约40亿美元，这将是其与 Meta Platforms 完成业务层面切割后的首次融资。",
+        "first_paragraph": "多位知情人士透露，该轮融资预计很快就会落定，可能让 Manus 估值翻倍，并使其成为中国估值最高的 AI 智能体初创公司。不过谈判目前仍处于早期阶段，交易条款仍可能调整，潜在新投资者的身份也尚未明确。",
+        "description": "据彭博社报道，由中国创立的 AI 初创公司 Manus 正计划进行一轮约5亿美元的融资，目标估值约40亿美元，这将是其与 Meta Platforms 完成业务层面切割后的首次融资。多位知情人士透露，该轮融资预计很快就会落定，可能让 Manus 估值翻倍，并使其成为中国估值最高的 AI 智能体初创公司。不过谈判目前仍处",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31120.html",
+          "addtime": "2026-09-17T11:33:40.1515777+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-17，据彭博社报道，由中国创立的 AI 初创公司 Manus 正计划进行一轮约5亿美元的融资，目标估值约40亿美元，这将是其与 Meta Platforms 完成业务层面切割后的首次融资。",
+      "ai_summary": "2026-09-17，据彭博社报道，由中国创立的 AI 初创公司 Manus 正计划进行一轮约5亿美元的融资，目标估值约40亿美元，这将是其与 Meta Platforms 完成业务层面切割后的首次融资。",
+      "lead_excerpt": "据彭博社报道，由中国创立的 AI 初创公司 Manus 正计划进行一轮约5亿美元的融资，目标估值约40亿美元，这将是其与 Meta Platforms 完成业务层面切割后的首次融资。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31111",
+        "url": "https://www.aibase.com/zh/news/31111",
+        "title": "告别胡言乱语！豆包大模型 2.1 Pro 重磅更新：幻觉大幅降低，Agent 复杂任务交付更稳",
+        "date": "2026-09-17",
+        "lead": "豆包大模型2.1Pro 近期迎来全新的0915版本升级。本次更新将核心焦点锁定在实际生产工作场景中，通过系统性地降低 AI 幻觉、强化证据溯源以及提升多任务处理可靠性，为企业级用户和开发者带来更具生产力价值的 AI 体验。",
+        "first_paragraph": "在应对复杂业务场景时，大模型“一本正经胡说八道”的幻觉问题一直是行业痛点。新版本通过强化证据溯源机制，优先调用权威来源的信息，并结合时效判断与交叉数据核验，让 Agent 在执行复杂任务时更加忠于事实。以金融投研等重度依赖数据分析的场景为例，模型可以自主拆解宏观或微观研究需求，调度数百个子 Agent 同步检索成百上千个网页。在这一过程中，它不仅会比对常规新闻通稿，还会引入卫星影像、船舶航迹等多维度的外部交叉资料进行佐证，确保最终生成的每一条研究结论都能溯源到对应的原始证据。",
+        "description": "豆包大模型2.1Pro 近期迎来全新的0915版本升级。本次更新将核心焦点锁定在实际生产工作场景中，通过系统性地降低 AI 幻觉、强化证据溯源以及提升多任务处理可靠性，为企业级用户和开发者带来更具生产力价值的 AI 体验。在应对复杂业务场景时，大模型“一本正经胡说八道”的幻觉问题一直是行业痛点。新版本通过强化证据溯源机",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-11_2026-09-17/31111.html",
+          "addtime": "2026-09-17T09:36:27.9672271+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-17，豆包大模型2.1Pro 近期迎来全新的0915版本升级。本次更新将核心焦点锁定在实际生产工作场景中，通过系统性地降低 AI 幻觉、强化证据溯源以及提升多任务处理可靠性，为企业级用户和开发者带来更具生产力价值的 AI 体验。",
+      "ai_summary": "2026-09-17，豆包大模型2.1Pro 近期迎来全新的0915版本升级。本次更新将核心焦点锁定在实际生产工作场景中，通过系统性地降低 AI 幻觉、强化证据溯源以及提升多任务处理可靠性，为企业级用户和开发者带来更具生产力价值的 AI 体验。",
+      "lead_excerpt": "豆包大模型2.1Pro 近期迎来全新的0915版本升级。本次更新将核心焦点锁定在实际生产工作场景中，通过系统性地降低 AI 幻觉、强化证据溯源以及提升多任务处理可靠性，为企业级用户和开发者带来更具生产力价值的 AI 体验。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
