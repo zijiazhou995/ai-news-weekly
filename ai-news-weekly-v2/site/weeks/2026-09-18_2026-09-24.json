@@ -1,0 +1,696 @@
+{
+  "week_id": "2026-09-18_2026-09-24",
+  "label": "9.18-9.24",
+  "start_date": "2026-09-18",
+  "end_date": "2026-09-24",
+  "generated_at": "2026-09-24T07:17:14",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31342",
+        "url": "https://www.aibase.com/zh/news/31342",
+        "title": "交易额逼近 7 万亿！深度聚焦中国直播电商：AI 降本大潮下，真人主播会被取代吗？",
+        "date": "2026-09-24",
+        "lead": "中国直播带货行业正在经历从早期的粗放式增长向理性成熟期的深度转型。根据路透社近日发布的专题报道显示，中国直播年度商品交易总额已经接近7万亿元大关，线上零售额占整体零售总额的比例在2025年已超过36%。在行业整体增速放缓、市场竞争日益激烈的背景下，人工智能技术的爆发正对整个生态带来强烈的重塑效应。",
+        "first_paragraph": "在成本优化与技术落地方面，AI 展现出了极高的降本增效能力。各大电商平台与商家正加速部署数字主播，以满足全天候直播的需求。以京东为例，其在2025年12月向商家免费开放了 AI 主播服务，相关数据显示采用率在短短三个月内实现大幅提升，可帮助商家将直播运营成本直接降低80% 至90%。此外，抖音等平台也针对 AI 生成内容出台了明确的标注规定，并禁止完全由 AI 生成的无真人监督直播，以规范市场秩序。",
+        "description": "中国直播带货行业正在经历从早期的粗放式增长向理性成熟期的深度转型。根据路透社近日发布的专题报道显示，中国直播年度商品交易总额已经接近7万亿元大关，线上零售额占整体零售总额的比例在2025年已超过36%。在行业整体增速放缓、市场竞争日益激烈的背景下，人工智能技术的爆发正对整个生态带来强烈的重塑效应。在成本优化与技术落地方",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31342.html",
+          "addtime": "2026-09-24T14:09:11.4121438+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-09-24，中国直播带货行业正在经历从早期的粗放式增长向理性成熟期的深度转型。根据路透社近日发布的专题报道显示，中国直播年度商品交易总额已经接近7万亿元大关，线上零售额占整体零售总额的比例在2025年已超过36%。在行业整体增速放缓、市场竞争日益激烈的背景下，人工智能技术的爆发正对整个生态带来强烈的重塑效应。",
+      "ai_summary": "2026-09-24，中国直播带货行业正在经历从早期的粗放式增长向理性成熟期的深度转型。根据路透社近日发布的专题报道显示，中国直播年度商品交易总额已经接近7万亿元大关，线上零售额占整体零售总额的比例在2025年已超过36%。在行业整体增速放缓、市场竞争日益激烈的背景下，人工智能技术的爆发正对整个生态带来强烈的重塑效应。",
+      "lead_excerpt": "中国直播带货行业正在经历从早期的粗放式增长向理性成熟期的深度转型。根据路透社近日发布的专题报道显示，中国直播年度商品交易总额已经接近7万亿元大关，线上零售额占整体零售总额的比例在2025年已超过36%。在行业整体增速放缓、市场竞争日益...",
+      "reason": "符合优先级：电商/交易/支付/商家工具相关、国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31341",
+        "url": "https://www.aibase.com/zh/news/31341",
+        "title": "阿里达摩院发布食管癌 AI 模型 DAMO EAGLE：不插管，平扫 CT 就能查早癌",
+        "date": "2026-09-24",
+        "lead": "阿里巴巴发布第 4 个癌症筛查 AI 模型。阿里达摩院联合四川省肿瘤医院、中山大学肿瘤防治中心等机构研发出食管癌筛查 AI 模型 DAMO EAGLE，无需插管和造影，从平扫 CT 上即可识别食管癌（含早期与癌前恶性病变），已在 3 个国家 8 万多病例上获得验证，相关论文于 9 月 22 日登上国际顶级期刊《自然·医学》（Nature Medicine）。",
+        "first_paragraph": "攻克\"不可能\"任务，敏感性 90%、特异性 99.2%",
+        "description": "阿里巴巴发布第 4 个癌症筛查 AI 模型。阿里达摩院联合四川省肿瘤医院、中山大学肿瘤防治中心等机构研发出食管癌筛查 AI 模型 DAMO EAGLE，无需插管和造影，从平扫 CT 上即可识别食管癌（含早期与癌前恶性病变），已在 3 个国家 8 万多病例上获得验证，相关论文于 9 月 22 日登上国际顶级期刊《自然·医",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31341.html",
+          "addtime": "2026-09-24T14:02:48.7879011+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-09-24，阿里巴巴发布第 4 个癌症筛查 AI 模型。阿里达摩院联合四川省肿瘤医院、中山大学肿瘤防治中心等机构研发出食管癌筛查 AI 模型 DAMO EAGLE，无需插管和造影，从平扫 CT 上即可识别食管癌（含早期与癌前恶性病变），已在 3 个国家 8 万多病例上获得验证，相关论文于 9 月 22 日登上国际顶级期刊《自然·医学》（Nature Medicine）。",
+      "ai_summary": "2026-09-24，阿里巴巴发布第 4 个癌症筛查 AI 模型。阿里达摩院联合四川省肿瘤医院、中山大学肿瘤防治中心等机构研发出食管癌筛查 AI 模型 DAMO EAGLE，无需插管和造影，从平扫 CT 上即可识别食管癌（含早期与癌前恶性病变），已在 3 个国家 8 万多病例上获得验证，相关论文于 9 月 22 日登上国际顶级期刊《自然·医学》（Nature Medicine）。",
+      "lead_excerpt": "阿里巴巴发布第 4 个癌症筛查 AI 模型。阿里达摩院联合四川省肿瘤医院、中山大学肿瘤防治中心等机构研发出食管癌筛查 AI 模型 DAMO EAGLE，无需插管和造影，从平扫 CT 上即可识别食管癌（含早期与癌前恶性病变），已在 3...",
+      "reason": "符合优先级：阿里及相关主体、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31336",
+        "url": "https://www.aibase.com/zh/news/31336",
+        "title": "豆包向所有用户免费送30天订阅权益:标准套餐免费体验至10月17日",
+        "date": "2026-09-24",
+        "lead": "9月24日，字节跳动旗下AI助手豆包宣布，向所有用户免费赠送30天订阅权益，免费用户与付费用户均可领取标准套餐，免费体验持续至10月17日。官方展示的订阅页面显示，本次赠送的标准套餐标注“活动赠送”，到期时间为10月17日，用户可在订阅与额度管理页面领取并查看生效状态。",
+        "first_paragraph": "权益机制上，豆包采用订阅加额度的运营模式:用户可升级至付费订阅以获得高峰期优先权益，或购买创作额度包扩充用量;额度按当前时段与近7天双周期统计，自开始使用后计时，页面支持额度重置与订阅记录查询。",
+        "description": "9月24日，字节跳动旗下AI助手豆包宣布，向所有用户免费赠送30天订阅权益，免费用户与付费用户均可领取标准套餐，免费体验持续至10月17日。官方展示的订阅页面显示，本次赠送的标准套餐标注“活动赠送”，到期时间为10月17日，用户可在订阅与额度管理页面领取并查看生效状态。权益机制上，豆包采用订阅加额度的运营模式:用户可升",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31336.html",
+          "addtime": "2026-09-24T11:21:05.5071942+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-09-24，9月24日，字节跳动旗下AI助手豆包宣布，向所有用户免费赠送30天订阅权益，免费用户与付费用户均可领取标准套餐，免费体验持续至10月17日。官方展示的订阅页面显示，本次赠送的标准套餐标注“活动赠送”，到期时间为10月17日，用户可在订阅与额度管理页面领取并查看生效状态。",
+      "ai_summary": "2026-09-24，9月24日，字节跳动旗下AI助手豆包宣布，向所有用户免费赠送30天订阅权益，免费用户与付费用户均可领取标准套餐，免费体验持续至10月17日。官方展示的订阅页面显示，本次赠送的标准套餐标注“活动赠送”，到期时间为10月17日，用户可在订阅与额度管理页面领取并查看生效状态。",
+      "lead_excerpt": "9月24日，字节跳动旗下AI助手豆包宣布，向所有用户免费赠送30天订阅权益，免费用户与付费用户均可领取标准套餐，免费体验持续至10月17日。官方展示的订阅页面显示，本次赠送的标准套餐标注“活动赠送”，到期时间为10月17日，用户可在订...",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31335",
+        "url": "https://www.aibase.com/zh/news/31335",
+        "title": "腾讯Marvis定位升级“AI管家”，支持用户管理个人设备和数字资产",
+        "date": "2026-09-24",
+        "lead": "9月24日消息，腾讯 Marvis发布新版本，定位从“AI助手”正式升级为“AI管家”。围绕电脑、文件、浏览器、软件四大核心管家能力，帮助用户管理个人设备与数字资产，并披露NAS、信创等硬件生态的合作进展。",
+        "first_paragraph": "此次升级源于用户的真实需求。9月20日媒体沟通会上，Marvis团队介绍，每天约有四五万用户通过Marvis安装软件，清理C盘、整理文件、管理开机自启也成为常见需求。“管家”正成为用户理解和使用Marvis的方式。",
+        "description": "9月24日消息，腾讯 Marvis发布新版本，定位从“AI助手”正式升级为“AI管家”。围绕电脑、文件、浏览器、软件四大核心管家能力，帮助用户管理个人设备与数字资产，并披露NAS、信创等硬件生态的合作进展。此次升级源于用户的真实需求。9月20日媒体沟通会上，Marvis团队介绍，每天约有四五万用户通过Marvis安装软",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31335.html",
+          "addtime": "2026-09-24T11:06:34.6407274+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-09-24，9月24日消息，腾讯 Marvis发布新版本，定位从“AI助手”正式升级为“AI管家”。围绕电脑、文件、浏览器、软件四大核心管家能力，帮助用户管理个人设备与数字资产，并披露NAS、信创等硬件生态的合作进展。",
+      "ai_summary": "2026-09-24，9月24日消息，腾讯 Marvis发布新版本，定位从“AI助手”正式升级为“AI管家”。围绕电脑、文件、浏览器、软件四大核心管家能力，帮助用户管理个人设备与数字资产，并披露NAS、信创等硬件生态的合作进展。",
+      "lead_excerpt": "9月24日消息，腾讯 Marvis发布新版本，定位从“AI助手”正式升级为“AI管家”。围绕电脑、文件、浏览器、软件四大核心管家能力，帮助用户管理个人设备与数字资产，并披露NAS、信创等硬件生态的合作进展。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31347",
+        "url": "https://www.aibase.com/zh/news/31347",
+        "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+        "date": "2026-09-24",
+        "lead": "OpenAI 昨日宣布，ChatGPT 移动端将新增基于语音的智能体功能，用户通过说话即可完成撰写文档、总结电子邮件等工作。",
+        "first_paragraph": "据了解，Pro 和 Plus 订阅用户可在手机上使用\"工作\"创建文档、撰写电子邮件或总结 Slack 消息，还能执行创建网站、制作 PPT、使用云端浏览器等进阶操作；Free 和 Go 订阅用户则可使用插件与已连接的应用。",
+        "description": "OpenAI 昨日宣布，ChatGPT 移动端将新增基于语音的智能体功能，用户通过说话即可完成撰写文档、总结电子邮件等工作。据了解，Pro 和 Plus 订阅用户可在手机上使用\"工作\"创建文档、撰写电子邮件或总结 Slack 消息，还能执行创建网站、制作 PPT、使用云端浏览器等进阶操作；Free",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31347.html",
+          "addtime": "2026-09-24T14:48:16.3097511+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-24，OpenAI 昨日宣布，ChatGPT 移动端将新增基于语音的智能体功能，用户通过说话即可完成撰写文档、总结电子邮件等工作。",
+      "ai_summary": "2026-09-24，OpenAI 昨日宣布，ChatGPT 移动端将新增基于语音的智能体功能，用户通过说话即可完成撰写文档、总结电子邮件等工作。",
+      "lead_excerpt": "OpenAI 昨日宣布，ChatGPT 移动端将新增基于语音的智能体功能，用户通过说话即可完成撰写文档、总结电子邮件等工作。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31346",
+        "url": "https://www.aibase.com/zh/news/31346",
+        "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+        "date": "2026-09-24",
+        "lead": "当地时间 9 月 23 日，Meta 在 Connect 大会上发布多款 AI 设备，旗下个人智能体 Muse 几乎贯穿整场一小时的主题演讲。扎克伯格强调，公司的目标是\"让未来属于每一个人\"，并预计 Muse 未来将成为数十亿人使用的超级智能。科技媒体 The Verge 指出，本次发布会的清晰趋势是 Meta 正把 AI、智能眼镜与 VR 硬件结合，而对\"元宇宙\"的讨论明显减少。",
+        "first_paragraph": "多款眼镜同发，无摄像头版本主打隐私",
+        "description": "当地时间 9 月 23 日，Meta 在 Connect 大会上发布多款 AI 设备，旗下个人智能体 Muse 几乎贯穿整场一小时的主题演讲。扎克伯格强调，公司的目标是\"让未来属于每一个人\"，并预计 Muse 未来将成为数十亿人使用的超级智能。科技媒体 The Verge 指出，本次发布会的清晰趋势",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31346.html",
+          "addtime": "2026-09-24T14:47:06.9065857+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-24，当地时间 9 月 23 日，Meta 在 Connect 大会上发布多款 AI 设备，旗下个人智能体 Muse 几乎贯穿整场一小时的主题演讲。扎克伯格强调，公司的目标是\"让未来属于每一个人\"，并预计 Muse 未来将成为数十亿人使用的超级智能。科技媒体 The Verge 指出，本次发布会的清晰趋势是 Meta 正把 AI、智能眼镜与 VR 硬件结合，...",
+      "ai_summary": "2026-09-24，当地时间 9 月 23 日，Meta 在 Connect 大会上发布多款 AI 设备，旗下个人智能体 Muse 几乎贯穿整场一小时的主题演讲。扎克伯格强调，公司的目标是\"让未来属于每一个人\"，并预计 Muse 未来将成为数十亿人使用的超级智能。科技媒体 The Verge 指出，本次发布会的清晰趋势是 Meta 正把 AI、智能眼镜与 VR 硬件结合，...",
+      "lead_excerpt": "当地时间 9 月 23 日，Meta 在 Connect 大会上发布多款 AI 设备，旗下个人智能体 Muse 几乎贯穿整场一小时的主题演讲。扎克伯格强调，公司的目标是\"让未来属于每一个人\"，并预计 Muse 未来将成为数十亿人使用的...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31334",
+        "url": "https://www.aibase.com/zh/news/31334",
+        "title": "Meta 发布 AI\"电子宠物\"Muse Charm：挂背包上的人工智能，前苹果设计师操刀",
+        "date": "2026-09-24",
+        "lead": "9 月 24 日消息，在今早的 Meta Connect 活动上，Meta CEO 马克·扎克伯格发布了一款名为 Muse Charm 的设备。这是一款基于 Meta AI 助手 Muse 打造的小型、始终在线手持装置，类似 90 年代的电子宠物，专为不戴 Meta 智能眼镜的人设计，是用户不戴眼镜也能与 Muse 快速交流的方式。Meta 表示，Muse Charm 将在 12 月假期前发售，具体价格与更多细节后续公布。",
+        "first_paragraph": "约 2 英寸屏、内置 5G，可挂在背包上",
+        "description": "9 月 24 日消息，在今早的 Meta Connect 活动上，Meta CEO 马克·扎克伯格发布了一款名为 Muse Charm 的设备。这是一款基于 Meta AI 助手 Muse 打造的小型、始终在线手持装置，类似 90 年代的电子宠物，专为不戴 Meta 智能眼镜的人设计，是用户不戴眼镜也能与 Muse 快",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31334.html",
+          "addtime": "2026-09-24T11:04:59.3037655+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-24，9 月 24 日消息，在今早的 Meta Connect 活动上，Meta CEO 马克·扎克伯格发布了一款名为 Muse Charm 的设备。这是一款基于 Meta AI 助手 Muse 打造的小型、始终在线手持装置，类似 90 年代的电子宠物，专为不戴 Meta 智能眼镜的人设计，是用户不戴眼镜也能与 Muse 快速交流的方式。Meta 表示，Mu...",
+      "ai_summary": "2026-09-24，9 月 24 日消息，在今早的 Meta Connect 活动上，Meta CEO 马克·扎克伯格发布了一款名为 Muse Charm 的设备。这是一款基于 Meta AI 助手 Muse 打造的小型、始终在线手持装置，类似 90 年代的电子宠物，专为不戴 Meta 智能眼镜的人设计，是用户不戴眼镜也能与 Muse 快速交流的方式。Meta 表示，Mu...",
+      "lead_excerpt": "9 月 24 日消息，在今早的 Meta Connect 活动上，Meta CEO 马克·扎克伯格发布了一款名为 Muse Charm 的设备。这是一款基于 Meta AI 助手 Muse 打造的小型、始终在线手持装置，类似 90 年...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31333",
+        "url": "https://www.aibase.com/zh/news/31333",
+        "title": "OpenAI牵手东南亚超级App Grab，把ChatGPT培训塞进 30 万司机骑手口袋，两年要教会三万人用AI干活",
+        "date": "2026-09-24",
+        "lead": "OpenAI把AI普及的课堂直接搬到了东南亚的街头巷尾。本周三，它与总部位于新加坡的出行及外卖平台Grab共同按下启动键，面向Grab生态里的司机、商户和外卖骑手推出一套人工智能技能培训项目，教这些一线从业者把ChatGPT真正用进日常干活里。",
+        "first_paragraph": "这个项目覆盖新加坡、泰国、印度尼西亚和菲律宾四个市场，计划在未来两年里培训约3万名从业人员。对最关心实打实收益的司机和骑手来说，门槛被压得很低:参与学员能直接拿到为期三个月的ChatGPT Plus免费使用权，在三个月里跟着课程学AI的实用操作技能，而不是只听一场热闹的科普。",
+        "description": "OpenAI把AI普及的课堂直接搬到了东南亚的街头巷尾。本周三，它与总部位于新加坡的出行及外卖平台Grab共同按下启动键，面向Grab生态里的司机、商户和外卖骑手推出一套人工智能技能培训项目，教这些一线从业者把ChatGPT真正用进日常干活里。这个项目覆盖新加坡、泰国、印度尼西亚和菲律宾四个市场，计划在未来两年里培训约",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31333.html",
+          "addtime": "2026-09-24T11:02:14.1592552+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-24，OpenAI把AI普及的课堂直接搬到了东南亚的街头巷尾。本周三，它与总部位于新加坡的出行及外卖平台Grab共同按下启动键，面向Grab生态里的司机、商户和外卖骑手推出一套人工智能技能培训项目，教这些一线从业者把ChatGPT真正用进日常干活里。",
+      "ai_summary": "2026-09-24，OpenAI把AI普及的课堂直接搬到了东南亚的街头巷尾。本周三，它与总部位于新加坡的出行及外卖平台Grab共同按下启动键，面向Grab生态里的司机、商户和外卖骑手推出一套人工智能技能培训项目，教这些一线从业者把ChatGPT真正用进日常干活里。",
+      "lead_excerpt": "OpenAI把AI普及的课堂直接搬到了东南亚的街头巷尾。本周三，它与总部位于新加坡的出行及外卖平台Grab共同按下启动键，面向Grab生态里的司机、商户和外卖骑手推出一套人工智能技能培训项目，教这些一线从业者把ChatGPT真正用进日...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31330",
+        "url": "https://www.aibase.com/zh/news/31330",
+        "title": "微软发布 Ink Canvas 数字画布：手写草图 + Copilot，AI 帮你把灵感变成内容",
+        "date": "2026-09-24",
+        "lead": "在 2026 骁龙峰会上，微软除了推出多款 Surface 硬件新品，还展示发布了 Microsoft Ink Canvas。据 Windows Central 报道，这是一款面向 Windows 11 设备的数字墨迹工作区，在同一画布内整合手写笔记、草图、批注与 AI 功能，用户可借助 Slim Pen 直接输入文字与图形内容，降低表达门槛。",
+        "first_paragraph": "一块画布集成手写、批注与 AI",
+        "description": "在 2026 骁龙峰会上，微软除了推出多款 Surface 硬件新品，还展示发布了 Microsoft Ink Canvas。据 Windows Central 报道，这是一款面向 Windows 11 设备的数字墨迹工作区，在同一画布内整合手写笔记、草图、批注与 AI 功能，用户可借助 Slim Pen 直接输入文字",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31330.html",
+          "addtime": "2026-09-24T10:36:18.5452068+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-09-24，在 2026 骁龙峰会上，微软除了推出多款 Surface 硬件新品，还展示发布了 Microsoft Ink Canvas。据 Windows Central 报道，这是一款面向 Windows 11 设备的数字墨迹工作区，在同一画布内整合手写笔记、草图、批注与 AI 功能，用户可借助 Slim Pen 直接输入文字与图形内容，降低表达门槛。",
+      "ai_summary": "2026-09-24，在 2026 骁龙峰会上，微软除了推出多款 Surface 硬件新品，还展示发布了 Microsoft Ink Canvas。据 Windows Central 报道，这是一款面向 Windows 11 设备的数字墨迹工作区，在同一画布内整合手写笔记、草图、批注与 AI 功能，用户可借助 Slim Pen 直接输入文字与图形内容，降低表达门槛。",
+      "lead_excerpt": "在 2026 骁龙峰会上，微软除了推出多款 Surface 硬件新品，还展示发布了 Microsoft Ink Canvas。据 Windows Central 报道，这是一款面向 Windows 11 设备的数字墨迹工作区，在同一画...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31348",
+        "url": "https://www.aibase.com/zh/news/31348",
+        "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
+        "date": "2026-09-24",
+        "lead": "月之暗面的下一发旗舰，似乎已经被代码自己\"剧透\"了。多家消息源指称，Kimi K3.1正悄悄在内部成型，预估最快下个月（2026年10月）就会正式登场，并一口气带来Low、High、Max三档可调的推理强度。",
+        "first_paragraph": "最先露出马脚的是月之暗面内部的JSON与API响应。爆料人@MaxForAI于9月23日在X平台发帖，从截到的内部片段里扒出了\"k3d1-agent\"这类模型标识，里面还夹带着Agent模式、应用场景和若干配置开关。顺着这些配置文件往下看，K3.1的能力图谱已经相当清晰:它可能支持名为\"Extra Long\"的超长上下文选项，最高顶到100万Token;原生带Agent智能体模式;更进一步甩出Swarm多智能体协作;搜索和批处理等任务模式也都在列。换句话说，模型不再只是一个对话框，而准备把自己拆成一支能分工、能协作、能调外部工具的队伍。",
+        "description": "月之暗面的下一发旗舰，似乎已经被代码自己\"剧透\"了。多家消息源指称，Kimi K3.1正悄悄在内部成型，预估最快下个月（2026年10月）就会正式登场，并一口气带来Low、High、Max三档可调的推理强度。最先露出马脚的是月之暗面内部的JSON与API响应。爆料人@MaxForAI于9月23日在X",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31348.html",
+          "addtime": "2026-09-24T14:53:54+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-24，月之暗面的下一发旗舰，似乎已经被代码自己\"剧透\"了。多家消息源指称，Kimi K3.1正悄悄在内部成型，预估最快下个月（2026年10月）就会正式登场，并一口气带来Low、High、Max三档可调的推理强度。",
+      "ai_summary": "2026-09-24，月之暗面的下一发旗舰，似乎已经被代码自己\"剧透\"了。多家消息源指称，Kimi K3.1正悄悄在内部成型，预估最快下个月（2026年10月）就会正式登场，并一口气带来Low、High、Max三档可调的推理强度。",
+      "lead_excerpt": "月之暗面的下一发旗舰，似乎已经被代码自己\"剧透\"了。多家消息源指称，Kimi K3.1正悄悄在内部成型，预估最快下个月（2026年10月）就会正式登场，并一口气带来Low、High、Max三档可调的推理强度。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31339",
+        "url": "https://www.aibase.com/zh/news/31339",
+        "title": "消息称 Kimi K3.1 下月登场，三档推理强度 + 百万 Token",
+        "date": "2026-09-24",
+        "lead": "据 Wccftech 报道，月之暗面（Moonshot）正酝酿推出 Kimi K3.1 模型，预估将在下月（2026 年 10 月）登场，并计划提供 Low、High、Max 共 3 档推理强度。目前这一消息来自消息源 @MaxForAI 在 X 平台披露的发现——其在月之暗面内部 JSON / API 响应中看到了 Kimi K3.1 相关标识，包括\"k3d1-agent\"等模型名称，片段中还出现了 Agent 模式、应用场景及多项配置开关。",
+        "first_paragraph": "曝光配置：超长上下文、多智能体与 Swarm",
+        "description": "据 Wccftech 报道，月之暗面（Moonshot）正酝酿推出 Kimi K3.1 模型，预估将在下月（2026 年 10 月）登场，并计划提供 Low、High、Max 共 3 档推理强度。目前这一消息来自消息源 @MaxForAI 在 X 平台披露的发现——其在月之暗面内部 JSON / API 响应中看到了",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31339.html",
+          "addtime": "2026-09-24T13:52:18.3911232+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-24，据 Wccftech 报道，月之暗面（Moonshot）正酝酿推出 Kimi K3.1 模型，预估将在下月（2026 年 10 月）登场，并计划提供 Low、High、Max 共 3 档推理强度。目前这一消息来自消息源 @MaxForAI 在 X 平台披露的发现——其在月之暗面内部 JSON / API 响应中看到了 Kimi K3.1 相关标识，包括...",
+      "ai_summary": "2026-09-24，据 Wccftech 报道，月之暗面（Moonshot）正酝酿推出 Kimi K3.1 模型，预估将在下月（2026 年 10 月）登场，并计划提供 Low、High、Max 共 3 档推理强度。目前这一消息来自消息源 @MaxForAI 在 X 平台披露的发现——其在月之暗面内部 JSON / API 响应中看到了 Kimi K3.1 相关标识，包括...",
+      "lead_excerpt": "据 Wccftech 报道，月之暗面（Moonshot）正酝酿推出 Kimi K3.1 模型，预估将在下月（2026 年 10 月）登场，并计划提供 Low、High、Max 共 3 档推理强度。目前这一消息来自消息源 @MaxFor...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31332",
+        "url": "https://www.aibase.com/zh/news/31332",
+        "title": "爱奇艺龚宇：AI 是内容加分项，不是搭建流水线的工具",
+        "date": "2026-09-24",
+        "lead": "在 2026 爱奇艺 iJOY 秋季悦享会上，爱奇艺创始人、CEO 龚宇发表演讲，阐述了公司的 AI 战略。他表示，爱奇艺的 AI 布局主要有三大重点，即 All in AI 赋能实拍影视长片及 AIGC 长片、全力建设健康的内容创作者生态、探索 AI 催生的新形态作品。",
+        "first_paragraph": "\"混制\"爆发，但坚守不降质底线",
+        "description": "在 2026 爱奇艺 iJOY 秋季悦享会上，爱奇艺创始人、CEO 龚宇发表演讲，阐述了公司的 AI 战略。他表示，爱奇艺的 AI 布局主要有三大重点，即 All in AI 赋能实拍影视长片及 AIGC 长片、全力建设健康的内容创作者生态、探索 AI 催生的新形态作品。\"混制\"爆发，但坚守不降质底",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31332.html",
+          "addtime": "2026-09-24T10:53:04.1918804+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-09-24，在 2026 爱奇艺 iJOY 秋季悦享会上，爱奇艺创始人、CEO 龚宇发表演讲，阐述了公司的 AI 战略。他表示，爱奇艺的 AI 布局主要有三大重点，即 All in AI 赋能实拍影视长片及 AIGC 长片、全力建设健康的内容创作者生态、探索 AI 催生的新形态作品。",
+      "ai_summary": "2026-09-24，在 2026 爱奇艺 iJOY 秋季悦享会上，爱奇艺创始人、CEO 龚宇发表演讲，阐述了公司的 AI 战略。他表示，爱奇艺的 AI 布局主要有三大重点，即 All in AI 赋能实拍影视长片及 AIGC 长片、全力建设健康的内容创作者生态、探索 AI 催生的新形态作品。",
+      "lead_excerpt": "在 2026 爱奇艺 iJOY 秋季悦享会上，爱奇艺创始人、CEO 龚宇发表演讲，阐述了公司的 AI 战略。他表示，爱奇艺的 AI 布局主要有三大重点，即 All in AI 赋能实拍影视长片及 AIGC 长片、全力建设健康的内容创作...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31349",
+        "url": "https://www.aibase.com/zh/news/31349",
+        "title": "高通联手 PrismML 发布 1-bit Bonsai：AI 眼镜离线识图，内存占用降到 1/4",
+        "date": "2026-09-24",
+        "lead": "在 2026 骁龙峰会上，高通携手 PrismML 公司，在骁龙 AR1 Gen 1 智能眼镜平台上成功本地运行了 20 亿参数的 1-bit 量化 Bonsai 视觉模型，让 AI 眼镜在离线状态下也能完成识图与问答。",
+        "first_paragraph": "1-bit 量化，内存仅占 4-bit 模型四分之一",
+        "description": "在 2026 骁龙峰会上，高通携手 PrismML 公司，在骁龙 AR1 Gen 1 智能眼镜平台上成功本地运行了 20 亿参数的 1-bit 量化 Bonsai 视觉模型，让 AI 眼镜在离线状态下也能完成识图与问答。1-bit 量化，内存仅占 4-bit 模型四分之一Bonsai 1-bit 模型基于 PrismM",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31349.html",
+          "addtime": "2026-09-24T14:54:31.4653563+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-24，在 2026 骁龙峰会上，高通携手 PrismML 公司，在骁龙 AR1 Gen 1 智能眼镜平台上成功本地运行了 20 亿参数的 1-bit 量化 Bonsai 视觉模型，让 AI 眼镜在离线状态下也能完成识图与问答。",
+      "ai_summary": "2026-09-24，在 2026 骁龙峰会上，高通携手 PrismML 公司，在骁龙 AR1 Gen 1 智能眼镜平台上成功本地运行了 20 亿参数的 1-bit 量化 Bonsai 视觉模型，让 AI 眼镜在离线状态下也能完成识图与问答。",
+      "lead_excerpt": "在 2026 骁龙峰会上，高通携手 PrismML 公司，在骁龙 AR1 Gen 1 智能眼镜平台上成功本地运行了 20 亿参数的 1-bit 量化 Bonsai 视觉模型，让 AI 眼镜在离线状态下也能完成识图与问答。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31345",
+        "url": "https://www.aibase.com/zh/news/31345",
+        "title": "腾讯推出“Hy翻译”App，支持33种语言及离线翻译，主攻出境游场景",
+        "date": "2026-09-24",
+        "lead": "9月24日，腾讯正式推出全新翻译产品“Hy翻译”App，定位为“一站式翻译助手”，主攻出境旅游、商务交流等场景。目前该应用已在美国、日本、韩国、东南亚等多个国家和地区上线。",
+        "first_paragraph": "据介绍，“Hy翻译”支持33种主流语言的互译，并覆盖藏语、维吾尔语、蒙古语、哈萨克语、朝鲜语5种少数民族语言及方言。功能层面，App提供语音翻译、拍照翻译、对话翻译和离线翻译等多种模式，满足用户在无网络环境下的使用需求。",
+        "description": "9月24日，腾讯正式推出全新翻译产品“Hy翻译”App，定位为“一站式翻译助手”，主攻出境旅游、商务交流等场景。目前该应用已在美国、日本、韩国、东南亚等多个国家和地区上线。据介绍，“Hy翻译”支持33种主流语言的互译，并覆盖藏语、维吾尔语、蒙古语、哈萨克语、朝鲜语5种少数民族语言及方言。功能层面，App提供语音翻译、拍",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31345.html",
+          "addtime": "2026-09-24T14:44:56.7098273+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-24，9月24日，腾讯正式推出全新翻译产品“Hy翻译”App，定位为“一站式翻译助手”，主攻出境旅游、商务交流等场景。目前该应用已在美国、日本、韩国、东南亚等多个国家和地区上线。",
+      "ai_summary": "2026-09-24，9月24日，腾讯正式推出全新翻译产品“Hy翻译”App，定位为“一站式翻译助手”，主攻出境旅游、商务交流等场景。目前该应用已在美国、日本、韩国、东南亚等多个国家和地区上线。",
+      "lead_excerpt": "9月24日，腾讯正式推出全新翻译产品“Hy翻译”App，定位为“一站式翻译助手”，主攻出境旅游、商务交流等场景。目前该应用已在美国、日本、韩国、东南亚等多个国家和地区上线。",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31344",
+        "url": "https://www.aibase.com/zh/news/31344",
+        "title": "智元第两万台远征A3 Ultra下线交付长隆，六千台半年填满，具身机器人第一次在主题乐园里常态上岗",
+        "date": "2026-09-24",
+        "lead": "智元把具身智能的产能刻度又往前推了一大格。9月24日，第20000台通用具身智能机器人远征A3Ultra在横琴长隆飞船乐园正式走下产线，并当场交到长隆集团手里。从今年3月跨过万台门槛到如今的两万台，这家公司只用了约6个月——产能爬坡的曲线，已经明显进入了加速段。",
+        "first_paragraph": "同一天，由智元与长隆联手打造的全球首个大规模具身智能主题乐园在横琴长隆飞船乐园启幕，超过300台智元全系机器人开始在园区里常态化上岗，扎进游客互动、导览、演艺和科普研学等场景。对智元而言，第两万台量产下线并交付，意味着它的具身智能产品从过去的研发验证和单点展示，真正迈进了批量生产、规模交付和常态化运营的轨道;而这一交，更把通用具身机器人从工业、商演这些相对结构化的场景，拽进了高客流、高互动、高开放度的文旅公共空间——这里没有固定动线，只有随时涌来的人群和 unpredictable 的突发状况。",
+        "description": "智元把具身智能的产能刻度又往前推了一大格。9月24日，第20000台通用具身智能机器人远征A3Ultra在横琴长隆飞船乐园正式走下产线，并当场交到长隆集团手里。从今年3月跨过万台门槛到如今的两万台，这家公司只用了约6个月——产能爬坡的曲线，已经明显进入了加速段。同一天，由智元与长隆联手打造的全球首个大规模具身智能主题乐",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31344.html",
+          "addtime": "2026-09-24T14:27:08.5185799+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-24，智元把具身智能的产能刻度又往前推了一大格。9月24日，第20000台通用具身智能机器人远征A3Ultra在横琴长隆飞船乐园正式走下产线，并当场交到长隆集团手里。从今年3月跨过万台门槛到如今的两万台，这家公司只用了约6个月——产能爬坡的曲线，已经明显进入了加速段。",
+      "ai_summary": "2026-09-24，智元把具身智能的产能刻度又往前推了一大格。9月24日，第20000台通用具身智能机器人远征A3Ultra在横琴长隆飞船乐园正式走下产线，并当场交到长隆集团手里。从今年3月跨过万台门槛到如今的两万台，这家公司只用了约6个月——产能爬坡的曲线，已经明显进入了加速段。",
+      "lead_excerpt": "智元把具身智能的产能刻度又往前推了一大格。9月24日，第20000台通用具身智能机器人远征A3Ultra在横琴长隆飞船乐园正式走下产线，并当场交到长隆集团手里。从今年3月跨过万台门槛到如今的两万台，这家公司只用了约6个月——产能爬坡的...",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31343",
+        "url": "https://www.aibase.com/zh/news/31343",
+        "title": "华为小艺Work正式上线:7×24小时养成系助理，支持一句话做PPT与数据分析",
+        "date": "2026-09-24",
+        "lead": "9月24日，华为宣布小艺Work正式上线，定位为7×24小时专属养成系助理，支持鸿蒙手机、平板和电脑，并可实现跨设备协同。",
+        "first_paragraph": "能力层面，小艺Work覆盖市场调研、文档处理、PPT制作、数据分析、内容创作、代码开发等场景。使用时用户只需提出目标，产品即可自主拆解任务、规划执行步骤，并调用合适工具推进;执行过程中用户可随时查看进度，并在关键节点进行审核和确认。针对研究分析、内容创作、编程办公等不同任务，小艺Work还能自动匹配相应专家能力协同完成。",
+        "description": "9月24日，华为宣布小艺Work正式上线，定位为7×24小时专属养成系助理，支持鸿蒙手机、平板和电脑，并可实现跨设备协同。能力层面，小艺Work覆盖市场调研、文档处理、PPT制作、数据分析、内容创作、代码开发等场景。使用时用户只需提出目标，产品即可自主拆解任务、规划执行步骤，并调用合适工具推进;执行过程中用户可随时查看",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31343.html",
+          "addtime": "2026-09-24T14:20:42.7188949+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-24，9月24日，华为宣布小艺Work正式上线，定位为7×24小时专属养成系助理，支持鸿蒙手机、平板和电脑，并可实现跨设备协同。",
+      "ai_summary": "2026-09-24，9月24日，华为宣布小艺Work正式上线，定位为7×24小时专属养成系助理，支持鸿蒙手机、平板和电脑，并可实现跨设备协同。",
+      "lead_excerpt": "9月24日，华为宣布小艺Work正式上线，定位为7×24小时专属养成系助理，支持鸿蒙手机、平板和电脑，并可实现跨设备协同。",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31340",
+        "url": "https://www.aibase.com/zh/news/31340",
+        "title": "腾讯混元把经典临界批大小理论搬进大模型强化学习，PPO生成吞吐最高拉到2.29倍、GRPO省下29%训练时间",
+        "date": "2026-09-24",
+        "lead": "大模型强化学习正奔向更大的GPU集群和更厚的训练数据，训练效率已从一个配角升格为头等大事。腾讯混元团队最新研究把目光投向了一个被忽视已久的老问题:当模型自己生成训练数据、且rollout生成与训练本身以不同节奏缩放时，批大小这门手艺该怎么重做。",
+        "first_paragraph": "研究从经典的临界批大小理论出发，把它重新推演到在线大语言模型强化学习这个新场景。结论很务实:在GRPO和PPO这两类主流算法里，只要在扩大批大小的有界范围内重新调一调学习率，就能保住\"每条响应\"该学到的东西不被稀释。也就是说，批大小不是越大越好、也不是一成不变，而是存在一个能调教清楚的甜蜜区间。",
+        "description": "大模型强化学习正奔向更大的GPU集群和更厚的训练数据，训练效率已从一个配角升格为头等大事。腾讯混元团队最新研究把目光投向了一个被忽视已久的老问题:当模型自己生成训练数据、且rollout生成与训练本身以不同节奏缩放时，批大小这门手艺该怎么重做。研究从经典的临界批大小理论出发，把它重新推演到在线大语言模型强化学习这个新场",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31340.html",
+          "addtime": "2026-09-24T13:57:54.9566974+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-24，大模型强化学习正奔向更大的GPU集群和更厚的训练数据，训练效率已从一个配角升格为头等大事。腾讯混元团队最新研究把目光投向了一个被忽视已久的老问题:当模型自己生成训练数据、且rollout生成与训练本身以不同节奏缩放时，批大小这门手艺该怎么重做。",
+      "ai_summary": "2026-09-24，大模型强化学习正奔向更大的GPU集群和更厚的训练数据，训练效率已从一个配角升格为头等大事。腾讯混元团队最新研究把目光投向了一个被忽视已久的老问题:当模型自己生成训练数据、且rollout生成与训练本身以不同节奏缩放时，批大小这门手艺该怎么重做。",
+      "lead_excerpt": "大模型强化学习正奔向更大的GPU集群和更厚的训练数据，训练效率已从一个配角升格为头等大事。腾讯混元团队最新研究把目光投向了一个被忽视已久的老问题:当模型自己生成训练数据、且rollout生成与训练本身以不同节奏缩放时，批大小这门手艺该...",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31338",
+        "url": "https://www.aibase.com/zh/news/31338",
+        "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+        "date": "2026-09-24",
+        "lead": "9月24日，话题“豆包员工感慨豆包成边缘产品”登上微博热搜。此前有媒体报道豆包通用Session团队出现人员缩减，网络上随之出现“豆包裁员”“对话团队砍掉一半”等说法，并有网传内部员工感慨“豆包正在被边缘化”。",
+        "first_paragraph": "豆包公关负责人刘星发文回应称，相关报道实为豆包Session团队的组织调整，部分自媒体将其解读为裁员，信息不实。他介绍，该团队的一部分职能已拆分至豆包交易、豆包工作团队，相关人员随之平移，不少员工依旧从事对话体验相关工作;团队不到50人，本次分工调整涉及11人，其中3人离职。对于“2亿人用的豆包裁员”等表述，他再次强调不实。",
+        "description": "9月24日，话题“豆包员工感慨豆包成边缘产品”登上微博热搜。此前有媒体报道豆包通用Session团队出现人员缩减，网络上随之出现“豆包裁员”“对话团队砍掉一半”等说法，并有网传内部员工感慨“豆包正在被边缘化”。豆包公关负责人刘星发文回应称，相关报道实为豆包Session团队的组织调整，部分自媒体将其解读为裁员，信息不实",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31338.html",
+          "addtime": "2026-09-24T11:30:54.8889965+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-24，9月24日，话题“豆包员工感慨豆包成边缘产品”登上微博热搜。此前有媒体报道豆包通用Session团队出现人员缩减，网络上随之出现“豆包裁员”“对话团队砍掉一半”等说法，并有网传内部员工感慨“豆包正在被边缘化”。",
+      "ai_summary": "2026-09-24，9月24日，话题“豆包员工感慨豆包成边缘产品”登上微博热搜。此前有媒体报道豆包通用Session团队出现人员缩减，网络上随之出现“豆包裁员”“对话团队砍掉一半”等说法，并有网传内部员工感慨“豆包正在被边缘化”。",
+      "lead_excerpt": "9月24日，话题“豆包员工感慨豆包成边缘产品”登上微博热搜。此前有媒体报道豆包通用Session团队出现人员缩减，网络上随之出现“豆包裁员”“对话团队砍掉一半”等说法，并有网传内部员工感慨“豆包正在被边缘化”。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "国内大厂相关"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31337",
+        "url": "https://www.aibase.com/zh/news/31337",
+        "title": "DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec",
+        "date": "2026-09-24",
+        "lead": "DeepSeek 日前发布一篇系统论文，首次公开了旗下大规模智能体训练专用沙箱基础设施的核心技术细节。该论文题为《DeepSeek 弹性计算（DSec）：面向大规模智能体训练的高效沙箱基础设施》，全文长达 31 页，提交时间为 9 月 19 日。值得一提的是，论文作者团队规模超过 130 人，DeepSeek 创始人梁文锋位列作者名单最后一位。",
+        "first_paragraph": "自研沙箱平台 DSec，单单元日均服务 300 万实例",
+        "description": "DeepSeek 日前发布一篇系统论文，首次公开了旗下大规模智能体训练专用沙箱基础设施的核心技术细节。该论文题为《DeepSeek 弹性计算（DSec）：面向大规模智能体训练的高效沙箱基础设施》，全文长达 31 页，提交时间为 9 月 19 日。值得一提的是，论文作者团队规模超过 130 人，DeepSeek 创始人梁",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31337.html",
+          "addtime": "2026-09-24T11:25:13.3495801+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-24，DeepSeek 日前发布一篇系统论文，首次公开了旗下大规模智能体训练专用沙箱基础设施的核心技术细节。该论文题为《DeepSeek 弹性计算（DSec）：面向大规模智能体训练的高效沙箱基础设施》，全文长达 31 页，提交时间为 9 月 19 日。值得一提的是，论文作者团队规模超过 130 人，DeepSeek 创始人梁文锋位列作者名单最后一位。",
+      "ai_summary": "2026-09-24，DeepSeek 日前发布一篇系统论文，首次公开了旗下大规模智能体训练专用沙箱基础设施的核心技术细节。该论文题为《DeepSeek 弹性计算（DSec）：面向大规模智能体训练的高效沙箱基础设施》，全文长达 31 页，提交时间为 9 月 19 日。值得一提的是，论文作者团队规模超过 130 人，DeepSeek 创始人梁文锋位列作者名单最后一位。",
+      "lead_excerpt": "DeepSeek 日前发布一篇系统论文，首次公开了旗下大规模智能体训练专用沙箱基础设施的核心技术细节。该论文题为《DeepSeek 弹性计算（DSec）：面向大规模智能体训练的高效沙箱基础设施》，全文长达 31 页，提交时间为 9 月...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31331",
+        "url": "https://www.aibase.com/zh/news/31331",
+        "title": "​Claude 自主发现全新类 CRISPR DNA 酶系统，彻底改写生命科学科研范式",
+        "date": "2026-09-24",
+        "lead": "人工智能在生命科学前沿的探索再度迎来里程碑式突破。Anthropic 新成立的分子生物学实验室近日取得了首个重大成果:其通过动用950个 AI Agent 集群连续运行21小时，累计消耗约2.1亿 Token，成功从噬菌体 DNA 中自主发现了一套人类此前从未记录过的全新酶系统 —— 阵列关联逆转录酶系统（ART）。",
+        "first_paragraph": "据了解，这套全新发现的酶系统在结构上与被誉为“上帝手术刀”的 CRISPR 高度相似，具备切割、复制以及粘贴 DNA 的相关特征。在整个探索过程中，人类研究人员仅给出了初始的探索提示，其余包括文献查阅、序列比对、候选筛选等在内的全流程探索，均由 AI 自主高效完成。随后，经过人类科学家的接手审查与严苛的湿实验验证，该全新未被表征酶系统的存在得到了最终确认。",
+        "description": "人工智能在生命科学前沿的探索再度迎来里程碑式突破。Anthropic 新成立的分子生物学实验室近日取得了首个重大成果:其通过动用950个 AI Agent 集群连续运行21小时，累计消耗约2.1亿 Token，成功从噬菌体 DNA 中自主发现了一套人类此前从未记录过的全新酶系统 —— 阵列关联逆转录酶系统（ART）。据",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-09-18_2026-09-24/31331.html",
+          "addtime": "2026-09-24T10:53:00.2051508+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-09-24，人工智能在生命科学前沿的探索再度迎来里程碑式突破。Anthropic 新成立的分子生物学实验室近日取得了首个重大成果:其通过动用950个 AI Agent 集群连续运行21小时，累计消耗约2.1亿 Token，成功从噬菌体 DNA 中自主发现了一套人类此前从未记录过的全新酶系统 —— 阵列关联逆转录酶系统（ART）。",
+      "ai_summary": "2026-09-24，人工智能在生命科学前沿的探索再度迎来里程碑式突破。Anthropic 新成立的分子生物学实验室近日取得了首个重大成果:其通过动用950个 AI Agent 集群连续运行21小时，累计消耗约2.1亿 Token，成功从噬菌体 DNA 中自主发现了一套人类此前从未记录过的全新酶系统 —— 阵列关联逆转录酶系统（ART）。",
+      "lead_excerpt": "人工智能在生命科学前沿的探索再度迎来里程碑式突破。Anthropic 新成立的分子生物学实验室近日取得了首个重大成果:其通过动用950个 AI Agent 集群连续运行21小时，累计消耗约2.1亿 Token，成功从噬菌体 DNA 中...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "备选线索数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
