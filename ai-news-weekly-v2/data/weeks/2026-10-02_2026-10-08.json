@@ -1,0 +1,720 @@
+{
+  "week_id": "2026-10-02_2026-10-08",
+  "label": "10.2-10.8",
+  "start_date": "2026-10-02",
+  "end_date": "2026-10-08",
+  "generated_at": "2026-10-08T08:29:49",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31472",
+        "url": "https://www.aibase.com/zh/news/31472",
+        "title": "WorkBuddy上线独立文件浏览器:本地文件右键「打开方式」直接调用AI",
+        "date": "2026-10-08",
+        "lead": "10月8日，腾讯WorkBuddy正式上线独立文件浏览器，将AI入口从对话框前移到本地文件本身。",
+        "first_paragraph": "用户在电脑中找到Word、Excel、PPT、PDF、Markdown、HTML等文件，右键选择「打开方式」中的WorkBuddy即可进入独立窗口查看与编辑，也可设为默认打开方式后双击直接进入;更新WorkBuddy后即可使用，无需单独下载。窗口左侧为当前文件，右侧为Buddy对话，支持多文件标签页切换，每份文件对应各自的对话上下文。",
+        "description": "10月8日，腾讯WorkBuddy正式上线独立文件浏览器，将AI入口从对话框前移到本地文件本身。用户在电脑中找到Word、Excel、PPT、PDF、Markdown、HTML等文件，右键选择「打开方式」中的WorkBuddy即可进入独立窗口查看与编辑，也可设为默认打开方式后双击直接进入;更新WorkBuddy后即可使",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31472.html",
+          "addtime": "2026-10-08T15:20:55.8712044+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-10-08，10月8日，腾讯WorkBuddy正式上线独立文件浏览器，将AI入口从对话框前移到本地文件本身。",
+      "ai_summary": "2026-10-08，10月8日，腾讯WorkBuddy正式上线独立文件浏览器，将AI入口从对话框前移到本地文件本身。",
+      "lead_excerpt": "10月8日，腾讯WorkBuddy正式上线独立文件浏览器，将AI入口从对话框前移到本地文件本身。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31476",
+        "url": "https://www.aibase.com/zh/news/31476",
+        "title": "谷歌把AI搜索塞进手机：EmbeddingGemma2 开源，不到600MB断网照样搜图文音视频",
+        "date": "2026-10-08",
+        "lead": "谷歌把\"在本地把东西找出来\"这件事，做成了一个能装进手机的小模型。它最新推出的EmbeddingGemma2，是自家首个原生多模态的开源嵌入模型，参数规模740M，却能把文字、代码、图片、视频、音频一股脑儿映射进同一个语义空间，让跨模态检索第一次在端侧跑得这么轻。",
+        "first_paragraph": "最直观的卖点是小和能离线。完整的多模态模型内存占用不到600MB，意味着它能在手机、笔记本、浏览器里直接运行，全程不必把任何内容上传到云端——你的相册、录音、视频，都留在自己设备上被检索，隐私这道关天然就守住了。上下文窗口给到8K，是上一代的四倍，能吞下更长的材料再做匹配;语言覆盖也拉到100多种，跨语种找东西不再是障碍。",
+        "description": "谷歌把\"在本地把东西找出来\"这件事，做成了一个能装进手机的小模型。它最新推出的EmbeddingGemma2，是自家首个原生多模态的开源嵌入模型，参数规模740M，却能把文字、代码、图片、视频、音频一股脑儿映射进同一个语义空间，让跨模态检索第一次在端侧跑得这么轻。最直观的卖点是小和能离线。完整的多模",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31476.html",
+          "addtime": "2026-10-08T16:20:43+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-10-08，谷歌把\"在本地把东西找出来\"这件事，做成了一个能装进手机的小模型。它最新推出的EmbeddingGemma2，是自家首个原生多模态的开源嵌入模型，参数规模740M，却能把文字、代码、图片、视频、音频一股脑儿映射进同一个语义空间，让跨模态检索第一次在端侧跑得这么轻。",
+      "ai_summary": "2026-10-08，谷歌把\"在本地把东西找出来\"这件事，做成了一个能装进手机的小模型。它最新推出的EmbeddingGemma2，是自家首个原生多模态的开源嵌入模型，参数规模740M，却能把文字、代码、图片、视频、音频一股脑儿映射进同一个语义空间，让跨模态检索第一次在端侧跑得这么轻。",
+      "lead_excerpt": "谷歌把\"在本地把东西找出来\"这件事，做成了一个能装进手机的小模型。它最新推出的EmbeddingGemma2，是自家首个原生多模态的开源嵌入模型，参数规模740M，却能把文字、代码、图片、视频、音频一股脑儿映射进同一个语义空间，让跨模...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31473",
+        "url": "https://www.aibase.com/zh/news/31473",
+        "title": "ChatGPT 迎来 GPT-6 与全新智能界面：回答不再只是文字，还能直接生成可交互工具",
+        "date": "2026-10-08",
+        "lead": "OpenAI 近日正式发布 GPT-6 模型，并同步推出了全新的“智能界面”功能，彻底颠覆了传统的纯文本对话模式。现在系统能够根据用户的具体提问，自动生成包含图表、可点击按钮、表单乃至动态计算器等丰富的交互式组件。",
+        "first_paragraph": "例如在日常对话中，用户可以要求系统现场制作 AA 分账工具、计算器或游戏，直接在聊天框内进行操作与交互。这一升级打破了传统 AI 回答的形式局限，让模型能够以最直观、易用的载体呈现复杂信息。",
+        "description": "OpenAI 近日正式发布 GPT-6 模型，并同步推出了全新的“智能界面”功能，彻底颠覆了传统的纯文本对话模式。现在系统能够根据用户的具体提问，自动生成包含图表、可点击按钮、表单乃至动态计算器等丰富的交互式组件。例如在日常对话中，用户可以要求系统现场制作 AA 分账工具、计算器或游戏，直接在聊天框内进行操作与交互。这",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31473.html",
+          "addtime": "2026-10-08T15:25:50.5156147+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-10-08，OpenAI 近日正式发布 GPT-6 模型，并同步推出了全新的“智能界面”功能，彻底颠覆了传统的纯文本对话模式。现在系统能够根据用户的具体提问，自动生成包含图表、可点击按钮、表单乃至动态计算器等丰富的交互式组件。",
+      "ai_summary": "2026-10-08，OpenAI 近日正式发布 GPT-6 模型，并同步推出了全新的“智能界面”功能，彻底颠覆了传统的纯文本对话模式。现在系统能够根据用户的具体提问，自动生成包含图表、可点击按钮、表单乃至动态计算器等丰富的交互式组件。",
+      "lead_excerpt": "OpenAI 近日正式发布 GPT-6 模型，并同步推出了全新的“智能界面”功能，彻底颠覆了传统的纯文本对话模式。现在系统能够根据用户的具体提问，自动生成包含图表、可点击按钮、表单乃至动态计算器等丰富的交互式组件。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31463",
+        "url": "https://www.aibase.com/zh/news/31463",
+        "title": "微软重磅发布全新英伟达芯片 AI PC：搭载 RTX Spark 芯片与全新 Windows 11，起售价 2，600 美元",
+        "date": "2026-10-08",
+        "lead": "个人电脑与人工智能的硬件融合正在迎来全新里程碑。微软于本周三在旧金山举办的科技周活动上，正式揭晓了搭载英伟达 RTX Spark 芯片的全新 Surface Laptop Ultra 笔记本电脑及 Surface RTX Spark Dev Box 工作站的具体配置与售价信息。",
+        "first_paragraph": "在产品矩阵与定价方面，全新推出的 Surface Laptop Ultra 提供了两个基础型号，起售价分别为2，600美元和3，700美元，用户还可根据需求进一步升级内存与存储空间，顶配版本的价格可达5，900美元。微软表示，目前最高端配置的机型在发布后已处于售罄状态。此外，面向专业开发者群体的 Surface RTX Spark Dev Box 工作站起售价为6，000美元，并预装了 VS Code、GitHub Copilot CLI、WSL 以及 PowerShell7等全套微软开发工具。",
+        "description": "个人电脑与人工智能的硬件融合正在迎来全新里程碑。微软于本周三在旧金山举办的科技周活动上，正式揭晓了搭载英伟达 RTX Spark 芯片的全新 Surface Laptop Ultra 笔记本电脑及 Surface RTX Spark Dev Box 工作站的具体配置与售价信息。在产品矩阵与定价方面，全新推出的 Surf",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31463.html",
+          "addtime": "2026-10-08T11:17:51+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-10-08，个人电脑与人工智能的硬件融合正在迎来全新里程碑。微软于本周三在旧金山举办的科技周活动上，正式揭晓了搭载英伟达 RTX Spark 芯片的全新 Surface Laptop Ultra 笔记本电脑及 Surface RTX Spark Dev Box 工作站的具体配置与售价信息。",
+      "ai_summary": "2026-10-08，个人电脑与人工智能的硬件融合正在迎来全新里程碑。微软于本周三在旧金山举办的科技周活动上，正式揭晓了搭载英伟达 RTX Spark 芯片的全新 Surface Laptop Ultra 笔记本电脑及 Surface RTX Spark Dev Box 工作站的具体配置与售价信息。",
+      "lead_excerpt": "个人电脑与人工智能的硬件融合正在迎来全新里程碑。微软于本周三在旧金山举办的科技周活动上，正式揭晓了搭载英伟达 RTX Spark 芯片的全新 Surface Laptop Ultra 笔记本电脑及 Surface RTX Spark...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31457",
+        "url": "https://www.aibase.com/zh/news/31457",
+        "title": "AI 算力需求强劲！博通计划筹集数百亿美元支持 OpenAI 芯片项目",
+        "date": "2026-10-08",
+        "lead": "为满足人工智能基础设施对资金的庞大需求，博通正积极筹集巨额私人债务。据知情人士透露，博通正与阿波罗全球管理及黑石集团等机构展开洽谈，计划筹集超 500 亿美元资金以支持 OpenAI 的定制 AI 芯片项目。",
+        "first_paragraph": "此前双方已达成合作协议，计划在 2026 下半年至 2029 年底期间部署 10 吉瓦的定制 AI 芯片系统。这笔融资预计在今年年底前完成，主要用于保障 OpenAI 相关芯片产能的顺利落地。",
+        "description": "为满足人工智能基础设施对资金的庞大需求，博通正积极筹集巨额私人债务。据知情人士透露，博通正与阿波罗全球管理及黑石集团等机构展开洽谈，计划筹集超 500 亿美元资金以支持 OpenAI 的定制 AI 芯片项目。此前双方已达成合作协议，计划在 2026 下半年至 2029 年底期间部署 10 吉瓦的定制 AI 芯片系统。这",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31457.html",
+          "addtime": "2026-10-08T10:00:38.5441493+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-10-08，为满足人工智能基础设施对资金的庞大需求，博通正积极筹集巨额私人债务。据知情人士透露，博通正与阿波罗全球管理及黑石集团等机构展开洽谈，计划筹集超 500 亿美元资金以支持 OpenAI 的定制 AI 芯片项目。",
+      "ai_summary": "2026-10-08，为满足人工智能基础设施对资金的庞大需求，博通正积极筹集巨额私人债务。据知情人士透露，博通正与阿波罗全球管理及黑石集团等机构展开洽谈，计划筹集超 500 亿美元资金以支持 OpenAI 的定制 AI 芯片项目。",
+      "lead_excerpt": "为满足人工智能基础设施对资金的庞大需求，博通正积极筹集巨额私人债务。据知情人士透露，博通正与阿波罗全球管理及黑石集团等机构展开洽谈，计划筹集超 500 亿美元资金以支持 OpenAI 的定制 AI 芯片项目。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31462",
+        "url": "https://www.aibase.com/zh/news/31462",
+        "title": "独角兽诞生！估值 15 亿美元的开源黑马如何靠AI Agent收割企业级市场？",
+        "date": "2026-10-08",
+        "lead": "三年前成立的开源AI初创公司Nous Research正式确认，公司已完成由Robot Ventures领投的9000万美元B轮融资，估值飙升至15亿美元。英伟达、Union Square Ventures、Menlo Ventures、三星以及唐纳德·特朗普小儿子担任合伙人的1789Capital等机构也参与了本轮投资。此轮融资过后，这家成立三年的年轻企业总融资额已达到1.5亿美元。",
+        "first_paragraph": "凭借开源的Hermes Agent，Nous Research在开发者和个人用户群体中积累了极高的人气。根据该公司的数据估算，Hermes Agent已被克隆超过2400万次，承担了全球约2.5%的AI Token使用量。",
+        "description": "三年前成立的开源AI初创公司Nous Research正式确认，公司已完成由Robot Ventures领投的9000万美元B轮融资，估值飙升至15亿美元。英伟达、Union Square Ventures、Menlo Ventures、三星以及唐纳德·特朗普小儿子担任合伙人的1789Capital等机构也参与了本轮投",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31462.html",
+          "addtime": "2026-10-08T11:14:37.6061686+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-10-08，三年前成立的开源AI初创公司Nous Research正式确认，公司已完成由Robot Ventures领投的9000万美元B轮融资，估值飙升至15亿美元。英伟达、Union Square Ventures、Menlo Ventures、三星以及唐纳德·特朗普小儿子担任合伙人的1789Capital等机构也参与了本轮投资。此轮融资过后，这家成立三年的年...",
+      "ai_summary": "2026-10-08，三年前成立的开源AI初创公司Nous Research正式确认，公司已完成由Robot Ventures领投的9000万美元B轮融资，估值飙升至15亿美元。英伟达、Union Square Ventures、Menlo Ventures、三星以及唐纳德·特朗普小儿子担任合伙人的1789Capital等机构也参与了本轮投资。此轮融资过后，这家成立三年的年...",
+      "lead_excerpt": "三年前成立的开源AI初创公司Nous Research正式确认，公司已完成由Robot Ventures领投的9000万美元B轮融资，估值飙升至15亿美元。英伟达、Union Square Ventures、Menlo Venture...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31475",
+        "url": "https://www.aibase.com/zh/news/31475",
+        "title": "德国环保搜索引擎Ecosia弃用Mistral，转投中国开源模型：欧洲自主梦撞上现实",
+        "date": "2026-10-08",
+        "lead": "一家以种树和独立为标签的德国搜索引擎，把欧洲AI的招牌企业给换了。总部位于柏林的Ecosia近日宣布调整人工智能战略，结束与法国Mistral的合作关系，转而采用包括中国开源模型在内的多种开源方案。这个转向在欧洲科技圈激起不小波澜——因为就在几个月前，Ecosia还把Mistral当成摆脱美国巨头依赖的救命稻草。",
+        "first_paragraph": "Ecosia长期把环保理念和技术独立性焊在品牌内核上，它的产品已经走进德国联邦环境部、英国国民保健体系（NHS）等公共机构。今年5月，它刚用Mistral替换掉OpenAI，当作主要AI供应商，盘算是借欧洲本土技术搭一套更有主权的AI生态。谁料不到半年，这段\"欧洲联姻\"就亮了红灯。",
+        "description": "一家以种树和独立为标签的德国搜索引擎，把欧洲AI的招牌企业给换了。总部位于柏林的Ecosia近日宣布调整人工智能战略，结束与法国Mistral的合作关系，转而采用包括中国开源模型在内的多种开源方案。这个转向在欧洲科技圈激起不小波澜——因为就在几个月前，Ecosia还把Mistral当成摆脱美国巨头依赖的救命稻草。Eco",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31475.html",
+          "addtime": "2026-10-08T16:19:39.2831944+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，一家以种树和独立为标签的德国搜索引擎，把欧洲AI的招牌企业给换了。总部位于柏林的Ecosia近日宣布调整人工智能战略，结束与法国Mistral的合作关系，转而采用包括中国开源模型在内的多种开源方案。这个转向在欧洲科技圈激起不小波澜——因为就在几个月前，Ecosia还把Mistral当成摆脱美国巨头依赖的救命稻草。",
+      "ai_summary": "2026-10-08，一家以种树和独立为标签的德国搜索引擎，把欧洲AI的招牌企业给换了。总部位于柏林的Ecosia近日宣布调整人工智能战略，结束与法国Mistral的合作关系，转而采用包括中国开源模型在内的多种开源方案。这个转向在欧洲科技圈激起不小波澜——因为就在几个月前，Ecosia还把Mistral当成摆脱美国巨头依赖的救命稻草。",
+      "lead_excerpt": "一家以种树和独立为标签的德国搜索引擎，把欧洲AI的招牌企业给换了。总部位于柏林的Ecosia近日宣布调整人工智能战略，结束与法国Mistral的合作关系，转而采用包括中国开源模型在内的多种开源方案。这个转向在欧洲科技圈激起不小波澜——...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31474",
+        "url": "https://www.aibase.com/zh/news/31474",
+        "title": "阿里蔡崇信:AI将转向隐性基础设施，知识工作者TAM达50万亿美元",
+        "date": "2026-10-08",
+        "lead": "阿里巴巴集团主席蔡崇信近日出席意大利国际科技与投资盛会Wave by Vento2026并发表观点指出，未来五年AI将从显性话题演变为融入各项业务的隐性基础设施。",
+        "first_paragraph": "蔡崇信分析，当前AI技术更擅长帮人类“省时间”，而在“花时间”上的突破尚具巨大潜力，其中提升知识工作者生产力是最确定的应用场景，预估潜在市场规模（TAM）达50万亿美元，同时AI也将加速医疗与科研领域的创新。",
+        "description": "阿里巴巴集团主席蔡崇信近日出席意大利国际科技与投资盛会Wave by Vento2026并发表观点指出，未来五年AI将从显性话题演变为融入各项业务的隐性基础设施。蔡崇信分析，当前AI技术更擅长帮人类“省时间”，而在“花时间”上的突破尚具巨大潜力，其中提升知识工作者生产力是最确定的应用场景，预估潜在市场规模（TAM）达5",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31474.html",
+          "addtime": "2026-10-08T15:45:47.8949726+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，阿里巴巴集团主席蔡崇信近日出席意大利国际科技与投资盛会Wave by Vento2026并发表观点指出，未来五年AI将从显性话题演变为融入各项业务的隐性基础设施。",
+      "ai_summary": "2026-10-08，阿里巴巴集团主席蔡崇信近日出席意大利国际科技与投资盛会Wave by Vento2026并发表观点指出，未来五年AI将从显性话题演变为融入各项业务的隐性基础设施。",
+      "lead_excerpt": "阿里巴巴集团主席蔡崇信近日出席意大利国际科技与投资盛会Wave by Vento2026并发表观点指出，未来五年AI将从显性话题演变为融入各项业务的隐性基础设施。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31471",
+        "url": "https://www.aibase.com/zh/news/31471",
+        "title": "谷歌调整Gemini订阅策略:10月9日起免费版仅留Flash-Lite，付费阶梯进一步拉开",
+        "date": "2026-10-08",
+        "lead": "谷歌官方近期更新支持页面宣布，自10月9日起调整个人账户Gemini模型的访问权限与使用限制，全面收紧低层级用户的模型配置。",
+        "first_paragraph": "根据新规，未付费的免费用户将仅能访问Gemini3.5-Flash-Lite版本，不再具备Gemini3.6Flash及更新模型的调取权限;每月4.99美元的AI Plus订阅用户使用范围被压缩至Flash与Flash-Lite轻量化模型，不再支持Gemini3.1Pro等高级推理模型。",
+        "description": "谷歌官方近期更新支持页面宣布，自10月9日起调整个人账户Gemini模型的访问权限与使用限制，全面收紧低层级用户的模型配置。根据新规，未付费的免费用户将仅能访问Gemini3.5-Flash-Lite版本，不再具备Gemini3.6Flash及更新模型的调取权限;每月4.99美元的AI Plus订阅用户使用范围被压缩至",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31471.html",
+          "addtime": "2026-10-08T14:28:38.6998394+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，谷歌官方近期更新支持页面宣布，自10月9日起调整个人账户Gemini模型的访问权限与使用限制，全面收紧低层级用户的模型配置。",
+      "ai_summary": "2026-10-08，谷歌官方近期更新支持页面宣布，自10月9日起调整个人账户Gemini模型的访问权限与使用限制，全面收紧低层级用户的模型配置。",
+      "lead_excerpt": "谷歌官方近期更新支持页面宣布，自10月9日起调整个人账户Gemini模型的访问权限与使用限制，全面收紧低层级用户的模型配置。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31470",
+        "url": "https://www.aibase.com/zh/news/31470",
+        "title": "PFN发布PLaMo 3 Translate 31B模型，翻译实力叫板顶尖巨头",
+        "date": "2026-10-08",
+        "lead": "日本知名企业 Preferred Networks （PFN） 在当地时间昨日正式发布了全新的翻译模型——PLaMo3Translate31B。该模型不仅在日语翻译上展现出极高的专业水准，同时也兼顾了其他语言的翻译需求，是一款完全由日本自主研发的大模型产品。在具体的训练数据构成中，日语占比达到了约30%。",
+        "first_paragraph": "从技术架构来看，该模型基于 PLaMo3基础模型打造。相比上一代产品仅支持日语和英语2种语言，PLaMo3Translate31B 的支持语言数量实现了跨越式扩展，一举达到了53种，并且创新性地引入了覆盖15种语言的在线会议翻译模式。",
+        "description": "日本知名企业 Preferred Networks （PFN） 在当地时间昨日正式发布了全新的翻译模型——PLaMo3Translate31B。该模型不仅在日语翻译上展现出极高的专业水准，同时也兼顾了其他语言的翻译需求，是一款完全由日本自主研发的大模型产品。在具体的训练数据构成中，日语占比达到了约30%。从技术架构来看",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31470.html",
+          "addtime": "2026-10-08T14:25:46.622585+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，日本知名企业 Preferred Networks （PFN） 在当地时间昨日正式发布了全新的翻译模型——PLaMo3Translate31B。该模型不仅在日语翻译上展现出极高的专业水准，同时也兼顾了其他语言的翻译需求，是一款完全由日本自主研发的大模型产品。在具体的训练数据构成中，日语占比达到了约30%。",
+      "ai_summary": "2026-10-08，日本知名企业 Preferred Networks （PFN） 在当地时间昨日正式发布了全新的翻译模型——PLaMo3Translate31B。该模型不仅在日语翻译上展现出极高的专业水准，同时也兼顾了其他语言的翻译需求，是一款完全由日本自主研发的大模型产品。在具体的训练数据构成中，日语占比达到了约30%。",
+      "lead_excerpt": "日本知名企业 Preferred Networks （PFN） 在当地时间昨日正式发布了全新的翻译模型——PLaMo3Translate31B。该模型不仅在日语翻译上展现出极高的专业水准，同时也兼顾了其他语言的翻译需求，是一款完全由日...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31469",
+        "url": "https://www.aibase.com/zh/news/31469",
+        "title": "AI圈国庆大动作：DeepSeek拟募 800 亿，OpenAI立下 28 天连更军令状",
+        "date": "2026-10-08",
+        "lead": "这个国庆假期，国内外的AI公司都没闲着，几笔资金与产品的大动作接连砸进视野。最重的一记来自DeepSeek——路透社10月6日援引知情人士称，这家公司正在推进的新一轮融资拟募集超过800亿元，预计在10月内完成。值得一提的是，公司今年7月才启动这轮融资，当时的目标还只是500亿元、讨论中的估值为5000亿元;而距离它首次引入外部资金仅仅过去几个月，路透社称DeepSeek今年6月刚完成约74亿美元融资。如果本轮按目前讨论的规模落地，它将连续吃下两笔数百亿元级别的资金。彭博社此前点出，腾讯和宁德时代是作出较大投资承诺的机构之一，不过DeepSeek尚未公开确认融资规模与投资方安排。",
+        "first_paragraph": "同一天，彭博社还抛出另一则融资消息:Kimi的母公司月之暗面已完成上市前最后一轮私募融资，估值约500亿美元。这距离它7月29日被报道完成约35亿美元融资、估值350亿美元只过了两个多月，身价几乎跳涨一半。月之暗面正争取在2027年第一季度赴港上市，考虑通过IPO募集最多50亿美元，并筹备与潜在投资者的早期会面，最快10月就会启动，先探一探市场对这次上市的胃口。",
+        "description": "这个国庆假期，国内外的AI公司都没闲着，几笔资金与产品的大动作接连砸进视野。最重的一记来自DeepSeek——路透社10月6日援引知情人士称，这家公司正在推进的新一轮融资拟募集超过800亿元，预计在10月内完成。值得一提的是，公司今年7月才启动这轮融资，当时的目标还只是500亿元、讨论中的估值为5000亿元;而距离它首",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31469.html",
+          "addtime": "2026-10-08T14:21:32.6976424+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，这个国庆假期，国内外的AI公司都没闲着，几笔资金与产品的大动作接连砸进视野。最重的一记来自DeepSeek——路透社10月6日援引知情人士称，这家公司正在推进的新一轮融资拟募集超过800亿元，预计在10月内完成。值得一提的是，公司今年7月才启动这轮融资，当时的目标还只是500亿元、讨论中的估值为5000亿元;而距离它首次引入外部资金仅仅过去几个月，路透...",
+      "ai_summary": "2026-10-08，这个国庆假期，国内外的AI公司都没闲着，几笔资金与产品的大动作接连砸进视野。最重的一记来自DeepSeek——路透社10月6日援引知情人士称，这家公司正在推进的新一轮融资拟募集超过800亿元，预计在10月内完成。值得一提的是，公司今年7月才启动这轮融资，当时的目标还只是500亿元、讨论中的估值为5000亿元;而距离它首次引入外部资金仅仅过去几个月，路透...",
+      "lead_excerpt": "这个国庆假期，国内外的AI公司都没闲着，几笔资金与产品的大动作接连砸进视野。最重的一记来自DeepSeek——路透社10月6日援引知情人士称，这家公司正在推进的新一轮融资拟募集超过800亿元，预计在10月内完成。值得一提的是，公司今年...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 50,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31468",
+        "url": "https://www.aibase.com/zh/news/31468",
+        "title": "Manus 母公司完成新一轮超5亿美元融资，腾讯红杉继续加码",
+        "date": "2026-10-08",
+        "lead": "AI 明星公司 Manus 的母公司近日完成新一轮超5亿美元融资，估值大幅攀升。本轮由博裕投资和 IDG 资本联合领投，老股东腾讯、红杉中国等继续跟投，显示出资本市场对其技术路线和商业化前景的高度认可。",
+        "first_paragraph": "Manus 以通用 AI Agent 产品闻名，其产品能够自主完成复杂任务，被视为 AI 应用层的重要探索方向。此轮融资将主要用于技术研发、团队扩张及全球化布局。",
+        "description": "AI 明星公司 Manus 的母公司近日完成新一轮超5亿美元融资，估值大幅攀升。本轮由博裕投资和 IDG 资本联合领投，老股东腾讯、红杉中国等继续跟投，显示出资本市场对其技术路线和商业化前景的高度认可。Manus 以通用 AI Agent 产品闻名，其产品能够自主完成复杂任务，被视为 AI 应用层的重要探索方向。此轮融",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31468.html",
+          "addtime": "2026-10-08T14:09:10.9722676+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，AI 明星公司 Manus 的母公司近日完成新一轮超5亿美元融资，估值大幅攀升。本轮由博裕投资和 IDG 资本联合领投，老股东腾讯、红杉中国等继续跟投，显示出资本市场对其技术路线和商业化前景的高度认可。",
+      "ai_summary": "2026-10-08，AI 明星公司 Manus 的母公司近日完成新一轮超5亿美元融资，估值大幅攀升。本轮由博裕投资和 IDG 资本联合领投，老股东腾讯、红杉中国等继续跟投，显示出资本市场对其技术路线和商业化前景的高度认可。",
+      "lead_excerpt": "AI 明星公司 Manus 的母公司近日完成新一轮超5亿美元融资，估值大幅攀升。本轮由博裕投资和 IDG 资本联合领投，老股东腾讯、红杉中国等继续跟投，显示出资本市场对其技术路线和商业化前景的高度认可。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 55,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31467",
+        "url": "https://www.aibase.com/zh/news/31467",
+        "title": "Anthropic 重磅发布 Claude Haiku 5.5！价格暴降 90% 但面临隐性成本",
+        "date": "2026-10-08",
+        "lead": "Anthropic 公司近日正式推出了 Claude 5.5 系列的最新轻量级模型 Claude Haiku 5.5。对于 10 万 Token 以内的常规请求，其输入和输出价格分别降至每百万 Token 0.10 美元和 0.50 美元，相比前代产品账面价格大幅下降了 90%。",
+        "first_paragraph": "作为当前响应速度最快的模型，Haiku 5.5 主打高并发、低延迟与高性价比场景，非常适合实时客服、摘要提取与数据分类等高频任务。此外系统还首次加入了自适应思考与动态调节功能，能够根据任务复杂度自动平衡推理深度与计算成本。",
+        "description": "Anthropic 公司近日正式推出了 Claude 5.5 系列的最新轻量级模型 Claude Haiku 5.5。对于 10 万 Token 以内的常规请求，其输入和输出价格分别降至每百万 Token 0.10 美元和 0.50 美元，相比前代产品账面价格大幅下降了 90%。作为当前响应速度最快的模型，Haiku",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31467.html",
+          "addtime": "2026-10-08T13:58:36.2383126+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，Anthropic 公司近日正式推出了 Claude 5.5 系列的最新轻量级模型 Claude Haiku 5.5。对于 10 万 Token 以内的常规请求，其输入和输出价格分别降至每百万 Token 0.10 美元和 0.50 美元，相比前代产品账面价格大幅下降了 90%。",
+      "ai_summary": "2026-10-08，Anthropic 公司近日正式推出了 Claude 5.5 系列的最新轻量级模型 Claude Haiku 5.5。对于 10 万 Token 以内的常规请求，其输入和输出价格分别降至每百万 Token 0.10 美元和 0.50 美元，相比前代产品账面价格大幅下降了 90%。",
+      "lead_excerpt": "Anthropic 公司近日正式推出了 Claude 5.5 系列的最新轻量级模型 Claude Haiku 5.5。对于 10 万 Token 以内的常规请求，其输入和输出价格分别降至每百万 Token 0.10 美元和 0.50...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31466",
+        "url": "https://www.aibase.com/zh/news/31466",
+        "title": "美国地方媒体组团起诉微软OpenAI：数万篇文章被喂进模型，一文钱没给",
+        "date": "2026-10-08",
+        "lead": "微软和OpenAI又被告上了法庭，这次站在原告席的是一批平时不大被聚光灯照到的地方新闻媒体。以密西西比州的埃默里奇报业集团为首，多家美国地方新闻机构近日向法院递交诉状，指控两家科技巨头长期、系统性地在没有授权、没有付过任何补偿的情况下，把数以万计受版权保护的新闻文章塞进大模型训练流程，并靠这些AI产品赚走了巨额商业价值，而原创内容的提供者却连一分钱都没见到。",
+        "first_paragraph": "这桩官司并非孤例。近些年类似的火药味一直没散过，《纽约时报》等大型媒体早就以相同理由把微软和OpenAI告过。但地方媒体的加入，让战线从头部大报一路烧到了社区报社。原告方在诉状里写得直白:微软和OpenAI已经并将继续创造数十亿美元收入，内容生产者却\"没有得到一分钱\";更刺眼的是，一些原本架着付费墙、设了访问门槛的文章，也被指绕开限制取走用去训练。",
+        "description": "微软和OpenAI又被告上了法庭，这次站在原告席的是一批平时不大被聚光灯照到的地方新闻媒体。以密西西比州的埃默里奇报业集团为首，多家美国地方新闻机构近日向法院递交诉状，指控两家科技巨头长期、系统性地在没有授权、没有付过任何补偿的情况下，把数以万计受版权保护的新闻文章塞进大模型训练流程，并靠这些AI产品赚走了巨额商业价值",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31466.html",
+          "addtime": "2026-10-08T13:58:01.2918369+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，微软和OpenAI又被告上了法庭，这次站在原告席的是一批平时不大被聚光灯照到的地方新闻媒体。以密西西比州的埃默里奇报业集团为首，多家美国地方新闻机构近日向法院递交诉状，指控两家科技巨头长期、系统性地在没有授权、没有付过任何补偿的情况下，把数以万计受版权保护的新闻文章塞进大模型训练流程，并靠这些AI产品赚走了巨额商业价值，而原创内容的提供者却连一分钱都没见到。",
+      "ai_summary": "2026-10-08，微软和OpenAI又被告上了法庭，这次站在原告席的是一批平时不大被聚光灯照到的地方新闻媒体。以密西西比州的埃默里奇报业集团为首，多家美国地方新闻机构近日向法院递交诉状，指控两家科技巨头长期、系统性地在没有授权、没有付过任何补偿的情况下，把数以万计受版权保护的新闻文章塞进大模型训练流程，并靠这些AI产品赚走了巨额商业价值，而原创内容的提供者却连一分钱都没见到。",
+      "lead_excerpt": "微软和OpenAI又被告上了法庭，这次站在原告席的是一批平时不大被聚光灯照到的地方新闻媒体。以密西西比州的埃默里奇报业集团为首，多家美国地方新闻机构近日向法院递交诉状，指控两家科技巨头长期、系统性地在没有授权、没有付过任何补偿的情况下...",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31465",
+        "url": "https://www.aibase.com/zh/news/31465",
+        "title": "科技巨头争夺顶级域名！AI 成为新一轮申请热门",
+        "date": "2026-10-08",
+        "lead": "互联网名称与数字地址分配机构（ICANN）近日公布了新一轮顶级域名申请情况，本期共收到来自全球 481 个申请者的 1615 份申请。在此次申请潮中，人工智能相关域名成为了各家科技巨头竞争的核心焦点。",
+        "first_paragraph": "其中，Meta 与 OpenAI 等公司积极竞逐.agent 域名，而.agi、.asi 以及.superintelligence 等域名也吸引了多家重磅企业递交申请。为了进一步提升品牌辨识度，OpenAI 共提交了 15 个顶级域名申请，Meta 则提交了 21 份申请。",
+        "description": "互联网名称与数字地址分配机构（ICANN）近日公布了新一轮顶级域名申请情况，本期共收到来自全球 481 个申请者的 1615 份申请。在此次申请潮中，人工智能相关域名成为了各家科技巨头竞争的核心焦点。其中，Meta 与 OpenAI 等公司积极竞逐.agent 域名，而.agi、.asi 以及.superintelli",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31465.html",
+          "addtime": "2026-10-08T13:44:27.9262682+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，互联网名称与数字地址分配机构（ICANN）近日公布了新一轮顶级域名申请情况，本期共收到来自全球 481 个申请者的 1615 份申请。在此次申请潮中，人工智能相关域名成为了各家科技巨头竞争的核心焦点。",
+      "ai_summary": "2026-10-08，互联网名称与数字地址分配机构（ICANN）近日公布了新一轮顶级域名申请情况，本期共收到来自全球 481 个申请者的 1615 份申请。在此次申请潮中，人工智能相关域名成为了各家科技巨头竞争的核心焦点。",
+      "lead_excerpt": "互联网名称与数字地址分配机构（ICANN）近日公布了新一轮顶级域名申请情况，本期共收到来自全球 481 个申请者的 1615 份申请。在此次申请潮中，人工智能相关域名成为了各家科技巨头竞争的核心焦点。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31464",
+        "url": "https://www.aibase.com/zh/news/31464",
+        "title": "微软发布 MAI Code1.1Flash 模型，GitHub Copilot 将支持本地与云端混合推理",
+        "date": "2026-10-08",
+        "lead": "微软于2026年10月7日的 Windows 和 Surface 发布会上宣布，将于本月底前为 GitHub Copilot 引入本地 AI 模型支持，允许开发者在云端与设备端模型之间自由切换或实现自动调度。",
+        "first_paragraph": "针对端侧推理中的内存瓶颈与长上下文资源占用问题，微软推出了高效的 MAI Code1.1Flash 混合专家（MoE）模型。该模型拥有1370亿总参数及68亿激活参数，结合量化与投机解码技术，在显著降低内存占用的同时提升了设备端编码响应速度，并率先搭载于配备 NVIDIA RTX Spark 硬件的新款 Surface Laptop Ultra。",
+        "description": "微软于2026年10月7日的 Windows 和 Surface 发布会上宣布，将于本月底前为 GitHub Copilot 引入本地 AI 模型支持，允许开发者在云端与设备端模型之间自由切换或实现自动调度。针对端侧推理中的内存瓶颈与长上下文资源占用问题，微软推出了高效的 MAI Code1.1Flash 混合专家（M",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31464.html",
+          "addtime": "2026-10-08T11:26:43.3587564+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，微软于2026年10月7日的 Windows 和 Surface 发布会上宣布，将于本月底前为 GitHub Copilot 引入本地 AI 模型支持，允许开发者在云端与设备端模型之间自由切换或实现自动调度。",
+      "ai_summary": "2026-10-08，微软于2026年10月7日的 Windows 和 Surface 发布会上宣布，将于本月底前为 GitHub Copilot 引入本地 AI 模型支持，允许开发者在云端与设备端模型之间自由切换或实现自动调度。",
+      "lead_excerpt": "微软于2026年10月7日的 Windows 和 Surface 发布会上宣布，将于本月底前为 GitHub Copilot 引入本地 AI 模型支持，允许开发者在云端与设备端模型之间自由切换或实现自动调度。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31461",
+        "url": "https://www.aibase.com/zh/news/31461",
+        "title": "非营利组织发布新报告：ChatGPT 青少年模式安全风险过高 ​",
+        "date": "2026-10-08",
+        "lead": "加州非营利组织 Common Sense Media 近日发布报告指出，OpenAI 的 ChatGPT 青少年模式对未成年人而言存在过高风险。测试显示，当青少年账户长时间讨论自杀、自伤或进食障碍等高风险话题时，系统往往无法及时向家长发送预警，也未能稳定提供危机干预热线等求助信息。",
+        "first_paragraph": "测试人员发现，青少年账户需在数周内围绕多种情境输入数百条提示词，才可能触发家长通知，单次令人警觉的对话完全不足以触发预警。此外系统还无法可靠识别未成年人身份，即使在聊天中自报年龄也无法自动切换模式，因此该机构呼吁 OpenAI 暂停推广该产品。",
+        "description": "加州非营利组织 Common Sense Media 近日发布报告指出，OpenAI 的 ChatGPT 青少年模式对未成年人而言存在过高风险。测试显示，当青少年账户长时间讨论自杀、自伤或进食障碍等高风险话题时，系统往往无法及时向家长发送预警，也未能稳定提供危机干预热线等求助信息。测试人员发现，青少年账户需在数周内围绕",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31461.html",
+          "addtime": "2026-10-08T10:53:08.1787753+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，加州非营利组织 Common Sense Media 近日发布报告指出，OpenAI 的 ChatGPT 青少年模式对未成年人而言存在过高风险。测试显示，当青少年账户长时间讨论自杀、自伤或进食障碍等高风险话题时，系统往往无法及时向家长发送预警，也未能稳定提供危机干预热线等求助信息。",
+      "ai_summary": "2026-10-08，加州非营利组织 Common Sense Media 近日发布报告指出，OpenAI 的 ChatGPT 青少年模式对未成年人而言存在过高风险。测试显示，当青少年账户长时间讨论自杀、自伤或进食障碍等高风险话题时，系统往往无法及时向家长发送预警，也未能稳定提供危机干预热线等求助信息。",
+      "lead_excerpt": "加州非营利组织 Common Sense Media 近日发布报告指出，OpenAI 的 ChatGPT 青少年模式对未成年人而言存在过高风险。测试显示，当青少年账户长时间讨论自杀、自伤或进食障碍等高风险话题时，系统往往无法及时向家长...",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31460",
+        "url": "https://www.aibase.com/zh/news/31460",
+        "title": "WordPress 7.1. 3 紧急修补 7 洞：Anthropic反过来给全球建站系统补漏",
+        "date": "2026-10-08",
+        "lead": "WordPress在10月6日推出7.1.3版本，一次性修补了平台核心里的7个安全漏洞，顺手解决了4个程序Bug。有意思的是，这批漏洞的报告方里混进了一个不太一样的名字——主业是造大模型的Anthropic，一口气贡献了其中3个，等于一家做前沿AI的公司，反过来给全球最流行的建站系统当起了保安。",
+        "first_paragraph": "把漏洞的来源摊开看，阵容相当跨界。7个安全漏洞里，Anthropic报了3个，安全机构Trail of Bits和Patchstack各报1个，另有1个由三名独立研究者联合提交，最后1个才是WordPress安全团队自己挖出来的。也就是说，连维护方自己的团队都只发现了其中一个，其余全靠外部眼睛替它盯着。",
+        "description": "WordPress在10月6日推出7.1.3版本，一次性修补了平台核心里的7个安全漏洞，顺手解决了4个程序Bug。有意思的是，这批漏洞的报告方里混进了一个不太一样的名字——主业是造大模型的Anthropic，一口气贡献了其中3个，等于一家做前沿AI的公司，反过来给全球最流行的建站系统当起了保安。把漏洞的来源摊开看，阵容",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31460.html",
+          "addtime": "2026-10-08T10:10:59.7429488+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，WordPress在10月6日推出7.1.3版本，一次性修补了平台核心里的7个安全漏洞，顺手解决了4个程序Bug。有意思的是，这批漏洞的报告方里混进了一个不太一样的名字——主业是造大模型的Anthropic，一口气贡献了其中3个，等于一家做前沿AI的公司，反过来给全球最流行的建站系统当起了保安。",
+      "ai_summary": "2026-10-08，WordPress在10月6日推出7.1.3版本，一次性修补了平台核心里的7个安全漏洞，顺手解决了4个程序Bug。有意思的是，这批漏洞的报告方里混进了一个不太一样的名字——主业是造大模型的Anthropic，一口气贡献了其中3个，等于一家做前沿AI的公司，反过来给全球最流行的建站系统当起了保安。",
+      "lead_excerpt": "WordPress在10月6日推出7.1.3版本，一次性修补了平台核心里的7个安全漏洞，顺手解决了4个程序Bug。有意思的是，这批漏洞的报告方里混进了一个不太一样的名字——主业是造大模型的Anthropic，一口气贡献了其中3个，等于...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31459",
+        "url": "https://www.aibase.com/zh/news/31459",
+        "title": "抖音生活服务发布双节报告:AI入口拉动消费，“豆包订酒店”下单量环比增56%",
+        "date": "2026-10-08",
+        "lead": "抖音生活服务于2026年10月7日正式发布《2026中秋国庆消费报告》，宣布AI交互入口首次深度融入假日消费场景，成为拉动出游与本地生活服务的新增长极。",
+        "first_paragraph": "报告显示，“双节”期间线上内容持续激发线下消费热情，推动深度体验式消费成为主流，抖音团购整体订单量同比增长53%。其中，餐饮订单量同比增幅超61%，酒旅订单量增长42%，酒店宾馆订单量同比增幅更近79%。",
+        "description": "抖音生活服务于2026年10月7日正式发布《2026中秋国庆消费报告》，宣布AI交互入口首次深度融入假日消费场景，成为拉动出游与本地生活服务的新增长极。报告显示，“双节”期间线上内容持续激发线下消费热情，推动深度体验式消费成为主流，抖音团购整体订单量同比增长53%。其中，餐饮订单量同比增幅超61%，酒旅订单量增长42%",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31459.html",
+          "addtime": "2026-10-08T10:05:06.5335613+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，抖音生活服务于2026年10月7日正式发布《2026中秋国庆消费报告》，宣布AI交互入口首次深度融入假日消费场景，成为拉动出游与本地生活服务的新增长极。",
+      "ai_summary": "2026-10-08，抖音生活服务于2026年10月7日正式发布《2026中秋国庆消费报告》，宣布AI交互入口首次深度融入假日消费场景，成为拉动出游与本地生活服务的新增长极。",
+      "lead_excerpt": "抖音生活服务于2026年10月7日正式发布《2026中秋国庆消费报告》，宣布AI交互入口首次深度融入假日消费场景，成为拉动出游与本地生活服务的新增长极。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31458",
+        "url": "https://www.aibase.com/zh/news/31458",
+        "title": "Claude悄悄上线简繁体中文界面：产品菜单中文化，官方尚未官宣",
+        "date": "2026-10-08",
+        "lead": "Anthropic正悄悄给Claude换上中文皮肤。多家用户发现，Claude的网页版和桌面端语言菜单里已经冒出了简体中文与繁体中文两个选项，部分账号一打开就直接落在中文界面上。这回添的不是对话能力——Claude早就能用中文聊天，而是连产品本身的界面也一并中文化了，过去中文用户要么凑合用英文或其他语言界面，要么靠浏览器翻译硬啃菜单，如今这道门槛正被悄悄抹平。",
+        "first_paragraph": "眼下这步棋还带着明显的试探痕迹。Anthropic并未正式对外宣布这次更新，官方语言设置的说明文档也仍未把中文列进去，等于功能先偷偷放出来、话却还没说。对中文用户来说，最该划清的一条边界是:界面中文化不等于服务地区放开。",
+        "description": "Anthropic正悄悄给Claude换上中文皮肤。多家用户发现，Claude的网页版和桌面端语言菜单里已经冒出了简体中文与繁体中文两个选项，部分账号一打开就直接落在中文界面上。这回添的不是对话能力——Claude早就能用中文聊天，而是连产品本身的界面也一并中文化了，过去中文用户要么凑合用英文或其他语言界面，要么靠浏览",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-02_2026-10-08/31458.html",
+          "addtime": "2026-10-08T10:01:38.7785441+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-08，Anthropic正悄悄给Claude换上中文皮肤。多家用户发现，Claude的网页版和桌面端语言菜单里已经冒出了简体中文与繁体中文两个选项，部分账号一打开就直接落在中文界面上。这回添的不是对话能力——Claude早就能用中文聊天，而是连产品本身的界面也一并中文化了，过去中文用户要么凑合用英文或其他语言界面，要么靠浏览器翻译硬啃菜单，如今这道门槛正被悄...",
+      "ai_summary": "2026-10-08，Anthropic正悄悄给Claude换上中文皮肤。多家用户发现，Claude的网页版和桌面端语言菜单里已经冒出了简体中文与繁体中文两个选项，部分账号一打开就直接落在中文界面上。这回添的不是对话能力——Claude早就能用中文聊天，而是连产品本身的界面也一并中文化了，过去中文用户要么凑合用英文或其他语言界面，要么靠浏览器翻译硬啃菜单，如今这道门槛正被悄...",
+      "lead_excerpt": "Anthropic正悄悄给Claude换上中文皮肤。多家用户发现，Claude的网页版和桌面端语言菜单里已经冒出了简体中文与繁体中文两个选项，部分账号一打开就直接落在中文界面上。这回添的不是对话能力——Claude早就能用中文聊天，而...",
+      "reason": "未明确与 AI 相关；疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。",
+    "备选线索数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
