@@ -1,0 +1,713 @@
+{
+  "week_id": "2026-10-09_2026-10-15",
+  "label": "10.9-10.15",
+  "start_date": "2026-10-09",
+  "end_date": "2026-10-15",
+  "generated_at": "2026-10-15T07:01:39",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31661",
+        "url": "https://www.aibase.com/zh/news/31661",
+        "title": "报道称苹果 AI 国内供应商或包括阿里、百度，iOS 27.3 或 12 月落地",
+        "date": "2026-10-15",
+        "lead": "据彭博社报道，苹果计划今年 12 月通过 iOS 27.3 系统更新，正式在中国大陆推出 Apple Intelligence（苹果智能）。首批上线的，是两年前已在美国发布的相对基础的功能集，覆盖 iPhone、iPad 与 Mac，而今年全新改版的 Siri AI 助手并不在列。",
+        "first_paragraph": "事实上，这条落地通道已逐步打通：该服务于 7 月 8 日通过网信部门生成式 AI 服务备案，9 月 29 日再拿下上线许可，如今只差最后的时间窗口。不过知情人士透露，苹果管理层对新版 Siri AI 近期在华推出并不乐观——欧盟市场的情形如出一辙，目前也尚未排期。",
+        "description": "据彭博社报道，苹果计划今年 12 月通过 iOS 27.3 系统更新，正式在中国大陆推出 Apple Intelligence（苹果智能）。首批上线的，是两年前已在美国发布的相对基础的功能集，覆盖 iPhone、iPad 与 Mac，而今年全新改版的 Siri AI 助手并不在列。事实上，这条落地通道已逐步打通：该服务",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31661.html",
+          "addtime": "2026-10-15T13:47:38.4763022+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-10-15，据彭博社报道，苹果计划今年 12 月通过 iOS 27.3 系统更新，正式在中国大陆推出 Apple Intelligence（苹果智能）。首批上线的，是两年前已在美国发布的相对基础的功能集，覆盖 iPhone、iPad 与 Mac，而今年全新改版的 Siri AI 助手并不在列。",
+      "ai_summary": "2026-10-15，据彭博社报道，苹果计划今年 12 月通过 iOS 27.3 系统更新，正式在中国大陆推出 Apple Intelligence（苹果智能）。首批上线的，是两年前已在美国发布的相对基础的功能集，覆盖 iPhone、iPad 与 Mac，而今年全新改版的 Siri AI 助手并不在列。",
+      "lead_excerpt": "据彭博社报道，苹果计划今年 12 月通过 iOS 27.3 系统更新，正式在中国大陆推出 Apple Intelligence（苹果智能）。首批上线的，是两年前已在美国发布的相对基础的功能集，覆盖 iPhone、iPad 与 Mac，...",
+      "reason": "符合优先级：阿里及相关主体、国内大厂相关、海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 130,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "国内大厂相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31659",
+        "url": "https://www.aibase.com/zh/news/31659",
+        "title": "腾讯又一AI产品宣布停运，元器用户需尽快迁移数据",
+        "date": "2026-10-15",
+        "lead": "腾讯旗下AI智能体平台“元器”宣布将于2026年11月9日停止服务。元器团队表示，此次调整出于业务发展需要。停服后，平台将关闭应用访问、数据读写、API调用及控制台等全部面向公众的服务，通过元器发布至公众号、服务号、微信客服等渠道的智能体也将无法继续响应用户对话。",
+        "first_paragraph": "根据官方通知，平台将于10月29日起停止创建新智能体及API Key分发，用户可在停服前导出智能体配置、工作流和对话记录，数据导出过渡期将持续至2027年1月9日。腾讯建议用户迁移至腾讯云智能体开发平台（ADP）或使用公众号智能回复功能。",
+        "description": "腾讯旗下AI智能体平台“元器”宣布将于2026年11月9日停止服务。元器团队表示，此次调整出于业务发展需要。停服后，平台将关闭应用访问、数据读写、API调用及控制台等全部面向公众的服务，通过元器发布至公众号、服务号、微信客服等渠道的智能体也将无法继续响应用户对话。根据官方通知，平台将于10月29日起停止创建新智能体及A",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31659.html",
+          "addtime": "2026-10-15T10:55:14.2115463+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-10-15，腾讯旗下AI智能体平台“元器”宣布将于2026年11月9日停止服务。元器团队表示，此次调整出于业务发展需要。停服后，平台将关闭应用访问、数据读写、API调用及控制台等全部面向公众的服务，通过元器发布至公众号、服务号、微信客服等渠道的智能体也将无法继续响应用户对话。",
+      "ai_summary": "2026-10-15，腾讯旗下AI智能体平台“元器”宣布将于2026年11月9日停止服务。元器团队表示，此次调整出于业务发展需要。停服后，平台将关闭应用访问、数据读写、API调用及控制台等全部面向公众的服务，通过元器发布至公众号、服务号、微信客服等渠道的智能体也将无法继续响应用户对话。",
+      "lead_excerpt": "腾讯旗下AI智能体平台“元器”宣布将于2026年11月9日停止服务。元器团队表示，此次调整出于业务发展需要。停服后，平台将关闭应用访问、数据读写、API调用及控制台等全部面向公众的服务，通过元器发布至公众号、服务号、微信客服等渠道的智...",
+      "reason": "符合优先级：电商/交易/支付/商家工具相关、国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31662",
+        "url": "https://www.aibase.com/zh/news/31662",
+        "title": "谷歌调整AI Plus订阅权益，11月13日起将无法选择Pro模型",
+        "date": "2026-10-15",
+        "lead": "谷歌将于2026年11月13日起调整Google AI Plus订阅权益，用户届时将无法在Gemini应用中主动选择Pro模型，也无法在搜索中选择AI模式下的Pro模型。根据用户分享的谷歌通知邮件，AI Plus订阅用户仍可使用最新的Flash和Flash Lite模型，也能继续查看此前与Pro模型的对话，但需要切换至其他模型继续交互。",
+        "first_paragraph": "此次调整意味着，希望继续使用高级模型的用户需升级至每月19.99美元的Google AI Pro套餐，或每月99.99美元的AI Ultra套餐。谷歌此前于10月更新Gemini支持文档，曾预计相关限制于10月9日生效，此次邮件则明确了11月13日这一新日期，但未说明调整原因。",
+        "description": "谷歌将于2026年11月13日起调整Google AI Plus订阅权益，用户届时将无法在Gemini应用中主动选择Pro模型，也无法在搜索中选择AI模式下的Pro模型。根据用户分享的谷歌通知邮件，AI Plus订阅用户仍可使用最新的Flash和Flash Lite模型，也能继续查看此前与Pro模型的对话，但需要切换至",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31662.html",
+          "addtime": "2026-10-15T13:51:38.1357199+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-10-15，谷歌将于2026年11月13日起调整Google AI Plus订阅权益，用户届时将无法在Gemini应用中主动选择Pro模型，也无法在搜索中选择AI模式下的Pro模型。根据用户分享的谷歌通知邮件，AI Plus订阅用户仍可使用最新的Flash和Flash Lite模型，也能继续查看此前与Pro模型的对话，但需要切换至其他模型继续交互。",
+      "ai_summary": "2026-10-15，谷歌将于2026年11月13日起调整Google AI Plus订阅权益，用户届时将无法在Gemini应用中主动选择Pro模型，也无法在搜索中选择AI模式下的Pro模型。根据用户分享的谷歌通知邮件，AI Plus订阅用户仍可使用最新的Flash和Flash Lite模型，也能继续查看此前与Pro模型的对话，但需要切换至其他模型继续交互。",
+      "lead_excerpt": "谷歌将于2026年11月13日起调整Google AI Plus订阅权益，用户届时将无法在Gemini应用中主动选择Pro模型，也无法在搜索中选择AI模式下的Pro模型。根据用户分享的谷歌通知邮件，AI Plus订阅用户仍可使用最新的...",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31647",
+        "url": "https://www.aibase.com/zh/news/31647",
+        "title": "谷歌工程师：AI编写超75%生产代码，自主研发加速尚无明确证据",
+        "date": "2026-10-15",
+        "lead": "谷歌工程师海顿·贝尔菲尔德（Haydn Belfield）表示，尽管AI在模型研发中的自动化程度持续提升，但目前尚无可衡量的证据表明，AI自主驱动的研究正在加速发展。",
+        "first_paragraph": "贝尔菲尔德指出，当前AI编写的生产代码已超过75%，但约88%的代码变更仍需人工监督或审查，每次变更在提交前也必须经过人工审核。完全交由AI处理的代码变更比例已从7.5%升至11.9%。在 1389 次Argon内部智能体运行测试中，任务复杂度越高，AI无人干预的成功率越低。",
+        "description": "谷歌工程师海顿·贝尔菲尔德（Haydn Belfield）表示，尽管AI在模型研发中的自动化程度持续提升，但目前尚无可衡量的证据表明，AI自主驱动的研究正在加速发展。贝尔菲尔德指出，当前AI编写的生产代码已超过75%，但约88%的代码变更仍需人工监督或审查，每次变更在提交前也必须经过人工审核。完全交由AI处理的代码变更",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31647.html",
+          "addtime": "2026-10-15T09:15:38.5936627+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-10-15，谷歌工程师海顿·贝尔菲尔德（Haydn Belfield）表示，尽管AI在模型研发中的自动化程度持续提升，但目前尚无可衡量的证据表明，AI自主驱动的研究正在加速发展。",
+      "ai_summary": "2026-10-15，谷歌工程师海顿·贝尔菲尔德（Haydn Belfield）表示，尽管AI在模型研发中的自动化程度持续提升，但目前尚无可衡量的证据表明，AI自主驱动的研究正在加速发展。",
+      "lead_excerpt": "谷歌工程师海顿·贝尔菲尔德（Haydn Belfield）表示，尽管AI在模型研发中的自动化程度持续提升，但目前尚无可衡量的证据表明，AI自主驱动的研究正在加速发展。",
+      "reason": "可作为备选线索：海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31657",
+        "url": "https://www.aibase.com/zh/news/31657",
+        "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+        "date": "2026-10-15",
+        "lead": "全球视觉内容平台Getty Images（盖蒂图片社）10月12日宣布，已与主要财务利益相关方达成全面重组协议，计划通过美国破产法第11章预打包重组实现私有化退市，预计于2026年底前完成。",
+        "first_paragraph": "方案包括盖蒂家族及科赫股权开发(KED)最高注资5.33亿美元、核销2.7亿美元高级无担保债券，以及降低部分债务利率、延长偿还期限。KED还将额外提供最高1.43亿美元重组资金。完成后，公司将由相关投资方100%持有，原公众股东权益清零。公司表示，重组期间业务将正常运营。",
+        "description": "全球视觉内容平台Getty Images（盖蒂图片社）10月12日宣布，已与主要财务利益相关方达成全面重组协议，计划通过美国破产法第11章预打包重组实现私有化退市，预计于2026年底前完成。方案包括盖蒂家族及科赫股权开发(KED)最高注资5.33亿美元、核销2.7亿美元高级无担保债券，以及降低部分债务利率、延长偿还期限",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31657.html",
+          "addtime": "2026-10-15T10:43:06.5604357+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-10-15，全球视觉内容平台Getty Images（盖蒂图片社）10月12日宣布，已与主要财务利益相关方达成全面重组协议，计划通过美国破产法第11章预打包重组实现私有化退市，预计于2026年底前完成。",
+      "ai_summary": "2026-10-15，全球视觉内容平台Getty Images（盖蒂图片社）10月12日宣布，已与主要财务利益相关方达成全面重组协议，计划通过美国破产法第11章预打包重组实现私有化退市，预计于2026年底前完成。",
+      "lead_excerpt": "全球视觉内容平台Getty Images（盖蒂图片社）10月12日宣布，已与主要财务利益相关方达成全面重组协议，计划通过美国破产法第11章预打包重组实现私有化退市，预计于2026年底前完成。",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31652",
+        "url": "https://www.aibase.com/zh/news/31652",
+        "title": "YouTube Music将为AI生成歌曲添加标签，未来扩展至主应用",
+        "date": "2026-10-15",
+        "lead": "YouTube宣布将扩大AI生成内容标识机制，在YouTube Music中为被认定为主要由生成式人工智能创作的歌曲添加标签，未来还将把这一标识扩展至YouTube主应用。该机制将结合YouTube自身的检测工具与音乐合作伙伴的分析结果识别相关歌曲，但具体需要包含多少AI生成内容才会触发标记，目前尚未明确。",
+        "first_paragraph": "YouTube表示，生成式AI正为音乐创作带来新的实验方式，听众也希望了解所收听作品是否由AI生成。此次调整旨在提高音乐内容的透明度，应对AI生成歌曲持续涌入流媒体平台的趋势。",
+        "description": "YouTube宣布将扩大AI生成内容标识机制，在YouTube Music中为被认定为主要由生成式人工智能创作的歌曲添加标签，未来还将把这一标识扩展至YouTube主应用。该机制将结合YouTube自身的检测工具与音乐合作伙伴的分析结果识别相关歌曲，但具体需要包含多少AI生成内容才会触发标记，目前尚未明确。YouTub",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31652.html",
+          "addtime": "2026-10-15T09:33:45.6273249+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-10-15，YouTube宣布将扩大AI生成内容标识机制，在YouTube Music中为被认定为主要由生成式人工智能创作的歌曲添加标签，未来还将把这一标识扩展至YouTube主应用。该机制将结合YouTube自身的检测工具与音乐合作伙伴的分析结果识别相关歌曲，但具体需要包含多少AI生成内容才会触发标记，目前尚未明确。",
+      "ai_summary": "2026-10-15，YouTube宣布将扩大AI生成内容标识机制，在YouTube Music中为被认定为主要由生成式人工智能创作的歌曲添加标签，未来还将把这一标识扩展至YouTube主应用。该机制将结合YouTube自身的检测工具与音乐合作伙伴的分析结果识别相关歌曲，但具体需要包含多少AI生成内容才会触发标记，目前尚未明确。",
+      "lead_excerpt": "YouTube宣布将扩大AI生成内容标识机制，在YouTube Music中为被认定为主要由生成式人工智能创作的歌曲添加标签，未来还将把这一标识扩展至YouTube主应用。该机制将结合YouTube自身的检测工具与音乐合作伙伴的分析结...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31648",
+        "url": "https://www.aibase.com/zh/news/31648",
+        "title": "Epic 用 AI\"氛围编程\"重写启动器：自嘲传统编程太难，冷启动 5.47 秒甩开 Steam",
+        "date": "2026-10-15",
+        "lead": "Epic Games 放出新版 Epic Games 启动器的预览版，而它的诞生方式相当直白——用 AI\"氛围编程\"写出来。Epic 游戏商城官网的公告毫不掩饰地写道：传统编程实在太难，所以团队索性让 AI 上手，做出一款速度更快、响应更灵敏、界面焕然一新的启动器。官方还打趣提醒用户别指望太多功能：\"把它当快艇，不是豪华游艇\"，当然购物车这类\"先进数字商务技术\"还是备齐了。",
+        "first_paragraph": "5.47 秒冷启动，比 Steam 快近一半",
+        "description": "Epic Games 放出新版 Epic Games 启动器的预览版，而它的诞生方式相当直白——用 AI\"氛围编程\"写出来。Epic 游戏商城官网的公告毫不掩饰地写道：传统编程实在太难，所以团队索性让 AI 上手，做出一款速度更快、响应更灵敏、界面焕然一新的启动器。官方还打趣提醒用户别指望太多功能：",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31648.html",
+          "addtime": "2026-10-15T09:15:39.2060471+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-10-15，Epic Games 放出新版 Epic Games 启动器的预览版，而它的诞生方式相当直白——用 AI\"氛围编程\"写出来。Epic 游戏商城官网的公告毫不掩饰地写道：传统编程实在太难，所以团队索性让 AI 上手，做出一款速度更快、响应更灵敏、界面焕然一新的启动器。官方还打趣提醒用户别指望太多功能：\"把它当快艇，不是豪华游艇\"，当然购物车这类\"先进数字...",
+      "ai_summary": "2026-10-15，Epic Games 放出新版 Epic Games 启动器的预览版，而它的诞生方式相当直白——用 AI\"氛围编程\"写出来。Epic 游戏商城官网的公告毫不掩饰地写道：传统编程实在太难，所以团队索性让 AI 上手，做出一款速度更快、响应更灵敏、界面焕然一新的启动器。官方还打趣提醒用户别指望太多功能：\"把它当快艇，不是豪华游艇\"，当然购物车这类\"先进数字...",
+      "lead_excerpt": "Epic Games 放出新版 Epic Games 启动器的预览版，而它的诞生方式相当直白——用 AI\"氛围编程\"写出来。Epic 游戏商城官网的公告毫不掩饰地写道：传统编程实在太难，所以团队索性让 AI 上手，做出一款速度更快、响...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31664",
+        "url": "https://www.aibase.com/zh/news/31664",
+        "title": "阶跃星辰放大招！Step 5 Preview 模型权重正式开源，百万上下文与 MoE 架构引爆全球开发者社区",
+        "date": "2026-10-15",
+        "lead": "阶跃星辰近日正式发布并开源了 Step5Preview 模型的权重，同步向全球开发者公开了 BF16与 FP8模型权重、详细技术博客以及配套的开源开发工具。此前，该模型凭借出色的综合表现，在 OpenRouter 的周榜与日榜调用量排名中一度稳居全球第二。",
+        "first_paragraph": "在架构设计上，Step5Preview 专为长程复杂智能体（Agent）任务深度优化，采用了先进的稀疏 MoE(混合专家)架构。该模型总参数量高达600B，但每个 token 激活参数仅为27B，在确保强大推理能力的同时兼顾了极高的运行效率。同时，它原生支持文本与视觉多模态输入，并具备惊人的100万 token 超长上下文窗口，能够在多类专业复杂场景中游刃有余。",
+        "description": "阶跃星辰近日正式发布并开源了 Step5Preview 模型的权重，同步向全球开发者公开了 BF16与 FP8模型权重、详细技术博客以及配套的开源开发工具。此前，该模型凭借出色的综合表现，在 OpenRouter 的周榜与日榜调用量排名中一度稳居全球第二。在架构设计上，Step5Preview 专为长程复杂智能体（Ag",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31664.html",
+          "addtime": "2026-10-15T14:51:50.7771187+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，阶跃星辰近日正式发布并开源了 Step5Preview 模型的权重，同步向全球开发者公开了 BF16与 FP8模型权重、详细技术博客以及配套的开源开发工具。此前，该模型凭借出色的综合表现，在 OpenRouter 的周榜与日榜调用量排名中一度稳居全球第二。",
+      "ai_summary": "2026-10-15，阶跃星辰近日正式发布并开源了 Step5Preview 模型的权重，同步向全球开发者公开了 BF16与 FP8模型权重、详细技术博客以及配套的开源开发工具。此前，该模型凭借出色的综合表现，在 OpenRouter 的周榜与日榜调用量排名中一度稳居全球第二。",
+      "lead_excerpt": "阶跃星辰近日正式发布并开源了 Step5Preview 模型的权重，同步向全球开发者公开了 BF16与 FP8模型权重、详细技术博客以及配套的开源开发工具。此前，该模型凭借出色的综合表现，在 OpenRouter 的周榜与日榜调用量排...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31663",
+        "url": "https://www.aibase.com/zh/news/31663",
+        "title": "三星首席设计官波尔奇尼：AI 越发达，人的创造力越值钱",
+        "date": "2026-10-15",
+        "lead": "据韩媒 ETnews 报道，三星电子设备体验（DX）事业部总裁兼首席设计官毛罗·波尔奇尼，在 15 日开幕的\"2026 首尔设计周\"上抛出一个鲜明观点：AI 不应用来替代人，而是帮人释放情感智能与想象力的帮手。",
+        "first_paragraph": "在他看来，只有把 AI 与人类的创造本能、欲望拧在一起，才能酿出真正独特的产品价值。\"越是在 AI 时代，人的因素反而越重要，\"波尔奇尼直言，人类独有的批判性思维、创造力、感受力与情感，才是产品设计真正的核心。",
+        "description": "据韩媒 ETnews 报道，三星电子设备体验（DX）事业部总裁兼首席设计官毛罗·波尔奇尼，在 15 日开幕的\"2026 首尔设计周\"上抛出一个鲜明观点：AI 不应用来替代人，而是帮人释放情感智能与想象力的帮手。在他看来，只有把 AI 与人类的创造本能、欲望拧在一起，才能酿出真正独特的产品价值。&qu",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31663.html",
+          "addtime": "2026-10-15T14:23:50.8940978+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，据韩媒 ETnews 报道，三星电子设备体验（DX）事业部总裁兼首席设计官毛罗·波尔奇尼，在 15 日开幕的\"2026 首尔设计周\"上抛出一个鲜明观点：AI 不应用来替代人，而是帮人释放情感智能与想象力的帮手。",
+      "ai_summary": "2026-10-15，据韩媒 ETnews 报道，三星电子设备体验（DX）事业部总裁兼首席设计官毛罗·波尔奇尼，在 15 日开幕的\"2026 首尔设计周\"上抛出一个鲜明观点：AI 不应用来替代人，而是帮人释放情感智能与想象力的帮手。",
+      "lead_excerpt": "据韩媒 ETnews 报道，三星电子设备体验（DX）事业部总裁兼首席设计官毛罗·波尔奇尼，在 15 日开幕的\"2026 首尔设计周\"上抛出一个鲜明观点：AI 不应用来替代人，而是帮人释放情感智能与想象力的帮手。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31660",
+        "url": "https://www.aibase.com/zh/news/31660",
+        "title": "蚂蚁百灵开源 Ling-3.1-flash:560B级模型部署降至4卡，最高支持1M上下文",
+        "date": "2026-10-15",
+        "lead": "10月15日，蚂蚁集团旗下百灵大模型宣布开源 Ling-3.1-flash。该模型主打“真实可用”，面向真实世界任务实现能力升级，让模糊的业务需求更快变成可用的成果。开源模型面向Hugging Face和ModelScope提供权重下载。Ling-3.1-flash 延续了 Ling-3.0-flash 的混合线性架构",
+        "first_paragraph": "10月15日，蚂蚁集团旗下百灵大模型宣布开源 Ling-3.1-flash。该模型主打“真实可用”，面向真实世界任务实现能力升级，让模糊的业务需求更快变成可用的成果。开源模型面向Hugging Face和ModelScope提供权重下载。Ling-3.1-flash 延续了 Ling-3.0-flash 的混合线性架构",
+        "description": "10月15日，蚂蚁集团旗下百灵大模型宣布开源 Ling-3.1-flash。该模型主打“真实可用”，面向真实世界任务实现能力升级，让模糊的业务需求更快变成可用的成果。开源模型面向Hugging Face和ModelScope提供权重下载。Ling-3.1-flash 延续了 Ling-3.0-flash 的混合线性架构",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31660.html",
+          "addtime": "2026-10-15T13:43:18.5706106+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，10月15日，蚂蚁集团旗下百灵大模型宣布开源 Ling-3.1-flash。该模型主打“真实可用”，面向真实世界任务实现能力升级，让模糊的业务需求更快变成可用的成果。开源模型面向Hugging Face和ModelScope提供权重下载。Ling-3.1-flash 延续了 Ling-3.0-flash 的混合线性架构",
+      "ai_summary": "2026-10-15，10月15日，蚂蚁集团旗下百灵大模型宣布开源 Ling-3.1-flash。该模型主打“真实可用”，面向真实世界任务实现能力升级，让模糊的业务需求更快变成可用的成果。开源模型面向Hugging Face和ModelScope提供权重下载。Ling-3.1-flash 延续了 Ling-3.0-flash 的混合线性架构",
+      "lead_excerpt": "10月15日，蚂蚁集团旗下百灵大模型宣布开源 Ling-3.1-flash。该模型主打“真实可用”，面向真实世界任务实现能力升级，让模糊的业务需求更快变成可用的成果。开源模型面向Hugging Face和ModelScope提供权重下...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "阿里及相关主体",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31658",
+        "url": "https://www.aibase.com/zh/news/31658",
+        "title": "中国大模型迎来历史性突破！科学家依托书生大模型成功破解困扰数学界 30 年的世界级难题",
+        "date": "2026-10-15",
+        "lead": "中国在人工智能与基础科学交叉领域取得重大突破。根据上海人工智能实验室消息，困扰全球数学界长达30余年的世界级数学难题——三维 Ghys 猜想近日被正式破解。这也是中国科学家首次利用国产大模型成功攻克世界级数学难题。",
+        "first_paragraph": "本次研究由上海人工智能实验室访问学者、大湾区大学教授许地生团队领衔。研究团队依托“书生科学多模态大模型 S2”（书生-S2），基于“通专融合”的技术路径，通过人机协同的方式最终完成了三维 Ghys 猜想的证明。与此同时，北京大学董彬教授、刘若川院士团队利用其自主开发的 SHEAF 框架，对本次证明过程完成了形式化验证，从而确凿无误地证实了该项研究成果的正确性。",
+        "description": "中国在人工智能与基础科学交叉领域取得重大突破。根据上海人工智能实验室消息，困扰全球数学界长达30余年的世界级数学难题——三维 Ghys 猜想近日被正式破解。这也是中国科学家首次利用国产大模型成功攻克世界级数学难题。本次研究由上海人工智能实验室访问学者、大湾区大学教授许地生团队领衔。研究团队依托“书生科学多模态大模型 S",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31658.html",
+          "addtime": "2026-10-15T10:53:23.4747001+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，中国在人工智能与基础科学交叉领域取得重大突破。根据上海人工智能实验室消息，困扰全球数学界长达30余年的世界级数学难题——三维 Ghys 猜想近日被正式破解。这也是中国科学家首次利用国产大模型成功攻克世界级数学难题。",
+      "ai_summary": "2026-10-15，中国在人工智能与基础科学交叉领域取得重大突破。根据上海人工智能实验室消息，困扰全球数学界长达30余年的世界级数学难题——三维 Ghys 猜想近日被正式破解。这也是中国科学家首次利用国产大模型成功攻克世界级数学难题。",
+      "lead_excerpt": "中国在人工智能与基础科学交叉领域取得重大突破。根据上海人工智能实验室消息，困扰全球数学界长达30余年的世界级数学难题——三维 Ghys 猜想近日被正式破解。这也是中国科学家首次利用国产大模型成功攻克世界级数学难题。",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31656",
+        "url": "https://www.aibase.com/zh/news/31656",
+        "title": "OpenAI 拟收购 Trail of Bits：把老牌安全审计厂收编，专防 AI 出事",
+        "date": "2026-10-15",
+        "lead": "据 The Information 披露，OpenAI 正初步洽谈收购纽约安全研究公司 Trail of Bits。这家以审计软件与区块链系统闻名的厂商，一旦入袋，将标志 OpenAI 在专业网络安全服务上的又一次扩容。目前谈判仍在进行，尚未落槌，双方都未透露收购价或财务结构，也拒绝公开证实相关讨论。",
+        "first_paragraph": "渊源已久，\"Patch the Planet\"已搭过手",
+        "description": "据 The Information 披露，OpenAI 正初步洽谈收购纽约安全研究公司 Trail of Bits。这家以审计软件与区块链系统闻名的厂商，一旦入袋，将标志 OpenAI 在专业网络安全服务上的又一次扩容。目前谈判仍在进行，尚未落槌，双方都未透露收购价或财务结构，也拒绝公开证实相关讨论。渊源已久，&quo",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31656.html",
+          "addtime": "2026-10-15T10:22:18.5863099+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，据 The Information 披露，OpenAI 正初步洽谈收购纽约安全研究公司 Trail of Bits。这家以审计软件与区块链系统闻名的厂商，一旦入袋，将标志 OpenAI 在专业网络安全服务上的又一次扩容。目前谈判仍在进行，尚未落槌，双方都未透露收购价或财务结构，也拒绝公开证实相关讨论。",
+      "ai_summary": "2026-10-15，据 The Information 披露，OpenAI 正初步洽谈收购纽约安全研究公司 Trail of Bits。这家以审计软件与区块链系统闻名的厂商，一旦入袋，将标志 OpenAI 在专业网络安全服务上的又一次扩容。目前谈判仍在进行，尚未落槌，双方都未透露收购价或财务结构，也拒绝公开证实相关讨论。",
+      "lead_excerpt": "据 The Information 披露，OpenAI 正初步洽谈收购纽约安全研究公司 Trail of Bits。这家以审计软件与区块链系统闻名的厂商，一旦入袋，将标志 OpenAI 在专业网络安全服务上的又一次扩容。目前谈判仍在进...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31655",
+        "url": "https://www.aibase.com/zh/news/31655",
+        "title": "MiniMax 发布 IPO 辅导第二期进展，加速推进上市合规完善",
+        "date": "2026-10-15",
+        "lead": "国内头部 AI 大模型企业 MiniMax 的 A 股上市之路迎来新进展。中信证券近日正式发布了关于MiniMax首次公开发行股票并上市辅导工作的第二期进展报告。",
+        "first_paragraph": "根据披露的报告显示，本期辅导周期为2026年7月10日至2026年10月13日。在此期间，中信证券等中介机构主要完成了全面尽职调查、组织集中辅导授课、保持中介机构与公司常态化沟通等核心工作，并督促MiniMax进一步明确业务发展目标、制定切实可行的未来发展计划及募集资金投向方案。",
+        "description": "国内头部 AI 大模型企业 MiniMax 的 A 股上市之路迎来新进展。中信证券近日正式发布了关于MiniMax首次公开发行股票并上市辅导工作的第二期进展报告。根据披露的报告显示，本期辅导周期为2026年7月10日至2026年10月13日。在此期间，中信证券等中介机构主要完成了全面尽职调查、组织集中辅导授课、保持中介",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31655.html",
+          "addtime": "2026-10-15T10:21:14.9835143+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，国内头部 AI 大模型企业 MiniMax 的 A 股上市之路迎来新进展。中信证券近日正式发布了关于MiniMax首次公开发行股票并上市辅导工作的第二期进展报告。",
+      "ai_summary": "2026-10-15，国内头部 AI 大模型企业 MiniMax 的 A 股上市之路迎来新进展。中信证券近日正式发布了关于MiniMax首次公开发行股票并上市辅导工作的第二期进展报告。",
+      "lead_excerpt": "国内头部 AI 大模型企业 MiniMax 的 A 股上市之路迎来新进展。中信证券近日正式发布了关于MiniMax首次公开发行股票并上市辅导工作的第二期进展报告。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31654",
+        "url": "https://www.aibase.com/zh/news/31654",
+        "title": "单张消费级显卡也能玩转视频大模型游戏！昆仑万维全球首发 Matrix-Game 4.0 并宣布开源",
+        "date": "2026-10-15",
+        "lead": "10月15日，昆仑万维正式发布了世界上第一款能够在单张消费级显卡上流畅运行的视频大模型游戏——Matrix-Game4.0，并宣布同步开源该项目。",
+        "first_paragraph": "在技术架构上，Matrix-Game4.0首次成功跑通了“代码生成游戏逻辑 → 结构画面提供结构约束 → 视频模型实时渲染”的完整技术闭环。这一创新突破，不仅解决了以往大模型游戏对算力要求极高的痛点，更为未来的游戏原型开发、个性化内容定制以及用户生成内容（UGC）开辟了真正具备落地可行性的全新技术路径。",
+        "description": "10月15日，昆仑万维正式发布了世界上第一款能够在单张消费级显卡上流畅运行的视频大模型游戏——Matrix-Game4.0，并宣布同步开源该项目。在技术架构上，Matrix-Game4.0首次成功跑通了“代码生成游戏逻辑 → 结构画面提供结构约束 → 视频模型实时渲染”的完整技术闭环。这一创新突破，不仅解决了以往大模型",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31654.html",
+          "addtime": "2026-10-15T10:20:09.2576883+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，10月15日，昆仑万维正式发布了世界上第一款能够在单张消费级显卡上流畅运行的视频大模型游戏——Matrix-Game4.0，并宣布同步开源该项目。",
+      "ai_summary": "2026-10-15，10月15日，昆仑万维正式发布了世界上第一款能够在单张消费级显卡上流畅运行的视频大模型游戏——Matrix-Game4.0，并宣布同步开源该项目。",
+      "lead_excerpt": "10月15日，昆仑万维正式发布了世界上第一款能够在单张消费级显卡上流畅运行的视频大模型游戏——Matrix-Game4.0，并宣布同步开源该项目。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31653",
+        "url": "https://www.aibase.com/zh/news/31653",
+        "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+        "date": "2026-10-15",
+        "lead": "据彭博社报道，人工智能公司Anthropic向潜在投资者透露，2026年第三季度营收达到168亿美元，并实现调整后盈利。开发Claude模型的Anthropic于当地时间周三在旧金山总部举行投资者推介会，披露公司截至第三季度已实现正向自由现金流，调整后毛利率达到85%，调整后营业利润率超过11%。",
+        "first_paragraph": "知情人士称，Anthropic计划最早于11月9日当周启动首次公开募股（IPO）路演，目标是在感恩节前挂牌交易，并争取年内完成上市。不过，相关时间安排仍可能调整。彭博社此前报道称，Anthropic希望此次IPO规模达到甚至超过SpaceX的上市规模。",
+        "description": "据彭博社报道，人工智能公司Anthropic向潜在投资者透露，2026年第三季度营收达到168亿美元，并实现调整后盈利。开发Claude模型的Anthropic于当地时间周三在旧金山总部举行投资者推介会，披露公司截至第三季度已实现正向自由现金流，调整后毛利率达到85%，调整后营业利润率超过11%。知情人士称，Anthr",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31653.html",
+          "addtime": "2026-10-15T09:51:32.6346767+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，据彭博社报道，人工智能公司Anthropic向潜在投资者透露，2026年第三季度营收达到168亿美元，并实现调整后盈利。开发Claude模型的Anthropic于当地时间周三在旧金山总部举行投资者推介会，披露公司截至第三季度已实现正向自由现金流，调整后毛利率达到85%，调整后营业利润率超过11%。",
+      "ai_summary": "2026-10-15，据彭博社报道，人工智能公司Anthropic向潜在投资者透露，2026年第三季度营收达到168亿美元，并实现调整后盈利。开发Claude模型的Anthropic于当地时间周三在旧金山总部举行投资者推介会，披露公司截至第三季度已实现正向自由现金流，调整后毛利率达到85%，调整后营业利润率超过11%。",
+      "lead_excerpt": "据彭博社报道，人工智能公司Anthropic向潜在投资者透露，2026年第三季度营收达到168亿美元，并实现调整后盈利。开发Claude模型的Anthropic于当地时间周三在旧金山总部举行投资者推介会，披露公司截至第三季度已实现正向...",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 40,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31651",
+        "url": "https://www.aibase.com/zh/news/31651",
+        "title": "DeepSeek网页端、App及部分API服务异常，官方排查原因",
+        "date": "2026-10-15",
+        "lead": "DeepSeek网页端、App及部分API服务出现异常，官方正在排查原因。 财联社10月15日电，北京时间10月15日早上8点后，DeepSeek网页端和App出现服务故障，页面提示“服务器暂时不可用”。",
+        "first_paragraph": "DeepSeek官方信息显示，此次故障涉及对话服务部分中断，以及DeepSeek V4.1Flash API服务部分中断，网页端和API整体性能出现下降。目前，官方正在排查问题并定位故障原因，具体原因及恢复时间暂未公布。",
+        "description": "DeepSeek网页端、App及部分API服务出现异常，官方正在排查原因。 财联社10月15日电，北京时间10月15日早上8点后，DeepSeek网页端和App出现服务故障，页面提示“服务器暂时不可用”。DeepSeek官方信息显示，此次故障涉及对话服务部分中断，以及DeepSeek V4.1Flash API服务部分",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31651.html",
+          "addtime": "2026-10-15T09:28:30.5122847+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，DeepSeek网页端、App及部分API服务出现异常，官方正在排查原因。 财联社10月15日电，北京时间10月15日早上8点后，DeepSeek网页端和App出现服务故障，页面提示“服务器暂时不可用”。",
+      "ai_summary": "2026-10-15，DeepSeek网页端、App及部分API服务出现异常，官方正在排查原因。 财联社10月15日电，北京时间10月15日早上8点后，DeepSeek网页端和App出现服务故障，页面提示“服务器暂时不可用”。",
+      "lead_excerpt": "DeepSeek网页端、App及部分API服务出现异常，官方正在排查原因。 财联社10月15日电，北京时间10月15日早上8点后，DeepSeek网页端和App出现服务故障，页面提示“服务器暂时不可用”。",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31650",
+        "url": "https://www.aibase.com/zh/news/31650",
+        "title": "7人团队靠 Claude 仅用 5 个月重造全新源码系统",
+        "date": "2026-10-15",
+        "lead": "随着 AI 编程能力的狂飙突进，Anthropic 内部的开发效率迎来了前所未有的爆发式增长。据官方披露的数据显示，今年 5 月其日均代码合并量大约为 2500 次，而到了 9 月这一数字已经飙升至超过 3 万次。这种爆炸式的代码增长速度，让原有的 Git 版本控制系统等开发工具开始有些招架不住。",
+        "first_paragraph": "面对持续集成服务不堪重负的局面，团队此前曾做过三次临时补救，但每次能维持的时间却越来越短，最终只能通过重构来彻底解决问题。为了彻底打破源码管理的性能瓶颈，Anthropic 的 7 人研发团队耗时 5 个月，自建了专门面向超大规模代码库的全新版本控制系统——Scion，并顺利将公司庞大的单体代码库从 Git 完整迁移过去。",
+        "description": "随着 AI 编程能力的狂飙突进，Anthropic 内部的开发效率迎来了前所未有的爆发式增长。据官方披露的数据显示，今年 5 月其日均代码合并量大约为 2500 次，而到了 9 月这一数字已经飙升至超过 3 万次。这种爆炸式的代码增长速度，让原有的 Git 版本控制系统等开发工具开始有些招架不住。面对持续集成服务不堪重",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31650.html",
+          "addtime": "2026-10-15T09:20:00.2092158+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，随着 AI 编程能力的狂飙突进，Anthropic 内部的开发效率迎来了前所未有的爆发式增长。据官方披露的数据显示，今年 5 月其日均代码合并量大约为 2500 次，而到了 9 月这一数字已经飙升至超过 3 万次。这种爆炸式的代码增长速度，让原有的 Git 版本控制系统等开发工具开始有些招架不住。",
+      "ai_summary": "2026-10-15，随着 AI 编程能力的狂飙突进，Anthropic 内部的开发效率迎来了前所未有的爆发式增长。据官方披露的数据显示，今年 5 月其日均代码合并量大约为 2500 次，而到了 9 月这一数字已经飙升至超过 3 万次。这种爆炸式的代码增长速度，让原有的 Git 版本控制系统等开发工具开始有些招架不住。",
+      "lead_excerpt": "随着 AI 编程能力的狂飙突进，Anthropic 内部的开发效率迎来了前所未有的爆发式增长。据官方披露的数据显示，今年 5 月其日均代码合并量大约为 2500 次，而到了 9 月这一数字已经飙升至超过 3 万次。这种爆炸式的代码增长...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31649",
+        "url": "https://www.aibase.com/zh/news/31649",
+        "title": "托瓦兹交出首个 AI 辅助内核补丁：并发读文件提速约 3 倍",
+        "date": "2026-10-15",
+        "lead": "科技媒体 lwn 报道，Linux 之父林纳斯·托瓦兹在其个人 Git 仓库里推了一个名为 noref-filemap-read-with-llm 的新分支，正式交出了他首个由大语言模型辅助开发的内核补丁系列。这位平时只在 master 分支上维护代码的开发者，罕见地开了带\"llm\"后缀的实验分支，而幕后帮手正是 Anthropic 的 AI 编程工具 Claude Code。",
+        "first_paragraph": "托瓦兹 10 月 13 日在该分支提交的补丁，主题是\"提高页面引用计数可扩展性\"，瞄准的是 Linux 内存管理积年的老毛病。当多个线程同时高频、微量地读取同一文件，传统机制会反复触发页缓存的引用计数更新，多核 CPU 因此陷入严重的竞态争抢。他坦言，这组补丁的核心代码、测试程序、漏洞审查乃至公告文档初稿，全是在他本人亲自指导下，由 Claude Code 协作完成。",
+        "description": "科技媒体 lwn 报道，Linux 之父林纳斯·托瓦兹在其个人 Git 仓库里推了一个名为 noref-filemap-read-with-llm 的新分支，正式交出了他首个由大语言模型辅助开发的内核补丁系列。这位平时只在 master 分支上维护代码的开发者，罕见地开了带\"llm\"后缀的实验分支，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31649.html",
+          "addtime": "2026-10-15T09:18:27.2873805+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，科技媒体 lwn 报道，Linux 之父林纳斯·托瓦兹在其个人 Git 仓库里推了一个名为 noref-filemap-read-with-llm 的新分支，正式交出了他首个由大语言模型辅助开发的内核补丁系列。这位平时只在 master 分支上维护代码的开发者，罕见地开了带\"llm\"后缀的实验分支，而幕后帮手正是 Anthropic 的 AI 编程工具...",
+      "ai_summary": "2026-10-15，科技媒体 lwn 报道，Linux 之父林纳斯·托瓦兹在其个人 Git 仓库里推了一个名为 noref-filemap-read-with-llm 的新分支，正式交出了他首个由大语言模型辅助开发的内核补丁系列。这位平时只在 master 分支上维护代码的开发者，罕见地开了带\"llm\"后缀的实验分支，而幕后帮手正是 Anthropic 的 AI 编程工具...",
+      "lead_excerpt": "科技媒体 lwn 报道，Linux 之父林纳斯·托瓦兹在其个人 Git 仓库里推了一个名为 noref-filemap-read-with-llm 的新分支，正式交出了他首个由大语言模型辅助开发的内核补丁系列。这位平时只在 maste...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31646",
+        "url": "https://www.aibase.com/zh/news/31646",
+        "title": "OpenAI加紧研发下一代旗舰模型，循环推理与安全对齐成关键",
+        "date": "2026-10-15",
+        "lead": "OpenAI正加紧推进下一代旗舰模型研发，但受安全对齐和测试基础设施建设影响，发布时间仍存在不确定性。据《The Information》10月披露的消息，OpenAI员工预计公司将在2026年底前发布一至两款新模型，但尚不确定正在开发的旗舰升级模型是否会在其中。",
+        "first_paragraph": "据悉，新旗舰模型采用与Astra相同的循环Transformer技术，即“循环深度”（Recurrent Depth）。该技术让模型在生成下一个词元前，多次将当前词元通过相同的Transformer层处理，可提升数学推理和编程能力，并使较小模型以更低成本实现更强性能。",
+        "description": "OpenAI正加紧推进下一代旗舰模型研发，但受安全对齐和测试基础设施建设影响，发布时间仍存在不确定性。据《The Information》10月披露的消息，OpenAI员工预计公司将在2026年底前发布一至两款新模型，但尚不确定正在开发的旗舰升级模型是否会在其中。据悉，新旗舰模型采用与Astra相同的循环Transfo",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31646.html",
+          "addtime": "2026-10-15T09:00:17.2845767+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，OpenAI正加紧推进下一代旗舰模型研发，但受安全对齐和测试基础设施建设影响，发布时间仍存在不确定性。据《The Information》10月披露的消息，OpenAI员工预计公司将在2026年底前发布一至两款新模型，但尚不确定正在开发的旗舰升级模型是否会在其中。",
+      "ai_summary": "2026-10-15，OpenAI正加紧推进下一代旗舰模型研发，但受安全对齐和测试基础设施建设影响，发布时间仍存在不确定性。据《The Information》10月披露的消息，OpenAI员工预计公司将在2026年底前发布一至两款新模型，但尚不确定正在开发的旗舰升级模型是否会在其中。",
+      "lead_excerpt": "OpenAI正加紧推进下一代旗舰模型研发，但受安全对齐和测试基础设施建设影响，发布时间仍存在不确定性。据《The Information》10月披露的消息，OpenAI员工预计公司将在2026年底前发布一至两款新模型，但尚不确定正在开...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31645",
+        "url": "https://www.aibase.com/zh/news/31645",
+        "title": "马斯克旗下 xAI 发布 Grok Voice 3.0，定价仅 0.08 美元",
+        "date": "2026-10-15",
+        "lead": "埃隆·马斯克旗下人工智能公司 xAI 近日正式推出全新的 Grok Voice3.0语音模型，并已通过语音代理 API 全面开放使用。在维持每分钟0.08美元的上一代亲民定价基础上，该模型在核心性能与响应速度上实现了全方位跃升。",
+        "first_paragraph": "作为 xAI 在语音交互领域的最新力作，Grok Voice3.0在权威的语音到语音（Speech-to-Speech）综合指数测试中首次参评便斩获86.9分，高居榜单第一。其多项核心指标表现亮眼:任务成功率位列行业首位，音频推理能力超越谷歌相关模型，语音智能体执行能力仅次于 GPT-Live-1的中等配置版本，用户偏好排名则位居第三。",
+        "description": "埃隆·马斯克旗下人工智能公司 xAI 近日正式推出全新的 Grok Voice3.0语音模型，并已通过语音代理 API 全面开放使用。在维持每分钟0.08美元的上一代亲民定价基础上，该模型在核心性能与响应速度上实现了全方位跃升。作为 xAI 在语音交互领域的最新力作，Grok Voice3.0在权威的语音到语音（Spe",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-09_2026-10-15/31645.html",
+          "addtime": "2026-10-15T08:56:43+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-15，埃隆·马斯克旗下人工智能公司 xAI 近日正式推出全新的 Grok Voice3.0语音模型，并已通过语音代理 API 全面开放使用。在维持每分钟0.08美元的上一代亲民定价基础上，该模型在核心性能与响应速度上实现了全方位跃升。",
+      "ai_summary": "2026-10-15，埃隆·马斯克旗下人工智能公司 xAI 近日正式推出全新的 Grok Voice3.0语音模型，并已通过语音代理 API 全面开放使用。在维持每分钟0.08美元的上一代亲民定价基础上，该模型在核心性能与响应速度上实现了全方位跃升。",
+      "lead_excerpt": "埃隆·马斯克旗下人工智能公司 xAI 近日正式推出全新的 Grok Voice3.0语音模型，并已通过语音代理 API 全面开放使用。在维持每分钟0.08美元的上一代亲民定价基础上，该模型在核心性能与响应速度上实现了全方位跃升。",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "更符合要求数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。",
+    "备选线索数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
