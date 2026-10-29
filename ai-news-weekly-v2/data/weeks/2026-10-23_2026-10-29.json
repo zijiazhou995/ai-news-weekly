@@ -1,0 +1,701 @@
+{
+  "week_id": "2026-10-23_2026-10-29",
+  "label": "10.23-10.29",
+  "start_date": "2026-10-23",
+  "end_date": "2026-10-29",
+  "generated_at": "2026-10-29T08:05:52",
+  "source": "AIbase",
+  "preferred": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31950",
+        "url": "https://www.aibase.com/zh/news/31950",
+        "title": "腾讯灯塔AI正式对外开放:十年内部锤炼，一句话完成数据分析",
+        "date": "2026-10-29",
+        "lead": "腾讯近日宣布，旗下AI数据分析平台\"腾讯灯塔\"正式对外开放，企业与个人用户可通过官网beacon.qq.com 注册使用。腾讯灯塔过去十年专注于腾讯内部业务的自助分析洞察与数据可视化，此次品牌升级为AI数据分析洞察套件，面向业务团队提供自然语言问数、看板生成、归因分析、指标监控与团队协作等一站式能力。",
+        "first_paragraph": "经过十多年技术积累和产品迭代，如今新升级的灯塔AI已广泛应用于 QQ、腾讯视频、腾讯新闻、应用宝、微信支付、元宝、腾讯客服、天美游戏等100多个腾讯内部业务团队，积累了丰富的数据分析，日常经营分析经验。",
+        "description": "腾讯近日宣布，旗下AI数据分析平台\"腾讯灯塔\"正式对外开放，企业与个人用户可通过官网beacon.qq.com 注册使用。腾讯灯塔过去十年专注于腾讯内部业务的自助分析洞察与数据可视化，此次品牌升级为AI数据分析洞察套件，面向业务团队提供自然语言问数、看板生成、归因分析、指标监控与团队协作等一站式能力",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31950.html",
+          "addtime": "2026-10-29T11:03:16.4606597+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-10-29，腾讯近日宣布，旗下AI数据分析平台\"腾讯灯塔\"正式对外开放，企业与个人用户可通过官网beacon.qq.com 注册使用。腾讯灯塔过去十年专注于腾讯内部业务的自助分析洞察与数据可视化，此次品牌升级为AI数据分析洞察套件，面向业务团队提供自然语言问数、看板生成、归因分析、指标监控与团队协作等一站式能力。",
+      "ai_summary": "2026-10-29，腾讯近日宣布，旗下AI数据分析平台\"腾讯灯塔\"正式对外开放，企业与个人用户可通过官网beacon.qq.com 注册使用。腾讯灯塔过去十年专注于腾讯内部业务的自助分析洞察与数据可视化，此次品牌升级为AI数据分析洞察套件，面向业务团队提供自然语言问数、看板生成、归因分析、指标监控与团队协作等一站式能力。",
+      "lead_excerpt": "腾讯近日宣布，旗下AI数据分析平台\"腾讯灯塔\"正式对外开放，企业与个人用户可通过官网beacon.qq.com 注册使用。腾讯灯塔过去十年专注于腾讯内部业务的自助分析洞察与数据可视化，此次品牌升级为AI数据分析洞察套件，面向业务团队提...",
+      "reason": "符合优先级：电商/交易/支付/商家工具相关、国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 80,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31960",
+        "url": "https://www.aibase.com/zh/news/31960",
+        "title": "腾讯\"懂了鸭\"内测：把 AI 生成绘本、动画做成了一个学习社区",
+        "date": "2026-10-29",
+        "lead": "腾讯悄悄上线了一款名为\"懂了鸭\"的 AI 趣味学习社区，把生成式 AI 的画笔交到了普通用户手里。",
+        "first_paragraph": "官网显示，它定位\"学东西更有趣的 AI 内容社区\"，主打用 AI 把脑洞变成绘本、动画和课件，再分享给更多人——创作与围观形成闭环，正是它与单纯聊天工具最大的不同。登录后，平台还会保存你的作品与探索记录，鼓励人持续产出。",
+        "description": "腾讯悄悄上线了一款名为\"懂了鸭\"的 AI 趣味学习社区，把生成式 AI 的画笔交到了普通用户手里。官网显示，它定位\"学东西更有趣的 AI 内容社区\"，主打用 AI 把脑洞变成绘本、动画和课件，再分享给更多人——创作与围观形成闭环，正是它与单纯聊天工具最大的不同。登录后，平台还会保",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31960.html",
+          "addtime": "2026-10-29T15:46:54.5255698+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-10-29，腾讯悄悄上线了一款名为\"懂了鸭\"的 AI 趣味学习社区，把生成式 AI 的画笔交到了普通用户手里。",
+      "ai_summary": "2026-10-29，腾讯悄悄上线了一款名为\"懂了鸭\"的 AI 趣味学习社区，把生成式 AI 的画笔交到了普通用户手里。",
+      "lead_excerpt": "腾讯悄悄上线了一款名为\"懂了鸭\"的 AI 趣味学习社区，把生成式 AI 的画笔交到了普通用户手里。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31958",
+        "url": "https://www.aibase.com/zh/news/31958",
+        "title": "消息称腾讯WorkBuddy开放平台内测Skill变现功能，开发者可自主定价",
+        "date": "2026-10-29",
+        "lead": "据报道，腾讯旗下WorkBuddy开放平台于10月上旬启动“收入变现”功能的内测，首次允许个人与企业开发者在平台上发布付费技能（Skill）与专家智能体，用户购买后方可调用，标志着AI服务商业化生态迎来新探索。",
+        "first_paragraph": "该功能目前处于内测阶段，支持一次性付费或按月订阅模式，定价范围限定在1至9999元之间，开发者完成资料审核与微信签约后，可通过后台查看账单并实现微信提现。",
+        "description": "据报道，腾讯旗下WorkBuddy开放平台于10月上旬启动“收入变现”功能的内测，首次允许个人与企业开发者在平台上发布付费技能（Skill）与专家智能体，用户购买后方可调用，标志着AI服务商业化生态迎来新探索。该功能目前处于内测阶段，支持一次性付费或按月订阅模式，定价范围限定在1至9999元之间，开发者完成资料审核与微",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31958.html",
+          "addtime": "2026-10-29T15:08:31.8772344+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-10-29，据报道，腾讯旗下WorkBuddy开放平台于10月上旬启动“收入变现”功能的内测，首次允许个人与企业开发者在平台上发布付费技能（Skill）与专家智能体，用户购买后方可调用，标志着AI服务商业化生态迎来新探索。",
+      "ai_summary": "2026-10-29，据报道，腾讯旗下WorkBuddy开放平台于10月上旬启动“收入变现”功能的内测，首次允许个人与企业开发者在平台上发布付费技能（Skill）与专家智能体，用户购买后方可调用，标志着AI服务商业化生态迎来新探索。",
+      "lead_excerpt": "据报道，腾讯旗下WorkBuddy开放平台于10月上旬启动“收入变现”功能的内测，首次允许个人与企业开发者在平台上发布付费技能（Skill）与专家智能体，用户购买后方可调用，标志着AI服务商业化生态迎来新探索。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31951",
+        "url": "https://www.aibase.com/zh/news/31951",
+        "title": "腾讯发布 Buddy One:打通腾讯文档、会议、网盘与 ima，统一账号与积分池",
+        "date": "2026-10-29",
+        "lead": "10月29日腾讯全球数字生态大会上，腾讯发布面向个人用户的跨应用 AI 协同体系 Buddy One，打通腾讯文档、腾讯会议、腾讯网盘、ima，共享 WorkBuddy Agent 底座，统一账号与积分池。",
+        "first_paragraph": "WorkBuddy PC 端更新至5.9.0及以上版本关联账号即可用，后续将支持记忆共享并有更多产品加入;同期发布的腾讯网盘是面向 Agent 时代的记忆空间产品，为 WorkBuddy 套件提供统一存储。",
+        "description": "10月29日腾讯全球数字生态大会上，腾讯发布面向个人用户的跨应用 AI 协同体系 Buddy One，打通腾讯文档、腾讯会议、腾讯网盘、ima，共享 WorkBuddy Agent 底座，统一账号与积分池。WorkBuddy PC 端更新至5.9.0及以上版本关联账号即可用，后续将支持记忆共享并有更多产品加入;同期发布",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31951.html",
+          "addtime": "2026-10-29T11:25:17.2229423+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-10-29，10月29日腾讯全球数字生态大会上，腾讯发布面向个人用户的跨应用 AI 协同体系 Buddy One，打通腾讯文档、腾讯会议、腾讯网盘、ima，共享 WorkBuddy Agent 底座，统一账号与积分池。",
+      "ai_summary": "2026-10-29，10月29日腾讯全球数字生态大会上，腾讯发布面向个人用户的跨应用 AI 协同体系 Buddy One，打通腾讯文档、腾讯会议、腾讯网盘、ima，共享 WorkBuddy Agent 底座，统一账号与积分池。",
+      "lead_excerpt": "10月29日腾讯全球数字生态大会上，腾讯发布面向个人用户的跨应用 AI 协同体系 Buddy One，打通腾讯文档、腾讯会议、腾讯网盘、ima，共享 WorkBuddy Agent 底座，统一账号与积分池。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31948",
+        "url": "https://www.aibase.com/zh/news/31948",
+        "title": "腾讯混元Hy4、Hy4flash即将发布，模型能力、思维链效率全面提升",
+        "date": "2026-10-29",
+        "lead": "10月29日，在2026腾讯全球数字生态大会上，腾讯宣布 Hy4即将发布。相比 Hy4preview，Hy4实现了全面大幅提升，尤其强化了各类长程和真实生产力任务的能力，显著提升了思维链效率，并首次引入了视觉理解。",
+        "first_paragraph": "Hy4flash也会在近期发布，提供极致性价比的实用模型，在继承 Hy4视觉、Agent 等强大能力的基础上，通过模型和产品的深度 Co-Design 高频进化。",
+        "description": "10月29日，在2026腾讯全球数字生态大会上，腾讯宣布 Hy4即将发布。相比 Hy4preview，Hy4实现了全面大幅提升，尤其强化了各类长程和真实生产力任务的能力，显著提升了思维链效率，并首次引入了视觉理解。Hy4flash也会在近期发布，提供极致性价比的实用模型，在继承 Hy4视觉、Agent 等强大能力的基础",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31948.html",
+          "addtime": "2026-10-29T10:28:02.2645373+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-10-29，10月29日，在2026腾讯全球数字生态大会上，腾讯宣布 Hy4即将发布。相比 Hy4preview，Hy4实现了全面大幅提升，尤其强化了各类长程和真实生产力任务的能力，显著提升了思维链效率，并首次引入了视觉理解。",
+      "ai_summary": "2026-10-29，10月29日，在2026腾讯全球数字生态大会上，腾讯宣布 Hy4即将发布。相比 Hy4preview，Hy4实现了全面大幅提升，尤其强化了各类长程和真实生产力任务的能力，显著提升了思维链效率，并首次引入了视觉理解。",
+      "lead_excerpt": "10月29日，在2026腾讯全球数字生态大会上，腾讯宣布 Hy4即将发布。相比 Hy4preview，Hy4实现了全面大幅提升，尤其强化了各类长程和真实生产力任务的能力，显著提升了思维链效率，并首次引入了视觉理解。",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31942",
+        "url": "https://www.aibase.com/zh/news/31942",
+        "title": "AI 记忆不再\"各自为政\"：腾讯网盘启动内测，要做智能体的共享大脑",
+        "date": "2026-10-29",
+        "lead": "如今，同一位用户往往同时在多个 AI 应用间辗转，文件散落、进度难续，换一个工具就得从头交代背景，割裂感成了新痛点。10 月 29 日，腾讯网盘正式开放内测申请入口，用户可直接前往官网（drive.tencent.com）提交，试图用一块\"通用存储底座\"把破碎的 AI 体验重新接起来。",
+        "first_paragraph": "一个网盘串起全家桶",
+        "description": "如今，同一位用户往往同时在多个 AI 应用间辗转，文件散落、进度难续，换一个工具就得从头交代背景，割裂感成了新痛点。10 月 29 日，腾讯网盘正式开放内测申请入口，用户可直接前往官网（drive.tencent.com）提交，试图用一块\"通用存储底座\"把破碎的 AI 体验重新接起来。一个网盘串起全",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31942.html",
+          "addtime": "2026-10-29T09:47:06.523681+08:00"
+        }
+      },
+      "category": "preferred",
+      "summary": "2026-10-29，如今，同一位用户往往同时在多个 AI 应用间辗转，文件散落、进度难续，换一个工具就得从头交代背景，割裂感成了新痛点。10 月 29 日，腾讯网盘正式开放内测申请入口，用户可直接前往官网（drive.tencent.com）提交，试图用一块\"通用存储底座\"把破碎的 AI 体验重新接起来。",
+      "ai_summary": "2026-10-29，如今，同一位用户往往同时在多个 AI 应用间辗转，文件散落、进度难续，换一个工具就得从头交代背景，割裂感成了新痛点。10 月 29 日，腾讯网盘正式开放内测申请入口，用户可直接前往官网（drive.tencent.com）提交，试图用一块\"通用存储底座\"把破碎的 AI 体验重新接起来。",
+      "lead_excerpt": "如今，同一位用户往往同时在多个 AI 应用间辗转，文件散落、进度难续，换一个工具就得从头交代背景，割裂感成了新痛点。10 月 29 日，腾讯网盘正式开放内测申请入口，用户可直接前往官网（drive.tencent.com）提交，试图用...",
+      "reason": "符合优先级：国内大厂相关、产品/功能/工具/平台动作",
+      "priority_score": 72,
+      "decision_source": "rules",
+      "rule_hits": [
+        "国内大厂相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "leads": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31952",
+        "url": "https://www.aibase.com/zh/news/31952",
+        "title": "Chrome 开始\"翻你的邮箱\"帮你填表：Gemini 把 Gmail 变填单助手",
+        "date": "2026-10-29",
+        "lead": "浏览器自动填充走到第十年，主角仍是用户自己存的姓名地址。Google 这回想换个玩法：让 Chrome 主动钻进你的 Gmail，按当下要填的表单，把订单号、物流单号、航班预订编号递到你手边。10 月底，这项由 Gemini 与个人智能（Personal Intelligence）驱动的增强填表功能已向美国用户分批推送，覆盖桌面版 Chrome 及 iOS、Android 上启用 Gemini 的群体。",
+        "first_paragraph": "从\"记住\"到\"找来\"",
+        "description": "浏览器自动填充走到第十年，主角仍是用户自己存的姓名地址。Google 这回想换个玩法：让 Chrome 主动钻进你的 Gmail，按当下要填的表单，把订单号、物流单号、航班预订编号递到你手边。10 月底，这项由 Gemini 与个人智能（Personal Intelligence）驱动的增强填表功能已向美国用户分批推送",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31952.html",
+          "addtime": "2026-10-29T11:25:23.5147536+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-10-29，浏览器自动填充走到第十年，主角仍是用户自己存的姓名地址。Google 这回想换个玩法：让 Chrome 主动钻进你的 Gmail，按当下要填的表单，把订单号、物流单号、航班预订编号递到你手边。10 月底，这项由 Gemini 与个人智能（Personal Intelligence）驱动的增强填表功能已向美国用户分批推送，覆盖桌面版 Chrome 及 i...",
+      "ai_summary": "2026-10-29，浏览器自动填充走到第十年，主角仍是用户自己存的姓名地址。Google 这回想换个玩法：让 Chrome 主动钻进你的 Gmail，按当下要填的表单，把订单号、物流单号、航班预订编号递到你手边。10 月底，这项由 Gemini 与个人智能（Personal Intelligence）驱动的增强填表功能已向美国用户分批推送，覆盖桌面版 Chrome 及 i...",
+      "lead_excerpt": "浏览器自动填充走到第十年，主角仍是用户自己存的姓名地址。Google 这回想换个玩法：让 Chrome 主动钻进你的 Gmail，按当下要填的表单，把订单号、物流单号、航班预订编号递到你手边。10 月底，这项由 Gemini 与个人智...",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、海外大厂或知名 AI 产品、产品/功能/工具/平台动作",
+      "priority_score": 60,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31941",
+        "url": "https://www.aibase.com/zh/news/31941",
+        "title": "电商AI模特图价格不到实拍四分之一，产业链加速成型",
+        "date": "2026-10-29",
+        "lead": "电商平台AI模特图使用日益普遍，引发消费者对“失真”“无法判断版型”的吐槽。多名网友在社交平台表示，过去模特图虽经重度修图，但仍能体现面料与质感，如今直接采用AI生成，质疑“是要卖给AI吗”。也有用户称不排斥高质量AI图，认为真人展示同样存在不真实问题",
+        "first_paragraph": "乱象背后，AI模特图产业链已逐步清晰。有电商摄影师报价显示，AI生成图价格不到实拍图的四分之一。部分摄影公司则坚持拒绝使用AI，理由是“AI面料还原度低，难以呈现真实质感”。",
+        "description": "电商平台AI模特图使用日益普遍，引发消费者对“失真”“无法判断版型”的吐槽。多名网友在社交平台表示，过去模特图虽经重度修图，但仍能体现面料与质感，如今直接采用AI生成，质疑“是要卖给AI吗”。也有用户称不排斥高质量AI图，认为真人展示同样存在不真实问题乱象背后，AI模特图产业链已逐步清晰。有电商摄影师报价显示，AI生成",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31941.html",
+          "addtime": "2026-10-29T09:39:26.5126208+08:00"
+        }
+      },
+      "category": "lead",
+      "summary": "2026-10-29，电商平台AI模特图使用日益普遍，引发消费者对“失真”“无法判断版型”的吐槽。多名网友在社交平台表示，过去模特图虽经重度修图，但仍能体现面料与质感，如今直接采用AI生成，质疑“是要卖给AI吗”。也有用户称不排斥高质量AI图，认为真人展示同样存在不真实问题",
+      "ai_summary": "2026-10-29，电商平台AI模特图使用日益普遍，引发消费者对“失真”“无法判断版型”的吐槽。多名网友在社交平台表示，过去模特图虽经重度修图，但仍能体现面料与质感，如今直接采用AI生成，质疑“是要卖给AI吗”。也有用户称不排斥高质量AI图，认为真人展示同样存在不真实问题",
+      "lead_excerpt": "电商平台AI模特图使用日益普遍，引发消费者对“失真”“无法判断版型”的吐槽。多名网友在社交平台表示，过去模特图虽经重度修图，但仍能体现面料与质感，如今直接采用AI生成，质疑“是要卖给AI吗”。也有用户称不排斥高质量AI图，认为真人展示...",
+      "reason": "可作为备选线索：电商/交易/支付/商家工具相关、产品/功能/工具/平台动作",
+      "priority_score": 45,
+      "decision_source": "rules",
+      "rule_hits": [
+        "电商/交易/支付/商家工具相关",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "needs_review": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31943",
+        "url": "https://www.aibase.com/zh/news/31943",
+        "title": "AI 垃圾游戏淹没 Steam，Valve 拒当\"裁判\"：不封禁，只让商店更聪明",
+        "date": "2026-10-29",
+        "lead": "当一批批套着粗糙外壳、由生成式 AI 批量炮制的游戏涌入 Steam，玩家叫苦、开发者不满，平台治理成了绕不开的考题。在韩国举行的 Steam Indie Connect 活动上，Valve 终于正面回应这场\"AI slop\"争议——但答案很明确：不会封杀开发者的 AI 工具。",
+        "first_paragraph": "业务负责人 Tom Giardino 把话挑明：Valve 不想替创作者决定该用什么工具，也不愿扮演守门人。他点出要害——若一款游戏只靠容易被复制的单一玩法撑场面，本就难逃被淘汰；真正能活下来的，是那些持续注入开发者个人视角、个性与创意、形成差异化的作品。换句话说，平台把判断权交还给市场与玩家。",
+        "description": "当一批批套着粗糙外壳、由生成式 AI 批量炮制的游戏涌入 Steam，玩家叫苦、开发者不满，平台治理成了绕不开的考题。在韩国举行的 Steam Indie Connect 活动上，Valve 终于正面回应这场\"AI slop\"争议——但答案很明确：不会封杀开发者的 AI 工具。不当\"守门人",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31943.html",
+          "addtime": "2026-10-29T09:58:24.8769735+08:00"
+        }
+      },
+      "category": "needs_review",
+      "summary": "2026-10-29，当一批批套着粗糙外壳、由生成式 AI 批量炮制的游戏涌入 Steam，玩家叫苦、开发者不满，平台治理成了绕不开的考题。在韩国举行的 Steam Indie Connect 活动上，Valve 终于正面回应这场\"AI slop\"争议——但答案很明确：不会封杀开发者的 AI 工具。",
+      "ai_summary": "2026-10-29，当一批批套着粗糙外壳、由生成式 AI 批量炮制的游戏涌入 Steam，玩家叫苦、开发者不满，平台治理成了绕不开的考题。在韩国举行的 Steam Indie Connect 活动上，Valve 终于正面回应这场\"AI slop\"争议——但答案很明确：不会封杀开发者的 AI 工具。",
+      "lead_excerpt": "当一批批套着粗糙外壳、由生成式 AI 批量炮制的游戏涌入 Steam，玩家叫苦、开发者不满，平台治理成了绕不开的考题。在韩国举行的 Steam Indie Connect 活动上，Valve 终于正面回应这场\"AI slop\"争议——...",
+      "reason": "主体重要性不足，需人工确认",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "主体重要性不足，需人工确认"
+      ],
+      "passed_verification": true,
+      "verifier_reasons": []
+    }
+  ],
+  "excluded": [
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31959",
+        "url": "https://www.aibase.com/zh/news/31959",
+        "title": "宇树三季报营收涨近七成却净利下滑：钱都砸进了算力与大模型",
+        "date": "2026-10-29",
+        "lead": "10月28日晚间，宇树科技交出2026年第三季度成绩单。公司单季营收6.65亿元，同比增长69.93%，增长势头依旧生猛;可归母净利润只有1.13亿元，同比下滑17.37%，环比降幅更是接近50%，利润端明显承压。",
+        "first_paragraph": "面对这份\"增收不增利\"的报表，宇树科技董秘办相关人士给出了直接解释:利润下滑，主要源于算力、大模型方向的研发投入加大。换句话说，公司正把赚来的钱和募集到的资金，持续往 AI 底层能力上灌——机器狗和机器人卖得多了，但支撑下一代智能的算力和模型训练，正在吃掉相当一部分利润。",
+        "description": "10月28日晚间，宇树科技交出2026年第三季度成绩单。公司单季营收6.65亿元，同比增长69.93%，增长势头依旧生猛;可归母净利润只有1.13亿元，同比下滑17.37%，环比降幅更是接近50%，利润端明显承压。面对这份\"增收不增利\"的报表，宇树科技董秘办相关人士给出了直接解释:利润下滑，主要源于",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31959.html",
+          "addtime": "2026-10-29T15:15:36+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，10月28日晚间，宇树科技交出2026年第三季度成绩单。公司单季营收6.65亿元，同比增长69.93%，增长势头依旧生猛;可归母净利润只有1.13亿元，同比下滑17.37%，环比降幅更是接近50%，利润端明显承压。",
+      "ai_summary": "2026-10-29，10月28日晚间，宇树科技交出2026年第三季度成绩单。公司单季营收6.65亿元，同比增长69.93%，增长势头依旧生猛;可归母净利润只有1.13亿元，同比下滑17.37%，环比降幅更是接近50%，利润端明显承压。",
+      "lead_excerpt": "10月28日晚间，宇树科技交出2026年第三季度成绩单。公司单季营收6.65亿元，同比增长69.93%，增长势头依旧生猛;可归母净利润只有1.13亿元，同比下滑17.37%，环比降幅更是接近50%，利润端明显承压。",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31957",
+        "url": "https://www.aibase.com/zh/news/31957",
+        "title": "苹果诉 OpenAI 窃密案排期 2027 年夏：一场围绕离职员工的机密拉锯",
+        "date": "2026-10-29",
+        "lead": "一桩牵动科技圈的商业机密诉讼，终于有了上法庭的确定日期。加州北区联邦法院法官爱德华·达维拉把苹果诉 OpenAI 一案排到 2027 年 7 月 19 日上午 9 时开庭。",
+        "first_paragraph": "随着 10 月 28 日案件管理命令发布，双方未来数月将被文件交换、取证与动议填满：明年 2 月 5 日前完成文件提交，3 月 12 日结束事实调查，4 月 28 日收尾专家取证；法官 6 月 10 日听取出证专家，6 月 24 日开最终审前会议。首席律师还须在 6 月 1 日碰面谈和解可能——不过这只是联邦民事案的常规动作，不等于双方真要握手言和。这场审前马拉松，也折射出 AI 巨头与硬件公司围绕人才与机密的攻防正走向法庭化。",
+        "description": "一桩牵动科技圈的商业机密诉讼，终于有了上法庭的确定日期。加州北区联邦法院法官爱德华·达维拉把苹果诉 OpenAI 一案排到 2027 年 7 月 19 日上午 9 时开庭。随着 10 月 28 日案件管理命令发布，双方未来数月将被文件交换、取证与动议填满：明年 2 月 5 日前完成文件提交，3 月 12 日结束事实调查",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31957.html",
+          "addtime": "2026-10-29T14:20:03.7942067+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，一桩牵动科技圈的商业机密诉讼，终于有了上法庭的确定日期。加州北区联邦法院法官爱德华·达维拉把苹果诉 OpenAI 一案排到 2027 年 7 月 19 日上午 9 时开庭。",
+      "ai_summary": "2026-10-29，一桩牵动科技圈的商业机密诉讼，终于有了上法庭的确定日期。加州北区联邦法院法官爱德华·达维拉把苹果诉 OpenAI 一案排到 2027 年 7 月 19 日上午 9 时开庭。",
+      "lead_excerpt": "一桩牵动科技圈的商业机密诉讼，终于有了上法庭的确定日期。加州北区联邦法院法官爱德华·达维拉把苹果诉 OpenAI 一案排到 2027 年 7 月 19 日上午 9 时开庭。",
+      "reason": "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "命中排除类型：融资/人事/财报/评论/盘点/教程/案例等"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31956",
+        "url": "https://www.aibase.com/zh/news/31956",
+        "title": "智元发布具身智能原生OS灵渠1.0，年底全面开源",
+        "date": "2026-10-29",
+        "lead": "在2026智元创新日上，智元合伙人、联席总裁、中央研发部总裁、交互业务体系总裁熊彦正式发布具身智能原生操作系统灵渠OS1.0。该系统覆盖从构建到部署全流程，以及从底层硬件使能到上层应用支撑的全技术栈，并已通过量产机器人大规模验证。",
+        "first_paragraph": "灵渠OS1.0定义了机器人本体硬件接入新范式，支持15类100余种外设快速接入。针对高可靠性、确定性与低时延需求，系统完成全栈确定性时延优化，在1000Hz高频任务负载下，端到端时延抖动小于4微秒，确保动作精准，专为具身智能场景打造。",
+        "description": "在2026智元创新日上，智元合伙人、联席总裁、中央研发部总裁、交互业务体系总裁熊彦正式发布具身智能原生操作系统灵渠OS1.0。该系统覆盖从构建到部署全流程，以及从底层硬件使能到上层应用支撑的全技术栈，并已通过量产机器人大规模验证。灵渠OS1.0定义了机器人本体硬件接入新范式，支持15类100余种外设快速接入。针对高可靠",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31956.html",
+          "addtime": "2026-10-29T14:10:04.4894889+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，在2026智元创新日上，智元合伙人、联席总裁、中央研发部总裁、交互业务体系总裁熊彦正式发布具身智能原生操作系统灵渠OS1.0。该系统覆盖从构建到部署全流程，以及从底层硬件使能到上层应用支撑的全技术栈，并已通过量产机器人大规模验证。",
+      "ai_summary": "2026-10-29，在2026智元创新日上，智元合伙人、联席总裁、中央研发部总裁、交互业务体系总裁熊彦正式发布具身智能原生操作系统灵渠OS1.0。该系统覆盖从构建到部署全流程，以及从底层硬件使能到上层应用支撑的全技术栈，并已通过量产机器人大规模验证。",
+      "lead_excerpt": "在2026智元创新日上，智元合伙人、联席总裁、中央研发部总裁、交互业务体系总裁熊彦正式发布具身智能原生操作系统灵渠OS1.0。该系统覆盖从构建到部署全流程，以及从底层硬件使能到上层应用支撑的全技术栈，并已通过量产机器人大规模验证。",
+      "reason": "未明确与 AI 相关",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31955",
+        "url": "https://www.aibase.com/zh/news/31955",
+        "title": "AI 当黑客初显身手：Claude 自主挖洞写利用，53 分钟拿下 Linux 最高权限",
+        "date": "2026-10-29",
+        "lead": "Anthropic 10 月 27 日甩出一份让安全圈侧目的报告：一个未公开的 Claude 内部研究模型，只拿到初始提示，便自行定位漏洞、编写利用代码，在 Chrome、Safari、Android、Windows 与 Linux 上揪出缺陷，并串成 5 条攻击链。漏洞均已通报厂商并修复。",
+        "first_paragraph": "最惊心的是 Linux 案例",
+        "description": "Anthropic 10 月 27 日甩出一份让安全圈侧目的报告：一个未公开的 Claude 内部研究模型，只拿到初始提示，便自行定位漏洞、编写利用代码，在 Chrome、Safari、Android、Windows 与 Linux 上揪出缺陷，并串成 5 条攻击链。漏洞均已通报厂商并修复。最惊心的是 Linux 案例",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31955.html",
+          "addtime": "2026-10-29T13:55:23.1606818+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，Anthropic 10 月 27 日甩出一份让安全圈侧目的报告：一个未公开的 Claude 内部研究模型，只拿到初始提示，便自行定位漏洞、编写利用代码，在 Chrome、Safari、Android、Windows 与 Linux 上揪出缺陷，并串成 5 条攻击链。漏洞均已通报厂商并修复。",
+      "ai_summary": "2026-10-29，Anthropic 10 月 27 日甩出一份让安全圈侧目的报告：一个未公开的 Claude 内部研究模型，只拿到初始提示，便自行定位漏洞、编写利用代码，在 Chrome、Safari、Android、Windows 与 Linux 上揪出缺陷，并串成 5 条攻击链。漏洞均已通报厂商并修复。",
+      "lead_excerpt": "Anthropic 10 月 27 日甩出一份让安全圈侧目的报告：一个未公开的 Claude 内部研究模型，只拿到初始提示，便自行定位漏洞、编写利用代码，在 Chrome、Safari、Android、Windows 与 Linux...",
+      "reason": "疑似纯模型更新；未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新",
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31954",
+        "url": "https://www.aibase.com/zh/news/31954",
+        "title": "OpenAI员工撰文详解AI融入企业的未来三种形态",
+        "date": "2026-10-29",
+        "lead": "近日，OpenAI员工 Hemanth Asirvatham 与 Elliott Mokski 发表了名为《公司的未来》的深度文章，探讨了随着人工智能不断进步并深度融入现有组织，未来混合型公司可能呈现出的三种示意性情景。两位作者指出，AI 的生产性采用并非一蹴而就，而这三种演进方式将深刻影响未来的工作形态、层级结构、企业规模与薪酬差距。",
+        "first_paragraph": "形态一:在我们之下——基层员工全员晋升为管理者",
+        "description": "近日，OpenAI员工 Hemanth Asirvatham 与 Elliott Mokski 发表了名为《公司的未来》的深度文章，探讨了随着人工智能不断进步并深度融入现有组织，未来混合型公司可能呈现出的三种示意性情景。两位作者指出，AI 的生产性采用并非一蹴而就，而这三种演进方式将深刻影响未来的工作形态、层级结构、企",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31954.html",
+          "addtime": "2026-10-29T11:46:43+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，近日，OpenAI员工 Hemanth Asirvatham 与 Elliott Mokski 发表了名为《公司的未来》的深度文章，探讨了随着人工智能不断进步并深度融入现有组织，未来混合型公司可能呈现出的三种示意性情景。两位作者指出，AI 的生产性采用并非一蹴而就，而这三种演进方式将深刻影响未来的工作形态、层级结构、企业规模与薪酬差距。",
+      "ai_summary": "2026-10-29，近日，OpenAI员工 Hemanth Asirvatham 与 Elliott Mokski 发表了名为《公司的未来》的深度文章，探讨了随着人工智能不断进步并深度融入现有组织，未来混合型公司可能呈现出的三种示意性情景。两位作者指出，AI 的生产性采用并非一蹴而就，而这三种演进方式将深刻影响未来的工作形态、层级结构、企业规模与薪酬差距。",
+      "lead_excerpt": "近日，OpenAI员工 Hemanth Asirvatham 与 Elliott Mokski 发表了名为《公司的未来》的深度文章，探讨了随着人工智能不断进步并深度融入现有组织，未来混合型公司可能呈现出的三种示意性情景。两位作者指出，...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31953",
+        "url": "https://www.aibase.com/zh/news/31953",
+        "title": "微软单季从 OpenAI 卷走 100 亿美元：持股缩水，纽带却越缠越紧",
+        "date": "2026-10-29",
+        "lead": "一笔写进监管文件的数字，揭开了微软与 OpenAI 之间最直白的金钱账。截至 2026 年 9 月 30 日的三个月（微软 2027 财年首季），微软靠与 OpenAI 相关合作拿下 100 亿美元收入，占当季 923 亿美元总营收的近 11%。若把节奏延续，这部分生意一年或将冲到约 400 亿美元——而上一整个财年，它的规模还只是 241 亿美元。",
+        "first_paragraph": "投资变\"长期抽成\"",
+        "description": "一笔写进监管文件的数字，揭开了微软与 OpenAI 之间最直白的金钱账。截至 2026 年 9 月 30 日的三个月（微软 2027 财年首季），微软靠与 OpenAI 相关合作拿下 100 亿美元收入，占当季 923 亿美元总营收的近 11%。若把节奏延续，这部分生意一年或将冲到约 400 亿美元——而上一整个财年，",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31953.html",
+          "addtime": "2026-10-29T11:26:40.7012033+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，一笔写进监管文件的数字，揭开了微软与 OpenAI 之间最直白的金钱账。截至 2026 年 9 月 30 日的三个月（微软 2027 财年首季），微软靠与 OpenAI 相关合作拿下 100 亿美元收入，占当季 923 亿美元总营收的近 11%。若把节奏延续，这部分生意一年或将冲到约 400 亿美元——而上一整个财年，它的规模还只是 241 亿美元。",
+      "ai_summary": "2026-10-29，一笔写进监管文件的数字，揭开了微软与 OpenAI 之间最直白的金钱账。截至 2026 年 9 月 30 日的三个月（微软 2027 财年首季），微软靠与 OpenAI 相关合作拿下 100 亿美元收入，占当季 923 亿美元总营收的近 11%。若把节奏延续，这部分生意一年或将冲到约 400 亿美元——而上一整个财年，它的规模还只是 241 亿美元。",
+      "lead_excerpt": "一笔写进监管文件的数字，揭开了微软与 OpenAI 之间最直白的金钱账。截至 2026 年 9 月 30 日的三个月（微软 2027 财年首季），微软靠与 OpenAI 相关合作拿下 100 亿美元收入，占当季 923 亿美元总营收的...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31949",
+        "url": "https://www.aibase.com/zh/news/31949",
+        "title": "开源图像生成迎来新突破：OpenMOSS发布MOSS-Image，主打长文本渲染与可编辑布局",
+        "date": "2026-10-29",
+        "lead": "近日，OpenMOSS（复旦NLP与上海创智等团队）正式发布了开源图像生成模型 —— MOSS-Image。针对传统文生图模型在海报、信息图、漫画及UI设计中常年面临的“文字拼写错误、段落截断、元素错位”等痛点，该模型以5B参数的单流 DiT(Diffusion Transformer)为基座从零开始预训练，全面支持最长约4K token的提示词、中英文长文本渲染以及可编辑的结构化 JSON Layout。",
+        "first_paragraph": "在技术架构方面，MOSS-Image采用Muon–AdamW训练配方，通过统一的文本条件通道来处理自然语言和结构化布局。模型使用 Qwen3.5-9B 作为文本编码器，并配合 FLUX.2VAE 进行图像解码。训练数据集涵盖约3B张图像，融入了多粒度caption、文字监督与结构化边界框（bbox）监督。为了应对复杂创作需求，模型还引入了意图感知的提示增强(PE)外部规划模块，可将简短的请求自动扩展为包含字体层级、色板和坐标规范的可执行指令。",
+        "description": "近日，OpenMOSS（复旦NLP与上海创智等团队）正式发布了开源图像生成模型 —— MOSS-Image。针对传统文生图模型在海报、信息图、漫画及UI设计中常年面临的“文字拼写错误、段落截断、元素错位”等痛点，该模型以5B参数的单流 DiT(Diffusion Transformer)为基座从零开始预训练，全面支持最",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31949.html",
+          "addtime": "2026-10-29T11:01:55.8911156+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，近日，OpenMOSS（复旦NLP与上海创智等团队）正式发布了开源图像生成模型 —— MOSS-Image。针对传统文生图模型在海报、信息图、漫画及UI设计中常年面临的“文字拼写错误、段落截断、元素错位”等痛点，该模型以5B参数的单流 DiT(Diffusion Transformer)为基座从零开始预训练，全面支持最长约4K token的提示词、中英...",
+      "ai_summary": "2026-10-29，近日，OpenMOSS（复旦NLP与上海创智等团队）正式发布了开源图像生成模型 —— MOSS-Image。针对传统文生图模型在海报、信息图、漫画及UI设计中常年面临的“文字拼写错误、段落截断、元素错位”等痛点，该模型以5B参数的单流 DiT(Diffusion Transformer)为基座从零开始预训练，全面支持最长约4K token的提示词、中英...",
+      "lead_excerpt": "近日，OpenMOSS（复旦NLP与上海创智等团队）正式发布了开源图像生成模型 —— MOSS-Image。针对传统文生图模型在海报、信息图、漫画及UI设计中常年面临的“文字拼写错误、段落截断、元素错位”等痛点，该模型以5B参数的单流...",
+      "reason": "未明确与 AI 相关；疑似纯模型更新",
+      "priority_score": 20,
+      "decision_source": "rules",
+      "rule_hits": [
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "未明确与 AI 相关",
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31947",
+        "url": "https://www.aibase.com/zh/news/31947",
+        "title": "智元提出物理AI价值度量衡Worken，衡量机器人有效产出",
+        "date": "2026-10-29",
+        "lead": "在今日举行的2026智元创新日（AIGBOT INNOVATION DAY）上，智元联合创始人、总裁兼CTO彭志辉首次提出物理AI价值度量衡Worken(有效智能工时)，用于衡量机器人自主作业的实际产出。",
+        "first_paragraph": "Worken计算公式为:有效智能工时=活跃机器人数量×自主工作时长×产出效能比。该指标旨在突破单纯统计机器人制造数量的局限，进一步评估机器人能否自主、持续完成有价值工作，以及实际创造的成果规模。",
+        "description": "在今日举行的2026智元创新日（AIGBOT INNOVATION DAY）上，智元联合创始人、总裁兼CTO彭志辉首次提出物理AI价值度量衡Worken(有效智能工时)，用于衡量机器人自主作业的实际产出。Worken计算公式为:有效智能工时=活跃机器人数量×自主工作时长×产出效能比。该指标旨在突破单纯统计机器人制造数量",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31947.html",
+          "addtime": "2026-10-29T10:18:14.9702073+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，在今日举行的2026智元创新日（AIGBOT INNOVATION DAY）上，智元联合创始人、总裁兼CTO彭志辉首次提出物理AI价值度量衡Worken(有效智能工时)，用于衡量机器人自主作业的实际产出。",
+      "ai_summary": "2026-10-29，在今日举行的2026智元创新日（AIGBOT INNOVATION DAY）上，智元联合创始人、总裁兼CTO彭志辉首次提出物理AI价值度量衡Worken(有效智能工时)，用于衡量机器人自主作业的实际产出。",
+      "lead_excerpt": "在今日举行的2026智元创新日（AIGBOT INNOVATION DAY）上，智元联合创始人、总裁兼CTO彭志辉首次提出物理AI价值度量衡Worken(有效智能工时)，用于衡量机器人自主作业的实际产出。",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 0,
+      "decision_source": "rules",
+      "rule_hits": [],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31946",
+        "url": "https://www.aibase.com/zh/news/31946",
+        "title": "谷歌 Gemini 4 Carbon 登顶：59 分夺回王座，\"安全感\"成主战场",
+        "date": "2026-10-29",
+        "lead": "Google DeepMind 推出新一代旗舰 Gemini 4 Carbon，在 Artificial Analysis 的 Intelligence Index v5.0 上拿到 59 分，以 1 分险胜 Claude Opus 5.5，领先 GPT-6 Astra 2 分，较两周前的 Argon 涨 9 分，重夺综合能力第一；Arena.ai 的 Text Arena 它也登顶，Agent Arena 居第二。",
+        "first_paragraph": "与一味堆分的同行不同，这次主攻长时程工程与网络安全。前者可连续运转数天，啃下大型代码库与底层系统问题，自主定位修复隐蔽缺陷，编程与智能体基准稳居第一梯队；后者打通\"发现漏洞—验证风险—修复代码\"全链路，SEC-bench Pro 88.2%、CWE-bench 71.0%，安全代码生成成功率超 Argon 两倍。可靠性硬指标也给得干脆：Terminal-Bench 4.0 里模型\"作弊\"成功率压到 0，高严重度行为不一致警报少近八成，间接提示词注入防御达 100%。",
+        "description": "Google DeepMind 推出新一代旗舰 Gemini 4 Carbon，在 Artificial Analysis 的 Intelligence Index v5.0 上拿到 59 分，以 1 分险胜 Claude Opus 5.5，领先 GPT-6 Astra 2 分，较两周前的 Argon 涨 9 分，重夺",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31946.html",
+          "addtime": "2026-10-29T10:14:05.251824+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，Google DeepMind 推出新一代旗舰 Gemini 4 Carbon，在 Artificial Analysis 的 Intelligence Index v5.0 上拿到 59 分，以 1 分险胜 Claude Opus 5.5，领先 GPT-6 Astra 2 分，较两周前的 Argon 涨 9 分，重夺综合能力第一；Arena.ai 的...",
+      "ai_summary": "2026-10-29，Google DeepMind 推出新一代旗舰 Gemini 4 Carbon，在 Artificial Analysis 的 Intelligence Index v5.0 上拿到 59 分，以 1 分险胜 Claude Opus 5.5，领先 GPT-6 Astra 2 分，较两周前的 Argon 涨 9 分，重夺综合能力第一；Arena.ai 的...",
+      "lead_excerpt": "Google DeepMind 推出新一代旗舰 Gemini 4 Carbon，在 Artificial Analysis 的 Intelligence Index v5.0 上拿到 59 分，以 1 分险胜 Claude Opus...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31945",
+        "url": "https://www.aibase.com/zh/news/31945",
+        "title": "锁屏照片被顺走、 53 分钟攻破Linux！Anthropic内部研究模型连破五大主流系统",
+        "date": "2026-10-29",
+        "lead": "近日，人工智能安全企业Anthropic正式发布了一份重磅研究报告。报告披露，其旗下一个未公开的内部 Claude 研究模型在Chrome、Safari、Android、Windows 以及 Linux 五大主流操作系统与浏览器中成功发现了大量漏洞，并将其自主串联成了5条可实际运行的高危攻击链。目前，相关漏洞均已按照协调披露流程报告给各大厂商并完成了修复。",
+        "first_paragraph": "在备受瞩目的Chrome浏览器方面，Anthropic向谷歌提交的报告共计产生了62个严重或高危漏洞，其中包括13个沙箱逃逸漏洞以及21个可控制网页渲染进程的漏洞，相关修复已随 Chrome156版本正式发布。研究团队指出，在研究人员给出初始提示后，Claude 能够自主定位漏洞并编写利用代码，其概念验证（PoC）甚至能在页面加载后数秒内，于 macOS 默认安装环境中直接唤起计算器应用。",
+        "description": "近日，人工智能安全企业Anthropic正式发布了一份重磅研究报告。报告披露，其旗下一个未公开的内部 Claude 研究模型在Chrome、Safari、Android、Windows 以及 Linux 五大主流操作系统与浏览器中成功发现了大量漏洞，并将其自主串联成了5条可实际运行的高危攻击链。目前，相关漏洞均已按照协",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31945.html",
+          "addtime": "2026-10-29T10:03:14.5498452+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，近日，人工智能安全企业Anthropic正式发布了一份重磅研究报告。报告披露，其旗下一个未公开的内部 Claude 研究模型在Chrome、Safari、Android、Windows 以及 Linux 五大主流操作系统与浏览器中成功发现了大量漏洞，并将其自主串联成了5条可实际运行的高危攻击链。目前，相关漏洞均已按照协调披露流程报告给各大厂商并完成了修复。",
+      "ai_summary": "2026-10-29，近日，人工智能安全企业Anthropic正式发布了一份重磅研究报告。报告披露，其旗下一个未公开的内部 Claude 研究模型在Chrome、Safari、Android、Windows 以及 Linux 五大主流操作系统与浏览器中成功发现了大量漏洞，并将其自主串联成了5条可实际运行的高危攻击链。目前，相关漏洞均已按照协调披露流程报告给各大厂商并完成了修复。",
+      "lead_excerpt": "近日，人工智能安全企业Anthropic正式发布了一份重磅研究报告。报告披露，其旗下一个未公开的内部 Claude 研究模型在Chrome、Safari、Android、Windows 以及 Linux 五大主流操作系统与浏览器中成功...",
+      "reason": "疑似纯模型更新",
+      "priority_score": 35,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品",
+        "产品/功能/工具/平台动作"
+      ],
+      "reject_reasons": [
+        "疑似纯模型更新"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    },
+    {
+      "article": {
+        "source": "AIbase",
+        "source_id": "31944",
+        "url": "https://www.aibase.com/zh/news/31944",
+        "title": "英伟达拟投资30亿美元入股Meta，双方扩大AI合作",
+        "date": "2026-10-29",
+        "lead": "据《华尔街日报》报道，英伟达将投资30亿美元参与Meta股权融资，Meta计划在其硬件上运行更多人工智能代理程序。双方同时宣布围绕Meta人工智能产品Muse扩大合作。Meta将在下一代AI代理中更多采用英伟达基础设施，包括Vera Rubin系统与Vera CPU。",
+        "first_paragraph": "Meta计划通过股票发行筹集最高950亿美元资金，用于人工智能基础设施建设。据CNBC报道，AMD与博通亦表示有意合计购买至多50亿美元Meta股票，但该意向不具约束力。",
+        "description": "据《华尔街日报》报道，英伟达将投资30亿美元参与Meta股权融资，Meta计划在其硬件上运行更多人工智能代理程序。双方同时宣布围绕Meta人工智能产品Muse扩大合作。Meta将在下一代AI代理中更多采用英伟达基础设施，包括Vera Rubin系统与Vera CPU。Meta计划通过股票发行筹集最高950亿美元资金，用",
+        "tags": [],
+        "raw": {
+          "raw_path": "/home/runner/work/ai-news-weekly/ai-news-weekly/ai-news-weekly-v2/data/raw/2026-10-23_2026-10-29/31944.html",
+          "addtime": "2026-10-29T10:00:34.0102893+08:00"
+        }
+      },
+      "category": "excluded",
+      "summary": "2026-10-29，据《华尔街日报》报道，英伟达将投资30亿美元参与Meta股权融资，Meta计划在其硬件上运行更多人工智能代理程序。双方同时宣布围绕Meta人工智能产品Muse扩大合作。Meta将在下一代AI代理中更多采用英伟达基础设施，包括Vera Rubin系统与Vera CPU。",
+      "ai_summary": "2026-10-29，据《华尔街日报》报道，英伟达将投资30亿美元参与Meta股权融资，Meta计划在其硬件上运行更多人工智能代理程序。双方同时宣布围绕Meta人工智能产品Muse扩大合作。Meta将在下一代AI代理中更多采用英伟达基础设施，包括Vera Rubin系统与Vera CPU。",
+      "lead_excerpt": "据《华尔街日报》报道，英伟达将投资30亿美元参与Meta股权融资，Meta计划在其硬件上运行更多人工智能代理程序。双方同时宣布围绕Meta人工智能产品Muse扩大合作。Meta将在下一代AI代理中更多采用英伟达基础设施，包括Vera...",
+      "reason": "未识别到新产品/新功能/新工具/新入口/升级等动作",
+      "priority_score": 15,
+      "decision_source": "rules",
+      "rule_hits": [
+        "海外大厂或知名 AI 产品"
+      ],
+      "reject_reasons": [
+        "未识别到新产品/新功能/新工具/新入口/升级等动作"
+      ],
+      "passed_verification": false,
+      "verifier_reasons": [
+        "编辑阶段已排除"
+      ]
+    }
+  ],
+  "raw_count": 20,
+  "notes": [
+    "备选线索数量不足，建议补充更多 AIbase 详情页 URL 或扩大抓取窗口。"
+  ],
+  "config": {
+    "crawler": {
+      "source": "AIbase",
+      "list_url": "https://www.aibase.com/zh/news",
+      "max_items": 30
+    },
+    "output": {
+      "preferred_min": 4,
+      "preferred_max": 7,
+      "leads_min": 6,
+      "leads_max": 8
+    },
+    "policy": {
+      "summary_style": "摘要优先参考原新闻导语段或正文首段，少改写，必须按日期开头。",
+      "architecture": [
+        "crawler",
+        "extractor",
+        "editor",
+        "verifier",
+        "site"
+      ]
+    }
+  }
+}
